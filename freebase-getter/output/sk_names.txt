@@ -1,0 +1,1210 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Mravcovité"
+    },
+    {
+        "id": "01dws",
+        "name": "Ursida"
+    },
+    {
+        "id": "015p6",
+        "name": "Vtáky"
+    },
+    {
+        "id": "01x_v",
+        "name": "Ťava"
+    },
+    {
+        "id": "01yrx",
+        "name": "Mačka domáca"
+    },
+    {
+        "id": "09b5t",
+        "name": "Kura domáca"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Tur domáci"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Slonovité"
+    },
+    {
+        "id": "03k3r",
+        "name": "Kôň"
+    },
+    {
+        "id": "07bgp",
+        "name": "Ovca domáca"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Aligátor severoamerický"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Repa obyčajná"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokolica"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Mrkva obyčajná"
+    },
+    {
+        "id": "015w7p",
+        "name": "Karfiol"
+    },
+    {
+        "id": "01xj_",
+        "name": "Zeler"
+    },
+    {
+        "id": "053wn",
+        "name": "Kukurica siata"
+    },
+    {
+        "id": "015x4r",
+        "name": "Uhorka siata"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Ľuľok baklažánový"
+    },
+    {
+        "id": "017dqv",
+        "name": "Fenikel obyčajný"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Cesnak kuchynský"
+    },
+    {
+        "id": "0dj75",
+        "name": "Cesnak cibuľový"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Hrach siaty"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Podzemnica olejná"
+    },
+    {
+        "id": "05vtc",
+        "name": "Ľuľok zemiakový"
+    },
+    {
+        "id": "015x5n",
+        "name": "Reďkev siata"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Potočnica lekárska"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Rebríček obyčajný"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazília"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Čile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Čína"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Irán"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turecko"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Švédsko"
+    },
+    {
+        "id": "06mkj",
+        "name": "Španielsko"
+    },
+    {
+        "id": "0h7x",
+        "name": "Rakúsko"
+    },
+    {
+        "id": "03gj2",
+        "name": "Maďarsko"
+    },
+    {
+        "id": "0345h",
+        "name": "Nemecko"
+    },
+    {
+        "id": "05qhw",
+        "name": "Poľsko"
+    },
+    {
+        "id": "04g5k",
+        "name": "Lotyšsko"
+    },
+    {
+        "id": "012wgb",
+        "name": "Írsko"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamajka"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulharsko"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolsko"
+    },
+    {
+        "id": "06q1r",
+        "name": "Škótsko"
+    },
+    {
+        "id": "0chghy",
+        "name": "Austrália"
+    },
+    {
+        "id": "035v3",
+        "name": "Grónsko"
+    },
+    {
+        "id": "0jgx",
+        "name": "Arménsko"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japonsko"
+    },
+    {
+        "id": "019rg5",
+        "name": "Keňa"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Pondelok"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Utorok"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Streda"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Štvrtok"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Piatok"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sobota"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Nedeľa"
+    },
+    {
+        "id": "06m_p",
+        "name": "Slnko"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkúr"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venuša"
+    },
+    {
+        "id": "02j71",
+        "name": "Zem"
+    },
+    {
+        "id": "09cws",
+        "name": "Mars"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Urán"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptún"
+    },
+    {
+        "id": "0jwy",
+        "name": "Baran"
+    },
+    {
+        "id": "07cqw",
+        "name": "Býk"
+    },
+    {
+        "id": "077r8d",
+        "name": "Blíženci"
+    },
+    {
+        "id": "0qck6",
+        "name": "Rak"
+    },
+    {
+        "id": "04h2q",
+        "name": "Lev"
+    },
+    {
+        "id": "07yt9",
+        "name": "Súhvezdie Panna"
+    },
+    {
+        "id": "04h36",
+        "name": "Váhy"
+    },
+    {
+        "id": "06pgz",
+        "name": "Škorpión"
+    },
+    {
+        "id": "06pgg",
+        "name": "Strelec"
+    },
+    {
+        "id": "01nk9",
+        "name": "Kozorožec"
+    },
+    {
+        "id": "0jxf",
+        "name": "Vodnár"
+    },
+    {
+        "id": "05s7n",
+        "name": "Ryby"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbal"
+    },
+    {
+        "id": "0jm_",
+        "name": "Americký futbal"
+    },
+    {
+        "id": "018w8",
+        "name": "Basketbal"
+    },
+    {
+        "id": "018jz",
+        "name": "Bejzbal"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Box"
+    },
+    {
+        "id": "03tmr",
+        "name": "Ľadový hokej"
+    },
+    {
+        "id": "07_53",
+        "name": "Volejbal"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletika"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Cyklistika"
+    },
+    {
+        "id": "03_8r",
+        "name": "Džudo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maratón"
+    },
+    {
+        "id": "0194d",
+        "name": "Bedminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Stolný tenis"
+    },
+    {
+        "id": "087zy",
+        "name": "Joga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gymnastika"
+    },
+    {
+        "id": "036vg6",
+        "name": "Zápasenie"
+    },
+    {
+        "id": "04xsv",
+        "name": "Bojové umenie"
+    },
+    {
+        "id": "03_ly",
+        "name": "Január"
+    },
+    {
+        "id": "02xx5",
+        "name": "Február"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marec"
+    },
+    {
+        "id": "0lkm",
+        "name": "Apríl"
+    },
+    {
+        "id": "04w_7",
+        "name": "Máj"
+    },
+    {
+        "id": "040fb",
+        "name": "Jún"
+    },
+    {
+        "id": "040fv",
+        "name": "Júl"
+    },
+    {
+        "id": "0ll3",
+        "name": "August"
+    },
+    {
+        "id": "06vkl",
+        "name": "September"
+    },
+    {
+        "id": "05lf_",
+        "name": "Október"
+    },
+    {
+        "id": "05cw8",
+        "name": "November"
+    },
+    {
+        "id": "028kb",
+        "name": "December"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Sever"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Juh"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Západ"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Východ"
+    },
+    {
+        "id": "0j0k",
+        "name": "Ázia"
+    },
+    {
+        "id": "059g4",
+        "name": "Severná Amerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Južná Amerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Európa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktída"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Austrália"
+    },
+    {
+        "id": "05p553",
+        "name": "Komédia"
+    },
+    {
+        "id": "03npn",
+        "name": "Horor"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Dokumentárny film"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animácia"
+    },
+    {
+        "id": "06n90",
+        "name": "Vedecká fantastika"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Akčný film"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Triler"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasy"
+    },
+    {
+        "id": "0g65_",
+        "name": "Adventure"
+    },
+    {
+        "id": "06by7",
+        "name": "Rokenrol"
+    },
+    {
+        "id": "064t9",
+        "name": "Populárna hudba"
+    },
+    {
+        "id": "03_d0",
+        "name": "Džez"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip-hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klasická hudba"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektronická hudba"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Folk"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Dance music"
+    },
+    {
+        "id": "0199g",
+        "name": "Bicykel"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autobus"
+    },
+    {
+        "id": "0k4j",
+        "name": "Automobil"
+    },
+    {
+        "id": "09ct_",
+        "name": "Vrtuľník"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocykel"
+    },
+    {
+        "id": "06q74",
+        "name": "Loď"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Newyorské metro"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taxík"
+    },
+    {
+        "id": "07jdr",
+        "name": "Vlak"
+    },
+    {
+        "id": "07r04",
+        "name": "Kamión"
+    },
+    {
+        "id": "07kfm",
+        "name": "Električka"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trolejbus"
+    },
+    {
+        "id": "09g5h",
+        "name": "Kozmická loď"
+    },
+    {
+        "id": "013xl3",
+        "name": "Vznášadlo"
+    },
+    {
+        "id": "074d1",
+        "name": "Ponorka"
+    },
+    {
+        "id": "057gn",
+        "name": "Viacúčelové vozidlo"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Syr"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Pivovar\/značka piva"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Pivo"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Čaj"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Nealkoholické"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Sladká tyčinka"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Pokrm"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Prísada"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Reštaurácia"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Šéfkuchár"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Kuchyňa"
+    },
+    {
+        "id": "046cz33",
+        "name": "Liehovar"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Označenie"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vinohrad"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Víno"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Strava"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recept"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Potraviny"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Živina"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitara"
+    },
+    {
+        "id": "0319l",
+        "name": "Lesný roh"
+    },
+    {
+        "id": "013y1f",
+        "name": "Organ"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flauta"
+    },
+    {
+        "id": "05r5c",
+        "name": "Klavír"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordeón"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citát"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptácia"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Dedikant"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedikátor"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publikácia"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Revízia"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Interview"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Preklad"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Účastník interview"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Vedúci interview"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Prekladateľ"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Excerpt"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrátor"
+    },
+    {
+        "id": "04gc2",
+        "name": "Právnik"
+    },
+    {
+        "id": "05t4q",
+        "name": "Lekár"
+    },
+    {
+        "id": "0mn6",
+        "name": "Architekt"
+    },
+    {
+        "id": "09jwl",
+        "name": "Hudobník"
+    },
+    {
+        "id": "01d30f",
+        "name": "Učiteľ"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Chemik"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinár"
+    },
+    {
+        "id": "01c72t",
+        "name": "Skladateľ"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Kuchár"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Policajt"
+    },
+    {
+        "id": "05xls",
+        "name": "Programátor"
+    },
+    {
+        "id": "02h661t",
+        "name": "Zubár"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatria"
+    },
+    {
+        "id": "099md",
+        "name": "Vojak"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Vodič nákladného vozidla"
+    },
+    {
+        "id": "01d380",
+        "name": "Vŕtačka"
+    },
+    {
+        "id": "03l9g",
+        "name": "Kladivo"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Hoblík"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Nožnice"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Kľúč"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Šek"
+    },
+    {
+        "id": "03m7wd",
+        "name": "Sacherova torta"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Vidlička"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Pitná voda"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Káva"
+    },
+    {
+        "id": "09cx8",
+        "name": "Prst"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Zub"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Pery"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Hrudník"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Ústna dutina"
+    },
+    {
+        "id": "03q69",
+        "name": "Chlp"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Krk"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Jazyk"
+    },
+    {
+        "id": "039xj_",
+        "name": "Ucho"
+    },
+    {
+        "id": "0k65p",
+        "name": "Ruka"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nos"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Hlava"
+    },
+    {
+        "id": "014sv8",
+        "name": "Oko"
+    },
+    {
+        "id": "0fly7",
+        "name": "Džínsy"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Kravata"
+    },
+    {
+        "id": "01nq26",
+        "name": "Ponožka"
+    },
+    {
+        "id": "07mhn",
+        "name": "Nohavice"
+    },
+    {
+        "id": "0174n1",
+        "name": "Rukavice"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Košeľa"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Počítačová klávesnica"
+    },
+    {
+        "id": "020lf",
+        "name": "Myš"
+    },
+    {
+        "id": "02bc6",
+        "name": "Databáza"
+    },
+    {
+        "id": "029kh",
+        "name": "Číslicovosť"
+    },
+    {
+        "id": "020s1",
+        "name": "Súbor"
+    },
+    {
+        "id": "045hfw",
+        "name": "Font"
+    },
+    {
+        "id": "02nf_",
+        "name": "E-mail"
+    },
+    {
+        "id": "01zrkr",
+        "name": "Počítačová ikona"
+    },
+    {
+        "id": "01mfj",
+        "name": "Hardvér"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Klaud kompjúting"
+    },
+    {
+        "id": "07wcf",
+        "name": "Univerzálna sériová zbernica"
+    },
+    {
+        "id": "0mynm",
+        "name": "Webkamera"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Základná doska"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haag"
+    },
+    {
+        "id": "02_286",
+        "name": "New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Jeruzalem"
+    },
+    {
+        "id": "01w2v",
+        "name": "Káhira"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Soul"
+    },
+    {
+        "id": "031y2",
+        "name": "Florencia"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlín"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paríž"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Veža"
+    },
+    {
+        "id": "06gfj",
+        "name": "Cesta"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Nemocnica"
+    },
+    {
+        "id": "0k05r",
+        "name": "Súd"
+    },
+    {
+        "id": "06zdj",
+        "name": "Škola"
+    },
+    {
+        "id": "019cfy",
+        "name": "Štadión"
+    },
+    {
+        "id": "0166ls",
+        "name": "Park"
+    },
+    {
+        "id": "06zdj",
+        "name": "Škola"
+    },
+    {
+        "id": "09cmq",
+        "name": "Múzeum"
+    },
+    {
+        "id": "017ql",
+        "name": "Banka"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Trh"
+    },
+    {
+        "id": "09cjl",
+        "name": "Letisko"
+    },
+    {
+        "id": "053rd",
+        "name": "Baníctvo"
+    },
+    {
+        "id": "023907r",
+        "name": "Nehnuteľnosti"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekomunikácie"
+    },
+    {
+        "id": "01mf0",
+        "name": "Softvér"
+    },
+    {
+        "id": "011s0",
+        "name": "Inzercia"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotechnológia"
+    },
+    {
+        "id": "0hz28",
+        "name": "Publikovanie"
+    },
+    {
+        "id": "0191_7",
+        "name": "Maloobchod"
+    },
+    {
+        "id": "0h61",
+        "name": "Archeológia"
+    },
+    {
+        "id": "01mtb",
+        "name": "Tepelná úprava potravín"
+    },
+    {
+        "id": "034dj",
+        "name": "Hazardná hra"
+    },
+    {
+        "id": "034v_",
+        "name": "Záhradníctvo"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografia"
+    },
+    {
+        "id": "064rk",
+        "name": "Hrnčiarstvo"
+    },
+    {
+        "id": "06h7j",
+        "name": "Beh"
+    },
+    {
+        "id": "09nyy",
+        "name": "Žonglovanie"
+    }
+]

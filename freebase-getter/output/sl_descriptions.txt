@@ -1,0 +1,990 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Mravlje so po kriteriju števila vrst zelo uspešna družina kožokrilcev, v katero uvrščamo preko 12.000 danes živečih opisanih vrst žuželk. Njihova glavna značilnost je, da so evsocialne živali, ki živijo v kolonijah z izraženo razdelitvijo v kaste in delitvijo dela. Ta prilagoditev jim je omogočila, da so naselile skoraj vsa kopna na Zemlji in postale izredno številčne. Danes predstavljajo med 15 in 20 % vse kopenske biomase živali, v tropih, kjer so najštevilčnejše, pa tudi do 25 %.\nZ mravljami se znanstveno ukvarja posebna veja entomologije, imenovana mirmekologija. Predpona mirmeko- se uporablja tudi za druge pojme, povezane z mravljami."
+    },
+    {
+        "id": "01dws",
+        "description": "Medvedi so veliki sesalci iz reda zveri. Vsi so krepkega telesa, z veliko lobanjo, močnimi nogami in kratkim repom. Živijo v Evraziji in Severni Ameriki ter v delih Severne Afrike in Južne Amerike. Večinoma so gozdne živali. V nasprotju z večino zveri uživajo veliko rastlinske hrane."
+    },
+    {
+        "id": "01h3n",
+        "description": "Čebele so nerangiran takson žuželk, ki ga uvrščamo med kožokrilce, natančneje v podred ozkopasih os. Sestavlja ga skoraj 20.000 vrst, katerih glavna njihova značilnost je prilagojenost hranjenju z nektarjem in cvetnim prahom, s čemer hranijo tudi svoje ličinke. V ta namen imajo posebne strukture za prenašanje in shranjevanje peloda, največkrat v obliki posebno oblikovanih dlačic na telesu. V ekosistemu opravljajo pomembno vlogo opraševalcev in so s tega stališča pomembne tudi za človeka.\nMed njimi je najbolj znana družina pravih čebel, kamor uvrščamo čmrlje in medonosne čebele, od katerih je v Sloveniji prisotna domača čebela oz. njena avtohtona podvrsta kranjska čebela."
+    },
+    {
+        "id": "015p6",
+        "description": "Ptíči ali ptíce so dvonožni, toplokrvni vretenčarji, pokriti s perjem, s sprednjimi udi spremenjenimi v peruti z lahkimi in votlimi kostmi. Razvili so se iz dinozavrov v zgodnji juri pred približno 180 milijoni let, ko se je pojavilo prvo ptiču podobno bitje - praptič Archaeopteryx.\nPtiči imajo velikost kolibrijev in vse do velikih nojev in emujev. Glede na taksonomsko delitev je danes na svetu približno 8800 do 10.200 znanih vrst ptičev. Srednja vrednost znanih vrst je nekako 9200 vrst. V Evropi živi okoli 430 stalnih vrst, do sedaj pa so na tem področju ugotovili več kot 630 vrst. V času človeške zgodovine je izumrlo približno 120 do 130 vrst. Ptiči so najbolj raznolika živalska vrsta od zemeljskih vretenčarjev.\nHranijo se z nektarjem, rastlinami, semeni, žuželkami, ribami, sesalci, mrhovino ali z drugimi ptiči.\nVeliko ptičev se seli na dolgih razdaljah, da si zagotovijo optimalna bivališča, drugi ptiči pa večino svojega časa preživijo na morju"
+    },
+    {
+        "id": "01x_v",
+        "description": "Velblod je rod sodoprstih kopitarjev iz družine kamel, v katerega uvrščamo dve danes živeči vrsti, enogrbo in dvogrbo kamelo. Izvirata iz suhih predelov Azije, od koder so enogrbo kamelo uspešno naselili po vsej severni Afriki in v Avstralijo, dvogrba pa živi udomačena v vseh suhih predelih Azije od Turčije do vzhodne Kitajske. Od divjih populacij teh dveh vrst je ostalo le okoli 1000 osebkov dvogrbe kamele v puščavi Gobi, ki so skrajno ogroženi, enogrba kamela pa je danes izključno domača žival."
+    },
+    {
+        "id": "01yrx",
+        "description": "Domača mačka je domača žival iz družine mačk. Domače mačke so po anatomiji podobne ostalim mačkam z dolgim gibkim telesom, hitrimi refleksi, ostrimi vpotegljivimi kremplji in zobmi, ki so prilagojeni na ubijanje nanjšega plena. Kljub temu da so mačke samotarski lovci, so socialna vrsta in mačje izražanje vključuje uporabo različnih oglašanj kot so mijavkanje, predenje, cviljenje, renčanje, režanje, ječanje kot tudi mačji feromoni in raznovrstna telesna govorica."
+    },
+    {
+        "id": "09b5t",
+        "description": "Domača kokoš izvira iz predelov jugovzhodne Azije, kjer naj bi jo udomačili že v 6. tisočletju pr. n. št. Danes je znanih več kot 100 kurjih pasem, ki se gojijo predvsem za meso in jajca. Evropske divje kure, kot so jereb, ruševec in divji petelin, se niso dale udomačiti."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Domače govedo, ki ga pogovorno imenujemo krave, so udomačeni kopitarji iz poddružine Bovinae družine Bovidae. Vzgajajo jih kot živino za meso, mleko in mlečne izdelke, usnje in kot vprežne živali. V nekaterih državah, npr. v Indiji, so krave svete in čaščene živali. Danes naj bi na svetu živelo okrog 1,4 milijarde glav goveda."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Sloni so družina živali v redu trobčarjev iz razreda sesalcev. V družino slonov spadajo tri še živeče vrste, ki jim grozi izumrtje: afriški gozdni slon, afriški savanski slon in azijski slon. Ostale vrste slonov so domnevno izumrle do zadnje ledene dobe, ki se je končala pred približno 10.000 leti.\nSloni so rastlinojede živali, največji del njihove prehrane predstavlja okoliško rastlinstvo. Hrano naberejo z rilcem ter si jo odnesejo v gobec. Njihov drugi par sekalcev je dosti večji od ostalih zob. Ta par zob, okla, slon uporablja za razkopavanje in odmikanje ovir. Pri slonih je navadno eden od oklov dominanten, zato je zaradi pogostejše uporabe krajši in bolj zaobljen. Okli Afriških slonov lahko zrastejo do dolžine treh metrov in tehtajo do 900 kilogramov."
+    },
+    {
+        "id": "03k3r",
+        "description": "Konj je precej velik kopitar in ena izmed sedmih sodobnih vrst rodu Equus, v katerega med drugim sodijo še osli, polosli in zebre. Samcu domačega konja pravimo žrebec, samici kobila, mladiču pa žrebe. Poni je po pravilih Mednarodne konjeniške zveze konj nižji od 148 cm oz. podkovan nižji od 149 cm."
+    },
+    {
+        "id": "08pbxl",
+        "description": "Človeku podobne opice ter giboni so zelo razumne živali. Imajo velike možgane, dolge okončine s prav takšnimi prsti, telo pa je poraščeno z dlako. V telesni zgradbi in po razumu so podobne ljudem. Z nami so tudi v tesnem sorodstvu. Njihovi bližnji sorodniki so zamorske mačke in vitkostase opice. Vse te opice so si po videzu podobne, le da so človeku podobne opice večje. Mala svinjačka tehta samo 150g, odrasel gorilji samec pa tudi več kot 180kg. Za vse opice je značilna okrogla glava s sploščenim obraznim delom. Uhlji so majhni, oči pa velike in usmerjene naprej. Prednje okončine so povsem podobne naši roki. Z njimi so zmožne močnega oprijema in natančnih gibov. Večina opic ima rep, ki jim pomaga loviti ravnotežje, ko se poganjajo z veje na vejo. Pri nekaterih vrstah je rep močan oprijemalen, človeku podobne opice pa so brezrepe. Opice uživajo različno hrano, med drugim tudi sadje, listje, žuželke in ptičja jajca."
+    },
+    {
+        "id": "07bgp",
+        "description": "Domača ovca, najpogostejša vrsta rodu ovca, je volnat prežvekovalec s štirimi okončinami, ki se je verjetno razvil iz divjega muflona v osrednji in jugozahodni Aziji. Gospodarsko je vrsta pomembna zaradi pridelave volne, mleka in mesa. Ovce in koze lahko imenujemo s skupnim imenom drobnica."
+    },
+    {
+        "id": "01cbb3",
+        "description": "Navadna pesa je kritosemenka iz družine Chenopodiaceae. Domorodna je na obalah zahodne in južne Evrope, od južne Švedske in Britanskega otočja vse do Sredozemskega morja. Pomembna je zaradi gojenih sort: rdeče pese, krmne pese in sladkorne pese.\nGre za dvoletno ali trajno zeliko z listnatimi stebli višine enega do dveh metrov. Listi so oblikovani srčasto, pri divjih rastlinah dolgi 5–20 cm. Cvetovi se oblikujejo po dva do pet skupaj, so zelo drobni, premera 3–5 mm, zeleni ali rdečega odtenka in imajo pet cvetnih listov. Oprašuje jih veter. Plod je klobčič trdih oreškov.\nPoznamo tri podvrste pese:\n⁕Beta vulgaris subsp. maritima. Primorska pesa. Severozahodna Evropa. Rastlina je manjša, višine do 80 cm; korenina ni odebeljena.\n⁕Beta vulgaris subsp. vulgaris. Sredozemska Evropa. Velikosti do 2 m; z okroglastim mesnatim korenom. Prednik kultivirane navadne pese.\n⁕Beta vulgaris subsp. cicla - blitva\nKultivirane oblike izvirajo so se razvile iz obmorskih rastlin Evrope in Azije. K razvoju sladkorne pese je močno pripomogla celinska blokada v napoleonskih vojnah."
+    },
+    {
+        "id": "0hkxq",
+        "description": "Brókoli je vrsta zelenjave, ki Izvira iz Sredozemlja. Spada v družino Brassicaceae, v kateri so tudi zelje, ohrovt, cvetača, brstični ohrovt in koleraba.\nNa prvi pogled je podoben cvetači, vendar pa so cvetni popki temno zelene ali vijolične barve. »Glavo« iz cvetov, ki spominja na drevesno krošnjo, obkrožajo listi, ki pa glave ne prekrivajo tako kot pri cvetači, zato se cvetovi obarvajo zeleno. Steblo je običajno precej debelo. Najbolj razširjena sorta brokolija ima zelene cvetove, redkejše pa so sorte z vijoličnimi, belimi ali rumenimi cvetovi. Brokoli največkrat jemo kuhan, lahko pa uživamo tudi presnega. Užitni deli so cvetovi, listi in steblo pod rožo."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Navadno korenje tudi samo korenje je rastlina z približno 50 cm visokimi listi in debelo korenino. Najbolj priljubljene vrste korenja imajo večjo korenino oranžne barve, ki se običajno goji kot vrtna zelenjava in se uporablja za prehrano ljudi ali živali. Korenje lahko uživamo tako surovo kot kuhano. Kot druge vrste zelenjave se korenje običajno smatra kot zdrava prehrana, saj vsebuje različne rudnine in vitamine."
+    },
+    {
+        "id": "01xj_",
+        "description": "Navádna zélena je rastlina iz družine kobulnic. Zelo podobna je peteršilju, vsebuje pa nekaj manj vitaminov. Zaradi aromatičnih snovi z zelo prijetnim vonjem in okusom jo uporabljamo v kuhinji. Zeleno se po navadi shrani v hladen prostor, pogosto se jo zakoplje v čist, suh pesek, da ostane sveža. Razlikujemo stebelno, gomoljasto in belušno zeleno."
+    },
+    {
+        "id": "053wn",
+        "description": "Korúza je enoletna žitarica, izvira iz Amerike, s perujskega višavja v Andih, ki je nastala iz naravno rastoče divje koruze. Udomačili so jo v Mezoameriki. Največje pridelovalke koruze na svetu so ZDA, v Evropi pa jo predvsem prideljujejo jugovzhodne dežele.\nNekatere sorte koruze v nekaterih predelih rastejo tudi do 7 m. Drugače pa je večina sort, ki se znajdejo na trgu, visokih do 2,5 m. Sladka koruza je po navadi nižja od poljske. Med žiti je koruza na tretjem mestu po razširjenosti, takoj za rižem in pšenico. Rastlina zahteva toplo podnebje in precej vlage. Klas je v obliki storža, obdan z ličjem."
+    },
+    {
+        "id": "015x4r",
+        "description": "Navadna kumara je zelo razširjena kulturna rastlina iz družine bučevk. Izvira iz vzhodnega dela Indije in je bila pomemben del prehrane že v antiki. Plod je zelen, trd in tudi surov užiten. Kot vse jagode sprosti svoja semena šele, ko zgnije meso. Sstavlja ga 97 % vode in je z 9,7 kcal na 100 gramov zelo reven z kalorijami. Kumara je bogata z vitamini in minerali."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Jajčevec je zelenjava. Zreli vijoličasti sadeži so dolgi okrog 20 cm.\nVerjetno izvirajo iz Indije, kjer so jih poznali že pred 4000 leti. Pri Starih Grkih in Rimljanih niso omenjeni. V Evropo so jih prinesli Mavri. Ti so jih verjetno spoznali pri Arabcih. V Italiji se kuhajo od 15. stoletja.\nJajčevci se lahko pečejo ali cvrejo, lahko se napolnijo in spečejo, iz njih se peče tudi musaka."
+    },
+    {
+        "id": "017dqv",
+        "description": "Navadni komarček je modrikasta rastlina, ki spada v družino kobulnic. Njena življenjska doba je do 2 leti, v tem času pa lahko zraste tudi do 2m."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Česen je začimbna rastlina v družini lukovk. Uspeva po vsem svetu v topem in zmernem podnebju. Bližnje sorodnice česna so čebula, šalotka, por, in drobnjak. Uporablja se za kulinarične in medicinske namene. Ima karakteristični okus in vonj, ki se dobro izrazi šele s kuhanjem."
+    },
+    {
+        "id": "013__5",
+        "description": "Por [pôr]\/[pór] je zelenjava; je zelo uporaben v prehrani kot sveža povrtnina za solate in kot zamenjava za ostale vrste čebul. Dodaja se ga lahko v hrano zaradi izboljšanja okusa in vonja, uporabi pa se lahko tudi za pripravo testa in raznih vrst pit ter drugih jedi. Obstajata dve vrsti pora: letni in zimski. Zimski por je zelo odporen na nizke temperatature, mraz mu ne škodi, tako se lahko uporablja čez vso zimo. Najbolje se ohrani, če se pusti na polju, zakopan v brazde, spomladi pa se izkoplje in prenese v hladne prostore, da preprečimo ponovno kalitev. Poletni por ima svetlo zelene, okroglo upognjene tanke liste, ki postanejo proti spodnji strani rumeni in se končajo v belem koreninskem nastavku. Poletni por je blažjega, zimski pa trpkega okusa. Poletni por se uporablja od maja do avgusta, zimski por pa od septembra do aprila. Por vsebuje tudi vitamine, A, C, B1, B2, B6, E, in balastne snovi ter minerale v sledeh, kalij, fosfor, magnezij, železo. Veliko ga uporabljajo pri kuhanju v velikih restavracijah in menzah."
+    },
+    {
+        "id": "025s18p",
+        "description": "Jedilni oslez ali okra, imenovana tudi bamija, quiabo, quimbombó bamya je rastlina iz družine slezenovk. Izhaja iz južne Afrike, natančneje iz Etiopije."
+    },
+    {
+        "id": "0dj75",
+        "description": "Čebúla je rastlina iz družine lukovk, ki se široko uprablja v prehrani. Del čebule, ki se uporablja v prehrani, je podzemna čebulica, ki jo gradijo sočni luskolisti - odebeljene listne nožnice, v katerih rastlina hrani založne in obrambne snovi."
+    },
+    {
+        "id": "01xfpd",
+        "description": "Pastinak je korenasta zelenjava in je v sorodu s korenjem. Podoben je korenju, vendar svetlejše barve in bolj sladkega okusa, še posebno, ko je kuhan. Tako kot korenje tudi pastinak izvira iz Evrazije in je bil od nekdaj uporabljan kot hranilo, najstarejši zapisi o pastinaku pa segajo v obdobje antične Grčije in Rima."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Grah je druga najpomembnejša stročnica, ki se uporablja v prehrani prebivalstva. Uporablja se lahko svež v obliki solat ali kuhan, podobno kot fižol. Od fižola se razlikuje po barvi in obliki zrna, zrno je okrogle oblike. Zgodovinsko je grah starejšega izvora kot fižol, arheologi menijo da je bil poznan pred več kot 2000 leti v prehrani ljudi in da je njegova domovina Azija. Obstaja mnogo vrst graha, pri nas pa je najbolj cenjen veliki rumeni grah, ki ima zelo tanko kožico in veliki zeleni grah imenovan tudi »sladki« ali »cukrar«, ki je zelo primeren za konzerviranje oziroma vlaganje v kozarce. Grah vsebuje precej hranilnih snovi in veliko vitamina A ter kompletno skupino vitaminov B. Vsebuje tudi pomembne minerale, železo, fosfor, kalcij in še nekaj drugih. Vsakodnevno se v prehrani uporablja veliko in to v podobnih količinah kot fižol. Pri shranjevanju graha je pomembno, da pravočasno opazimo njegovega pogostega škodljivca grahovega žužka, ki lahko naredi veliko škodo."
+    },
+    {
+        "id": "05vtc",
+        "description": "Krompír je rastlina iz družine razhudnikovk. Gomolji teh rastlin se uporabljajo tudi kot živilo iz skupine povrtnin v prehrani ljudi."
+    },
+    {
+        "id": "015x5n",
+        "description": "Redkvica oz. vrtna redkev je užitni koren zelenjave iz družine križnice, ki je bila udomačena v Evropi še v pred-rimskih časih. Redkev je številna sorta, ki se razlikuje v velikosti, barvi in trajanju potrebnega časa pridelave. Nekatere vrste so gojene za semena, druge pa za pridelavo olja.\nV širšem smislu lahko redkev razdelimo v štiri glavne vrste: poletne, jesenske, zimske in spomladanske. Uspevajo v različnih oblikah, barvah in velikostih.\nRedkvice vsebujejo dosti askorbinske kisline, folne kisline in kalija. So dober vir vitamina B6, riboflavina, magnezija, bakra in kalcija."
+    },
+    {
+        "id": "0fl3p",
+        "description": "Rabarbara je rastlina iz družine dresnovk Polygonaceae. Zdravilni deli rastline sta korenika in korenine. Lekarniška oznaka korenina rabarbare je Rhei radix."
+    },
+    {
+        "id": "02d9p2",
+        "description": "Navadna vodna kreša je rastlina iz družine križnic. Uporablja se v prehrani in kot zdravilna rastlina."
+    },
+    {
+        "id": "0jtc5",
+        "description": "Navadni rman je cvetnica iz družine nebinovk, izvorno razširjena po vsej severni polobli. Je zelnata trajnica s pokončnim steblom, visokim od 20 cm do enega metra. Listi so puhasti, debeli, dva- do trikrat pernato deljeni, nameščeni spiralno okrog stebla. Po njih ga najlaže ločimo od drugih rmanov. Cveti spomladi in poleti, v Sloveniji od junija do septembra. Cvetovi so združeni v koške, bele do temno rožnate barve.\nJe nezahtevna rastlina, ki uspeva v suhi, degradirani prsti, pogosto na travnikih in obronkih gozdov. Zaradi nezahtevnosti in razmeroma hitre rasti lahko postane invazivna. Vnešen je bil tudi na južno poloblo, natančneje v Avstralijo in na Novo Zelandijo."
+    },
+    {
+        "id": "015fr",
+        "description": "Brazilija, uradno Federativna republika Brazilija je največja in najbolj naseljena država v Južni Ameriki. Širi se prek ogromnega področja med Andi na zahodu in Atlantikom na vzhodu, meji pa na Urugvaj, Argentino, Paragvaj in Bolivijo na jugu, Peru in Kolumbijo na zahodu, Venezuelo, ter Gvajano, Surinam in Francosko Gvajano na severu. Brazilija je dobila ime po bražiljki, krajevnem listnatem drevesu, ki daje les za rdeče barvilo, v njej pa najdemo tako ekstenzivno kmetijska področja kot deževne pragozdove."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanada je najsevernejša obmorska država v Severni Ameriki in meji na ZDA tako na severozahodu kot tudi na jugu. Država se razteguje od Atlantskega oceana na vzhodu do Tihega oceana na zahodu. Kanada se na severu dotika tudi Arktičnega oceana, kjer se njene ozemeljske zahteve razširjajo do Severnega tečaja. Kanadske ozemeljske vode na severovzhodu mejijo na ozemeljske vode Grenlandije, ki pripada Danski, tik pred obalo Nove Fundlandije se nahajta še otoka Saint-Pierre in Miquelon, ki sta sestavni del Francije.\nKanada je za Rusijo na svetu druga največja država po površini, vendar ima zelo majhno gostoto poseljenosti z le 32 milijoni prebivalcev, kar je malo za državo te velikosti. Kanada je sodobna, tehnološko napredna in energetsko samozadostna država. Njeno gospodarstvo močno temelji na izkoriščanju naravnih virov.\nIme je dobila po besedi kanata, ki v jeziku Irokezov pomeni »vas«, »naselbina«."
+    },
+    {
+        "id": "01p1v",
+        "description": "Republika Čile je dolga in ozka obmorska država ob jugozahodni obali Južne Amerike med Tihim oceanom na zahodu in Andi na vzhodu. Glavno mesto države je Santiago de Chile, sedež parlamenta pa je v Valparaísu.\nNa severu meji s Perujem in Bolivijo, na jugu pa delno z Atlantskim, delno s Tihim oceanom, na vzhodu z Argentino, na zahodu pa s Tihim oceanom. Čile meri 756.102 km² in ima 6.435 km obale. Podnebje je zmerno, puščavsko na severu, mediteransko v srednjih deželah, na jugu pa sveže in vlažno. Ob obali ležijo nizka gorovja, rodovitno območje se nahaja v osrednji dolini, na vzhodu pa visoka gorovja - Andi. Najvišja točka je Nevado Ojos del Salado, najnižja pa Tihi ocean. Poleg celinskega dela pripadata Čilu še Otočje Juana Fernándeza in Velikonočni otok, okoli 3.600 km zahodno od osrednjega Čila.\nGlavna naravna bogastva so baker, les, železova ruda, nitrati, žlahtne kovine, molibden in vodna energija. Najbolj razširjene naravne katastrofe v Čilu so hudi potresi, izbruhi vulkanov in cunamiji. Razširjeno krčenje gozdov in rudarstvo ogrožata naravne vire, kot tudi onesnaževanje zraka in vode v industrijskih območjih."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Ljúdska repúblika Kitájska je država v Vzhodni Aziji, ki obsega večino kulturnega, zgodovinskega in zemljepisnega območja, znanega kot Kitajska. Od svoje ustanovitve leta 1949 jo vodi Komunistična partija Kitajske. Kitajska je najbolj naseljena država na svetu z več kot 1.250.000.000 prebivalcev, večina od njih pripada ljudstvu Han. Je največja država v Vzhodni Aziji in tretja ali četrta največja na svetu. Kitajska meji na 14 držav: Afganistan, Butan, Mjanmar, Indijo, Kazahstan, Kirgizistan, Laos, Mongolijo, Nepal, Severno Korejo, Pakistan, Rusijo, Tadžikistan in Vietnam. Ljudska republika Kitajska razglaša tudi suverenost nad otokom Tajvan, vendar ga ne nadzoruje.\nOd uveljavitve Šjaopingovih gospodarskih reform in posebnega modela socializma leta 1978 se Kitajska eksplozivno razvija, zato je država danes prepoznana kot eno najpomembnejših gospodarstev in vzhajajoča svetovna velesila. Ima najštevilčnejšo vojsko na svetu in drugi najvišji vojaški proračun ter jedrsko oborožitev."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Republika Kuba je arhipelag v severnih Karibih med Karibskim morjem, Mehiškim zalivom in Atlantskim oceanom. Arhipelag sestavlja otok Kuba, Isla de la Juventud in približno 1600 otočkov in čeri. Sosednje države Kube so Jamajka in Kajmanski otoki na jugu, na jugozahodu Haiti, na severu Bahami in Florida, na zahodu Mehika. Od Floride je Kuba oddaljena le okoli 145 km. Je 16. največji otok na svetu.\nOtok je dolg približno 1200 km, širok pa od 35 pa tja do 200 km. Po površini pa Kuba petkrat presega Slovenijo. Podobno, kot oblika Italije spominja na škorenj in je oblika Slovenije podobna kokoši, spominja oblika Kube na krokodila. Je največji otok v Karibskem morju in ena najlepših potapljaških točk v Karibih, med njimi je najbolj znan »podvodni svet Marie la Gorda«.\nKuba slovi po pridelovanju tobaka, kot dežela sladkornega trsta, etno glasbe in plesa salse."
+    },
+    {
+        "id": "03shp",
+        "description": "Íslamska repúblika Irán je obmorska država na Bližnjem Vzhodu, v jugozahodni Aziji. Iran je islamska republika. Do leta 1935 je bil znan kot Perzija. Na vzhodu meji na Pakistan in Afganistan, na severovzhodu na Turkmenistan, na severu na Kaspijsko jezero in Azerbajdžan, na severozahodu na Armenijo, na zahodu na Turčijo in Irak, na jugu pa na vodovje Perzijskega zaliva in Omanskega zaliva."
+    },
+    {
+        "id": "01znc_",
+        "description": "Repúblika Túrčija je obmorska država z ozemljem tako v Evropi kot v Aziji. Anatolski polotok med Črnim morjem in Sredozemskim morjem tvori osrčje države. Turčija na vzhodu meji na Gruzijo, Armenijo, Azerbajdžan in Iran, na jugu na Irak in Sirijo, ter na zahodu na Egejsko morje, otoke v njem, na Grčijo in Bolgarijo."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Kraljevina Švedska je obmorska Nordijska država v Skandinaviji v severni Evropi. Na zahodu meji na Norveško, na severovzhodu na Finsko, na jugozahodu pa ima morsko mejo z Dansko; preostanek meje poteka po Baltskem morju in Kattegatu. Zaradi sorazmerno male poseljenosti je švedska narava znana po svojem miru, velikih gozdovih in hriboviti divjini."
+    },
+    {
+        "id": "06mkj",
+        "description": "Kraljevina Španija, krajše Španija je obmorska država na jugozahodu Evrope, na Iberskem polotoku, ki si ga deli skupaj s Portugalsko na zahodu in Gibraltarjem na jugu. Na severovzhodu prek gorske verige Pireneji meji na Francijo in žepno državico Andoro. Kraljevina Španija vključuje Balearske otoke v Sredozemskem morju, Kanarske otoke v Atlantskem oceanu in mesti\/enklavi Ceuta in Melilla v severni Afriki. Uradni jezik je španščina."
+    },
+    {
+        "id": "0h7x",
+        "description": "Repúblika Ávstrija je celinska država v Srednji Evropi, zveza 9 dežel. Avstrija meji na Lihtenštajn in Švico na zahodu, Italijo in Slovenijo na jugu, Madžarsko in Slovaško na vzhodu, ter Nemčijo in Češko na severu."
+    },
+    {
+        "id": "03gj2",
+        "description": "Madžárska je celinska država v Srednji Evropi, ki meji na jugozahodu na Slovenijo in Hrvaško, na severozahodu na Avstrijo, na severu na Slovaško, na severovzhodu na Ukrajino, na jugozahodu na Romunijo, na jugu na pa Srbijo. Je demokratična država in od leta 2004 tudi članica Evropske unije. Madžarski jezik pripada k ugrofinski skupini jezikov."
+    },
+    {
+        "id": "0345h",
+        "description": "Zvezna republika Nemčija je ena od vodilnih svetovnih industrijskih držav, umeščena na sredo Evrope. Na severu meji na Severno morje, Dansko in Baltsko morje, na vzhodu na Poljsko in Češko, na jugu na Avstrijo in Švico, ter na zahodu na Francijo, Luksemburg, Belgijo in Nizozemsko. Skupna kopenska meja s sosednjimi državami meri 3621 km. Nemčija je ena izmed ustanovnih članic Evropske unije."
+    },
+    {
+        "id": "05qhw",
+        "description": "Republika Poljska je obmorska država v Srednji Evropi, leži med Nemčijo na zahodu, Češko in Slovaško na jugu, Ukrajino in Belorusijo na vzhodu, ter Baltskim morjem, Litvo in Rusijo na severu. Njen položaj in dostopnost ozemlja sta pomenila, da se je na njenem ozemlju bilo mnogo vojn, in skozi stoletja so se njene meje znatno spreminjale. Med letoma 1945 in 1989 je Poljska pripadala komunističnemu vzhodnemu bloku.\nDržavno ime Poljska je bilo prvič uporabljeno v 11. stoletju, izhaja pa iz imena plemena Polanie, ki se je na območju med Odro in Vislo naselilo po propadu Rimskega imperija v 5. stoletju."
+    },
+    {
+        "id": "04g5k",
+        "description": "Repúblika Látvija je republika v severovzhodni Evropi. Na zahodu meji na Baltsko morje, zato je skupaj z Estonijo, na katero meji na severu, in Litvo, na katero meji na jugu, znana kot ena od treh baltskih držav. Na vzhodu meji na Rusijo in Belorusijo."
+    },
+    {
+        "id": "012wgb",
+        "description": "Irska je tretji največji otok v Evropi. Leži na zahodni strani Irskega morja ob otoku Velika Britanija in spada v skupino Britanskega otočja. Upravno si ga delita dve državi, na jugu Republika Irska, na severu pa avtonomna regija Združenega kraljestva Severna Irska. Skupno živi na otoku nekaj manj kot 6 milijonov prebivalcev.\nIrska ima milo, vlažno, stalno podnebje. Na podnebje močno vplivajo topli zalivski tok in zahodni zimski vetrovi. Največ padavin je na zahodni obali, to je 2500 mm, v nižjih delih centralne Irske pa le 750 mm. Irsko oblivajo Irsko, Severno in Keltsko morje, Rokavski preliv in Atlantski ocean.\nCarrauntoohil je najvišji vrh, Shannon pa najdaljša reka. Največje jezero je Lough Neagh."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamajka je otoška država v Karibskem morju. Leži južno od Kube in zahodno od otoka Hispaniola, na katerem sta državi Haiti in Dominikanska republika."
+    },
+    {
+        "id": "01crd5",
+        "description": "Socialistična republika Vietnam je obmorska država v Jugovzhodni Aziji, ki zavzema vzhodni del polotoka Indokina. Na severu meji na Kitajsko, na zahodu na Laos in Kambodžo, na vzhodu pa na morski Tonkinški zaliv. Z nekaj več kot 85 milijoni prebivalcev je 13. najbolj naseljena država na svetu. Njeno glavno mesto je Hanoj."
+    },
+    {
+        "id": "015qh",
+        "description": "Republika Bolgarija je republika v jugovzhodni Evropi. Na vzhodu meji na Črno morje, na jugu na Grčijo in Turčijo, na zahodu na Srbijo in Makedonijo ter na severu vzdolž reke Donave na Romunijo.\nV času Rimskega imperija se je področje današnje Romunije in Bolgarije imenovalo Trakija.\nBolgarija je vključena v Evropsko unijo od 1. januarja 2007."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongolija je azijska celinska država, ki jo na severu objema Rusija, na jugu Ljudska republika Kitajska, na zahodu pa se približa Kazahstanu. Je druga največja država, ki nima morske obale, takoj za bližnjim Kazahstanom."
+    },
+    {
+        "id": "06q1r",
+        "description": "Škotska je nekdanja Kraljevina Škotska na severni tretjini Britanskega otočja. Leta 1707 se je Kraljevina Škotska združila s Kraljevino Anglijo v Kraljevino Veliko Britanijo. Leta 1801 se je Kraljevina Velika Britanija združila s Kraljevino Irsko v Združeno kraljestvo Velike Britanije in Irske. Leta 1922 je šestindvajset irskih grofij od dvaintridesetih zapustilo Združeno kraljestvo in ustanovilo Republiko Irsko. Škotska je ostala v kraljestvu, sedaj znanem kot Združeno kraljestvo Velike Britanije in Severne Irske. Leta 1999 je Škotska ponovno dobila svoj parlament.\nKraljica Elizabeta II., potomka zadnjega škotskega monarha Jakoba VI., vlada Združenemu kraljestvu. Vredno je poudariti, da je prva škotska vladarka s tem imenom in je podpisovala vse listine z imenom »Elizabeta«. Logično so pričakovali, da bo njeno uradno ime Elizabeta I. Združenega kraljestva, vendar jo je škotska kraljevska vlada uradno imenovala Elizabeta II.\nZa Škotsko so značilni moški v krilih s škotskim vzorcem, po katerih se ločujejo posamezni klani, ki pogosto igrajo na škotski nacionalni instrument dude, dragocena in ročno tkana tkanina tweed in povsod sloveči škotski viski."
+    },
+    {
+        "id": "0chghy",
+        "description": "Avstralija je tako ime najmanjše celine na svetu, kot tudi kratko ime države Avstralska zveza.\nAvstralska zveza je po površini šesta največja država na svetu in edina, ki v celoti zavzema kakšno celino, in največja v Avstralaziji. Na severu so prek morja Indonezija, Papua Nova Gvineja in Vzhodni Timor, na jugovzhodu pa Nova Zelandija. Ime Avstralija izhaja iz latinske fraze terra australis incognita, ki pomeni neznana južna dežela."
+    },
+    {
+        "id": "035v3",
+        "description": "Grenlandija, je otok v Severnem Atlantskem oceanu, vzhodno od Kanade, in je največji otok na svetu. Okoli 84 odstotkov njene površine prekriva led.\nDo leta 1814 je bila Grenlandija ena od norveških kronskih kolonij, potem pa je pripadla Danski in leta 1953 postala sestavni del Kraljestva Danske. Danski parlament ji je leta 1978 podelil samoupravo, ki se je začela izvajati naslednje leto, 1. maja 1979. Kraljica Danske, Margareta II., še naprej ostaja vodja države. Grenlandija je v okviru Danske spadala k Evropski uniji od 1. januarja 1973, vendar je bila pridobitev samouprave povod, da se je 1. januarja 1985 od Unije odcepila.\nGrenlandija je danes največji otok na svetu, ki ga po podatkih iz januarja 2011 naseljuje le 56.615 ljudi. S čimer je Grenlandija najmanj naseljeno odvisno ozemlje na svetu. Največ prebivalcev živi v glavnem mestu Nuuk, ki je tudi največje mesto na otoku."
+    },
+    {
+        "id": "0jgx",
+        "description": "Republika Armenija je celinska država v južnem Zakavkazju, ozemeljskem pasu med Črnim morjem in Kaspijskim jezerom. Na severu meji na Gruzijo, na vzhodu na Azerbajdžan, na jugu na Iran, na jugozahodu na azerbajdžansko eksklavo Nahičevan in na zahodu na Turčijo. Pred razpadom Sovjetske zveze je Armeniji po Stalinovem odloku pripadala še eksklavica Baškend znotraj ozemlja Azerbajdžana, Azerbajdžanu pa so pripadale štiri eksklave znotraj province Tavuš in še ena znotraj province Ararat. Po razpadu Sovjetske zveze in ob izbruhu napetosti zaradi Gorskega Karabaha sta obe državi zasedli te eksklavice znotraj svojih ozemelj. Trenutno sta odprti le meji z Gruzijo in Iranom, meje s Turčijo in Azerbajdžanom pa so hermetično zaprte."
+    },
+    {
+        "id": "03_3d",
+        "description": "Japonska je otoška država na Daljnem vzhodu med Tihim oceanom in Japonskim morjem, vzhodno od Korejskega polotoka. Japonsko sestavlja veriga otokov Kjušu, Šikoku, Honšu, Hokaido in nekaterih manjših otočij."
+    },
+    {
+        "id": "019rg5",
+        "description": "Kenija je obmorska država v Vzhodni Afriki, ki na severu meji na Etiopijo, na vzhodu na Somalijo, na jugozahodu na Indijski ocean, na jugu na Tanzanijo, na zahodu na Ugando in na severozahodu na Sudan. Njeno glavno mesto je Nairobi. Je revna država, katere primarna gospodarska panoga je kmetijstvo."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Ponedéljek je dan v tednu med nedeljo in torkom. Po sodobnem evropskem pojmovanju je ponedeljek prvi dan v tednu, po starem judovskem gledanju pa drugi.\nV sodobni družbi je ponedeljek po navadi mišljen kot začetek delovnega tedna.\nSlovensko ime ponedeljek izhaja iz vrstnega reda dneva v tednu, »dan po nedelji«.\nPo ljudski modrosti velja ponedeljek za najdaljši dan v tednu."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Tôrek je dan v tednu med ponedeljkom in sredo. Po sodobnem evropskem pojmovanju je torek drugi dan v tednu, po starem judovskem gledanju pa tretji. Tako je tudi v ZDA, kjer je torek po navadi dan volitev. Zvezne volitve so na torek po prvem ponedeljku v novembru.\nSlovensko ime torek izhaja iz vrstnega reda dneva v tednu."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Sréda je dan v tednu med torkom in četrtkom. Po sodobnem evropskem pojmovanju je sreda tretji dan v tednu, po starem judovskem gledanju pa četrti. Sreda je srednji dan v tednu in tudi srednji dan v delovnem tednu in od tod tudi slovensko ime."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Četŕtek je dan v tednu med sredo in petkom. Po sodobnem evropskem pojmovanju je četrtek četrti dan v tednu, po starem judovskem gledanju pa peti. Po standardu ISO 8601 prvi četrtek v letu določa prvi teden v letu, saj je takrat več dni v tednu v novem kot v starem letu. 1. teden je teden s prvim četrtkom v letu.\nSlovensko ime četrtek izhaja iz vrstnega reda dneva v tednu. Angleško ime za ta dan pa naj bi se imenovalo po nordijskem bogu Thoru.\nV Združenem kraljestvu so volitve po navadi v četrtek."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Pétek je dan v tednu med četrtkom in soboto. Po sodobnem evropskem pojmovanju je petek peti dan v tednu, po starem judovskem gledanju pa predzadnji, šesti. Petek je po večini zadnji dan v delovnem tednu pred koncem tedna.\nV islamu je petek dan javnega čaščenja v mošejah.\nJudovski sabat je začne ob sončnem zahodu v petek in traja do sončnega zahoda v soboto.\nSlovensko ime petek izhaja iz vrstnega reda dneva v tednu."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Sobóta je dan v tednu med petkom in nedeljo. Po sodobnem evropskem pojmovanju je sobota šesti, predzadnji dan v tednu, po starem judovskem gledanju pa zadnji, sedmi.\nPo stari judovski tradiciji je sobota sabat, dan počitka. Odtod izhaja tudi slovensko ime za ta dan."
+    },
+    {
+        "id": "0f6ld",
+        "description": "Nedélja je dan v tednu med soboto in ponedeljkom. Po sodobnem evropskem pojmovanju je nedelja zadnji dan v tednu, po starem judovskem in starem egipčanskem gledanju pa prvi.\nZa večino kristijanov je nedelja dan čaščenja in počitka. Iz tega izhaja tudi slovensko ime nedelja, torej »dan, ko se ne dela«.\nVolitve v Republiki Sloveniji potekajo ob nedeljah."
+    },
+    {
+        "id": "06m_p",
+        "description": "Sónce je edina zvezda in glavno telo našega Osončja. Planet Zemlja in njeni sestrski planeti, tako drugi zemeljski planeti kot plinski velikani, krožijo okoli Sonca. Druga telesa, ki krožijo okoli Sonca, so še asteroidi, meteoroidi, kometi, čezneptunska telesa in seveda medzvezdni prah. Od Zemlje je oddaljeno približno 150 milijonov kilometrov in je daleč najsvetlejši objekt na nebu, z navideznim sijem -26,73. Sonce skupaj z osončjem trenutno potuje skozi lokalni medzvezdni oblak v Orionovem kraku galaksije Rimska cesta približno 24.000–26.000 svetlobnih let od središča galaksije, ki ga obkroži enkrat na 225–250 milijonov let.\nV zvezdni klasifikaciji Sonce uvrščajo med zvezde glavnega niza, tip G, sodeč po elektromagnetnemu spektru, ki ga oddaja. Neformalno ga označujemo tudi kot rumeno pritlikavko, saj je mnogo manjše od največjih zvezd v vesolju, in vidni del svetlobnega spektra je najmočnejši v rumeno-zelenem delu. V resnici je njegova barva bela, vendar lahko zaradi sipanja modre v Zemljinem ozračju dobi rumen odtenek. Njegov absolutni izsev je +4,83, s čemer je svetlejši od 85 % zvezd v naši galaksiji, večina od katerih so rdeče pritlikavke."
+    },
+    {
+        "id": "09cy8",
+        "description": "Merkúr je najmanjši in Soncu najbližji planet v Osončju. Sonce obkroži v 88 dneh. Svetlost njegovega navideznega sija se giblje med -2,0 in 5,5, vendar ga le stežka opazimo, saj znaša njegova največja kotna oddaljenost od Sonca le 28,3º. Vidimo ga lahko v jutranjem ali večernem mraku. Planet tudi sicer razmeroma slabo poznamo. Edino vesoljsko plovilo, ki ga je obiskalo in kartiralo 40 % do 45 % površja, je bil Mariner 10 v letih 1974 in 1975.\nMerkur po izgledu spominja na Luno, saj je močno prepreden s kraterji. Naravnih satelitov ali gostejše atmosfere nima. Ima veliko železno jedro, ki ustvarja magnetno polje z močjo okrog 0,1 % Zemljinega. Površinske temperature na planetu znašajo med 90 in 700 K. Najtopleje je na subsolarni točki, najhladnejša pa so dna kraterjev blizu polov.\nPlanet so po svojem krilatem bogu - slu Merkurju, verjetno zaradi hitrega gibanja po nebu, poimenovali Rimljani. Astronomski simbol zanj, prikazan na vrhu tabele ob strani, je stilizirana različica glave boga in krilatega pokrivala na vrhu njegove ga kaduceja, starega astrološkega simbola. Grki so ga imenovali Στίλβων Stilbon in Hermes. Do petega stoletja pred našim štetjem so verjeli, da gre za dva ločena objekta. En naj bi bil viden ob sončnem vzhodu, drugi ob sončnem zahodu. V Indiji so planet poimenovali Buda, po sinu Čandre. V kitajski, korejski, japonski in vietnamski kulturi se planet na osnovi petih elementov imenuje vodna zvezda. Hebrejci so ga poimenovali Kokhav Hamah, »zvezda vročega« ."
+    },
+    {
+        "id": "09bcm",
+        "description": "Vénera je notranji, drugi planet od Sonca v Osončju. Po Zemljini Luni je drugi najsvetlejši objekt na nočnem nebu, navidezni sij doseže -4,6. Ker je Venera notranji planet, se iz gledišča Zemlje nikoli ne oddalji preveč od Sonca, elongacija doseže največ 47,8°. Venera doseže svojo največjo svetlost malo pred sončnim zahodom ali malo po sončnemu zahodu, zato jo včasih v tem smislu imenujemo »danica« ali »večernica«. Kadar je vidna, je najsvetlejša točka na nebu, in jo znajo nekateri zamenjevati z zvezdo.\nJe zemeljski planet, po velikosti in obsegu zelo podoben Zemlji. Zaradi teh podrobnosti ga včasih imenujejo Zemljin »sestrski planet«. Je edini planet v osončju, ki se vrti v nasprotno smer. Znanstveniki domnevajo, da zaradi trka z asteroidom. Planet je pokrit z neprozorno plastjo bleščečih oblakov, zato njegovo površje iz vesolja ni vidno v vidni svetlobi. Venera je bila predmet vprašanj, dokler planetarna znanost v 20. stoletju ni odkrila nekaj njenih skrivnostih. Venera ima najgostejšo atmosfero od vseh zemeljskih planetov, ki je sestavljeno večinoma iz ogljikovega dioksida, zračni pritisk na površini pa je 90-krat večji kot na Zemlji.\nVenerino površje je bilo podrobneje kartografirano šele v zadnjih 20 letih. Na njem je moč najti dokaze obsežnega ognjeniškega delovanja, nekateri ognjeniki pa so mogoče aktivni še danes. V nasprotju s stalnim gibanjem skorje na Zemlji pa Venera najverjetneje doživlja občasna obdobja premikanja plošč, kjer se skorja hitro podriva v nekaj milijonih let, ločena s stabilnimi obdobji, trajajočimi več sto milijonov let."
+    },
+    {
+        "id": "02j71",
+        "description": "Zêmlja je eden izmed planetov Osončja ter prostor, na katerem sta se razvila življenje in človeštvo. Po oddaljenosti od Sonca je tretji, po velikosti pa peti planet Sončevega sistema. Predstavlja največji trdni planet in edini prostor v Vesolju, za katerega je znan obstoj življenja. Zemlja se je oblikovala pred približno 4,57 milijarde let, njen edini naravni satelit Luna pa pred okoli 4,53 milijarde let. Od svojega nastanka je Zemlja prešla množico geoloških in bioloških razvojnih faz, zaradi česar so se sledi njene prvotne podobe večinoma izbrisale.\nZemljina notranjost je sestavljena iz več razmeroma aktivnih plasti, med katerimi se nahaja verjetno trdno železovo jedro, ki ustvarja Zemljino magnetno polje, ter tekoči plašč, v zgornjih plasteh pa trda skorja. Nad tem se nahajata površina Zemlje in atmosfera, ki sta danes močno preoblikovani zaradi bioloških in človeških dejavnikov. Okoli 70 odstotkov zemeljske površine pokrivajo oceani s slano vodo, preostanek pa zapolnjujejo celine ter otoki.\nMed Zemljo in njenim okoljem, tj. vesoljskim prostorom, je opaziti pomembne povezave, kot je npr. sevanje Sonca, vpliv Meseca na plimovanje, spreminjanje Zemljine orbite kot morebiten vzrok ledenih dob idr."
+    },
+    {
+        "id": "09cws",
+        "description": "Márs je četrti planet od Sonca v Osončju in sedmi po velikosti. Imenuje se po rimskem bogu vojne Marsu, zaradi značilne rdeče barve, ki je posledica prisotosnoti železovega oksida na njegovem površju. Mars ima dve majhni luni, Fobos in Deimos."
+    },
+    {
+        "id": "09q84",
+        "description": "Júpiter je zunanji, peti planet od Sonca in je največji planet znotraj našega Osončja. Nekateri so opisali, da Osončje sestavljajo Sonce, Jupiter in razporejene razbitine. Plinske velikane Jupiter, Saturn, Uran in Neptun včasih imenujejo tudi »jupitrovski planeti«. Ime je dobil po rimskem bogu Jupitru."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Satúrn je zunanji, šesti planet od Sonca v Osončju. Imenuje se po rimskem bogu Saturnu. Je plinski velikan, po velikosti drugi največji za Jupitrom. Poleg Jupitra, Urana in Neptuna spada v skupino jupitrovskih planetov. Že od nekdaj je najbolj znan po svojih značilnih obročih. Njegova luna Titan je druga največja luna v Osončju za Jupitrovo luno Ganimed. Titan je edina luna z gosto atmosfero."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Urán je zunanji, sedmi planet od Sonca v Osončju. Je plinski velikan, tretji največji po premeru in četrti največji po masi. Imenuje se po grškem bogu neba in praočetu drugih bogov Uranu. Njegov znak je ali . Prvi znak izhaja iz imena Uranovega odkritelja, Williama Herschla. Drugi znak je sestavljen iz znaka za Sonce in puščice Marsa, ker je bil Uran v grški mitologiji poosebljenje nebes, kjer prevladujeta svetloba Sonca in moč Marsa.\nNasino vesoljsko plovilo Voyager 2 je edino, ki je obiskalo planet, v prihodnosti pa novi poleti niso načrtovani. Plovilo so izstrelili leta 1977, Uranu pa se je najbolj približalo 24. januarja 1986, nato pa je nadaljevalo svojo pot proti Neptunu.\nUran je prvi planet, odkrit v sodobnem času. Herschel ga je uradno odkril 13. marca 1781, do takrat pa so bili iz antike znani samo klasični planeti od Merkurja do Saturna. Odkritje Urana je prvič v sodobni človeški zgodovini razširilo meje Osončja. Prav tako je bil to prvi planet, odkrit z uporabo tehnologije, čeprav je kot klasični planeti viden s prostim očesom.\nNotranja sestava Urana je podobna Neptunovi, oba pa se po kemični sestavi razlikujeta od drugih dveh plinskih velikanov, Jupitra in Saturna. Zaradi tega ju astronomi razvrščajo v drugo kategorijo »ledenih velikanov«. Uranova atmosfera, čeprav v osnovni sestavi vsebnosti vodika in helija podobna Jupitrovi in Saturnovi, vsebuje več »ledov« kot je vodni led, amonijak in metan, ter sledi ogljikovodikov. Njegova atmosfera je v Osončju nahladnejša z najnižjo temperaturo 49 K. Zgradba oblakov je kompleksna in plastna. V najnižjih oblakih se verjetno nahaja voda, v najvišjih pa metan. Notranjost Urana v glavnem sestavljajo ledovi in skale."
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptún je zunanji, po oddaljenosti od Sonca osmi planet v Osončju. Je tudi najbolj oddaljeni plinasti velikan v našem Osončju. Čeprav je najmanjši od plinastih velikanov, ima večjo maso kot Uran, ker ga je njegovo močnejše gravitacijsko polje stisnilo v večjo gostoto.\nOkrog tega modrega planeta so bili odkriti šibki temni obroči, ki pa so manj izdatni kot Saturnovi. Ob njihovem odkritju so sprva domnevali, da niso zaključeni, vendar so podatki z vesoljskega plovila Voyager 2 to domnevo ovrgli. Neptun ima tudi vetrove, ki pihajo s hitrostjo 2000 km\/h, v ozračju pa so znatne količine vodika, helija in metana, ki dajejo planetu značilno modro barvo. Ob mimoletu Voyagerja 2 leta 1989 se je na južni polobli nahajala Velika temna pega, primerljiva z Veliko rdečo pego planeta Jupitra. Neptun dokazano obkroža devet lun, štiri pa še čakajo na potrditev. Neptunovo največjo luno Triton označujejo njena vzvratna tirnica, izredno nizke temperature in zelo redka atmosfera iz dušika in metana.\nZaradi svojega modrega izgleda se planet imenuje po rimskem bogu morja Neptunu. Njegov astronomski simbol predstavlja stilizirani trizob."
+    },
+    {
+        "id": "0jwy",
+        "description": "Oven je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Leži med Ribama na zahodu in Bikom na vzhodu."
+    },
+    {
+        "id": "07cqw",
+        "description": "Bik je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Sestavlja ga okoli 100 manjših zvezd, od katerih jih je sedem jasno vidnih s prostim očesom in tvorijo znano razsuto kopico Plejad. Ozvezdje ima značilno obliko, ki spominja na Veliki voz."
+    },
+    {
+        "id": "077r8d",
+        "description": "Dvojčka je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Ima značilno obliko - dve vzporedni črti zvezd."
+    },
+    {
+        "id": "0qck6",
+        "description": "Rak je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Ozvezdje je majhno in temno, in za mnoge ni podobno raku. Leži med Dvojčkoma na zahodu in Levom na vzhodu, Risom na severu in Malim psom ter Vodno kačo na jugu."
+    },
+    {
+        "id": "04h2q",
+        "description": "Lev je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolomejevih 48 ozvezdij. Lev leži med Rakom in Devico."
+    },
+    {
+        "id": "07yt9",
+        "description": "Devica je ozvezdje živalskega kroga in drugo največje od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij."
+    },
+    {
+        "id": "04h36",
+        "description": "Tehtnica je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Ozvezdje je dokaj neopazno, brez zvezd z navideznim sijem enakim 1m. Leži med Devico na zahodu in Škorpijonom na vzhodu. Kot pove že ime najsvetlejše zvezde, Zubanalganubi, je nekoč predstavljalo Škorpijonove klešče."
+    },
+    {
+        "id": "06pgz",
+        "description": "Škorpijon je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Leži med Tehtnico na zahodu in Strelcem na vzhodu."
+    },
+    {
+        "id": "06pgg",
+        "description": "Strelec je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Leži med Kačenoscem na zahodu in Kozorogom na vzhodu.\nV Strelcu leži središče naše Galaksije."
+    },
+    {
+        "id": "01nk9",
+        "description": "Kozorog je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. To ozvezdje je navedel že Ptolemej v svojem seznamu 48 ozvezdij."
+    },
+    {
+        "id": "0jxf",
+        "description": "Vodnar je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Znak ozvezdja predstavlja vodo.\nOzvezdje leži v območju pogosto imenovano morje zaradi obilice ozvezdij, ki so povezana z vodo, na primer: Kit, Ribi in Eridan."
+    },
+    {
+        "id": "05s7n",
+        "description": "Ribi je ozvezdje živalskega kroga in eno od 88 sodobnih ozvezdij, ki jih je priznala Mednarodna astronomska zveza. Bilo je tudi eno od Ptolemejevih 48 ozvezdij. Leži med Vodnarjem na zahodu in Ovnom na vzhodu. V Ribah se trenutno nahaja točka pomladnega enakonočja, južno od zvezde Vernalis in se zaradi precesije enakonočij počasi premika proti Vodnarju."
+    },
+    {
+        "id": "02vx4",
+        "description": "Nogomet je moštvena igra z žogo in eden najbolj priljubljenih športov na svetu z izjemo Severne Amerike. Zato mu pravijo tudi »najbolj priljubljena postranska stvar na svetu«\nZnanih je več zvrsti nogometa. Ta članek obravnava najbolj priljubljenega, ki ga igrajo tudi pri nas in mu v angleško govorečih deželah z izjemo Britanskega otočja pravijo soccer. V Severni Ameriki je priljubljen ameriški nogomet, v Avstraliji pa avstralski nogomet, nobeden izmed njiju ni posebno podoben našemu."
+    },
+    {
+        "id": "0jm_",
+        "description": "Ameriški nogomet je moštvena igra, pri kateri med seboj tekmujeta [[Igralci ameriškega nogometa|dve ekipi z vsaka po enajstimi igralci. Člani igralske zasedbe se lahko menjavajo med vsako prekinitvijo.\nIgra je najbolj priljubljena v Združenih državah Amerike, kjer se organizirano igra na treh stopnjah: srednješolski, univerzitetni in poklicni. Na vsaki stopnji so pravila nekoliko drugačna. Nad srednješolskim nogometom bdi Narodna federacija zvez državnih srednjih šol, nad univerzitetnim Narodna univerzitetna športna zveza, najvišja stopnja poklicnega ameriškega nogometa pa je liga National Football League. Zunaj ZDA je igra pretežno neznana ali pa se sorazmerno počasi uveljavlja.\nAmeriški nogomet je precej podoben kanadskemu, a se igri med seboj ponekod dodobra razlikujeta. Oba športa sta se razvila iz nogometa in rugbyja."
+    },
+    {
+        "id": "018w8",
+        "description": "Košárka je moštveni šport, pri katerem tekmujeta dve nasproti stoječi moštvi s po petimi igralci na pravokotnem igrišču, običajno v dvorani na lesenem parketu. Cilj igre je vreči žogo v nasprotnikov koš, ki ima premer 46 cm in je nameščen na vsako stran igrišča na tablo 3 m visoko. Košarka je eden najpopularnejših in najbolj gledanih športov na svetu.\nEkipa lahko doseže točke, ko doseže koš v regularnem času tekme. Dosežen koš ekipi prinese dve točki, če je dosežen bližje od črte za tri točke, ali tri točke, če je dosežen izza črte za tri točke. Ekipa z več doseženimi točkami zmaga, v primeru izenačenega rezultata pa lahko o zmagovalcu odloča podaljšek. Žogo se po igrišču lahko prenaša s vodenjem žoge ob tla ob hoji ali teku ter podajanjem. Napake pri vodenju žoge, zaradi katerih ekipa izgubil žogo, so koraki, nošena žoga in dvojno vodenje.\nNedovoljen kontakt z nasprotnim igralcem je osebna napaka. V primeru osebne napake pri metu na koš ima košarkar, nad katerim je bila osebna napaka storjena, na voljo dva ali tri proste mete, ki štejejo eno točko vsak. Za določene kršitve košarkarskih pravil je dosojena tehnična osebna napaka, običajno za nešportno obnašanje košarkarjev ali trenerjev. Tudi v tem primeru nasprotna ekipa izvaja proste mete, toda za razliko od navadne osebne napake zadrži žogo v svoji posesti."
+    },
+    {
+        "id": "018jz",
+        "description": "Baseball je ekipni šport, pri katerem igrata dve ekipi, vsaka z devetimi igralci. Pri njem igralec obrambe meče usnjeno žogo velikosti pesti, ki jo igralec napada poskuša odbiti z ovalno zaobljeno palico, imenovano kij. Rezultat se beleži v obliki točk, imenovanih teki. Tek se ekipi v napadu pripiše, kadar odbijalec po tem, ko doseže bazo, po prehodu čez vrsto baz doseže domačo bazo. Ekipa z več teki zmaga."
+    },
+    {
+        "id": "07bs0",
+        "description": "Ténis je šport z loparjem za dva nasprotna igralca ali za dve nasprotni skupini s po dvema igralcema. Igra se na igrišču, razdeljenim v dve polovici, z nizko postavljeno mrežo na sredini igrišča. Igralci za igranje uporabljajo lopar, s katerim odbijajo, s klobučevino prekrito, votlo gumijasto žogico prek mreže na sredini igrišča na nasprotno stran igrišča. Če se žoga na igralčevi strani igrišča odbije dvakrat, dobi točke nasprotnik. Prav tako nasprotnik dobi točke, če igralec žoge ne udari z loparjem, jo z udarcem pošlje izven nasprotnikove polovice, ali jo udari z loparjem, ko je v zraku še na nasprotnikovi polovici. Športniku\/športnici, ki se ukvarja s tenisom, rečemo tenisáč ali téniški igrálec, oziroma tenisáčica\/téniška igrálka.\nTenis izhaja iz poznega 19. stoletja, ko so ga začeli igrati v Angliji. Danes ima tenis po vsem svetu na milijone privržencev in gledalcev, profesionalni tekmovalci pa so znani po dobrem zaslužku. Med številnimi mednarodnimi teniškimi turnirji so še posebej cenjeni turnirji Odprto prvenstvo Avstralije, Odprto prvenstvo Francije, Odprto prvenstvo Anglije in Odprto prvenstvo ZDA. Zmaga na vseh teh štirih turnirjih v eni sezoni se imenuje Pravi Grand Slam in velja za krono kariere teniškega igralca. Tenis je tudi olimpijski šport."
+    },
+    {
+        "id": "01cgz",
+        "description": "Boks je borilni šport. Po navadi sta v ringu dva boksarja in en sodnik. Kategorije pri boksu so: polmušja, mušja, bantamska, peresna, lahka, polvelterska, velterska, srednja, poltežka, težka in supertežka.\nNajboljši slovenski boksar je Dejan Zavec, ki je leta 2009 postal svetovni prvak v velterski kategoriji.\nDvoboj se lahko konča na več različnih načinov. Cilj boksarjev v angleškem boksu je nasprotnika tako močno udariti, da bi bil izločen ali ga prisiliti k predaji, oziroma zmagati z večjim številom točk. Dvoboj se konča z nokavtom, če eden izmed igralcev pade na tla in deset sekund negibno leži. Poznamo tudi tehnični nokavt, kadar eden izmed tekmovalcev ne more nadaljevati dvoboja in ga sodnik razglasi za poraženca. Če pa se dvoboj konča brez predaje, o zmagi odločajo točke: ob koncu tekme žirija in sodnik preštejejo pravilno izvedene udarce ter s tem boksarjem dodelijo določeno število točk."
+    },
+    {
+        "id": "03tmr",
+        "description": "Hokej na ledu je moštveni zimski šport. Na ledu igrata dve moštvi s po šestimi igralci. Igra se 3x20 minut z možnostjo podaljška in kazenskih strelov ob neodločenem rezultatu. Zmaga moštvo, ki večkrat zabije plošček skozi vrata."
+    },
+    {
+        "id": "07_53",
+        "description": "Odbojka je moštveni šport, sestavljen iz dveh ekip, ki ju loči mreža. Igralci lahko uporabljajo katerikoli del telesa. Namen igre je poslati žogo preko mreže tako, da bi v nasprotnikovem polju padla na tla, ter preprečiti, da bi padla na tla na lastni strani igrišča. Vsaka ekipa se lahko največ trikrat dotakne žoge, preden jo vrne na nasprotno stran.\nIgra se začne s servisom. Igralec z njim pošlje žogo preko mreže v nasprotnikovo igralno polje. Ekipa dobi točko takrat, ko: - žoga, ki jo je s servisom igralec poslal na nasprotno stran igrišča pade na tla nasprotnikom - ji uspe žogo zaključiti, tako da pade na tla na nasprotni strani mreže - se žoga od bloka odbije v polje nasprotnika - se žoga od nasprotnika odbije v out - nasprotnik zgreši servis ali napad - nasprotnik žogo nese ali se jo dotakne dvakrat zapored - nasprotnik neuspešno zaključi žogo v out\nIgra se nadaljule dokler ena ekipa ne doseže 25 točk, in osvoji 1 niz. Če sta ekipi izenačeni se igra na razliko dveh točk. Ekipa zmaga tekmo, ko osvoji 3 nize. Če je rezultat v nizih izenačen se igra na 3 dobljene nize, pri čemer se peti niz igra do 15. Po vsakem nizu ekipi zamenjata strani. Posebnost je peti niz, kjer ekipi zamenjata strani, ko ena ekipa doseže 8 točk."
+    },
+    {
+        "id": "037hz",
+        "description": "Golf je šport, pri katerem poskuša igralec z udarci s palico spraviti žogico v luknjo v tleh. Je ena redkih iger z žogo, ki nima standardiziranega igrišča. Vsako igrišče za golf ima tako svojo obliko, največkrat je v njem 9 ali 18 lukenj."
+    },
+    {
+        "id": "01sgl",
+        "description": "Kolesarstvo je aktivnost vožnje s kolesom, ki se uporablja tako v transportne namene, kot za namene športa, rekreacije ali turizma. Pri tem se kot glavni pripomoček uporablja kolo oziroma njegove različice, kot je na primer trokolo. Pojem kolesarstvo lahko označuje vsakodnevno vožnjo s kolesom po opravkih, rekreacijo ali profesionalno ukvarjanje s tem športom. Mednarodna kolesarska zveza je krovna organizacija kolesarstva kot športa s sedežem v Aiglu, Švica. Evropska kolesarska federacija, s sedežem v Bruslju pa je krovna organizacija večine kolesarskih organizacij, ki se ukvarjajo s promocijo, razvojem kolesarstva kot ene izmed vej v prometnem sistemu."
+    },
+    {
+        "id": "03_8r",
+        "description": "Judo je moderna japonska borilna veščina, ki se je razvila konec 19. stoletja iz več japonskih tradicionalnih oblik ju jutsuja, njen začetnik pa je Džigoro Kano. Judo je goloroka borilna veščina, ki vključuje borbo stoje in na tleh, mete, padce, vzvode, udarcev z rokami in nogami pa Judo neposredno ne vsebuje. Tako je na prvi pogled zelo podoben rokoborbi in je v osnovi ena izmed najbolj razširjenih oblik le-te.\nS svojo sistematično urejenostjo vsebine in vadbe je bil judo začetnik, hkrati pa tudi vzor mnogih kasnejših modernih japonskih borilnih veščin.\nOseba, ki vadi oz. trenira judo, se imenuje judoist. Učenci, oblečeni v bele uniforme, t.i. judogije, vadijo pod vodstvom učitelja mojstra, senseija. Kraj vadbe se na Japonskem imenuje dodžo, drugje po svetu pa so to po navadi večje ali manjše splošne telovadnice. Zaradi varnosti pri padcih se vadba vrši na posebnih blazinah, t.i. tatamijih.\nJudo lahko poleg tehnik vsebuje tudi filozofsko plat, tesno povezano z vadbo. Namen juda je tudi v razvoju celega človeka skozi dolgotrajno vadbo, tako v pomenu fizičnega razvoja kakor razvoja razuma, osebnosti in doseganja notranjega miru. S preoblikovanjem v moderni olimpijski šport se je ta del juda ponekod zelo omilil ali celo izginil."
+    },
+    {
+        "id": "0d38m",
+        "description": "Maraton je najdaljša tekaška atletska disciplina. Maratonski tek se standardno izvaja na progi dolžine 42,195 km. Splošno se maraton smatra kot najtežja atletska disciplina in ena najtežjih športnih disciplin nasploh.\nMaraton je bil ena izmed disciplin olimpijskih iger moderne dobe leta 1896, toda razdaljo so standardizirali šele leta 1921. Vsako leto je po svetu organiziranih več kot 500 maratonskih tekem. Večje maratonske tekme imajo tudi po več kot deset tisič udeležencev."
+    },
+    {
+        "id": "0194d",
+        "description": "Badminton je šport, pri katerem se uporabljata lopar in operjena žogica iz plutovine. Igralec poskuša udariti žogico preko mreže v nasprotnikovo polje. Igra se lahko tudi v parih.\nLopar je dolg približno 66 cm, v žogico iz plute so zataknjena peresa dolžine 7 cm. Igrišče dolžine 13,40 m razpolavlja 1,55 m visoka mreža.\nOd leta 1992 je badminton tudi olimpijska disciplina."
+    },
+    {
+        "id": "07jbh",
+        "description": "Namizni tenis je igra pri kateri dva ali več igralcev odbijajo žogico z loparji za namizni tenis na mizi, razdeljeni z mrežo. Igralci morajo odbiti žogo po prvem odboju od mize na njihovi strani in jo poslati na drugo stran, tako da se ta spet odbije od mize. Namizni tenis spada med najbolj razširjene panoge na svetu in je najbolj razširjen na Kitajskem.\nIgranje namiznega tenisa v tekmovalnem smislu je zelo zahtevno. Zahteve v igri so velike, čeprav energetska poraba v kratkem času ni posebno velika. Igra poteka na osnovi predvidevanja, ker bi samo na osnovi enostavnega signala – ko vidimo kam žogica leti – zaradi velike hitrosti žoge in majhnega prostora ne mogli igrati. To pomeni, da so igralne zahteve glede hitrosti reagiranja in hitrosti izvedbe gibov zelo velike."
+    },
+    {
+        "id": "087zy",
+        "description": "Jóga je družina starodavnih hindujskih duhovnih urjenj, pri kateri z dihalnimi vajami, telesnimi položaji oz. asanami in mentalnim osredotočanjem dosežemo telesno in duševno uravnovešenost. Izvira iz Indije, kjer ostaja močna življenjska tradicija in predstavlja pot k razsvetljenju."
+    },
+    {
+        "id": "0397w",
+        "description": "Gimnastika je športna panoga, ki se deli na dve zvrsti - to sta športna gimnastika in ritmična gimnastika. Za izvajanje gimnastičnih elementov so potrebni moč, gibljibost, koordinacija, ravnotežje, eksplozivnost, hitrost in preciznost. Psihično pa visoka zbranost ter smisel za ritem in glasbo.\nGimnastika ima dolgo in ponosno zgodovino s koreninami v antični Grčiji in takratnimi olimpijskimi igrami. Upodablja popolno združitev športa in estetike ter moči pri čemer športniki nemalokrat uprizorijo neverjetne akrobacije.\nGimnastika je na olimpijskem programu od prvih iger moderne dobe, vendar so se discipline menjavale. Pri športni gimnastiki se je leta 1924 nekako ustalil moški program, medtem ko so ženske začele nastopati šele 1928 v Amsterdamu. Mnogo kasneje se je na program uvrstila ritmična gimnastika, saj je bila prvič predstavljena leta 1984 v Los Angelesu in pa mala prožna ponjava, ki se je uvrstil na program iger v Sydneyu leta 2000.\nGimnastika se je razvila iz vaj, ki so jih izvajali stari Grki. Njihove vaje so vključevale so vključevale tudi spretnosti za cirkus. Z gimnastiko so želeli utrditi telo. Vsak grk je imel zase posebno vajo, ki jo je rad izvajal in se ob njej tudi krepil. Vsako večje grško mesto je imelo telovadnico ali dvorišče za skakanje, tekanje in rokoborbo. Po grkih so za gimnastiko Grkov izvedeli še Rimljani z cesarjem Teodozijem na čelu.Ta je ukinil takratnje olimpijske igre. Za nekaj stoletij je bila telovadba popolnoma pozabljena. Sama beseda izvaja iz grške besede γυμναστική. V 15. Stoletjuje Girolamo Mercurale iz Italije napisal De Arte Gymnastica, v kateri je združil več ključnih pomenov pri sami telovadbi. Knjiga je vsebovala zapiske o pravilni prehrani, pravi telesni dejavnosti ter primerni higieni. Ta knjiga velja za prvo knjigo o medicini športa."
+    },
+    {
+        "id": "036vg6",
+        "description": "Rokoborba je oblika borilne veščine, pri kateri si tekmeca brez dodatnih pripomočkov prizadevata na podlagi uporabe fizične moči, teže celotnega telesa in posebnih vzvodov ter metov pridobiti premoč drug nad drugim.\nRokoborba je ena najstarejših oblik golorokih borilnih veščin na svetu hkrati pa je zaradi svoje zgodovinske prisotnosti v različnih oblikah po vseh celinah t.i. »svetovna« borilna veščina.\nRokoborba je tudi ena izmed najstarejših oblik tekmovalnih športov."
+    },
+    {
+        "id": "04xsv",
+        "description": "Borilne veščine ali umetnosti bojevanja so sistemi urejenih metod vadbe telesa in tudi duha, z namenom učinkovitega bojevanja, tako golorokega kot tudi oboroženega. Pojem se dandanes uporablja predvsem v povezavi z golorokimi azijskimi borilnimi veščinami, čeprav v resnici zajema raznolike veščine bojevanja z vsega sveta."
+    },
+    {
+        "id": "03_ly",
+        "description": "Januar ali Prosinec je prvi mesec v gregorijanskem koledarju. Ime je dobil po rimskem bogu Janusu.\nIzvirno slovensko ime za januar je prosinec, hrvaško siječanj, češko leden in poljsko styczeń. Druga stara imena so: prosenec, prozimec, prezimec, zimec, lednik, snežnik, svečen, mali božičnik, prvnik, novoletnik, sredozimen, v prekmurščini sečén in tudi januar."
+    },
+    {
+        "id": "02xx5",
+        "description": "Februar ali svečan je drugi mesec v gregorijanskem koledarju. Ime je dobil po latinskem prazniku sprave in očiščenja.\nIzvirno slovensko ime za februar je svečan. Druga stara imena so: sečan, sičan, svečnik, sičnjek, svičan, süšec, mali mesec, dežnik, talnik, poznozimec, drugnik, drujnik. Po mitološkem liku Vesni so ga imenovali tudi vesnar."
+    },
+    {
+        "id": "04wzr",
+        "description": "Marec ali sušec je tretji mesec v gregorijanskem koledarju. Ime je dobil po rimskem bogu Marsu.\nIzvirno slovensko ime za marec je sušec, hrvaško ožujak, češko březen in poljsko marzec. Druga stara imena so: brezen, breznik, ebehtnik, mali traven, vetrnik, sušnik, postnik, ceplenjak, brstnik, ranoživen, spomladanjec, tretnik. V prekmurščini mali tráven, in tudi marciuš."
+    },
+    {
+        "id": "0lkm",
+        "description": "April ali mali traven je 4. mesec v letu po gregorijanskem koledarju in ima 30 dni. Ime meseca izhaja iz latinske besede aperire, ki pomeni »odpreti« in se verjetno nanaša na pomladno prebujanje in rast rastlin. Po drugi teoriji ime izhaja iz imena Apro oz. iz indoevropejske besede apero, ki pomeni naslednji.\nApril se vsako leto začne na isti dan v tednu kot julij, v prestopnih letih pa tudi na isti dan kot januar.\nIzvirno slovensko ime za april je mali traven, hrvaško travanj, češko duben in poljsko kwiecień. Druga stara imena so: traven, veliki traven, zelenár, deževni mesec, velikotravnik, mali travnik, travnjek, travnik, jurjevščak, štrtnik, ovčjider. V irskem koledarju se ta mesec imenuje Aibreán in je tretji in zadnji mesec pomladi. V prekmurščini velki tráven, ali völki tráven in tudi apriliš."
+    },
+    {
+        "id": "04w_7",
+        "description": "Maj ali veliki traven je peti mesec v gregorijanskem koledarju, z 31 dnevi. Maj je dobil ime po rimski boginji Maji.\nIzvirno slovensko ime za maj je veliki traven, hrvaško svibanj, češko květen in poljsko maj, prekmursko risálšček, nekoč risáolšček in tudi májuš."
+    },
+    {
+        "id": "040fb",
+        "description": "Junij ali rožnik je šesti mesec v letu po gregorijanskem koledarju in ima 30 dni. Junij se imenuje po rimski boginji Juno, Jupitrovi ženi.\nIzvirno slovensko ime za junij je rožnik, hrvaško lipanj, češko červen in poljsko czerwiec, prekmursko ivánšček in tudi juniuš.\nSolsticij se zgodi okoli 21. junija, čeprav lahko pade tudi na 20. ali 22. Na severni polobli je to poletni solsticij, na južni pa zimski.\nPrvi ponedeljek v juniju je na Irskem državni praznik, po irskem koledarju pa se ta mesec imenuje Meitheamh in je srednji mesec poletja."
+    },
+    {
+        "id": "040fv",
+        "description": "Julij je sedmi mesec gregorijanskega koledarja, z 31 dnevi. Julij je dobil ime po Juliju Cezarju, pred tem so ga latinsko imenovali Quintilis, ker je bil peti mesec rimskega koledarja, v katerem se se je leto začelo z marcem. Izvirno slovensko ime za julij, hrvaško srpanj, češko červenec in poljsko lipiec. Izvirno slovensko ime za julij je mali srpan."
+    },
+    {
+        "id": "0ll3",
+        "description": "Avgust ali veliki srpan je osmi mesec gregorijanskega koledarja. Izvirno slovensko ime za avgust je veliki srpan, hrvaško kolovoz, češko srpen in poljsko sierpień, prekmursko méšnjek in tudi augustuš.\nMesec avgust se tako imenuje v čast rimskega cesarja Avgusta. Baje ima mesec 31 dni, ker je Avgust želel imeti v svojem mesecu toliko dni kot Julij Cezar v svojem juliju. Cesar je avgust postavil, kjer je, ker je to mesec v katerem je umrla Kleopatra. Preden ga je preimenoval, se je mesecu latinsko reklo Sextilis, saj je bil šesti mesec v rimskem koledarju, ki se je začel z marcem."
+    },
+    {
+        "id": "06vkl",
+        "description": "September ali kimavec je 9. mesec v gregorijanskem koledarju in ima 30 dni. Ime prihaja iz latinske besede septem, ki pomeni »sedem« - september je bil namreč po rimskem koledarju sprva sedmi mesec v letu, preden so vstavili januar in februar.\nSeptember se vsako leto začne na isti dan v tednu kot december.\nIzvirno slovensko ime za september je kimavec, hrvaško rujan, češko září in poljsko wrzesień. V prekmurščini mihálšček, nekoč miháošček in tudi september. V grški civilizaciji se je september imenoval Boedromion.\nV irskem koledarju se ta mesec imenuje Meán Fómhair in je srednji mesec v jesenskem letnem času."
+    },
+    {
+        "id": "05lf_",
+        "description": "Oktober ali vinotok je deseti mesec v gregorijanskem koledarju.\nIzvirno slovensko ime za oktober je vinotok, hrvaško je listopad, prekmursko pa vsesvéšček in tudi oktober."
+    },
+    {
+        "id": "05cw8",
+        "description": "November ali listopad je enajsti mesec gregorijanskega koledarja.\nIzvirno slovensko ime za november je listopad, hrvaško studeni, češko listopad, poljsko listopad in prekmursko andrejšček, pa tudi november."
+    },
+    {
+        "id": "028kb",
+        "description": "December ali gruden je dvanajsti mesec gregorijanskega koledarja, z 31 dnevi. Ime je dobil iz latinske besede decem, ki pomeni »deset«, saj je bil prvotno deseti mesec leta, preden so v koledar vstavili meseca januar in februar.\nIzvirno slovensko ime za december je gruden, hrvaško prosinac, češko prosinec, poljsko grudzień in prekmursko prosinec, pa tudi december. December ima svoj vzdevek »veseli december«, saj ga polnijo številni prazniki in ljudske zabave. Krščanski verniki praznujejo božič, ko se 25. decembra spominjajo rojstva Jezusa Kristusa, 26. december je pa Slovenski državni praznik, dan samostojnosti in enotnosti."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Sever je stran neba, določena je s presekom opazovalčevega obzorja v smeri, v kateri je senca navpičnega stebra podnevi najkrajša."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Jug je ena od štirih glavnih strani neba. Južna smer vedno kaže proti južnemu polu zemlje. Strani neba služijo za navigacijo in podajanje koordinat. V sociološkem smislu jug pomeni nerazvito področje."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Zahod je ena od štirih glavnih strani neba. Na kompasu je zahod 90° protiurno od severa. Ime zahod pomeni, da na tem mestu zahaja sonce."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Vzhod je ena od štirih glavnih strani neba. Na kompasu je vzhod 90° urno od severa. Ime vzhod pomeni, da na tem mestu vzhaja Sonce."
+    },
+    {
+        "id": "0j0k",
+        "description": "Azija je največja celina. Obsega skoraj tretjino kopne Zemlje in je štirikrat večja od Evrope, skupaj s katero tvori Evrazijo, ozka kopenska ožina pa jo povezuje tudi z Afriko na mestu, kjer je danes Sueški prekop. Skoraj v celoti leži na vzhodni in severni zemeljski polobli. Po obliki je razpotegnjena v smeri vzhod - zahod; njena najzahodnejša točka je rt Baba v Anatoliji pri 26°4' vzhodne zemljepisne dolžine, najvzhodnejša pa otočje Diomede v sredini Beringovega preliva pri 169°0' zahodne zemljepisne dolžine, s čemer obsega 11 časovnih pasov.\nMeje med kontinenti niso povsem jasno določene. Med Evropo in Azijo potekajo skozi Dardanele, po Marmarskem morju, skozi Bosporsko ožino, po Črnem morju, po Kavkazu, Kaspijskem jezeru in nato po uralskem grebenu. K Aziji spadajo tudi otoki v Indijskem in Tihem oceanu.\nIme Azija naj bi izhajalo iz asirske besede asu. Toponim predstavlja bolj družbeno-geografski kot fizični koncept, saj zaradi velikosti obsega izjemno raznolike geografske in kulturne regije."
+    },
+    {
+        "id": "059g4",
+        "description": "Severna Amerika je tretji največji kontinet na svetu. Najvišji vrh ima na Aljaski. Kontinent je poznan predvsem po svojih velemestih in naravnih parkih. Ko govorimo o državah Severne Amerike običajno govorimo o Kanadi in ZDA. Severna Amerika ima približno 525 milijonov prebivalcev."
+    },
+    {
+        "id": "06n3y",
+        "description": "Júžna Amêrika je celina, ki jo sicer prečka ekvator, vendar je večina njene površine na južni polobli. Južna Amerika leži med Pacifikom in Atlantikom, v Panami pa se stika z edino drugo celino, Severno Ameriko. Južna Amerika zavzema večji del Latinske Amerike. Po površini je manjša od Severne Amerike, Azije in Afrike, vendar večja od Evrope. Delimo jo na tri nižavja, dve višavji in eno veliko gorsko verigo: Amazonsko, Laplatsko in Orinoško nižavje, Brazilsko in Gvajansko višavje in gorstvo Andov.\nPo površini je Južna Amerika na četrtem mestu, po prebivalstvu pa na petem. Obsega 17.840.000 km² in ima 331 425 000 prebivalcev. Njena najvišja gora je Aconcagua 6960 m, najdaljša reka Amazonka 6516 km in največje jezero Titikaka 8340 km²."
+    },
+    {
+        "id": "02j9z",
+        "description": "Evrópa je celina, katere meje so Atlantski ocean na zahodu, Arktični ocean na severu, Sredozemsko morje na jugu. Kot vzhodno mejo z Azijo so iz zgodovinskih razlogov določili gorovje Ural in reko Ural na vzhodu, nekateri viri pa kot mejo navajajo kar 60. poldnevnik, ki leži še malenkost vzhodneje od Urala. Najbolj deljena mnenja so glede meje med Kaspijskim jezerom in Črnim morjem na jugovzhodu. Najbolj razširjeno mnenje postavlja mejo po Kavkazu po južni meji Ruske federacije, nekateri k Evropi štejejo tudi zakavkaške države Gruzijo, Armenijo in Azerbajdžan, medtem ko drugi mejo med celinama postavljajo na reko Kuban severno od Kavkaza. Meja med celinama nato teče iz Črnega v Sredozemsko morje po ožinah Bospor in Dardanele, ki ločujeta Balkanski polotok od Male Azije. Geografsko je torej Evropa le zahodni del superceline Evrazije, ki jo tvori z Azijo; v dve celini ju razločujemo zaradi političnih in zgodovinskih vzrokov. Po velikosti je Evropa z 10.149.253 km² druga najmanjša celina, le malo večja od Oceanije, po prebivalstvu - 700.990.000 - pa tretja največja, za Azijo in Afriko.\nDržave, ki jih štejemo za evropske, ne sledijo vedno geografskim mejam. Če je zaradi zgodovinskih in verskih razlogov prištevanje Rusije k Evropi še razumljivo, je to že nekoliko manj samoumevno pri Turčiji, še manj pa pri Cipru, ki bi po geografskih merilih moral soditi v Azijo, k Evropi pa ga štejemo predvsem zaradi grškega prebivalstva. Podobno bi veljalo za Malto, ki ima zaradi arabskega pečata in kolonialne preteklosti marsikaj skupnega s severno Afriko, vendar jo zaradi krščanstva in sorazmerno dobre razvitosti kljub vsemu štejemo k Evropi. Zanimivo, da k Evropi skoraj nihče ne prišteva Kazahstana, čeprav delček njegovega ozemlja leži na desnem bregu reke Ural."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Áfrika je za Azijo druga največja celina, tako po površini kot po prebivalstvu. S 30.244.050 km² skupaj z otoki pokriva 20,3 % celotne kopenske površine na Zemlji, milijarda njenih prebivalcev pa predstavlja eno sedmino človeštva."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antárktika je celina, ki obkroža Zemeljski južni tečaj. Najbližje Antarktiki sega ozemlje Južne Amerike, Avstralija leži 2.500 kilometrov stran, do najjužnejšega konca Afrike pa je kar 4.000 kilometrov. Je najhladnejše mesto na Zemlji, saj je skoraj popolnoma pokrita z ledom. Ne smemo je zamenjavati z Arktiko, ki obkroža severni tečaj.\nCelino so odkrili poznega januarja leta 1820. Več podrobnosti lahko najdete v članku Zgodovina Antarktike.\nAntarktika je med sedmimi celinami peta po velikosti. Velikost njene površine se spreminja z letnimi časi – poleti meri približno 14,2 milijona kvadratnih kilometrov, kar je približno dvakratna velikost najmanjše celine Avstralije oziroma polovica površine ZDA. V zimskih mesecih se površje Antarktike dvakrat poveča.\nSestavljena iz dveh osnovnih delov – Vzhodne Antarktike, ki se imenuje tudi Velika Antarktika, ter manjše Zahodne Antarktike. Ločnico med obema območjema predstavljajo Transantarktične gore. Več kot 99 odstotkov površja je prekritega z ledom, ki vsebuje kar 70 odstotkov vse sladke vode na Zemlji. Zaradi debelega sloja ledu je njeno površje zelo visoko, saj je povprečna nadmorska višina kar 2.300 metrov."
+    },
+    {
+        "id": "05p553",
+        "description": "Komédija ali veseloígra je književna zvrst, ki uporablja komično in smešno dogajanje. Opira se na humor. Komedija je bila prvotno namenjena uprizarjanju v gledališču. To so bile zgodbe z veselimi in srečnimi konci, v nasprotju s tragedijami. Humor je nastal spontano, danes pa je pomemben del komedij. Komedija prikazuje dogajanje, v katerem junaki o sebi zbujajo smešen vtis. Bistvo komičnega je v tem, da junak, ne da bi vzbujal pri gledalcu ali bralcu sovraštvo ali odpor, učinkuje smešno, ker so v razvoju dejanja zanikane tiste kvalitete in možnosti, ki jih želi ali hoče imeti, njegove pomanjkljivosti in napake pa izpostavljene kritiki in smehu.\nV njih kritizirajo in smešijo tiste pomanjkljivosti in napake, ki imajo vsesplošno in nadčasovno aktualnost, ali tiste, ki poleg tega vsebujejo še posebne namige na sodobno družbo.\nKomedija je ena prvih zvrsti literature. Definiral jo je grški filozof Aristotel v delu Poetika."
+    },
+    {
+        "id": "0hcr",
+        "description": "Animacija je iluzija gibanja, ki jo dosežemo s hitrim prikazovanjem sličic. Vsaka sličica je nekoliko drugačna od predhodne. Običajno posnamejo 24 ali 12 sličic na sekundo, kar presega sposobnost človeškega vida razločiti posamezne sličice.\nGlavni tipi animacije so risba na celuloidnih folijah, animacija lutk in predmetov ter računalniška animacija."
+    },
+    {
+        "id": "06n90",
+        "description": "Znánstvena fantástika je zvrst izmišljene pripovedi, ki se v glavnem ukvarja z vplivom izmišljenega znanstvega in\/ali tehnološkega napredka na družbo ali posameznika, pogosto v prihodnosti.\nAvtor postavi dogajanje v neko v času nastanka dela nemogoče stanje, ki pa ga je iz dotedanjega napredka mogoče bolj ali manj smiselno napovedati. V tem se znanstven fantastika razlikuje od sorodne zvrsti, fantazije, ki opisuje svetove v nasprotju z zakonitostmi resničnega sveta.\nSkozi zgodbo v tem novem okolju avtor predstavi svoje razmišljanje o različnih vidikih človeštva ter možnih razpletih. Znan primer so zgodbe o robotih Asimova, ki obravnavajo različne vidike sožitja ljudi in robotov. Podzvrst znanstvene fantastike, znana kot alternativna zgodovina, razvije svet, ki bi bil stvaren, če bi se določene možnosti, ki so dane že v današnjem času, razvile naprej, ali pa bi se razvile drugače.\nZa vplivnejše pisce veljajo predvsem Asimov, Clarke, Sheckley, Adams, Lem in Bradbury. Ne glede na sodobno priljubljenost tovrstnih del, pa še vedno velja za enega najbolj plodnih in domišljije polnih piscev ZF francoski pisatelj Jules Verne."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Fantazijska pripoved je izraz za literarni, navadno prozni žanr, ki temelji na zamišljanju pojavov zunaj neposredno dojete stvarnosti. Fantazija je žanr fikcije, ki običajno vsebuje čarobne in nadnaravne pojave. Sorodna je žanru znanstvene fantastike."
+    },
+    {
+        "id": "0g65_",
+        "description": "Pustolovske videoigre so zvrst videoiger, pri katerih igralec prevzame vlogo protagonista v interaktivni zgodbi, v kateri napreduje z raziskovanjem okolice in reševanjem ugank namesto fizičnih izzivov. Ta osredotočenost na zgodbo omogoča zgledovanje po drugih oblikah pripovedništva, kot sta književnost in film. Velika večina pustolovskih videoiger je namenjenih zgolj enemu igralcu, saj je zaradi poudarka na zgodbi in likih večigralstvo težko izvedljivo. Večina pustolovskih iger deluje po sistemu pokaži-in-klikni, pogosto se žanr kombinira tudi z akcijskim.\nPriljubljenost te zvrsti je bila v Zahodnem svetu na vrhuncu v poznih 1980. do sredine 1990. let, ko so bile igre tudi med tehnično najnaprednejšimi od vseh videoiger. Danes so na Zahodu skoraj izginile, za razliko od Vzhodne Azije, kjer so izjemno priljubljeni t.i. »vizualni romani«. Ti predstavljajo kar 70 % trga računalniških iger na Japonskem."
+    },
+    {
+        "id": "06by7",
+        "description": "Rock ali rók [rók] je razširjena glasbena zvrst v popularni glasbi, običajno uporablja vokal, kitare in močno poudarjen ritem. Rock je nastal v ZDA po drugi svetovni vojni. Razširil se je po vsem svetu, danes poznamo veliko zvrsti rocka. V veliko podzvrsteh so pogosto uporabljeni tudi instrumenti s tipkami, npr. klavir in sintetizator. Pihala in trobila so bila bolj razširjena ob nastanku rocka, danes pa so v glavnem zanemarjena, z izjemo saksofona, ki se počasi uveljavlja.\nSam izraz rock and roll se včasih nanaša na začetna obdobja 50-tih in 60-tih let 20. stoletja, kasneje pa je bolj običajen krajši izraz rock. Z »britanski invazijo« se je ponovno razširil v ZDA in povsod po svetu in je pomembno vplival na družbene spremembe. Danes je z mnogimi podzvrstmi najpopularnejša glasbena zvrst."
+    },
+    {
+        "id": "064t9",
+        "description": "Pop glasba, na kratko pop, je vrsta popularne glasbe.\nPop glasba lahko vključuje elemente rocka, hip hopa, reggaea, plesne glasbe, R&B, jazza, elektronske glasbe in druge zvrsti."
+    },
+    {
+        "id": "03_d0",
+        "description": "Jazz ali džez [džéz tudi džêz] je glasbena zvrst, ki je dobila prvotno podobo okoli leta 1920. Njeni začetki segajo v glasbeno tradicijo severnoafriških kultur, ki so se na ameriških tleh spojile z ameriško in evropsko kulturo in njunimi glasbenimi instrumenti. Njegove korenine segajo v blues, ragtime in tudi v glasbo evropskih vojaških orkestrov.\nV kompozicijskem smislu je prepoznaven po poliritmih, sinkopah, improvizaciji, »modrih notah«, »neperiodični gradnji«, itd.\nJazz ima velik vpliv na vse glasbene sloge 20. stoletja.\nIzraz jazz je bil sprva slengovski izraz z zahodne ameriške obale, ki je označeval glasbo iz Chicaga okoli leta 1915, njegov izvor pa je neznan.\nTipično se v jazzu pojavljajo glasbila: kitara, bas kitara, saksofon, pozavna, klavir, klarinet, trobenta, kontrabas, bobni, vokal."
+    },
+    {
+        "id": "01lyv",
+        "description": "Country je glasbeni slog, značilen za evropske priseljence z ameriškega Juga in območja Apalačev. Elementi countryja so predvsem melodika in večglasno petje, zanj pa so značilna tudi optimistična besedila in preprosti ljudski napevi ob spremljavi kitare, banja, ustne harmonike, ljudskih inštrumentov...\nCountry imenujemo tudi »blues belcev«. Ime izvira iz številnih slogov ameriške ljudske glasbe, ki izhaja iz ljudske glasbe priseljencev."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hip-hop je kulturno gibanje, ki se je pričelo v getih med mladimi Afro-Američani in Latino-Američani v New Yorku in se nato razširilo po vsem svetu. Štirje glavni elementi hip-hopa so:\n⁕rap\n⁕DJ-stvo\n⁕grafiti\n⁕breakdance\nNekateri štejejo beatboxing kot peti element hip-hopa, drugi dodajajo politični aktivizem, hip-hop modo, hip-hop sleng in druge elemente kot pomembne značilnosti hip-hopa. Za širše množice je postal izraz hip-hop sinonim za rap, vendar je to mišljenje zmotno. Rap je samo eden od elementov hip-hopa.\nPrvi raper in DJ Afrika Bambaata je hip-hop 23. septembra 1996 definiral takole:\nPionir rapa, DJ Kool Herc, okrajšava za Kool Hercules, svoj vzdevek si je zaslužil s svojo fizično pojavo, je hip-hop razložil tako:"
+    },
+    {
+        "id": "03lty",
+        "description": "Metal je glasbena zvrst, ki se je v poznih šestdesetih in zgodnjih sedemdesetih razvila iz hard rocka. Iz psihedeličnega rocka in blues rocka so skupine potegnile močan in težek zvok kitar in bobnov, ki ga zaznamujejo močne distorzije in hitri kitarski soloti. Allmusic ga opiše: »Izmed vseh podzvrsti rocka, heavy metal najbolj poseže v skrajnosti, v glasnosti, mačizmu in teatraličnosti.«"
+    },
+    {
+        "id": "05r6t",
+        "description": "Punk ali punk rock [pánk rok] je proti-institucionalno glasbeno gibanje, ki se je razvilo med letoma 1976 in 1980. Med začetnike te zvrsti pa uvrščamo skupine The Ramones, Sex Pistols, The Clash in The Damned. Ta izraz pa se uporablja tudi za poimenovanje kasneje razvitih podzvrsti, ki imajo nekaj ključnih značilnosti izvirnega punk gibanja."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Klasična glasba je pojem, s katerim označujemo vsa stilna obdobja od renesanse dalje. Z renesančno glasbo je bilo doseženo skladje med vsemi elementi glasbenega izraza.\nV pogovornem smislu je klasika za razliko od modernosti sinonim za nekaj ustaljenega, preizkušenega in priznanega. Zato pogosto prihaja do problematike v razlikovanju med pojmoma sodobna resna glasba in klasična glasba, pri čemer predstavlja sporni, dvoumni pojem »sodobna klasična glasba«.\nS pojmom klasiki označujemo vse tiste ustvarjalce, katerih dela so se zapisala v zgodovino umetnosti, najsi bodo likovni umetniki, književniki ali glasbeniki. Tudi skladatelje, ki so bili v času svojega življenja razglašeni za revolucionarne »moderniste«, danes imenujemo klasiki.\nRazlikovati je treba tudi med izrazom klasika in obdobjem, ki ga imenujemo klasicizem, ki je okvirno trajalo med leti 1750 in 1820, njegovi glavni predstavniki pa so bili Haydn, Mozart in Beethoven. Podobna težava se v slovenskem jeziku pojavlja tudi pri drugih pridevnikih, npr. romantična glasba, ki lahko pomeni romantično glasbeno obdobje ali pa glasbeni stil, ki je sicer nastal v tem obdobju, skladatelji pa ga uporabljajo tudi v kasnejših obdobjih."
+    },
+    {
+        "id": "02lkt",
+        "description": "Elektronska glasba je glasba, ki uporablja elektronska glasbila in elektronsko produkcijsko tehnologijo. Pojem elektronska glasba se včasih uporablja namesto pojma elektronska plesna glasba, ki pa zajema ožje področje glasbe kot pojem elektronska glasba.\nIzvajalci elektronske glasbe: M&M-music, DJ Umek, Hardwell"
+    },
+    {
+        "id": "0155w",
+        "description": "Blues je glasbena zvrst, ki ima korenine na ameriškem jugu, kjer so temnopolti sužnji garali na poljih bombaža. Blues pentatonika je harmonija pesmi, ki so jih pele skupine obiralcev bombaža - da bi lažje prebrodili delovni dan. Ko je prišlo do odprave suženjstva leta 1838, se njihov položaj ni kaj dosti izboljšal. Bili še vedno revni in nihče si ni mogel kupiti dragega inštrumenta, kot je na primer klavir. Kitara je bila dostopna, zato so prve blues skladbe kitarske. V dvajsetem stoletju je popularizacija rock'n'roll glasbe prinesla tudi zanimanje belcev za korenine temnopolte glasbe oz. za blues. Kmalu so tudi beli glasbeniki začeli igrati blues - tipična blues pevka je bila Janis Joplin. Danes je to glasba, ki jo igrajo glasbeniki po vsem svetu - ne glede na raso, veroizpoved in narodnost.\nBlues opisuje tako glasbeno obliko kot glasbeni žanr. Izvira iz afroameriških skupnosti konca 19. stoletja, za katere je bila značilna duhovnost, delavske pesmi, kriki, napevi in pripovedne balade.\nŽanr temelji na blues obliki, a vsebuje tudi druge elemente; na primer specifična besedila in instrumente. Blues lahko razdelimo na več podzvrsti, ki variirajo vse od country glasbe do urbanega bluesa. Podzvrsti so bile priljubljene skozi celotno 20. stoletje. Najbolj znani stili so Delta, Piedmont, Jump in Chicago blues. Druga svetovna vojna je blues zaznamovala s prehodom iz akustičnega do električnega bluesa, pa tudi pa s širjenjem občinstva, predvsem med belopolto poslušalstvo. V 60. in 70. letih prejšnjega stoletja se je razvil tudi blues rock."
+    },
+    {
+        "id": "06cqb",
+        "description": "Reggae [rêge, régi] je mešanica afriške, zahodnoevropske, ameriške in predvsem jamajške glasbe. V sebi združuje ameriški ritem in blues, jamajški mento, ska in rock-steady, afriško glasbo burru in izboljšano tehniko snemalnih studiev. Zapleteno burru bobnanje poudarja čisti afriški ritem, prirejen na osnovno instrumentalno sestavo električnega basa, ritmične kitare, električnih orgel, bobnov in trobil. Tak orkester je odlična spremljava prav za način petja, kot je reggae. Gre za glasbo ki jo prepoznamo po značilnem poudarjanju lahkih dob. Nekateri menijo, da beseda reggae izhaja iz besede »regular«, zaradi enakomernega ritma. Drugi spet trdijo da izhaja iz latinskega izraza »za kralja«, saj pravijo, da prava glasba reggae časti boga Jaha, kralja neba. Gotovo je najbolj znani pevec, avtor lastnih skladb, legendarni pokojni reggae superzvezdnik Bob Marley, ki je pel, na primer o tem, da se je potrebno dvigniti in postaviti za svoje pravice, o svobodi in ljubezni. Sporočilo, ki je govorilo o ponosu in protestu, je pritegnilo tudi mnoge glasbenike, ki so dobivali za svoje izredno priljubljene pesmi od založb le bedno plačilo.\nPoslušalci pop glasbe so prvič postali pozorni na glasbo z Jamajke v petdesetih letih ob poslušanju pesmi Harryja Belafonteja, rojenega leta 1927 v New Yorku. Belafonte je sicer zaslovel kot filmski igralec, vendar ga še danes poznamo najbolj kot pevca jamajških pesmi."
+    },
+    {
+        "id": "02w4v",
+        "description": "Ljudska glasba je tradicionalna, večinoma ustno prenešena glasba raznih ljudstev ali manjših skupin. Značilna je za regionalno kulturo. Obsega njihovo vokalno, inštrumentalno in plesno glasbo. Ljudska glasba lahko daje tudi značilnosti moderni zabavni glasbi. Je odsev življenja temeljnih plasti etničnih skupin, kar vključuje delavski, kmečki ali obrtniški stan. Lahko predstavlja folklorno izročilo preteklosti, delno pa lahko nastaja tudi v današnjem času. Bistvo tovrstne umetnosti je, da je v kolektivni lasti vsega ljudstva, ki jo iz roda v rod ohranja, lahko pa tudi spreminja ali segmentarno opušča. Avtorji so večinoma pozabljeni in zato neznani, tvorec je lahko posameznik ali pa skupina; šolane ali neizobražene osebe. Prav tako ni pomembno, ali je taka glasba izvirna ali prevzeta od drugih ljudstev, pa tudi iz umetne glasbe. Značilno je, da jo ljudstvo v svojem okolju sprejme za svojo in njeno vsebino prenaša po ustnem izročilu. V slovenskem kulturnem prostoru so največ ljudske glasbe prenašali in izvajali potujoči, krajevni ter vaški godci. Prihajali so v vasi in mesta ob raznih prilikah, ob praznovanjih, ženitovanjih, veselicah, sejmih, godovanjih ter sezonskih delih."
+    },
+    {
+        "id": "02x8m",
+        "description": "Funk je glasbena zvrst, ki so jo izumili temnopolti američani od druge polovice šestdesetih let dalje. Značilni so sinkopiran ritem bobnov, poudarjena bas kitara in kitara, pomaknjena v zvočno ozadje. Sestavni del te glasbe so pihala in trobila.Tipičen predstavnik je James Brown, pa tudi skupina Funkadelic. V sedemdesetih letih se je pojavilo ogromno izvajalcev, tovrstna glasba pa se je uveljavila tudi kot filmska glasba sedemdesetih let - predvsem v akcijskih filmih. Obstaja tudi precej mjuziklov s funk glasbo - npr. hair iz 1979. Ko je v drugi polovici sedemdesetih let nastala disco glasba, je celotna struktura te glasbe temeljila na elementih funka. Še danes je nerazdružljivo povezan z najrazličnejšimi modernimi plesnimi ritmi. Skupina Chic pa je naredila pionirski funky-disko hit Le Freak."
+    },
+    {
+        "id": "0199g",
+        "description": "Dvokolo je prevozno sredstvo brez lastnega pogona. Sestavljeno je iz dveh koles, zadnje je preko verige in verižnikov povezano s pedaloma in gonilkama, preko katerih človek poganja kolo.\nKolo voznik usmerja s krmilom, kamor so pritrjene zavore, včasih tudi zvonec in svetilna telesa. Dvokolo se je izkazalo za izredno učinkovito prevozno sredstvo v času, ko je primanjkovalo denarja, ravno tako učinkovito pa deluje v s prometom prenatrpanih mestih.\nNa Slovenskem je bila najbolj znana tovarna koles ljubljanska tovarna Rog."
+    },
+    {
+        "id": "019jd",
+        "description": "Čóln je manjše vodno plovilo, namenjeno prevozu oseb in tovora po vodi. Splošno sprejeta velikostna meja med čolnom in ladjo ne obstaja, po mornariški definiciji pa je čoln plovilo, ki je lahko spravljeno na krovu ladje. Po tej definiciji tradicionalno obravnavajo kot čolne tudi podmornice, saj prve podmornice niso bile sposobne delovati neodvisno od matične ladje in so jih z ladjami tudi prevažali.\nDo sredine 19. stoletja so bili čolni grajeni iz naravnih materialov, predvsem lesa. Leta 1855 je bila patentirana železobetonska konstrukcija čolnov, od takrat pa so v gradnjo čolnov vnesli že mnogo drugih umetnih materialov, kot so steklena vlakna, poliester, ogljikova vlakna ipd. Kljub temu je les še vedno priljubljen material za gradnjo čolnov.\nZa pogon se največkrat uporablja moč rok, vetra, ali motor, bodisi zunajkrmni ali vgrajen."
+    },
+    {
+        "id": "01bjv",
+        "description": "Avtobus je prevozno sredstvo, namenjeno prevozu večjega števila ljudi v javnem prometu. Poznamo več vrst avtobusov: mestne, primestne in turistične avtobuse."
+    },
+    {
+        "id": "0k4j",
+        "description": "Avtomobíl, pogovorno tudi avto, je cestno vozilo z lastnim pogonom, običajno s štirimi kolesi na dveh oseh. Beseda je izposojenka iz francoske automobile, ta pa je skovanka iz grške autos in mobile. Beseda torej pomeni nekaj, kar se premika samo od sebe. Poznamo več razdelitev avtomobilov, po namembnosti tako ločimo osebne, tovorne in različne kombinirane avtomobile, ki so namenjeni bodisi prevozu potnikov, bodisi tovora. Beseda »avtomobil« se največkrat nanaša na osebna potniška vozila, druge tipe pa imenujemo kombinirana vozila oz. kombiji, tovornjaki, poltovornjaki, avtobusi ipd..\nGlavni deli avtomobila so:\n⁕iz jeklenih nosilcev zgrajena šasija ali v sodobnosti samonosna karoserija\n⁕pogonski agregat\n⁕menjalnik s sklopko\n⁕kolesa\n⁕voznikov prostor z volanom, pedali in različnimi gumbi ter ročicami za upravljanje\n⁕potniški in\/ali tovorni prostor\nDanes velika večina avtomobilov za pogon uporablja motor z notranjim izgorevanjem, ki ga žene bencin ali plinsko olje.\nAvtomobilska industrija je eden najpomembnejših industrijskih sektorjev sveta. Po oceni je bila leta 2010 v uporabi že več kot milijarda avtomobilov, dvakrat toliko kot leta 1986. Problemi zaradi množične uporabe avtomobilov so med drugim onesnaževanje z ogljikovim dioksidom ter drugimi ostanki izgorevanja bencina, uničevanje okolja za vzpostavitev prometne infrasktrukture in žrtve ter škoda zaradi prometnih nesreč. Težavo predstavlja tudi višanje cen fosilnih goriv; zato in zaradi težav z onesnaževanjem proizvajalci eksperimentirajo z alternativnimi načini pogona, kot so električni."
+    },
+    {
+        "id": "09ct_",
+        "description": "Helikópter, redko tudi vijákar, je zrakoplov, težji od zraka, in za razliko od letal vzgonske sile ne proizvaja s krili, temveč z vrtečim se rotorjem.\nHelikopterji so se v manjšem številu pojavili že pred drugo svetovno vojno, čeprav je sama zamisel helikopterja še starejša. Leonardo da Vinci je na primer razmišljal o takšnem letečem stroju. Pravi razvoj so doživeli po drugi svetovni vojni, prvo množično uporabo v vojaške namene pa med vietnamsko vojno."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motocikel je izraz za vozilo na dveh ali tudi treh kolesih.\nMotocikli so različnih oblik in velikosti ter moči, design pa je odvisen večinoma od namena uporabe, npr. cestno hitrostno dirkanje, dolga potovanja, dnevne vožnje zunaj naselij, hitro dnevno premikanje v prometnih zamaških v mestih, vožnja in premagovanje ovir zunaj cest, in podobno. V marsikaterem delu sveta so motocikli med najcenejšimi in najpogostejšimi oblikami motoriziranega transporta."
+    },
+    {
+        "id": "06q74",
+        "description": "Ládja je vozilo za plovbo po vodni gladini, oziroma vodno plovilo. Izum krmnega krmila v 12. stoletju in razvoj jadranja v času križarskih vojn sta skoraj povsem izpodrinila vesla. Ena izmed najboljših jadrnic je bil kliper Sir Launcelot, ki je prevažal čaj, in so ga zgradili leta 1865. Prvi parniki so se še vedno zanašali na jadra, ki so zagotavljala cenen in zanesljiv dodatni pogon. Odprtje Sueškega prekopa leta 1869 in uvajanje ekspanzijskega parnega stroja je parnike postavilo daleč pred jadrnice, pa tudi ladijski parni stroj je kmalu zamenjal motor z notranjim zgorevanjem. Tankerji so se na morjih pojavili po 2. svetovni vojni, ko se je v Evropi in ZDA močno povečala potreba po nafti. Dolgotrajno zaprtje Sueškega prekopa v letu 1967 in veliko povečanje porabe nafte sta pripeljala do nastanka orjaških tankerjev, t. i. supertankerjev. Za hitre prevoze na kratke razdalje so razvili hidrogliserje in hoverkrafte, ki so sprva prevažali vojaške enote, nato pa potnike in končno tudi hitro pokvarljive tovore. V zgodnjih 1990. letih so razvili tovorne avtomatizirane jadrnice in maglev ladje.\nLadje imajo na bokih barvni luči, ki posadkam drugih ladij ponoči omogočata določiti njihovo lego in smer plovbe. Na levi strani imajo rdečo luč, na desni pa zeleno."
+    },
+    {
+        "id": "0pg52",
+        "description": "Taksi je osebno prevozno sredstvo, ki ga upravlja poklicni voznik."
+    },
+    {
+        "id": "07jdr",
+        "description": "V železniškem transportu je vlak po predpisih sestavljena in speta skupina železniških potniških in\/ali tovornih vagonov z enim ali več vlečnimi vozili, motornik ali samodejno gnana motorna enota, vlečno vozilo, ki vozi samo ali motorno vozilo za posebne namene.\nVlaki lahko prevažajo potnike in\/ali tovor iz enega na drugo mesto vzdolž proge. Vodilo sta običajno dve vzporedni železniški tirnici, lahko pa je tudi enotirnična železnica ali pa maglev. Pogon vlaka je možen iz različnih virov, običajno pa je to ena ali več lokomotiv. Vlake lahko s kablom vlečejo tudi konji ali pa jih po klancu navzdol poganja gravitacija"
+    },
+    {
+        "id": "07r04",
+        "description": "Tovornjak je večje motorno vozilo, namenjeno prevozu tovora v cestnem prometu.\nTovornjake izdelujejo v mnogo različnih velikostih in konfiguracijah, zato je včasih razlikovanje med tovornjaki in manjšimi tovornimi vozili težavno. Po skupni evropski zakonodaji je tovornjak vozilo, posebej konstruirano za prevoz tovora, katerega največja skupna dovoljena teža presega 6.000 kilogramov oz. katerega nosilnost presega 3.500 kg. Za upravljanje tega vozila mora voznik pridobiti eno od posebnih vozniških dovoljenj, ki se razlikujejo glede na njegovo točno namembnost in število sedežev za potnike.\nSpodobne tovornjake poganjajo bencinski ali dizelski motorji z notranjim izgorevanjem, pri čemer prevladujejo dizelski."
+    },
+    {
+        "id": "07kfm",
+        "description": "Tramvaj ali tudi cestna železnica je vozilo na tirnicah, ki je lažje od vlaka, namenjeno za prevoz potnikov. Tramvaji se od drugih oblik železniških sistemov po tem, da so tiri postavljeni na mestne ulice, običajno na neko stezo, ki je rezervirana za tramvajski sistem. Druga razlika je tudi v dolžini vozila, saj tramvaj običajno sestavljajo le eden do tri vagoni. Posebna vrsta tramvaja je kabelska vzpenjača.\nTramvajski sistemi so pogosti v Evropi in so bili tudi pogosti drugje v zahodnem svetu. Po drugi svetovni vojni je veliko svetovnih mest ukinilo tramvaje in namesto njih uvedlo omrežje trolejbusov in avtobusov. Danes pa se tramvaji v sodobni obliki spet vračajo v mnoga mesta, čeprav se sedaj njihova vloga marsikje kombinira z mestno železnico ali podzemno železnico."
+    },
+    {
+        "id": "0ddnl",
+        "description": "Trajékt je vodno plovilo, ki je namenjeno predvsem prevozu potnikov in vozil. Razdeljen je na več palub. Garaža je prostor, kjer so med vožnjo parkirana vozila, ki se na trajekt vkrcajo preko pristajalne rampe. Potniki se v času plovbe zadržujejo v salonu ali v kabinah, aviosedežih, restavraciji, barih ...\nTrajekti so različnih velikosti, od majhnih za do petdeset avtomobilov, do velikih za več sto avtomobilov."
+    },
+    {
+        "id": "0f6pl",
+        "description": "Eléktrični trólejbus je električno vozilo, podobno avtobusu, ki se dotika dveh električnih žic, preko katerih z dvema drogovoma - trolama dobiva elektriko. Ena trola služi povratnemu toku, ker se za razliko od tramvaja, tok ne steka v tla. V nasprotju z mestno železnico trolejbusi uporabljajo namesto jeklenih koles gumijasta."
+    },
+    {
+        "id": "09g5h",
+        "description": "Vesóljsko plovílo je vozilo, ki lahko potuje skozi vesoljski prostor. Če ima plovilo človeško posadko, potem govorimo o vesoljski ladji, če pa je brez posadke jo imenujemo vesoljska sonda."
+    },
+    {
+        "id": "013xl3",
+        "description": "Hoverkraft je amfibijsko vozilo, ki se giblje na zračni blazini. Okrog plovila je gumijasto tesnilo, ki preprečuje izhajanje zraka. Tega pod vozilo vpihujejo močni ventilatorji. Ker vozilo lebdi nad površino, se giblje skoraj brez upora in doseže znatno višje hitrosti kot druga vozila. Hoverkraft je 1959 izumil britanski inženir Christopher Cockerell. Lahko potuje tudi nad gladkimi tlemi, posebno primeren pa je za močvirja. Nenadomestljiv je na obalah s peščenimi plažami, kjer ni urejenih pristanišč in kjer druge ladje ne morejo pristati."
+    },
+    {
+        "id": "074d1",
+        "description": "Podmornica je vsako pomorsko plovilo, ki je zmožno plutja pod in na morski gladini; po navadi plujejo pod morsko gladino, od tu tudi ime."
+    },
+    {
+        "id": "0342h",
+        "description": "Kitára je strunsko glasbilo, ki ima po navadi 6 strun. Delijo se na akustične in električne kitare.\nAkustične imajo debel, votel trup za boljši odmev zvoka, električne pa imajo tanjši trup, saj so za zvok pomembni le magneti, ki so pritrjeni na zgornjo stran kitare. Magnet lahko vgradimo tudi na akustično kitaro, vendar so zato potrebne jeklene strune, ki so pri električnih splošno uveljavljene."
+    },
+    {
+        "id": "0319l",
+        "description": "Rog je trobilni instrument.\nV današnji umetni glasbi predstavlja edino glasbilo nekdanje družine rogov. Praviloma je uglašen v F, kar pomeni, da v violinskem ključu transponira za čisto kvinto navzdol, v basovskem pa čisto kvarto navzgor.\nMed ljudskimi glasbili poznamo sicer mnogo rogov; ali pa med ostalimi umetnimi glasbili vendar pod oznako rog pojmujemo samo glasbilo te vrste. Ostala nosijo pred imenom obvezni pridevnik. Glasbenika, ki igra na rog po SSKJ, imenujemo hornist."
+    },
+    {
+        "id": "013y1f",
+        "description": "Orgle, grško όργανον – organon, so glasbilo s tipkami, pri katerem zvok nastaja z nihanjem zraka v piščalih.\nOrgle ločimo glede na vrsto različnih kriterijev:\n⁕po vrsti povezave med tipkami ter ventili, s katerimi nadzorujemo vstopanje zraka v piščali\n⁕po zasnovi sapnic\n⁕po izboru registrov ter zvočni zasnovi\n⁕po velikosti\nKo govorimo o velikosti orgel, imamo v mislih število registrov, manualov ter piščali. Manjše orgle, imajo običajno do 5 registrov ter le manualno klaviaturo; občasno gre za prenosne inštrumente. Srednje velike orgle imajo po navadi dva manuala in pedal ter 15 do 30 registrov. Večje orgle v katedralah in koncertnih dvoranah imajo do 5 manualov ter od 50 do 80 in več registrov.\nZvok spreminjamo z registri, pri čemer z registrskim potegom odpremo dovod zraka do posameznih vrst piščali, ki zazvenijo ob pritisku na manualne oz. pedalne tipke. Glede na nastanek zvoka v piščali registre oz. piščali delimo na ustnične in jezične. Skupino ustničnih piščali glede na menzuro nadalje delimo na principale, flavte in godala. Registre delimo tudi glede na lego, v kateri pojejo. Registre, ki pojejo v osnovni legi, imenujemo 8 čeveljske, medtem ko 16 čeveljski pojejo oktavo nižje, 4 čeveljski pa oktavo višje. V večjih orglah se nahajajo registri od 32 do 1 čeveljske lege. Čeveljska oznaka se načeloma nanaša na dolžino najdaljše piščali posameznega registra, pri čemer je dejansko označena tonska lega registra. Tako so lahko piščali 16 čeveljskega registra dolge le 8 čevljev, saj pokrite piščali pojejo oktavo nižje."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Flavta, slovensko imenovana tudi piščal, spada med pihala in je eno prvih glasbil, ki jih je izumil človek. Izdelovali so jih pastirji iz vrbovih vej, v Aziji pa iz bambusovih palčk.\nNarodni muzej Slovenije hrani najstarejše glasbilo iz družine flavt v svetu, t.i. fistulo, katere starost je ocenjena na 42.000 do 82.000 let.\nNarejena je iz kosti jamskega medveda in ima 4 luknjice, ki jih lahko pokrijejo prsti. Med primitivne oblike tega pihala štejemo pastirske žveglje in antične piščali, ki so jih povezovali v skupine in jih poimenovali siringa. Te piščali so narejene iz trstičja in nimajo luknjic. Njihova nadgradnja so piščali z luknjicami, kasneje kljunasta flavta, ki ima tudi ustnik, in blok flavta.\nPreko prečne flavte, ki je v 17. stoletju dobila prve zaklopke, je v 19. stoletju nastala današnja kovinska flavta, do tedaj so bili ti instrumenti leseni.\nTo, zadnjo reformo instrumenta je patentiral flavtist Teobald Böhm, ki je uvedel tudi novo tehniko igranja. Odtlej se je flavta uveljavila kot solistični in orkestrski instrument. Pod izrazom flavta v prvi vrsti pojmujemo današnjo flavto, čeprav lahko označuje širšo skupino instrumentov iz družine flavt."
+    },
+    {
+        "id": "05r5c",
+        "description": "Klavír je glasbilo s tipkami. Od 18. stoletja naprej je eden najbolj razširjenih glasbil. Razvil se je iz čembala, spineta in njima podobnih glasbenih instrumentov. Manjši klavir, pri katerem so strune obrnjene vertikalno, je pianino.\nZa koncertni klavir obstaja tudi nemški izraz Flügel,.\nSkladatelji, ki so v svetovnem merilu največ prispevali k solistični klavirski literaturi:\nJohann Sebastian Bach, Domenico Scarlatti, Wolfgang Amadeus Mozart, Ludwig van Beethoven, Robert Schumann, Sergej Rahmaninov, Franz Liszt, Aleksander Skrjabin, Claude Debussy, Frederic Chopin. Ti skladatelji so del obvezne študijske literature v vseh svetovnih pianističnih šolah.\nTemu instrumentu je bilo najbolj naklonjeno »romantično« 19. stoletje, saj so skladatelji skoraj brez izjeme komponirali za klavir. Nepogrešljiv je kot spremljevalni instrument pri skladbah za pihala, trobila, godala in vokal. Poleg tega je najbolj konvencionalen za izvajanje izvlečkov simfoničnih in opernih skladb, ki so nekakšna simulacija glasbe, komponirane za izvajanje z mnogimi različnimi instrumenti hkrati. Tako se npr. pevske vaje za operno predstavo ne izvajajo z orkestrom, kar bi pomenilo velik organizacijski problem, ampak le s spremljavo klavirja, ki simulira orkestersko igro. Takim spremljavam pravimo korepeticije, pianistu pa korepetitor."
+    },
+    {
+        "id": "0mkg",
+        "description": "Harmonika je glasbilo, na katerega igramo s pritiskanjem na tipke in gumbe ter s stiskanjem in raztezanjem meha. S tipkovnico nadziramo ton in višino glasu. Spada med aerofone. Sestavni deli harmonik:MEH: Če meha ne bi bilo, harmonika ne bi zvenela. Ne zveni, tudi če je meh nenatančno izdelan. MELODIJSKA OMARICA: Melodijska omarica je narejena iz lesa in je na desni strani harmonike. Ko pritisnemo na tipko, odpremo ventil. Če pa ne povlečemo meha, harmonika ne zveni. BASOVSKA OMARICA: Basovska omarica je narejena iz lesa in je na levi strani harmonike. Basovska omarica ima veliko več ventilov, ker ima tudi več gumbov. Na basovski omarici je tudi gumb za izprazniti zrak iz meha, ki nam ostane pri igranju. REGISTRI: Registri niso nujno potrebni za igranje. Spremenijo samo barvo tona in s tem oponašajo več inštrumentov. JERMENA: Jermena so tudi pomemben del pri harmoniki. Brez jermen je harmoniko zelo težko igrati, ker se nam premika.\n⁕diatonična harmonika\n⁕klavirska harmonika\n⁕kromatična harmonika"
+    },
+    {
+        "id": "04gc2",
+        "description": "Odvetnik je pravnik z pravniškim državnim izpitom, ki izpolnjuje zakonske pogoje za opravljanje odvetniškega poklica in je član odvetniške zbornice. Odvetništvo je svoboden poklic, hkrati pa opravlja pomembno funkcijo v okviru pravosodnega sistema. Odprto ima ali je zaposlen pri odvetniški pisarni. Strankam svetuje pri sklepanju pravnih poslov in jih zastopa pri opravljanju pravnih dejanj v postopkih pred državnimi organi, organi lokalne samouprave in drugimi organi ter organizacijami.\nV slovenskih pravnih postopkih so odvetniku pridržana le dejanja v zvezi z izrednimi pravnimi sredstvi, ter splošno pooblastilo je zanj širše. Sicer si lahko stranka izbere kot zastopnika kogarkoli; sodišče jo je dolžno opozoriti, če presodi, da ji je izbira zastopnika v škodo.\nOdvetniki zaračunavajo svoje storitve v skladu z Odvetniško tarifo, s stranko pa se lahko dogovori tudi za višje plačilo. Plačilo storitve zapade v plačilo po opravljeni storitvi, odvetnik in stranka pa se lahko dogovorita tudi za plačilo nagrade v višini, ki lahko dosega do 15 % prisojenega zneska. Poseben dogovor o plačilu v obliki deleža od prisojenega zneska je običajen predvsem pri odškodninskih zahtevkih."
+    },
+    {
+        "id": "05t4q",
+        "description": "Zdravník je strokovnjak, ki se poklicno ukvarja s prepoznavo bolezenskih stanj pri ljudeh in zdravljenjem ljudi in je za to posebej usposobljen. Zdravnik mora narediti Osnovno šolo, Srednjo medicinsko šolo in še fakulteto!"
+    },
+    {
+        "id": "0mn6",
+        "description": "Arhitekt je oseba, ki deluje na področju arhitekture.\nIzraz kot tak izhaja iz grške besede arkhitekton, ki pomeni »glavni graditelj«. V antični dobi je bil poklic vseobsegajoč, saj je imel arhitekt popolni nadzor nad vsemi vidiki gradnje, kar je do danes postalo nemogoče zaradi naraščujoče zapletenosti gradnje, uvedbe in razvoja gradbene statike, seizmike in podobnih fines, ki so recimo pripeljale do ločene gradbeniške stroke."
+    },
+    {
+        "id": "09jwl",
+        "description": "Glásbenik ali múzik je oseba, ki ustvarja ali poustvarja glasbo. Glede na način dela je lahko:\n⁕pevec\n⁕instrumentalist\n⁕skladatelj\n⁕dirigent\n⁕pedagog\n⁕aranžer\n⁕glasbeni producent\n⁕zvokovni mojster"
+    },
+    {
+        "id": "01d30f",
+        "description": "Učitelj je oseba, ki izobražuje druge, kar lahko opravlja poklicno ali ljubiteljsko. Poklicni izobraževalec mladine je pedagog, v izobraževanju odraslih pa se temu poklicu reče andragog. Učitelj pomaga učencem pri pridobivanju in utrjevanju znanj in spretnosti. Višje in visokošolski učitelji se imenujejo docenti in profesorji.\nUčitelji splošnih predmetov se šolajo na pedagoških fakultetah in filozofski fakulteti za strokovne predmete pa na ustrezni fakulteti, kasneje pa potrebi opravijo še dopolnilno pedagoško izobraževanje."
+    },
+    {
+        "id": "01c72t",
+        "description": "Skladátelj je ustvarjalec na področju glasbe: komponira glasbena dela, skladbe."
+    },
+    {
+        "id": "01t2ln",
+        "description": "Policist, tudi policaj, je pooblaščeni pripadnik enot policije. Policisti so med drugim odgovorni za vzdrževanje javnega reda in miru, preprečevanje kriminala in ob zaposlitvi zaprisežejo policijsko zaobljubo. Generalna skupščina OZN je leta 1979 sprejela tudi svetovni policijski kodeks, moralno navodilo v osmih členih, ki govori o obnašanju uslužbencev, odgovornih za uporabo zakonov. V času do 2. svetovne vojne so bili na ozemlju današnje Slovenije policisti znani kot orožniki. V času Avstro-Ogrske so orožniki pod ovratnikom nosili značilni kovinski vložek, na katerem je bila zapisana službena številka. Vložek je imel obliko rogljiča, zato se je orožnikov na Slovenskem oprijel tudi pogovorni izraz kifeljc, ki se je obdržal še v obdobju Kraljevine SHS, čeprav uniforma ni več vsebovala kovinskega polkrožnega vratnega vložka. Po 2. svetovni vojni se je na območju Jugoslavije kot organ za javno in državno varnost formirala milica, pripadnik njenih enot pa je bil miličnik. Ob osamosvojitvi Slovenije leta 1991 je vladna organizacija spremenila ime iz milice v policijo, s tem je njen pripadnik uradno postal policist. Pogovorno se v slovenskem jeziku zanj uporablja več izrazov."
+    },
+    {
+        "id": "05xls",
+        "description": "Programêr je oseba, ki se ukvarja s programiranjem z namenom, da za določen algoritem, ki je definiran, poišče programsko rešitev. Predvsem pri poslovnih programih definira sistemski analitik algoritme za posamezne programe. Pri manjših rešitvah pa lahko programer prevzame tako vlogo sistemskega analitika kot programerja. Ta združitev funkcij sistemskega analitika in programerja je verjetno najbolj opazna pri izdelavi enostavnejših igric, za kompleksne igre pa so za izdelavo odgovorni različni strokovnjaki.\nProgramer programira za določeno platformo, ki je pa lahko osrednji računalnik, osebni računalnik - z različnimi operacijskimi sistemi, mikroprocesor ali kakšna druga integrirana vezja. Za programiranje uporablja enega izmed mnogih programskih jezikov."
+    },
+    {
+        "id": "05wgy",
+        "description": "Pediatrija je veja medicine, ki se ukvarja z zdravstveno oskrbo dojenčkov, otrok in najstnikov. Osnovana je na unitarističnem pristopu, tako da združuje preventivno, kurativno in socialno zdravstveno dejavnost ter rehabilitacijo v razvojnem obdobju. Pomemben del dejavnosti v pediatriji je namenjen preventivi, predvsem preprečevanju bolezni in bolezenskih stanj ter škodljivih vplivov okolja na rastoči organizem.\nZdravnik-specialist, ki deluje na tem področju, se imenuje pediater."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Škárje so ročno orodje, ki se uporablja za rezanje tankih materialov. Uporabljamo jih za rezanje npr. papirja, lepenke in kartona, kovinske folije, tanke plastike, hrane, sukna, vrvi in žic. Prav tako jih koristimo v telesni negi za striženje las in nohtov. V nekaterih primerih so škarje mnogo bolj prikladne od noža. Tak primer je izrezovanje časopisnega članka, fotografije ipd.\nV nasprotju z nožem imajo škarje dve odvisni rezili. Večina tipov škarij ni izjemno ostra; pritisk dveh rezil je osnovna sila, ki reže material. Še manj ostre so otroške škarje, ki so poleg tega nemalokrat zaščitene s plastiko. Tipi škarij se lahko razlikujejo tudi npr. po tem, ali so dodatno prirejeni za levičarje oziroma desničarje.\nV strojništvu se uporabljajo tudi strojne škarje za rezanje oziroma striženje pločevine.\nŠkarje imajo tudi nekatere živali, npr. raki."
+    },
+    {
+        "id": "06qrr",
+        "description": "Gazirana pijača je pijača, običajno brezalkoholna, ki vsebuje raztopljen ogljikov dioksid v obliki ogljikove kisline. Ogljikova kislina daje tem pijačam značilen okus. Ker se ogljikov dioksid sicer le slabo raztaplja v tekočinah, so gazirane pijače pod tlakom. Ob odprtju steklenice oziroma pločevinke se tlak zmanjša in plin začne v obliki mehurčkov izhajati iz pijače.\nTudi na primer pivo in penine vsebujejo ogljikov dioksid, ki pa nastane s pomočjo bakterijskega vrenja."
+    },
+    {
+        "id": "01c6xf",
+        "description": "Pitna voda je tista voda, ki jo ljudje lahko uživamo z minimalnim tveganjem kratkoročnega ali dolgoročnega tveganja zastrupitve. V večini razvitih držav je pitna voda pripeljana v gospodinjstva. Komercialna in industrijska voda pa ima prav tako dosežene standarde pitne vode, čeprav se je večina ne uporablja za pripravo hrane ali pitje. Največ vode porabimo za čiščenje, zalivanje in umivanje.\nV veliko delih sveta imajo ljudje neustrezen dostop do vode za pitje in je velikokrat okužena z mikroorganizmi in strupenimi snovmi. Pitje in priprava hrane iz take vode velikokrat vodi v akutne in kronične bolezni ter je velik vzrok smrti v nerazvitih državah. Zatiranje bolezni, ki se prenašajo z vodo, je velik cilj izboljšanja javnega zdravstva za države v razvoju.\nVoda je bila vedno najpomembnejši vir življenja za vse znane žive organizme. Skupaj z maščobo, voda sestavlja približno 70% človeškega telesa. Je ključna sestavina metaoličnega procesa in služi kot topilo ter transportno sredstvo hranilnih snovi po telesu."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Káva je napitek iz prevretih zmletih zrn rastline kavovca.\nJe tradicionalno poživilo, katerega pitje je za pivce obred. Redni pivci stežka začnejo dan brez skodelice potrebnega napitka - črne kave, kave z mlekom ali kave s smetano, lahko pa tudi kakšne druge različice napitka, za katerega verjamejo, da jim pomaga pri prebujanju."
+    },
+    {
+        "id": "02859d",
+        "description": "Črni čaj je najmlajša vrsta čaja, ki so ga izumili pred 500 leti. Največ ga proizvedejo predvsem v Indiji in Šri Lanki, ker so ga popularizirali britanski kolonisti. Tudi v domovini čaja na Kitajskem, ga proizvedejo vedno več. Manjše plantaže so še v vzhodni Afriki, Indoneziji, Gruziji, Iranu, Vietnamu in Nepalu."
+    },
+    {
+        "id": "09w5r",
+        "description": "Noga človeka je v anatomiji človeka opredeljena kot spodnja okončina, ki obsega stegno, koleno, golen in stopalo."
+    },
+    {
+        "id": "0hz0h",
+        "description": "Zob je trd izrastek v čeljustih številnih vretenčarjev. Osnovna funkcija zobovja je trganje in žvečenje hrane, pri nekaterih živalih, posebej mesojedih, pa zobje služijo tudi kot orožje.\nPri človeku razlikujemo štiri vrste zob: sekalce, podočnike, ličnike in kočnike. Zob gradijo zobna krona, vrat in korenina. V otroški dobi imajo ljudje 20 mlečnih zob, odrasli pa imajo 32 stalnih zob.\nČloveški zob anatomsko ločimo na zobno krono, ta del vidimo v ustih, vrat in na zobno korenino. Ta se nahaja v alveolarni kosti. Zobno krono prekriva sklenina, zobno korenino pa cement. Zobovina je osrednje zobno tkivo. Zobovina obdaja zobno pulpo, ki se proti zobni korenini zoži in tu preide v koreninski kanal.\nZob je čvrsto vpet v spodnjo in zgornjo čeljustnico. Strukture, ki vežejo zob so štiri:\n⁕Pozobnica je specialno vezivno tkivo, ki ob zobnem vratu prehaja v vezivo dlesni.\n⁕Dlesen je sluznica ustne votline in se tesno prilega na periost obeh čeljustnic.\n⁕Cement je snov podobna kosti, ki se lahko obnavlja, vendar ne vsebuje Haversovih kanalov in krvnih žil. Sestoji se iz približno 50 % kalcijevega hidroksiapatita in 50 % organskih snovi ter vode. Izdelujejo ga specializirane celice, cementoblasti."
+    },
+    {
+        "id": "031n1",
+        "description": "Stopalo je spodnji del spodnje okončine. Ima pet prstov in tri skupine manjših kosti - nartnice, stopalnice in prstnice. Končni deli stopala in dlani so nohti, ki jih sestavlja strukturna beljakovina keratin."
+    },
+    {
+        "id": "0mhy4",
+        "description": "Grlo je organ, ki spada k dihalom. Leži pred požiralnikom v višini četrtega in petega vratnega vretenca in je zgrajeno iz štirih hrustancev. Na ščitastem hrustancu je na zgornjem robu zareza in pri moškem izraziteje štrli naprej kot pri ženski. Opnasta vez povezuje ščitasti hrustanec s podjezičnico. Pod ščitastim je prstanasti hrustanec, na katerem sta zadaj dva piramidasta hrustanca. Poklopec je podoben listu in je pripet na ščitasti hrustanec. Med hrustanci so razpete mišice grla, ki premikajo hrustance ter napenjajo in popuščajo glasilki ter ožijo oziroma širijo špranjo med njima. Notranjost grla prekriva sluznica, ki je rahla in občutljiva. Na vsaki strani sta dve sluznični gubi, med njima pa je grlno žepno. Spodnja sluznična guba je glasilka, ki je razpeta med ščitastim in piramidastim hrustancem. Špranja med njima je glasilni razporek. Med dihanjem sta glasilki razmaknjeni, med govorom pa se zbližata."
+    },
+    {
+        "id": "0dzdr",
+        "description": "Prsni koš je del telesnega ogrodja, ki ga sestavljajo rebra, prsna vretenca in prsnica. Navzdol je omejen s prepono.\nDvanajst parov reber tvori močno koščeno ogrodje okoli srca in pljuč. Deset parov reber je pritrjenih spredaj na prsnico in zadaj hrbtenico.\nSpodnja dva para reber, ki ju imenujemo prosta rebra, sta pritrjena le od zadaj na hrbtenico.\nMedrebrne mišice razširjajo in ožajo prsni koš med dihanjem, ter tako olajšujejo vdih in izdih."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Usta ali ustna votlina so odprtina, skozi katero žival ali človek jé hrano. V ustih se vrši mehanska prebava hrane. V ustni slini je encim ptialin, ki razgrajuje škrob v enostavne sladkorje. Zobje hrano zmeljejo, jezik jo obrača in potisne v žrelo. Hrana se v ustni votlini pomeša s slino."
+    },
+    {
+        "id": "03q69",
+        "description": "Las je dlaka na lasišču, zgrajena iz roževine, ki jo tvori keratin. Sicer je skorajda celotna površina kože poraščena z roženimi izrastki, vendar te izrastke imenujemo s skupnim izrazom dlake. Las imenujemo le dlako na lasišču.\nČloveški lasje zrastejo v dolžino dlje kot ostale človeške dlake in dlje kot dlake pri večini živali. Lasje so tudi gostejši od dlak po ostalih predelih telesa. V povprečju se na človeškem lasišču nahaja 100.000 lasnih mešičkov Popolna ali delna odsotost las se imenuje plešavost. Antropologi menijo, da so dolgi lasje posledica sekundarne naravne selekcije in je njihova funkcija večja privlačnost posameznika. Dolgi, zdravi lasje naj bi tudi kazali na zdravje posameznika.\nIz vsakega lasnega mešička lahko tekom življenja izraste do 20 las. Povprečno izgubi posameznik dnevno 20 las."
+    },
+    {
+        "id": "0dzd8",
+        "description": "Vrat je del telesa med glavo in trupom; sestavlja ga sedem vratnih vretenc in mišice."
+    },
+    {
+        "id": "0fjkt",
+        "description": "Jezik je mišičast organ, ki je zaradi številnih vlaken skeletne mišičnine izredno gibljiv. Vlakna se med seboj močno prepletajo. Nahaja se v ustni votlini. Služi kot čutilo za okus, za pomoč pri žvečenju hrane ter govornem sporazumevanju. Sluznica jezika je občutljiva na toploto, mraz, bolečino in dotik.\nAnatomsko ločimo na jeziku vrh, telo in koren. Mejo med korenom in telesom zaznamuje brazda ali terminalni sulkus, ki je oblike črke V. Njen vrhu je obrnjen proti žrelu. Na vrhu je vdolbinica."
+    },
+    {
+        "id": "039xj_",
+        "description": "Uhó je živalski organ za zaznavanje zvoka, poleg tega pa ima tudi pomembno vlogo pri vzdrževanju ravnotežja in zaznavanju položaja telesa v prostoru. Izraz se uporablja bodisi za celoten sistem za zbiranje in zgodnjo obdelavo zvoka, bodisi samo za njegov zunanji vidni del. Različne živali imajo ušesa na različnih delih telesa."
+    },
+    {
+        "id": "0k65p",
+        "description": "Rôka je v anatomiji človeka opredeljena kot del zgornjih okončin, ki obsega zapestne kosti, dlančnice in prstnice."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Nos je organ s katerim dihamo, ovohavamo. Vonj zaznavajo čutnice, ki so v kupoli nosne votline na zgornji nosni školjki. Sporočilo o vonjavi potuje od vohalnih čutnic po vohalnem živcu do središča za voh v možganih, ki je blizu področja za spomin in čustva."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Glava je v anatomiji dela telesa, kjer so možgani in del čutil."
+    },
+    {
+        "id": "014sv8",
+        "description": "Okó je organ vida, ki zaznava svetlobo. Pri različnih vrstah organizmov najdemo različne vrste na svetlobo občutljivih organov. Najenostavnejše oči zaznavajo le razliko med svetlim in temnim, bolje razvite pa lahko razlikujejo tudi med oblikami in barvami. Vidna polja nekaterih dobro razvitih oči, npr. pri človeku, se med seboj v veliki meri prekrivajo in s tem omogočajo boljše zaznavanje globine. Pri zajcih in kameleonih pa so nameščene tako, da je prekrivanje kar se da majhno."
+    },
+    {
+        "id": "02d46y",
+        "description": "Čepica je mehko pokrivalo brez krajcev. Športne in vojaške čepice imajo praviloma ščitnik.\nIzdelane so iz blaga, volne, usnja ali kožuhovine. Nosi se za zaščito pred mrazom, vetrom ali iz religioznih, modnih, socialnih in poklicnih razlogov.\nPoleg ščitnika ima lahko zaščito za tilnik in ščitnike za ušesa."
+    },
+    {
+        "id": "0216vm",
+        "description": "Copati so udobno obuvalo za doma. Praviloma so iz blaga, lahko pa so pletene s podplatom iz mehkega usnja.\nIzvirajo iz Orienta, kjer so bile pogosto bogato okrašene. Najstarejše so našli v Koptskih grobovih iz 2. do 8. stoletja. Preko Bizanca so prišle v Italijo in so od 15. stoletja znane tudi v ostali Evropi.\nCopati so tudi lahko športno obuvalo, na primer tekaški ali teniški copati."
+    },
+    {
+        "id": "01nq26",
+        "description": "Nogavice so kos oblačila, priljubljen predvsem v zahodni kulturi, sploh v hladnejših območjih le te. Žal točno leto, ali celo obdobje, iznajdbe ni znano, vendar lahko sklepamo, da so bile iznajdene precej zgodaj v zgodovini človeka, saj preprečujejo eno izmed večjih nadlog, ki je že zmeraj in še kar tare človeštvo, to je mraz."
+    },
+    {
+        "id": "01zzs",
+        "description": "Zgoščenka, CD-ROM je vrsta optičnega diska CD, ki služi samo za branje, vsebino torej dobi med izdelavo. Pri velikih nakladah je to najcenejša vrsta cedeja. Na enem disku je prostora za okrog 700 MB podatkov, kar pomeni, da lahko nanj zapišemo približno 700 milijonov črk dolgo besedilo, približno eno uro barvnega filma ali nekaj ur glasbe. Po CDjih je novi standard postal DVD. Njihovo uporabo vsak dan bolj izpodrivajo DVD-ji in USB ključki za prenašanje uporabniških podatkov, na primer fotografij."
+    },
+    {
+        "id": "01m2v",
+        "description": "Tipkóvnica je najbolj razširjena vhodna naprava. Podobna je tipkovnici pisalnega stroja. Uporabljamo jo za vnašanje ukazov in podatkov s tipkanjem. Obstaja veliko variant razporeda in označitve posameznih tipk. Tipkovnica lahko vsebuje tudi ločeno številsko tipkovnico in tipke za posebne namene, katerih učinke lahko definirajo posamezni programi.\nPoleg uvoza podatkov je namenjena tudi upravljanju z računalnikom samim in z programi, ki v njem tečejo. Zato poleg tipk s črkami, številkami in pisnimi znamenji ter tipkami za premikanje po zaslonu vsebuje še nekaj posebnih tipk. Tipkovnica je električno mehanska naprava, tipke so stikala."
+    },
+    {
+        "id": "020lf",
+        "description": "Računálniška míška je ena izmed najbolj razširjenih naprav za interaktivno delo z računalnikom. Lahko jo uvrstimo tudi v podskupino vhodnih naprav, kazalne naprave. Običajna miška je opremljena z gumbi, srednja tipka pa je pogosto kombinirana s kolescem, ki poleg pritiska omogoča tudi vrtenje.\nIme miška verjetno izvira iz podobnosti klasične računalniške miške z dvema tipkama z njeno živalsko sorodnico.\nZ miško izbiramo objekte in aktiviramo ukaze, ki jih vidimo na zaslonu računalnika. Tehnološke izvedbe miške so različne glede na:\n⁕način sledenja premikanju:\n⁕s kroglico\n⁕optično\n⁕povezava z računalnikom:\n⁕žična\n⁕brezžična\n⁕število gumbov\n⁕od enega celo do pet, najpogosteje dva ali trije. Uporabljajo pa se tudi \"igralske miške\" ki imajo 10 ali celo več gumbov. Te se predvsem uporabljajo za igrice.\nOsnovne akcije pri delu z miško so:\n⁕klik\n⁕dvojni klik\n⁕klik in vlek\n⁕vrtenje kolesca\nKaj in kako delamo z miško je odvisno od programa, s katerim trenutno delamo. Program mora prepoznati signale, ki prihajajo iz miške preko programskega gonilnika za miško."
+    },
+    {
+        "id": "02bc6",
+        "description": "Podatkovna zbirka, tudi podatkovna baza je sklop zbirke dokumentov, medsebojnih sklicevanj na dokumente in sistema za razvrščanje, iskanje in urejanje podatkov v zbirki. Podatkovna zbirka je torej tudi klasična knjižnica, a v vsakdanjem pogovoru zbirka pomeni računalniški sistem za hrambo podatkov.\nPodatkovne zbirke so se pojavile zaradi potrebe po hitrem dostopu do informacij, saj hramba podatkov iz preteklosti omogoča premišljeno odločanje o prihodnosti. S takšnim namenom so oblastniki gradili knjižnice in tak namen vodi današnja podjetja, da ustvarjajo zbirke podatkov o povpraševanju, strankah, vremenskih razmerah in sploh vsem, kar ima možnost vpliva na bodoče poslovanje."
+    },
+    {
+        "id": "020s1",
+        "description": "Datoteka je skupina podatkov v operacijskem sistemu, ki predstavlja zaključeno celoto. Običajno se nahaja na disku ali na magnetnem traku. Datoteka ima sebi lastno ime, lastnika, atribute. Glede na vsebino je programska ali podatkovna datoteka.\nEna od skupin podatkovnih datotek so tekstovne datoteke, v njih so shranjeni teksti, praviloma z komandnimi znaki za urejen izpis. Vse datoteke so shranjene v binarni obliki.\nDatoteke so v operacijskem sistemu organizirane v mape."
+    },
+    {
+        "id": "02nf_",
+        "description": "Elektronska pošta je način sestavljanja, pošiljanja in sprejemanja sporočil po elektronskih komunikacijskih sistemih. Večina sistemov elektronske pošte danes uporablja internet, po drugi strani pa je elektronska pošta ena najpogostejših uporab interneta.\nTo je ena od najbolj razširjenih storitev Interneta. Poleg tega je elektronska pošta tudi najpogostejši razlog, zakaj so se ljudje sploh odločili, da se povežejo z Omrežjem vse omrežij. Elektronska pošta oziroma e-pošta je namenjena izmenjavi sporočil, ki lahko vsebujejo tudi datoteke, čez računalniško omrežje. Ta izmenjava je postala tako priljubljena, zato ker lahko uporabnik pošlje sporočilo neposredno iz računalnika, ne da bi moral pismo natisniti, ga položiti v ovojnico, nanj prilepiti znamko in ga odnesti do poštnega nabiralnika.\nElektronska pošta vam omogoča, da si lahko s posamezniki ali skupinami ljudi po vsem svetu izmenjujete sporočila v obliki, ki je že pripravljena za obdelavo v računalniku. Zato postaja e-pošta glavni način sporazumevanja med podjetji in ustanovami, sploh pa znotraj teh organizacij, ki so že skoraj vse opremljene s krajevnimi omrežij osebnih računalnikov."
+    },
+    {
+        "id": "03rsh",
+        "description": "Vhodno-izhodne enote omogočajo izmenjavo informacij med računalnikom in njegovim okoljem.\nNaloga vhodnih naprav je, da informacijo posredujejo računalniku v njemu razumljivi obliki, naloga izhodnih naprav pa, da izhodno informacijo predstavijo v človeku razumljivi obliki ali jo shranijo za poznejšo uporabo. Skozi vhodne naprave računalnik oskrbujemo s podatki, izhodne naprave pa nam posredujejo podatke iz računalnika.\nBistven pomen vhodno-izhodnih naprav je tudi posredovanje shranjenih podatkov v računalnik in hranjenje podatkov za kasnejšo uporabo.\nVsako izhodno in nekatere vhodne naprave priključimo s kabli v vtičnice, zato ima vsaka naprava drugačno obliko vtičnice, da se pri sestavi in priključitvi ne moremo zmotiti. V zadnjem času lahko praktično vse naprave priključimo na USB priključek.\nVhodne naprave:\n⁕računalniška miška\n⁕sledilna kroglica\n⁕tipkovnica\n⁕mikrofon\n⁕svetlobno pero\n⁕grafična tablica\n⁕igralna palica\n⁕igralni plošček\n⁕optični bralnik\nIzhodne naprave:\n⁕zaslon\n⁕tiskalnik\n⁕risalnik\n⁕zvočniki\nPoznamo tudi izhodno-vhodne enote. To so vse naprave, ki hkrati služijo kot vhodne in izhodne enote. Za vhodno-izhodno napravo bi lahko smatrali tudi tipkovnico, zaradi lučk, ki označujejo caps lock, num lock ter scroll lock."
+    },
+    {
+        "id": "02_0t4",
+        "description": "Interaktivnost ali sodejnost lahko opredelimo kot stopnjo, do katere informacijsko komunikacijska tehnologija ustvarja posredovano okolje, ki uporabnikom omogoča medsebojno komuniciranje in sodelovanje v recipročni izmenjavi sporočil. Sporočila se tako glede na stopnjo interaktivnosti delijo na tri skupine, in sicer: neinteraktivna sporočila, ki se ne nanašajo na vsebino prejšnjega; reaktivno sporočilo, ki se nanaša le na zadnje omenjeno sporočilo v nizu le-teh; interaktivno sporočilo, ki je vezano na številna predhodna sporočila in na odnose med njimi. Koncept interaktivnosti se pogosto povezuje z mediji, komunikacijskimi tehnologijami, komunikacijskimi konteksti in percepcijo ljudi. Hoffmanova in Novak pojem interaktivnosti povezujeta z možnostjo aktivne udeležbe v procesu komuniciranja."
+    },
+    {
+        "id": "03rlt",
+        "description": "Internet je v splošnem smislu računalniško omrežje, ki povezuje več omrežij. Kot lastno ime je Internet javno razpoložljiv mednarodno povezan sistem računalnikov skupaj z informacijami in uslugami za uporabnike. Sistem uporablja način paketno preklopljivih komunikacijskih protokolov TCP\/IP. Tako se največje medmrežje enostavno imenuje Internet. Spretnost povezovanja omrežij na ta način se imenuje internetno delovanje.\nV razširjenem izražanju se internet velikokrat nanaša na usluge, kot so svetovni splet, elektronska pošta in neposredni klepet."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "Računalništvo v oblaku je slog računalništva, pri katerem so dinamično razširljiva in pogosto virtualizirana računalniška sredstva na voljo kot storitev preko interneta.\nV osnovi koncept računalništva v oblaku združuje pojme:\n⁕programska oprema kot storitev\n⁕platforma kot storitev\n⁕infrastruktura kot storitev;\nPonudniki takih storitev so Amazon, Google, Microsoft, Salesforce, Zoho in drugi, pri čemer so marsikje storitve šele v razvojni fazi."
+    },
+    {
+        "id": "07wcf",
+        "description": "Univerzalno serijsko vodilo je večnamensko vodilo, namenjeno priklopu različnih perifernih naprav na računalnik. Naenkrat lahko priključimo do 127 naprav. K njegovi priljubljenosti prispeva preprostost uporabe. Naprave z manjšo porabo električne moči se lahko napajajo kar iz tega vodila. Operacijski sistem sam poskrbi za nalaganje gonilnika, ko priključimo napravo na osebni računalnik oziroma pri prvem priklopu zahteva zgoščenko z gonilniki. Prenos poteka po štirižilnem kablu. Hitrosti vmesnika USB so med 1,5 in 12 Mbps, novejša različica USB2 pa zmore delovati z višjo hitrostjo 480 Mbps.\nUniverzalno serijsko vodilo je nastalo kot izdelek sedmih podjetij.\nV topologiji naprav USB imamo tri tipe komponent:\n⁕gostitelja – poznan tudi pod imenom izvorno vozlišče, je integriran na matično ploščo ali nameščen kot kartica v osebnem računalniku. Nadzira ves promet na vodilu in je hkrati tudi vozlišče;\n⁕vozlišče – omogoča točko priklopa ali vtič za priklop naprav na vodilo. Vozlišča so odgovorna za odkrivanje naprav, ki so priključene ali odklopljene, in omogočajo upravljanje z električno močjo za te naprave. So napajana iz vodila ali pa imajo lasten zunanji vir napajanja. Vozlišče z lastnim virom napajanja se lahko spoji v vozliščem, ki se napaja z vodila. Vozlišča brez lastnega vira napajanja ni moč priključiti na vozlišče, če porabi več kot 100 mA toka;"
+    },
+    {
+        "id": "0mynm",
+        "description": "Spletna kamera je enostavna video kamera za zajemanje slike v spletu. Kamera zajema sliko v določenih intervalih in jo prenaša v splet.\nSpletne kamere se uporabljajo za video pogovore ter za nadzorovanje prometa ali prostorov. Pogosto se uporabljajo tudi za prenos pornografskih vsebin."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook je družbena spletna stran, ki je bila ustanovljena 4. februarja 2004 v mestu Cambridge v Massachusettsu in pripada in deluje v okviru zasebnega starševskega podjetja Facebook, Inc. Brezplačen dostop do strani omogoča uporabnikom, da se povežejo na eno ali več omrežij in tako lažje komunicirajo z ostalimi ljudmi iz istega omrežja. Določene ameriške univerze take profile razdelijo novim oz. bodočim študentom in osebju, ki tako spoznajo ljudi na ozemlju univerze.\nUstanovitelj Facebooka je Mark Zuckerberg, ki je spletišče izdelal kot študent na univerzi na Hardvardu. Na začetku so lahko bili člani spletnega mesta le študentje harvardske univerze, kasneje pa so lahko člani postali še študenti ostalih univerz, dijaki ter vsi, stari več kot 13 let.\nSpletna stran ima po celem svetu več kot 845 milijonov aktivnih uporabnikov. Je tudi najbolj priljubljena spletna stran za nalaganje fotografij - dnevno jih dandanes naložijo kar 254 milijonov. Glede na priljubljenost strani se je v svojem kratkem obstoju Facebook že srečal z nekaterimi kritikami in nasprotovanji, predvsem zaradi nezagotavljanja zasebnosti, političnih prepričanj njegovih ustanoviteljev in vprašanj cenzure."
+    },
+    {
+        "id": "0508p",
+        "description": "Matična plošča je osnovno tiskano vezje v osebnem računalniku. Na matično ploščo se vstavijo oziroma se priključijo vse ostale komponente: procesor, bralno pisalni pomnilnik, razširitvene kartice in zunanji pomnilnik. Matična plošča vsebuje tudi priključke za mnoge vmesnike.\nNajpomembnejši sestavni del matične plošče je sistemski nabor, kateri povezuje ostale komponente med seboj. Sistemski nabor določa zmogljivosti matične. Po navadi je razdeljen na dva dela, severni in južni most. Severni most skrbi za komunikacijo procesorja s pomnilnikom, ter pomembnejšimi razširitvenimi vmesniki, kot so konvencionalni PCI, AGP in PCIe. Severni most ima po navadi le eno PCI vodilo, ki je povezano na južni most. Južni most skrbi za V\/I naprave, kot so PCI, IDE, FDD, LAN, SCI, PS\/2, AC97, USB, LPT in drugi vmesniki. Naprave priključene na matično ploščo so povezane z vodili, ki so ali paralelna ali pa serijska. Trenutni trendi se nagibajo v smer serijskih prenosov, le pri povezavi pomnilnika še vedno prevladujejo paralelni prenosi, ki omogočajo veliko večje prenose podatkov kot serijski."
+    },
+    {
+        "id": "07g0_",
+        "description": "Haag je mesto na Nizozemskem, ki leži na obali Severnega morja, glavno mesto nizozemske province Južna Holandija. S približno pol milijona prebivalci je za Amsterdamom in Rotterdamom tretje največje mesto v državi.\nV mestu je sedež nizozemske vlade in parlamenta, vrhovnega sodišča ter državnega sveta in vseh tujih veleposlaništev, vendar je po ustavi glavno mesto države Amsterdam. V Haagu je tudi sedež Meddržavnega sodišča in Mednarodnega kazenskega sodišča, s čemer je eno pomembnejših središč Organizacije združenih narodov."
+    },
+    {
+        "id": "02_286",
+        "description": "Mesto New York je po številu prebivalstva največje mesto v Združenih državah Amerike, s svojim velemestnim območjem pa med največjimi urbanimi območji na svetu. Že več kot stoletje je eno najpomembnejših svetovnih trgovinskih in finančnih središč. Mesto New York se zaradi svojega globalnega vpliva na področju množičnih medijev, politike, izobraževanja, zabave in mode uvršča med svetovna mesta alfa. Umetniška središča v mestu so med najvplivnejšimi v državi. New York je s sedežem Organizacije združenih narodov tudi pomembno središče na področju mednarodnih odnosov. Prebivalci mesta se imenujejo Newyorčani, trenutni župan mesta pa je Michael Bloomberg.\nMesto New York obsega pet četrti, od katerih je vsaka tudi okrožje: The Bronx, Brooklyn, Manhattan, Queens in Staten Island. Z več kot 8,2 milijona prebivalcev na območju 830 km² je New York najgosteje naseljeno veliko mesto v Združenih državah Amerike.\nŠtevilne izmed sosesk in spomenikov v mestu so znane po vsem svetu. Kip svobode in Ellisov otok sta v poznem 19. in začetku 20. stoletja pričakala milijone priseljencev. Wall Street na Spodnjem Manhattnu je globalno finančno središče in dom Newyorške borze. Mesto je poznano tudi po najvišjih zgradbah na svetu, med drugim Empire State Building in stolpa dvojčka Svetovnega trgovinskega centra, ki sta bila porušena v napadih 11. septembra 2001."
+    },
+    {
+        "id": "0430_",
+        "description": "Jerúzalem je starodavno bližnjevzhodno mesto s ključnim pomenom v judovstvu, krščanstvu in islamu. Poznano je tudi pod imenoma Davidovo mesto in Sion. Leži v današnjem Izraelu na vzhodnih pobočjih Judejskega višavja, med Sredozemljem in Mrtvim morjem.\nJe zelo raznovrstno mesto, saj v njem bivajo mnogotere raznolike narodne, verske in socialnoekononomske skupine. Predel mesta, imenovan Staro mesto, je obkrožen z zidovi in ima štiri četrti: judovsko, krščansko, armensko in muslimansko. Mesto ima pomembne spomenike za pripadnike vseh naštetih verstev:\n⁕Zid objokovanja\n⁕grič Sion\n⁕Cerkev božjega groba\n⁕Oljska gora\n⁕Herzlova gora\n⁕grič Golgota\n⁕mošeja Kupola na skali\nMesto leži na vročih tleh. Čezenj poteka razmejitvena črta med Izraelom in Zahodnim bregom, znana kot Zelena črta, določena leta 1949. Po zmagi Izraela v šestdnevni vojni leta 1967 ta država nadzoruje celotno mesto in ga zahteva v svojo posest. Po izraelskem zakonu je Jeruzalem glavno mesto Izraela in središče Jeruzalemskega okrožja. V njem je sedež vlade, ima pa tudi druge funkcije glavnega mesta. Številne države izraelskih zahtev po vsem ali po delu mesta ne priznavajo, kar kažejo tako, da imajo svoja veleposlaništva drugje, denimo v Tel Avivu. Palestinci ravno tako zahtevajo, naj bo Jeruzalem prestolnica njihove bodoče države."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kairo je glavno mesto Egipta. V širšem metropolitanskem območju živi več kot 17 milijonov ljudi, kar je četrtina vseh Egipčanov in s čemer je Kairo najbolj naseljeno mesto v Afriki. Leži ob reki Nil v severnem delu Egipta in je pomembno kulturno, izobraževalno ter finančno središče ne samo Egipta, temveč celotnega arabskega sveta."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Seul je glavno mesto Južne Koreje in največje mesto v državi. Njegovo ime izhaja iz stare korejske besede Seorabeol oz. Seobeol s pomenom »glavno mesto«. V preteklosti je bilo mesto znano tudi pod imeni Wiryeseong, Hanyang"
+    },
+    {
+        "id": "031y2",
+        "description": "Firence so glavno mesto dežele Toskana v Italiji. Med leti 1865 in 1870 je bilo mesto tudi prestolnica Kraljevine Italije.\nLeži ob reki Arno; prebivalstvo je ocenjeno na okoli 400.000. Samo mesto je bilo srednjeveški center evropske trgovine in velja za rojstno mesto italijanske renesanse. Od 1.000 najpomembnejših evropskih umetnikov 2. tisočletja jih je 350 živelo oz. delovalo prav tu.\nV Firencah ima svoj sedež nogometni klub ACF Fiorentina."
+    },
+    {
+        "id": "0156q",
+        "description": "Berlin [berlín] je glavno mesto Nemčije in ena od 16 nemških zveznih dežel. S 3,5 milijona prebivalcev je največje mesto v državi in drugo največje mesto v Evropski uniji. Mesto leži ob rekah Spree in Havel na severovzhodu Nemčije. Zvezna dežela Berlin v celoti leži znotraj zvezne dežele Brandenburg.\nPrva dokumentirana omemba Berlina datira v 13. stoletje. V svoji zgodovini je bilo prestolnica Pruskega kraljestva, Nemškega cesarstva, Weimarske republike in Tretjega rajha. Število prebivalcev mesta pred drugo svetovno vojno ocenjujejo na 4,5 milijona. Med letoma 1949 in 1990 je bilo mesto razdeljeno na Vzhodni in Zahodni Berlin. Vzhodni Berlin je bil prestolnica Vzhodne Nemčije, zahodni pa eksklava Zahodne, obkrožen z berlinskim zidom. Po združitvi Nemčije je ponovno postalo prestolnica celotne države.\nDanes je Berlin eno najpomembnejših kulturnih, političnih, gospodarskih in prometnih središč Evrope."
+    },
+    {
+        "id": "05qtj",
+        "description": "Paríz je glavno mesto in obenem največje mesto v Franciji, glavno mesto osrednje francoske regije Île-de-France. Mesto znotraj svojih administrativnih meja, večinoma nespremenjenih od leta 1860, šteje 2.167.994 prebivalcev. Širše mestno območje se razteza precej zunaj administrativnih meja in šteje slabih 10 milijonov prebivalstva, metropolitansko ozemlje Pariza pa šteje skoraj 12 milijonov prebivalstva, kar ga uvršča med najgosteje naseljena območja celotne Evrope.\nPariz je danes eno vodečih svetovnih gospodarskih in kulturnih središč, s svojim vplivom na politiko, znanost, umetnost in zabavo pa se uvršča med glavna velemesta sveta.\nV Parizu se nahaja sedež 36 od 500 najvišje kotirajočih gospodarskih družb na svetu. V njem se prav tako nahaja več mednarodnih organizacij, kot so UNESCO, OECD, ICC in neformalni Pariški klub.\nPariz je eno najbolj željenih turističnih ciljev na svetu, z več kot 30 milijonov obiskovalcev na leto. Ponaša se s številnimi svetovno znanimi znamenitostmi, ki zaznamujejo panoramo mesta, med katerimi je morda najbolj znan Eifflov stolp."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdam je glavno mesto Nizozemske in je v pokrajini Severna Holandija, v zahodnem delu države. Mesto, ki je zaradi svojih številnih kanalov znano tudi kot »Severne Benetke«, ima 747.290 prebivalcev in je v severnem delu Randstadta, šeste največje konurbacije t.j. družitve mest v Evropi, s okoli 6.500.000 prebivalci. Ocenjuje se, da v širši okolici Amsterdama živi 1.500.000 ljudi. Ime mesta pomeni »jez na reki Amstel« ter se nanaša na začetke prve naselbine, ki se je nahajala na današnjem trgu Dam.\nAmsterdam je bil zgolj majhna ribiška naselbina vse do konca 12. stoletja, med nizozemsko zlato dobo pa je postal eno najpomembnejših pristanišč na svetu, po zaslugi velikanskega razvoja trgovine. Tedaj je postal svetovni center financ in diamantov. V 19. in 20. stoletju se je Amsterdam močno razširil in oblikovala so se nova satelitska mesta v njegovi okolici.\nAmsterdam je finančno in kulturno središče Nizozemske. V njem imajo sedež velike nizozemske korporacije, med njimi 7 izmed 500 največjih na svetu, vključno s Philipsom in ING. Znana amsterdamska borza, članica Euronexta, je v središču mesta. Glavne znamenitosti Amsterdama, poleg zgodovinskih kanalov, so Rijksmuseum, Muzej Van Gogha, hiša Ane Frank, sloveča Rdeča četrt in kavarne s kanabisom, ki v mesto privabijo okoli 4.200.000 turistov letno."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakar je glavno mesto Senegala in z nekaj več kot milijon prebivalci največje mesto te zahodnoafriške države. V širšem velemestnem območju po oceni živi 2,5 milijona ljudi. Je pomembno pristaniško mesto, ki leži ob severovzodni obali Zelenega rta, skrajne zahodne točke Afrike, na polovici poti med izlivi rek Gambija in Sénégal v Atlantski ocean. Poleg strateške lege na skrajnem zahodu celine je za pristaniško dejavnost ugodna tudi zaščita, ki mu jo nudijo apnenčasti klifi Zelenega rta in jo dopolnjuje sistem umetnih valolomov. Predel mesta, imenovan le Plateau, je administrativno in finančno središče države. Dakar kot celota ima zaradi osrednje vloge v politiki kozmopolitski značaj, v nasprotju s preostankom Senegala.\nMesto so leta 1857 ustanovili Francozi na ozemlju ljudstva Lebou; v kolonialnem času je bil prestolnica kolonije Francoska Zahodna Afrika. Hiter razvoj infrastrukture in standarda bivanja skozi 20. stoletje je povzročil velik razkorak med mestom in preostankom države ter redno sprožal konflikte med bogatimi in revnimi prebivalci. Slednji so bili odstranjeni iz uglednejših predelov v barakarska naselja ob obrobju, ki so se širila tudi zaradi priseljencev s podeželja. Velika večina prebivalcev je Muslimanov."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Janeiro [ríjo de žanêjro] je ime mesta in zvezne države v jugovzhodni Braziliji. Mesto slovi po plažah Copacabana in Ipanema, obkroženima s hoteli, po velikem kipu Jezusa, znanem kot Kristus Odrešenik na gori Corcovado in po vsakoletnem karnevalu. Poleg tega ima največji gozd znotraj kakega urbanega območja, ki se imenuje Floresta da Tijuca. Trenutni župan je Cesar Maia.\nRio de Janeiro leži na 22° 54' južne zemljepisne širine in 43° 14' zahodne zemljepisne dolžine. Mesto ima okrog 6.150.000 prebivalcev in pokriva površino 1256 km². Število prebivalcev na razširjenem področju mesta ocenjujejo na 10-13 milijonov. Za São Paulom je drugo največje brazilsko mesto, do preselitve prestolnice v Brasílio v letu 1960 pa je opravljalo tudi to nalogo.\nKraj, kjer danes stoji mesto, so januarja 1501 kot prvi Evropejci dosegli portugalski raziskovalci, ki jih je vodil Italijan Amerigo Vespucci. Mislili so, da je Guanabarski zaliv rečno ustje, zato so ga poimenovali Januarska reka. Mesto je bilo ustanovljeno šele 1. marca leta 1565, ko ga je portugalski vitez Estácio de Sá v čast svojega kralja Sebastijana I. imenoval São Sebastião do Rio de Janeiro. Mesto je zraslo ob vznožju gore Sladkorni stožec, vendar so ga kasneje v skladu s srednjeveškim načinom obrambe trdnjav prestavili vrh Grajskega griča."
+    },
+    {
+        "id": "01fdzj",
+        "description": "Stolp je visoka zgradba, ki jo je ustvaril človek. Glavna značilnost stolpa je, da je mnogo višji kot je širok. Stolpi se lahko gradijo samostojno ali kot del večje zgradbe. Najpogostejši razlogi za gradnjo stolpov so:\n⁕za povečanje uporabne površine ob zasedanju čim manjše površine tal.\n⁕za izboljšanje razgleda na območje.\n⁕za izkoriščanje potencialne energije.\nNajvišji stolp na svetu je z 829,8 metri višine nebotičnik Burj Kalifa v Dubaju. Po drugi definiciji stolpa, ki vključuje samo zgradbe, ki niso namenjene prebivanju ljudi, je najvišji leta 2011 dokončani in 634 m visok Tokyo Sky Tree v Tokiu na Japonskem. Med bolj znanimi stolpi so še CN Tower v Torontu, namenjen telekomunikacijam, Eifflov stolp v Parizu in poševni stolp v Pisi."
+    },
+    {
+        "id": "06gfj",
+        "description": "Cesta je infrastrukturni objekt nizke gradnje, namenjen različnim vrstam prometa. Cesta je načrtno speljana pot, ki med seboj povezuje različne geografske lokacije. Voziščna konstrukcija cest je lahko različna: gramozna, tlakovana, cementno-betonska ali asfaltna in je prvenstveno namenjena motornemu prometu. Glede na funkcijo cest v prostoru ločimo daljinske, medregionalne in medobčinske ceste ter ceste znotraj naselij in med naselji, pa tudi gozdne ceste in poljske poti. Glede na funkcijo v prostoru in tehnične elemente pa ceste delimo na avtoceste, hitre ceste, glavne in regionalne ceste, ki so v Sloveniji v upravljanju države, lokalne ceste in javne poti v upravljanju občin ter druge nekategorizirane ceste v zasebni lasti.\nZa potrebe mednarodne statistične primerjave Organizacije za gospodarsko sodelovanje in razvoj je cesta opredeljena kot \"komunikacija z utrjenim voziščem, razen tirov ali letalskih poti, odprta za javni promet, predvsem za uporabo cestnih motornih vozil z lastnim pogonom\", ki vključuje \"mostove, predore, podporne konstrukcije, križišča, križanja, priključke in cestninske ceste, ne pa tudi kolesarske poti\". V mestih se ceste lahko razlikujejo in imajo tako dvojno funkcijo: kot mestni prostor in način potovanja. Sodobne ceste so običajno gladke, tlakovane ali drugače utrjene, kar omogoča preprosto potovanje. V preteklosti so bile številne ceste le preproste poti ali smeri za potovanje, brez kakršnekoli zgrajene površine ali vzdrževanja."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Bolnišnica ali bolnica je ustanova, ki izvaja in nudi profesionalno zdravstveno oskrbo s strani profesionalnega zdravstvenega osebja. Večina bolnišnic ima pogoje za dolgotrajnejšo zdravstveno oskrbo, kar pomeni, da bolniki prebivajo v bolnišničnih prostorih v času zdravljenja.\nUpravljanje in financiranje sistema bolnišnic se razlikuje od države do države. Pogosto so to javne ustanove, ki financirane iz državnega proračuna in sodijo v sistem javnega zdravstva, lahko pa so tudi del zasebnih zdravstvenih organizacij, zavarovalniških podjetij, dobrodelnih organizacij ipd. V zgodovini so bolnišnice ustanavljali tudi cerkveni redovi in vplivni posamezniki."
+    },
+    {
+        "id": "0k05r",
+        "description": "Sodišče je državni organ, ki avtorativno odloča o sporih med posamezniki, skupinami oz. organizacijami.\nAvtorativna odločitev je dokončna in izvršljiva odločitev. Pridržana je državnim organim, ki edina smejo legitimno razpolagati z nasiljem, seveda v mejah zakona.\nZaradi zlorab sodne funkcije s strani vladarja se je sodna oblast zgodaj ločila od izvršilne. Danes je sodna oblast neodvisna od drugih dveh: izvršilne in zakonodajne oblasti in je pri opravljaju svoje funkcije vezano le na ustavo in zakon.\nKljučno pravo pred sodišči je postopkovno pravo, ker varuje položaj obtoženega v razmerju do nasprotne stranke in sodišča.\n\nV Sloveniji poznamo:\n⁕splošna sodišča\n⁕Okrajno sodišče\n⁕Okrožno sodišče\n⁕Višje sodišče Vrhovno sodišče Republike Slovenije"
+    },
+    {
+        "id": "06zdj",
+        "description": "Šola je vzgojno-izobraževalna ustanova, ki z različnimi oblikami pouka omogoča učencem organizirano, sistematično pridobivanje znanja in\/ali spretnosti."
+    },
+    {
+        "id": "019cfy",
+        "description": "Stádion je prostor oziroma prizorišče športnih ali kulturnih prireditev, ki se večinoma odvijajo na prostem. Ime stadion izvira iz grške dolžinske mere »stadij«, ker je bil osrednji prostor antičnih stadionov tekaška proga dolga točno en stadij. En stadij meri približno 190 m, vendar se dolžina razlikuje za nekaj metrov med različnimi grškimi mestnimi državami."
+    },
+    {
+        "id": "0166ls",
+        "description": "Párk je manjše ali večje območje, krajinsko urejeno za določen namen ali zavarovano zaradi izjemnih naravnih oz. kulturnih vrednot. Iz časov pred našim štetjem so kot vladarske ustanove znani na Kitajskem in v Perziji, kot javne pa tudi v antični Evropi. Začetki sodobnih mestnih parkov segajo v 18. stoletje, razvili najprej v Angliji in nato tudi drugod po Evropi."
+    },
+    {
+        "id": "06zdj",
+        "description": "Šola je vzgojno-izobraževalna ustanova, ki z različnimi oblikami pouka omogoča učencem organizirano, sistematično pridobivanje znanja in\/ali spretnosti."
+    },
+    {
+        "id": "09cmq",
+        "description": "Muzéj je ustanova, katere glavna naloga je dokumentiranje, vrednotenje, interpretiranje in raziskovanje, ohranjanje ter preprečevanje škodljivih vplivov, izvajanje konservatorsko-restavratorskih postopkov, upravljanje, omogočanje dostopa in predstavljanje javnosti predmetov premične kulturne dediščine. Muzeji torej predmete zbirajo, urejajo, hranijo in strokovno obdelujejo z namenom, da jih proučijo, raztolmačijo, povežejo s sodobnostjo in razstavijo. Bistvo sodobnega muzeja je v tem, da razstavljene predmete čim bolj približa obiskovalcem.\nIme muzej izvira iz klasične grščine mouseion - sedež in svetišče muz.\nMuzej lahko ustanovi vsak, bistveno je, da zagotovi osnovne pogoje za delovanje ustanove, osebje, prostore in dolgoročno finansiranje. Muzeje tako ustanavljajo države, pokrajine, občine, mesta, podjetja, društva in zasebniki."
+    },
+    {
+        "id": "017ql",
+        "description": "Banka je finančni posrednik, ki prejema depozite in te depozite plasira kot posojila. Banka poveže uporabnike s potrebo po kapitalu z uporabniki, ki imajo presežke le-tega."
+    },
+    {
+        "id": "02p0qmm",
+        "description": "Kolidž v angleškem in ameriškem okolju višja ali visoka šola."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Trg je beseda, ki ima v ekonomiji dva pomena, in sicer kot tržnica in kot tržišče.\nTrg ali tržnica je prostor, kjer se ob določenem času srečujejo kupci in prodajalci za sklepanje pogodb oziroma za kupoprodajo nekega blaga. V starem veku so bila ta srečanja povezana z velikimi narodnimi prazniki; v zgodnjem srednjem veku so se občasne tržnice hitro razmnoževale, posebej na stičiščih pomembnih prometnih poti in v varnem zavetju gradov in samostanov, kjer so bili pravno zavarovani. Posebno pomembni so postali letni trgi, kjer so se sklepale velike kupčije. Iz njih so se razvili sejmi.\nZdajšnji trg se omejuje na trgovino določenega blaga, npr. dnevni ali tedenski trgi za zelenjavo, sadje in lahko pokvarljivo blago, deloma v pokritih tržnicah, ali na trgovino specialnega blaga, npr. živinski, lončarski trgi. Trg posebne vrste je tudi borza.\nTrg ali tržišče je prodajno področje nekega blaga, ki označuje fizično področje, kjer je to blago na razpolago. Lahko je tudi abstrakten pojem, ki označuje vpliv ponudbe in povpraševanja na oblikovanje cen. V tem smislu ločimo blagovni in storitveni trg, denarni trg, trg dela in trg kapitala."
+    },
+    {
+        "id": "03nybl",
+        "description": "Policijska postaja je stavba namenjena bivanju policistov in drugega osebja. Običajno so v okviru postaje tudi prostori za pridržanje."
+    },
+    {
+        "id": "09cjl",
+        "description": "Letališče ali aerodrom je površina na zemlji, vodi, snegu ali ledu, namenjena za pristajanje in vzletanje zrakoplovov ter nudi vse storitve za zadovoljevanje potreb, ki nastanejo zaradi te dejavnosti. Letališče je sestavljeno iz dveh delov: zračnega in zemeljskega. Razlika med njima je v funkcijah, ki ju opravljata.\nZračni del služi za potrebe zrakoplovov, najpogosteje letal. Sestavljajo ga:\n⁕Vzletna-pristajalna steza\n⁕Vozne steze\n⁕Ploščad"
+    },
+    {
+        "id": "053rd",
+        "description": "Rudarstvo je panoga gospodarstva, ki se ukvarja z izkoriščanjem rudnih bogastev. Lahko bi rekli, da se ukvarja geologija z iskanjem, rudarstvo z izkopavanjem, metalurgija pa s predelavo rude."
+    },
+    {
+        "id": "029g_vk",
+        "description": "Telekom je generično ime podjetij, ki ponujajo storitve na podlagi fizične telekomunikacijske infrastrukture. Pogosto so nacionalni operaterji.V Veliki Britaniji ima to vlogo British Telecom, v Nemčiji Deutsche Telekom, v Franciji France Telecom. V Sloveniji od leta 1995 obstaja Telekom Slovenije, ki je nastal z razdružitvijo PTT Slovenije na Pošto Slovenije in Telekom Slovenije. Slednji skupaj z več hčerinskimi družbami sestavlja Skupino Telekom Slovenije, ki ponuja fiksno in mobilno telefonijo, širokopasovni internet, IP-telefonijo in IP-televizijo ter multimedijske storitve in vsebine."
+    },
+    {
+        "id": "01mf0",
+        "description": "Programska oprema je skupek računalniških programov, ki skupaj s strojno opremo računalnika tvori celoto. Programska oprema je abstraktna zadeva, običajno pa se fizično nahaja v računalniškem pomnilniku. Programsko opremo razdelimo v dve skupini:\n⁕sistemska programska oprema - kamor sodi operacijski sistem in podporni programi. Deli se na operacijske sisteme, razvojna orodja ter servisne ali uslužnostne programe.\n⁕uporabniška programska oprema - deli se na standardno in posebno programsko opremo. To opremo uporabnik uporablja za konkretna opravila:\n⁕urejevalnik besedila\n⁕preglednica\n⁕računalniške igre\n⁕podatkovne baze\n⁕dokumentni sistemi\n⁕grafični programi\n⁕brskalniki, elektronska pošta\n⁕načrtovanje in konstruiranje\n⁕navigacijo\n⁕nadzor in spremljanje delovanja naprav\n⁕ipd.\nProgramsko opremo izdelujemo s pomočjo prevajalnikov in razvojnih orodij.\nObstajajo različni načini licenciranja programske opreme:\n⁕komercialno programje\n⁕prosto programje\n⁕preizkusno programje"
+    },
+    {
+        "id": "011s0",
+        "description": "Oglaševánje je plačana oblika tržnega komuniciranja, del tržno komunikacijskega spleta, ki pa je del marketinga. Druge komponente tržnega komuniciranja so tudi publiciteta, odnosi z javnostmi, osebna prodaja, pospeševanje prodaje, oprema prodajnega prostora, embalaža ipd.\nV javni rabi je tudi izraz reklama, ki pa ni sprejemljiv, saj konotira reklamacijo in zavajanje. Oglaševanje je visoko regulirana dejavnost, v kateri ni oz. ne bi smelo biti prostora za zavajanje."
+    },
+    {
+        "id": "01ftz",
+        "description": "Biotehnologija je interdisciplinarna veda, ki združuje področja biologije, kemije in tehnologije, uporablja žive organizme, celice in njihove dele v industrijske namene, v kmetijstvu, medicini, veterini in varovanju okolja.\nNekateri zavračajo uporabo pojma biotehnologija, če postopek ali produkt ne vključujeta uporabe spoznanj molekularne biologije oz. aplikacij genskega inženirstva, ali pa skušajo to poudariti s sintagmo »nova biotehnologija«."
+    },
+    {
+        "id": "0h61",
+        "description": "Arheologija je ena od samostojnih zgodovinskih znanstvenih ved, ki preučuje človeško preteklost. Od drugih zgodovinskih ved jo loči predvsem način pridobivanja in preučevanja virov. Podobo preteklosti namreč gradi predvsem s preučevanjem materialnih virov, do katerih pride s pomočjo izkopavanj. Vendar pa so izkopavanja le drobec arheološke prakse."
+    },
+    {
+        "id": "01mtb",
+        "description": "Kuhanje je poleg pečenja ena od najstarejših metod priprave hrane.\nS kuhanjem dobimo pripravljeno jed ali pa naredimo jedila užitna.\nVrela tekočina, v katero damo sestavine jedi, ali sopara živila zmehča. Nekatere sestavine jedi se spremene, nekatere se zlasti pri dolgem kuhanju uničijo. Pri predolgem kuhanju nekatere sestavine jedi namesto da bi postale lažje postanejo težje prebavljive.\nPo kuhanju so nekatera živila lažja, težja ali ostanejo enako težka.\nVedno bolj se uveljavlja kuhanje v sopari. Predvsem pri zelenjavi in krompirju se ne izločijo vitamini, minerali in aromatične sestavine. Za tako kuhanje obstajajo posebne posode, sestavljene iz dveh posod. V spodnji vre voda, v zgornjo, ki ima v dnu luknjice, pa so živila. Ta posoda se da improvizirati iz kozice in cedila ali sita. Ta način kuhanja je do popolnosti razvit v kitajski kuhinji."
+    },
+    {
+        "id": "034dj",
+        "description": "Igra na srečo ali hazard je igra za denar, navadno s kartami, kockami, ruleto in druge igre. Izid igre je odvisen od naključja in zelo malo ali nič od sposobnosti igralca. Igre na srečo vključujejo tudi stave na loteriji, igranje lota in športne napovedi. Hazardiranje lahko igralca povsem zasvoji. Igralca na srečo imenujemo tudi kockar.\nV širšem pomenu besede je hazard tudi vsako nevarno dejanje oziroma obnašanje, pri katerem sprejemamo odločitve brez točnega poznavanja ozadja dogodka.\nV nekaterih državah so stave in organizirane igre na srečo zakonsko prepovedane. V Sloveniji lahko organizirajo igre na srečo igralnice in Loterija Slovenije.\nPri nekaterih igrah lahko spreten igralec dolgoročno računa na dobitek:\n⁕poker\n⁕blackjack\n⁕športne stave\nNekatere igre pomenijo gotovo izgubo za igralca oziroma dobitek za igralnico:\n⁕ruleta\n⁕karibski poker\nTudi druge igre so lahko uporabljene za stave:\n⁕loterija\n⁕loto\n⁕madžong\n⁕igre z igralno kocko\n⁕igre s kovancem"
+    },
+    {
+        "id": "034v_",
+        "description": "Vrtnarstvo je dejavnost, ki se ukvarja z vzgojo okrasnih rastlin, zelenjave in sadja na vrtu doma ali v bližini doma. Obsega:\n⁕gojenje sadik vrtnin\n⁕gojenje vrtnin v zavarovanem prostoru\n⁕gojenje okrasnih vrtnin\n⁕hidroponsko gojenje vrtnin\n⁕gojenje zelenjadnic\n⁕gojenje izbranih vrtnin\n⁕sonaravno in integrirano pridelovanje vrtnin"
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotografíja je tehnika trajnega zapisovanja slike na različne načine: kemično, mehansko ali digitalno. Beseda izhaja iz grških besed φωτος: photos - svetloba + γραφις: graphis - pisalo ali γρφη: graphê - risanje s svetlobo.\nO nastanku fotografije kroži veliko zgodbic, vendar je najbolj zanimiva tista, ki jo je objavil človek po imenu de la Roche v svojem delu Giphantie leta 1741. Že takrat si je zamislil material, ki bi zajemal barve narave na trdo ploščo, pokrito z neznano snovjo, ki bi jo morali razvijati le v temi, da bi postala vidna tudi podnevi. S tem je praktično napovedal nastanek fotografije, kot jo poznamo še danes.\nBesedo »fotografija« so prvič uporabili leta 1839, ustvaril pa jo je sir John Frederick William Herschel. Seveda pa objava imena fotografije nima nič skupnega z začetkom oz. izumom fotografije, saj je ta nastala že veliko časa nazaj in sicer v optični fazi že v letu 1519, ko so izumili camero obscuro, fotografija, kot jo poznamo danes, pa leta 1827, ko je Joseph Nicéphore Niepce izumil material, ki se je strdil pri stiku s svetlobo. Potreben čas osvetlitve je bil 8 ur."
+    },
+    {
+        "id": "064rk",
+        "description": "Lončarstvo je izdelovanje posode in drugih izdelkov iz gline, ročno ali na lončarskem vretenu. Posušene izdelke žgejo v pečeh in po potrebi tudi loščijo."
+    },
+    {
+        "id": "09nyy",
+        "description": "Žongliranje je spretnost manipuliranja objektov za zabavo ali šport. Najbolj prepoznavno je kaskadno žongliranje s tremi žogicami. A termin žongliranje se lahko nanaša tudi na druge spretnosti z rekviziti – imenovanimi v žargonu propsi, kot so diabolo, devil sticks, poi, cigaretne škatle, ogneni plesi, kontaktno žongliranje, hulahupi, heki seki in manipulacije s klobuki ter kiji.\nBeseda žongliranje izhaja iz srednje angleščine jogelen in delno iz stare francoščine jangler."
+    },
+    {
+        "id": "017dv8",
+        "description": "Opazovanje ptic je metoda za opazovanje in proučevanje ptic s prostim očesom ali s pomočjo povečevalne naprave kot je daljnogled. Opazovanje ptic pogosto vključuje zvočne sestavine, ker se mnoge vrste ptic lažje zazna in identificira na podlagi oglašanja kot videza. Večina opazovalcev ptic opravlja to dejavnost predvsem iz rekreativnih ali socialnih razlogov v nasprotju z ornitologi, ki sodelujejo pri raziskovanju ptic in uporabljajo bolj formalne znanstvene metode."
+    }
+]

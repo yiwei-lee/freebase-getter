@@ -1,0 +1,1286 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Skruzdėlės"
+    },
+    {
+        "id": "01dws",
+        "name": "Lokiniai"
+    },
+    {
+        "id": "01h3n",
+        "name": "Bitės"
+    },
+    {
+        "id": "015p6",
+        "name": "Paukščiai"
+    },
+    {
+        "id": "01x_v",
+        "name": "Kupranugariai"
+    },
+    {
+        "id": "01yrx",
+        "name": "Katė"
+    },
+    {
+        "id": "09b5t",
+        "name": "Bankivinė višta"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Naminis jautis"
+    },
+    {
+        "id": "09ddx",
+        "name": "Antis"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Drambliai"
+    },
+    {
+        "id": "03k3r",
+        "name": "Arklys"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Beždžionės"
+    },
+    {
+        "id": "07bgp",
+        "name": "Avis"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Misisipės aligatorius"
+    },
+    {
+        "id": "0qqk",
+        "name": "Burnotis"
+    },
+    {
+        "id": "047v4b",
+        "name": "Tikrasis artišokas"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Vaistinis smidras"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokolis"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Gūžinis kopūstas"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Valgomoji morka"
+    },
+    {
+        "id": "015w7p",
+        "name": "Žiedinis kopūstas"
+    },
+    {
+        "id": "01xj_",
+        "name": "Salieras"
+    },
+    {
+        "id": "053wn",
+        "name": "Paprastasis kukurūzas"
+    },
+    {
+        "id": "015x4r",
+        "name": "Paprastasis agurkas"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Baklažanas"
+    },
+    {
+        "id": "017dqv",
+        "name": "Paprastasis pankolis"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Valgomasis česnakas"
+    },
+    {
+        "id": "04bk6",
+        "name": "Kaliaropė"
+    },
+    {
+        "id": "013__5",
+        "name": "Daržinis poras"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Sėjamoji salota"
+    },
+    {
+        "id": "0dj75",
+        "name": "Valgomasis svogūnas"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Paprastasis pastarnokas"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Sėjamasis žirnis"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Valgomasis arachis"
+    },
+    {
+        "id": "05vtc",
+        "name": "Valgomoji bulvė"
+    },
+    {
+        "id": "015x5n",
+        "name": "Valgomasis ridikas"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Rabarbaras"
+    },
+    {
+        "id": "016rh7",
+        "name": "Daržinis špinatas"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Paprastoji kraujažolė"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazilija"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Čilė"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Kinija"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iranas"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turkija"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Švedija"
+    },
+    {
+        "id": "06mkj",
+        "name": "Ispanija"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austrija"
+    },
+    {
+        "id": "03gj2",
+        "name": "Vengrija"
+    },
+    {
+        "id": "0345h",
+        "name": "Vokietija"
+    },
+    {
+        "id": "05qhw",
+        "name": "Lenkija"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latvija"
+    },
+    {
+        "id": "012wgb",
+        "name": "Airijos sala"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaika"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnamas"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgarija"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolija"
+    },
+    {
+        "id": "06q1r",
+        "name": "Škotija"
+    },
+    {
+        "id": "0chghy",
+        "name": "Australija"
+    },
+    {
+        "id": "035v3",
+        "name": "Grenlandija"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armėnija"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japonija"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenija"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Pirmadienis"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Antradienis"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Trečiadienis"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Ketvirtadienis"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Penktadienis"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Šeštadienis"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Sekmadienis"
+    },
+    {
+        "id": "06m_p",
+        "name": "Saulė"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkurijus"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venera"
+    },
+    {
+        "id": "02j71",
+        "name": "Žemė"
+    },
+    {
+        "id": "09cws",
+        "name": "Marsas (planeta)"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiteris"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturnas"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uranas"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptūnas"
+    },
+    {
+        "id": "0jwy",
+        "name": "Avinas"
+    },
+    {
+        "id": "07cqw",
+        "name": "Tauras"
+    },
+    {
+        "id": "077r8d",
+        "name": "Dvyniai"
+    },
+    {
+        "id": "0qck6",
+        "name": "Vėžys"
+    },
+    {
+        "id": "04h2q",
+        "name": "Liūtas"
+    },
+    {
+        "id": "07yt9",
+        "name": "Mergelė"
+    },
+    {
+        "id": "04h36",
+        "name": "Svarstyklės"
+    },
+    {
+        "id": "06pgz",
+        "name": "Skorpionas"
+    },
+    {
+        "id": "06pgg",
+        "name": "Šaulys"
+    },
+    {
+        "id": "01nk9",
+        "name": "Ožiaragis"
+    },
+    {
+        "id": "0jxf",
+        "name": "Vandenis"
+    },
+    {
+        "id": "05s7n",
+        "name": "Žuvys"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbolas"
+    },
+    {
+        "id": "0jm_",
+        "name": "Amerikietiškasis futbolas"
+    },
+    {
+        "id": "018w8",
+        "name": "Krepšinis"
+    },
+    {
+        "id": "018jz",
+        "name": "Beisbolas"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenisas"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boksas"
+    },
+    {
+        "id": "03tmr",
+        "name": "Ledo ritulys"
+    },
+    {
+        "id": "07_53",
+        "name": "Tinklinis"
+    },
+    {
+        "id": "0bynt",
+        "name": "Lengvoji atletika"
+    },
+    {
+        "id": "037hz",
+        "name": "Golfas"
+    },
+    {
+        "id": "06z6r",
+        "name": "Plaukimas"
+    },
+    {
+        "id": "03_8r",
+        "name": "Dziudo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maratonas"
+    },
+    {
+        "id": "0194d",
+        "name": "Badmintonas"
+    },
+    {
+        "id": "07jbh",
+        "name": "Stalo tenisas"
+    },
+    {
+        "id": "087zy",
+        "name": "Joga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnastika"
+    },
+    {
+        "id": "036vg6",
+        "name": "Imtynės"
+    },
+    {
+        "id": "04xsv",
+        "name": "Kovos menai"
+    },
+    {
+        "id": "03_ly",
+        "name": "Sausis"
+    },
+    {
+        "id": "02xx5",
+        "name": "Vasaris"
+    },
+    {
+        "id": "04wzr",
+        "name": "Kovas"
+    },
+    {
+        "id": "0lkm",
+        "name": "Balandis"
+    },
+    {
+        "id": "04w_7",
+        "name": "Gegužė"
+    },
+    {
+        "id": "040fb",
+        "name": "Birželis"
+    },
+    {
+        "id": "040fv",
+        "name": "Liepa"
+    },
+    {
+        "id": "0ll3",
+        "name": "Rugpjūtis"
+    },
+    {
+        "id": "06vkl",
+        "name": "Rugsėjis"
+    },
+    {
+        "id": "05lf_",
+        "name": "Spalis"
+    },
+    {
+        "id": "05cw8",
+        "name": "Lapkritis"
+    },
+    {
+        "id": "028kb",
+        "name": "Gruodis"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Šiaurė"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Pietūs"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Vakarai"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Rytai"
+    },
+    {
+        "id": "0j0k",
+        "name": "Azija"
+    },
+    {
+        "id": "059g4",
+        "name": "Šiaurės Amerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Pietų Amerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktida"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Australija"
+    },
+    {
+        "id": "05p553",
+        "name": "Κωμωδία"
+    },
+    {
+        "id": "03npn",
+        "name": "Siaubo filmas"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Dokumentinis kinas"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animacija"
+    },
+    {
+        "id": "06n90",
+        "name": "Mokslinė fantastika"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Veiksmo filmas"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Trileris"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Romantinis filmas"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasy"
+    },
+    {
+        "id": "0g65_",
+        "name": "Nuotykių žaidimas"
+    },
+    {
+        "id": "04t36",
+        "name": "Miuziklas"
+    },
+    {
+        "id": "06by7",
+        "name": "Rokenrolas"
+    },
+    {
+        "id": "064t9",
+        "name": "Popmuzika"
+    },
+    {
+        "id": "03_d0",
+        "name": "Džiazas"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country muzika"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hiphopas"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Pankrokas"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klasikinė muzika"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektroninė muzika"
+    },
+    {
+        "id": "0155w",
+        "name": "Bliuzas"
+    },
+    {
+        "id": "06cqb",
+        "name": "Regis"
+    },
+    {
+        "id": "02w4v",
+        "name": "Liaudies muzika"
+    },
+    {
+        "id": "02x8m",
+        "name": "Fank"
+    },
+    {
+        "id": "0199g",
+        "name": "Dviratis"
+    },
+    {
+        "id": "019jd",
+        "name": "Valtis"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autobusas"
+    },
+    {
+        "id": "0k4j",
+        "name": "Automobilis"
+    },
+    {
+        "id": "09ct_",
+        "name": "Sraigtasparnis"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motociklas"
+    },
+    {
+        "id": "06q74",
+        "name": "Laivas"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Niujorko metropolitenas"
+    },
+    {
+        "id": "0pg52",
+        "name": "Ταξί"
+    },
+    {
+        "id": "07jdr",
+        "name": "Traukinys"
+    },
+    {
+        "id": "07r04",
+        "name": "Sunkvežimis"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramvajus"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Keltas"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Troleibusas"
+    },
+    {
+        "id": "09g5h",
+        "name": "Erdvėlaivis"
+    },
+    {
+        "id": "074d1",
+        "name": "Povandeninis laivas"
+    },
+    {
+        "id": "057gn",
+        "name": "Vienatūris"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Cheese"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Brewery \/ Brand of beer"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Beer"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Tea"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Beverage"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Candy bar"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Dish"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingredient"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurant"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Chef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Cuisine"
+    },
+    {
+        "id": "046cz33",
+        "name": "Distillery"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Appellation"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vineyard"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Wine"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Diet"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recipe"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Food"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Nutrient"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitara"
+    },
+    {
+        "id": "0319l",
+        "name": "Valtorna"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Fleita"
+    },
+    {
+        "id": "05r5c",
+        "name": "Pianinas"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordeonas"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Quotation"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptation"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Dedicatee"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedicator"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publication"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Review"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Author"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Interview"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Translation"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Interviewee"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Interviewer"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Translator"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Excerpt"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Illustrator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Δικηγόρος"
+    },
+    {
+        "id": "05t4q",
+        "name": "Γιατρός"
+    },
+    {
+        "id": "0mn6",
+        "name": "Αρχιτέκτονας"
+    },
+    {
+        "id": "09jwl",
+        "name": "Μουσικός"
+    },
+    {
+        "id": "01d30f",
+        "name": "Δάσκαλος"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Μοντέλο"
+    },
+    {
+        "id": "01pxg",
+        "name": "Χημικός"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Κτηνίατρος"
+    },
+    {
+        "id": "01c72t",
+        "name": "Συνθέτης"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Μάγειρας"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Αστυνομικός"
+    },
+    {
+        "id": "05xls",
+        "name": "Προγραμματιστής"
+    },
+    {
+        "id": "02h661t",
+        "name": "Οδοντίατρος"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatrija"
+    },
+    {
+        "id": "099md",
+        "name": "Στρατιώτης"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Οδηγός φορτηγού"
+    },
+    {
+        "id": "03l9g",
+        "name": "Plaktukas"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Oblius"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Žirklės"
+    },
+    {
+        "id": "02qhwc4",
+        "name": "Angliški pusryčiai"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Čekis"
+    },
+    {
+        "id": "06qrr",
+        "name": "Nealkoholinis gėrimas"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Šakutė"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburgeris"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Šaukštas"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kava"
+    },
+    {
+        "id": "02859d",
+        "name": "Juodoji arbata"
+    },
+    {
+        "id": "09cx8",
+        "name": "Pirštai"
+    },
+    {
+        "id": "09w5r",
+        "name": "Apatinės galūnės"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Dantis"
+    },
+    {
+        "id": "031n1",
+        "name": "Pėda"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Lūpa"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Žiotys"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Krūtinė"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Burna"
+    },
+    {
+        "id": "03q69",
+        "name": "Plaukas"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Kaklas"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Liežuvis"
+    },
+    {
+        "id": "039xj_",
+        "name": "Ausis"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nosis"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Galva"
+    },
+    {
+        "id": "031974",
+        "name": "Juosmuo"
+    },
+    {
+        "id": "014sv8",
+        "name": "Akis"
+    },
+    {
+        "id": "0176mf",
+        "name": "Diržas"
+    },
+    {
+        "id": "019b80",
+        "name": "Megztinis"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Sijonas"
+    },
+    {
+        "id": "02d46y",
+        "name": "Kepurė"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pižama"
+    },
+    {
+        "id": "01xygc",
+        "name": "Šešiasdešimt šeši"
+    },
+    {
+        "id": "0fly7",
+        "name": "Džinsai"
+    },
+    {
+        "id": "01d40f",
+        "name": "Suknelė"
+    },
+    {
+        "id": "01nq26",
+        "name": "Kojinė"
+    },
+    {
+        "id": "07mhn",
+        "name": "Kelnės"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Klasikinis vyriškas kostiumas"
+    },
+    {
+        "id": "01767_",
+        "name": "Pėdkelnės"
+    },
+    {
+        "id": "01m2v",
+        "name": "Klaviatūra"
+    },
+    {
+        "id": "020lf",
+        "name": "Kompiuterio pelė"
+    },
+    {
+        "id": "02bc6",
+        "name": "Duomenų bazė"
+    },
+    {
+        "id": "020s1",
+        "name": "Rinkmena"
+    },
+    {
+        "id": "02nf_",
+        "name": "Elektroninis paštas"
+    },
+    {
+        "id": "01mfj",
+        "name": "Techninė įranga"
+    },
+    {
+        "id": "03rsh",
+        "name": "Išvesties įrenginys"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internetas"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Internetinis debesis"
+    },
+    {
+        "id": "07wcf",
+        "name": "USB"
+    },
+    {
+        "id": "0mynm",
+        "name": "Internetinė vaizdo kamera"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Pagrindinė plokštė"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haga"
+    },
+    {
+        "id": "02_286",
+        "name": "Niujorkas"
+    },
+    {
+        "id": "0430_",
+        "name": "Jeruzalė"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kairas"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seulas"
+    },
+    {
+        "id": "031y2",
+        "name": "Florencija"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlynas"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paryžius"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdamas"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakaras"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Žaneiras"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Bokštas"
+    },
+    {
+        "id": "06gfj",
+        "name": "Kelias"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Ligoninė"
+    },
+    {
+        "id": "0k05r",
+        "name": "Teismas"
+    },
+    {
+        "id": "06zdj",
+        "name": "Mokykla"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadionas"
+    },
+    {
+        "id": "0166ls",
+        "name": "Parkas"
+    },
+    {
+        "id": "06zdj",
+        "name": "Mokykla"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muziejus"
+    },
+    {
+        "id": "017ql",
+        "name": "Bankas"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Rinka"
+    },
+    {
+        "id": "016yx7",
+        "name": "Sporto salė"
+    },
+    {
+        "id": "09cjl",
+        "name": "Oro uostas"
+    },
+    {
+        "id": "053rd",
+        "name": "Kalnakasyba"
+    },
+    {
+        "id": "023907r",
+        "name": "Αγορά ακινήτων"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekomunikacijos"
+    },
+    {
+        "id": "02h400t",
+        "name": "Finansinės paslaugos"
+    },
+    {
+        "id": "01mf0",
+        "name": "Programinė įranga"
+    },
+    {
+        "id": "011s0",
+        "name": "Διαφήμιση"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotechnologija"
+    },
+    {
+        "id": "0hz28",
+        "name": "Δημοσιεύσεις"
+    },
+    {
+        "id": "0191_7",
+        "name": "Λιανική"
+    },
+    {
+        "id": "0h61",
+        "name": "Archeologija"
+    },
+    {
+        "id": "01mtb",
+        "name": "Kulinarija"
+    },
+    {
+        "id": "034dj",
+        "name": "Azartinis lošimas"
+    },
+    {
+        "id": "034v_",
+        "name": "Sodininkystė"
+    },
+    {
+        "id": "05wkw",
+        "name": "Φωτογραφία"
+    },
+    {
+        "id": "064rk",
+        "name": "Puodininkystė"
+    },
+    {
+        "id": "09nyy",
+        "name": "Žongliravimas"
+    }
+]

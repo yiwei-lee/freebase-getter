@@ -1,0 +1,1074 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Formiko"
+    },
+    {
+        "id": "01dws",
+        "name": "Urso"
+    },
+    {
+        "id": "01h3n",
+        "name": "Abelo"
+    },
+    {
+        "id": "015p6",
+        "name": "Birdoj"
+    },
+    {
+        "id": "01x_v",
+        "name": "Kamelo"
+    },
+    {
+        "id": "01yrx",
+        "name": "Hejma kato"
+    },
+    {
+        "id": "09b5t",
+        "name": "Koko"
+    },
+    {
+        "id": "09ddx",
+        "name": "Anaso"
+    },
+    {
+        "id": "03k3r",
+        "name": "Ĉevalo"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Simio"
+    },
+    {
+        "id": "07bgp",
+        "name": "Ŝafo"
+    },
+    {
+        "id": "0qqk",
+        "name": "Amaranto nutraĵa"
+    },
+    {
+        "id": "047v4b",
+        "name": "Artiŝoko"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Asparago"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokolo"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Brasiko"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Karoto"
+    },
+    {
+        "id": "015w7p",
+        "name": "Florbrasiko"
+    },
+    {
+        "id": "01xj_",
+        "name": "Celerio"
+    },
+    {
+        "id": "053wn",
+        "name": "Maizo"
+    },
+    {
+        "id": "015x4r",
+        "name": "Kukumo"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Melongeno"
+    },
+    {
+        "id": "022p79",
+        "name": "Endivio"
+    },
+    {
+        "id": "017dqv",
+        "name": "Fenkolo"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Ajlo"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Kalabaso"
+    },
+    {
+        "id": "02r5_b",
+        "name": "Krispa brasiko"
+    },
+    {
+        "id": "04bk6",
+        "name": "Tigobrasiko"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Ĝardena laktuko"
+    },
+    {
+        "id": "025s18p",
+        "name": "Gombo"
+    },
+    {
+        "id": "0dj75",
+        "name": "Cepo"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Pastinako"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Ĝardena pizo"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Ternukso"
+    },
+    {
+        "id": "05vtc",
+        "name": "Terpomo"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Rabarbo"
+    },
+    {
+        "id": "016rh7",
+        "name": "Spinaco"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Akvokreso"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazilo"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanado"
+    },
+    {
+        "id": "01p1v",
+        "name": "Ĉilio"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Ĉinio"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kubo"
+    },
+    {
+        "id": "03shp",
+        "name": "Irano"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turkio"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Svedio"
+    },
+    {
+        "id": "06mkj",
+        "name": "Hispanio"
+    },
+    {
+        "id": "0h7x",
+        "name": "Aŭstrio"
+    },
+    {
+        "id": "03gj2",
+        "name": "Hungario"
+    },
+    {
+        "id": "0345h",
+        "name": "Germanio"
+    },
+    {
+        "id": "05qhw",
+        "name": "Pollando"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latvio"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irlando"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamajko"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vjetnamio"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgario"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolio"
+    },
+    {
+        "id": "06q1r",
+        "name": "Skotlando"
+    },
+    {
+        "id": "0chghy",
+        "name": "Aŭstralio"
+    },
+    {
+        "id": "035v3",
+        "name": "Gronlando"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenio"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japanio"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenjo"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Lundo"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Mardo"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Merkredo"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Ĵaŭdo"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Vendredo"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sabato"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Dimanĉo"
+    },
+    {
+        "id": "06m_p",
+        "name": "Suno"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkuro"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venuso"
+    },
+    {
+        "id": "02j71",
+        "name": "Tero"
+    },
+    {
+        "id": "09cws",
+        "name": "Marso"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupitero"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturno"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Urano"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptuno"
+    },
+    {
+        "id": "0jwy",
+        "name": "Ŝafo (konstelacio)"
+    },
+    {
+        "id": "07cqw",
+        "name": "Taŭro (konstelacio)"
+    },
+    {
+        "id": "077r8d",
+        "name": "Ĝemeloj (konstelacio)"
+    },
+    {
+        "id": "0qck6",
+        "name": "Kankro (konstelacio)"
+    },
+    {
+        "id": "04h2q",
+        "name": "Leono (konstelacio)"
+    },
+    {
+        "id": "07yt9",
+        "name": "Virgo (konstelacio)"
+    },
+    {
+        "id": "04h36",
+        "name": "Pesilo (konstelacio)"
+    },
+    {
+        "id": "06pgz",
+        "name": "Skorpio (konstelacio)"
+    },
+    {
+        "id": "06pgg",
+        "name": "Sagitario (konstelacio)"
+    },
+    {
+        "id": "01nk9",
+        "name": "Kaprikorno (konstelacio)"
+    },
+    {
+        "id": "0jxf",
+        "name": "Akvisto"
+    },
+    {
+        "id": "05s7n",
+        "name": "Fiŝoj (konstelacio)"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbalo"
+    },
+    {
+        "id": "0jm_",
+        "name": "Usona piedpilko"
+    },
+    {
+        "id": "018w8",
+        "name": "Korbopilkado"
+    },
+    {
+        "id": "018jz",
+        "name": "Basbalo"
+    },
+    {
+        "id": "07bs0",
+        "name": "Teniso"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boksado"
+    },
+    {
+        "id": "03tmr",
+        "name": "Glacihokeo"
+    },
+    {
+        "id": "07_53",
+        "name": "Flugpilkado"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletiko"
+    },
+    {
+        "id": "037hz",
+        "name": "Golfo (sporto)"
+    },
+    {
+        "id": "01sgl",
+        "name": "Biciklado"
+    },
+    {
+        "id": "06z6r",
+        "name": "Naĝado"
+    },
+    {
+        "id": "03_8r",
+        "name": "Ĵudo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maratono"
+    },
+    {
+        "id": "0194d",
+        "name": "Badmintono"
+    },
+    {
+        "id": "07jbh",
+        "name": "Tabloteniso"
+    },
+    {
+        "id": "087zy",
+        "name": "Jogo"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnastiko"
+    },
+    {
+        "id": "036vg6",
+        "name": "Lukto"
+    },
+    {
+        "id": "04xsv",
+        "name": "Luktosporto"
+    },
+    {
+        "id": "03_ly",
+        "name": "Januaro"
+    },
+    {
+        "id": "02xx5",
+        "name": "Februaro"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marto"
+    },
+    {
+        "id": "0lkm",
+        "name": "Aprilo"
+    },
+    {
+        "id": "04w_7",
+        "name": "Majo"
+    },
+    {
+        "id": "040fb",
+        "name": "Junio"
+    },
+    {
+        "id": "040fv",
+        "name": "Julio"
+    },
+    {
+        "id": "0ll3",
+        "name": "Aŭgusto"
+    },
+    {
+        "id": "06vkl",
+        "name": "Septembro"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktobro"
+    },
+    {
+        "id": "05cw8",
+        "name": "Novembro"
+    },
+    {
+        "id": "028kb",
+        "name": "Decembro"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Nordo"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Sudo"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Okcidento"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Oriento"
+    },
+    {
+        "id": "0j0k",
+        "name": "Azio"
+    },
+    {
+        "id": "059g4",
+        "name": "Nordameriko"
+    },
+    {
+        "id": "06n3y",
+        "name": "Sudameriko"
+    },
+    {
+        "id": "02j9z",
+        "name": "Eŭropo"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afriko"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarkto"
+    },
+    {
+        "id": "05p553",
+        "name": "Komedio"
+    },
+    {
+        "id": "03npn",
+        "name": "Hororo"
+    },
+    {
+        "id": "06n90",
+        "name": "Sciencfikcio"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasto"
+    },
+    {
+        "id": "06by7",
+        "name": "Rokenrolo"
+    },
+    {
+        "id": "064t9",
+        "name": "Pop-muziko"
+    },
+    {
+        "id": "03_d0",
+        "name": "Ĵazo"
+    },
+    {
+        "id": "01lyv",
+        "name": "Kontreo"
+    },
+    {
+        "id": "03lty",
+        "name": "Metalroko"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punko"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klasika muziko"
+    },
+    {
+        "id": "0155w",
+        "name": "Bluso"
+    },
+    {
+        "id": "06cqb",
+        "name": "Regeo"
+    },
+    {
+        "id": "02w4v",
+        "name": "Popola muziko"
+    },
+    {
+        "id": "0199g",
+        "name": "Biciklo"
+    },
+    {
+        "id": "019jd",
+        "name": "Boato"
+    },
+    {
+        "id": "01bjv",
+        "name": "Aŭtobuso"
+    },
+    {
+        "id": "0k4j",
+        "name": "Aŭtomobilo"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikoptero"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motorciklo"
+    },
+    {
+        "id": "06q74",
+        "name": "Ŝipo"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taksio"
+    },
+    {
+        "id": "07jdr",
+        "name": "Trajno"
+    },
+    {
+        "id": "07r04",
+        "name": "Kamiono"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramo"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Pramo"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trolebuso"
+    },
+    {
+        "id": "09g5h",
+        "name": "Kosma flug-aparato"
+    },
+    {
+        "id": "013xl3",
+        "name": "Aeroglita boato"
+    },
+    {
+        "id": "074d1",
+        "name": "Submarŝipo"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitaro"
+    },
+    {
+        "id": "02hnl",
+        "name": "Drumo"
+    },
+    {
+        "id": "013y1f",
+        "name": "Orgeno"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordiono"
+    },
+    {
+        "id": "04gc2",
+        "name": "Advokato"
+    },
+    {
+        "id": "05t4q",
+        "name": "Kuracisto"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arkitekto"
+    },
+    {
+        "id": "09jwl",
+        "name": "Muzikisto"
+    },
+    {
+        "id": "01d30f",
+        "name": "Instruisto"
+    },
+    {
+        "id": "01pxg",
+        "name": "Kemiisto"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinaro"
+    },
+    {
+        "id": "01c72t",
+        "name": "Komponisto"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatrio"
+    },
+    {
+        "id": "099md",
+        "name": "Soldato"
+    },
+    {
+        "id": "01d380",
+        "name": "drilo"
+    },
+    {
+        "id": "03l9g",
+        "name": "Martelo"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Tondilo"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Boltilo"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Ĉeko"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Forko"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburgero"
+    },
+    {
+        "id": "024gjb",
+        "name": "manĝokarto"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Kulero"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Trinkakvo"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kafo"
+    },
+    {
+        "id": "02859d",
+        "name": "Nigra teo"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Dorso"
+    },
+    {
+        "id": "09cx8",
+        "name": "Fingro"
+    },
+    {
+        "id": "09w5r",
+        "name": "Gambo"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Dento"
+    },
+    {
+        "id": "037p5b",
+        "name": "Vango"
+    },
+    {
+        "id": "031n1",
+        "name": "Piedo"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Lipo"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Gorĝo (anatomio)"
+    },
+    {
+        "id": "025kyy",
+        "name": "Frunto"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Piedfingro"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Mentono"
+    },
+    {
+        "id": "03q69",
+        "name": "Haro"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Kolo"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Lango (anatomio)"
+    },
+    {
+        "id": "039xj_",
+        "name": "Orelo"
+    },
+    {
+        "id": "0k65p",
+        "name": "Mano"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nazo"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Kapo"
+    },
+    {
+        "id": "014sv8",
+        "name": "Okulo"
+    },
+    {
+        "id": "0176mf",
+        "name": "Zono"
+    },
+    {
+        "id": "06rrc",
+        "name": "Ŝuo"
+    },
+    {
+        "id": "019b80",
+        "name": "Pulovero"
+    },
+    {
+        "id": "02d46y",
+        "name": "Ĉapo"
+    },
+    {
+        "id": "0142wf",
+        "name": "Piĵamo"
+    },
+    {
+        "id": "013s93",
+        "name": "T-ĉemizo"
+    },
+    {
+        "id": "0fly7",
+        "name": "Ĝinzo"
+    },
+    {
+        "id": "0216vm",
+        "name": "Pantoflo"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Kravato"
+    },
+    {
+        "id": "01d40f",
+        "name": "Jupo"
+    },
+    {
+        "id": "01nq26",
+        "name": "Ŝtrumpeto"
+    },
+    {
+        "id": "07mhn",
+        "name": "Pantalono"
+    },
+    {
+        "id": "0174n1",
+        "name": "Ganto"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Ĉemizo"
+    },
+    {
+        "id": "01767_",
+        "name": "Ŝtrumpo"
+    },
+    {
+        "id": "01m2v",
+        "name": "Komputila klavaro"
+    },
+    {
+        "id": "020lf",
+        "name": "Komputila muso"
+    },
+    {
+        "id": "02bc6",
+        "name": "Datumbazo"
+    },
+    {
+        "id": "029kh",
+        "name": "Cifereca"
+    },
+    {
+        "id": "020s1",
+        "name": "Dosiero"
+    },
+    {
+        "id": "02nf_",
+        "name": "Retpoŝto"
+    },
+    {
+        "id": "01xfp",
+        "name": "Komputila grafiko"
+    },
+    {
+        "id": "01mfj",
+        "name": "Aparataro"
+    },
+    {
+        "id": "03rlt",
+        "name": "Interreto"
+    },
+    {
+        "id": "07wcf",
+        "name": "USB"
+    },
+    {
+        "id": "0508p",
+        "name": "Ĉeftabulo"
+    },
+    {
+        "id": "07g0_",
+        "name": "Hago"
+    },
+    {
+        "id": "02_286",
+        "name": "Novjorko"
+    },
+    {
+        "id": "0430_",
+        "name": "Jerusalemo"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seulo"
+    },
+    {
+        "id": "031y2",
+        "name": "Florenco"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlino"
+    },
+    {
+        "id": "05qtj",
+        "name": "Parizo"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdamo"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakaro"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio-de-Ĵanejro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Turo"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Malsanulejo"
+    },
+    {
+        "id": "0k05r",
+        "name": "Tribunalo (juro)"
+    },
+    {
+        "id": "06zdj",
+        "name": "Lernejo"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadiono"
+    },
+    {
+        "id": "0166ls",
+        "name": "Parko"
+    },
+    {
+        "id": "06zdj",
+        "name": "Lernejo"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muzeo"
+    },
+    {
+        "id": "017ql",
+        "name": "Banko"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Merkato"
+    },
+    {
+        "id": "09cjl",
+        "name": "Flughaveno"
+    },
+    {
+        "id": "053rd",
+        "name": "Minado"
+    },
+    {
+        "id": "01mf0",
+        "name": "Programaro"
+    },
+    {
+        "id": "011s0",
+        "name": "Reklamo"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotekniko"
+    },
+    {
+        "id": "0h61",
+        "name": "Arkeologio"
+    },
+    {
+        "id": "01mtb",
+        "name": "Kuirado"
+    },
+    {
+        "id": "034dj",
+        "name": "Hazardludo"
+    },
+    {
+        "id": "034v_",
+        "name": "Ĝardenado"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografio"
+    },
+    {
+        "id": "06h7j",
+        "name": "Kuro"
+    },
+    {
+        "id": "09nyy",
+        "name": "Ĵonglado"
+    },
+    {
+        "id": "017dv8",
+        "name": "Birdumo"
+    }
+]

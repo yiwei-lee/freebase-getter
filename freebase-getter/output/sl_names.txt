@@ -1,0 +1,1182 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Mravlje"
+    },
+    {
+        "id": "01dws",
+        "name": "Medvedi"
+    },
+    {
+        "id": "01h3n",
+        "name": "Čebele"
+    },
+    {
+        "id": "015p6",
+        "name": "Ptiči"
+    },
+    {
+        "id": "01x_v",
+        "name": "Velblod"
+    },
+    {
+        "id": "01yrx",
+        "name": "Domača mačka"
+    },
+    {
+        "id": "09b5t",
+        "name": "Domača kokoš"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Domače govedo"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Sloni"
+    },
+    {
+        "id": "03k3r",
+        "name": "Domači konj"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Opica"
+    },
+    {
+        "id": "07bgp",
+        "name": "Domača ovca"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Beluš"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Navadna pesa"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokoli"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Navadno korenje"
+    },
+    {
+        "id": "01xj_",
+        "name": "Navadna zelena"
+    },
+    {
+        "id": "053wn",
+        "name": "Koruza"
+    },
+    {
+        "id": "015x4r",
+        "name": "Navadna kumara"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Jajčevec"
+    },
+    {
+        "id": "017dqv",
+        "name": "Navadni komarček"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Česen"
+    },
+    {
+        "id": "013__5",
+        "name": "Por"
+    },
+    {
+        "id": "025s18p",
+        "name": "Jedilni oslez"
+    },
+    {
+        "id": "0dj75",
+        "name": "Čebula"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Pastinak"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Grah"
+    },
+    {
+        "id": "05vtc",
+        "name": "Krompir"
+    },
+    {
+        "id": "05zsy",
+        "name": "Buča"
+    },
+    {
+        "id": "015x5n",
+        "name": "Redkvica"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Rabarbara"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Navadna vodna kreša"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Navadni rman"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazilija"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Čile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Kitajska"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turčija"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Švedska"
+    },
+    {
+        "id": "06mkj",
+        "name": "Španija"
+    },
+    {
+        "id": "0h7x",
+        "name": "Avstrija"
+    },
+    {
+        "id": "03gj2",
+        "name": "Madžarska"
+    },
+    {
+        "id": "0345h",
+        "name": "Nemčija"
+    },
+    {
+        "id": "05qhw",
+        "name": "Poljska"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latvija"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irska"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamajka"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bolgarija"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolija"
+    },
+    {
+        "id": "06q1r",
+        "name": "Škotska"
+    },
+    {
+        "id": "0chghy",
+        "name": "Avstralija"
+    },
+    {
+        "id": "035v3",
+        "name": "Grenlandija"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenija"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japonska"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenija"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Ponedeljek"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Torek"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Sreda"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Četrtek"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Petek"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sobota"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Nedelja"
+    },
+    {
+        "id": "06m_p",
+        "name": "Sonce"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkur"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venera"
+    },
+    {
+        "id": "02j71",
+        "name": "Zemlja"
+    },
+    {
+        "id": "09cws",
+        "name": "Mars"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uran"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptun"
+    },
+    {
+        "id": "0jwy",
+        "name": "Oven"
+    },
+    {
+        "id": "07cqw",
+        "name": "Bik"
+    },
+    {
+        "id": "077r8d",
+        "name": "Dvojčka"
+    },
+    {
+        "id": "0qck6",
+        "name": "Rak"
+    },
+    {
+        "id": "04h2q",
+        "name": "Lev"
+    },
+    {
+        "id": "07yt9",
+        "name": "Devica"
+    },
+    {
+        "id": "04h36",
+        "name": "Tehtnica"
+    },
+    {
+        "id": "06pgz",
+        "name": "Škorpijon"
+    },
+    {
+        "id": "06pgg",
+        "name": "Strelec"
+    },
+    {
+        "id": "01nk9",
+        "name": "Kozorog"
+    },
+    {
+        "id": "0jxf",
+        "name": "Vodnar"
+    },
+    {
+        "id": "05s7n",
+        "name": "Ribi"
+    },
+    {
+        "id": "02vx4",
+        "name": "Nogomet"
+    },
+    {
+        "id": "0jm_",
+        "name": "Ameriški nogomet"
+    },
+    {
+        "id": "018w8",
+        "name": "Košarka"
+    },
+    {
+        "id": "018jz",
+        "name": "Baseball"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boks"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hokej na ledu"
+    },
+    {
+        "id": "07_53",
+        "name": "Odbojka"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletika"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Kolesarstvo"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maraton"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Namizni tenis"
+    },
+    {
+        "id": "087zy",
+        "name": "Joga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnastika"
+    },
+    {
+        "id": "036vg6",
+        "name": "Rokoborba"
+    },
+    {
+        "id": "04xsv",
+        "name": "Borilne veščine"
+    },
+    {
+        "id": "03_ly",
+        "name": "Januar"
+    },
+    {
+        "id": "02xx5",
+        "name": "Februar"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marec"
+    },
+    {
+        "id": "0lkm",
+        "name": "April"
+    },
+    {
+        "id": "04w_7",
+        "name": "Maj"
+    },
+    {
+        "id": "040fb",
+        "name": "Junij"
+    },
+    {
+        "id": "040fv",
+        "name": "Julij"
+    },
+    {
+        "id": "0ll3",
+        "name": "Avgust"
+    },
+    {
+        "id": "06vkl",
+        "name": "September"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktober"
+    },
+    {
+        "id": "05cw8",
+        "name": "November"
+    },
+    {
+        "id": "028kb",
+        "name": "December"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Sever"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Jug"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Zahod"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Vzhod"
+    },
+    {
+        "id": "0j0k",
+        "name": "Azija"
+    },
+    {
+        "id": "059g4",
+        "name": "Severna Amerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Južna Amerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Evropa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktika"
+    },
+    {
+        "id": "05p553",
+        "name": "Komedija"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animacija"
+    },
+    {
+        "id": "06n90",
+        "name": "Znanstvena fantastika"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantazijska pripoved"
+    },
+    {
+        "id": "0g65_",
+        "name": "Pustolovska videoigra"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock"
+    },
+    {
+        "id": "064t9",
+        "name": "Pop glasba"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip-hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klasična glasba"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektronska glasba"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Ljudska glasba"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0199g",
+        "name": "Dvokolo"
+    },
+    {
+        "id": "019jd",
+        "name": "Čoln"
+    },
+    {
+        "id": "01bjv",
+        "name": "Avtobus"
+    },
+    {
+        "id": "0k4j",
+        "name": "Avtomobil"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikopter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocikel"
+    },
+    {
+        "id": "06q74",
+        "name": "Ladja"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taksi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Vlak"
+    },
+    {
+        "id": "07r04",
+        "name": "Tovornjak"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramvaj"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Trajekt"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trolejbus"
+    },
+    {
+        "id": "09g5h",
+        "name": "Vesoljsko plovilo"
+    },
+    {
+        "id": "013xl3",
+        "name": "Hoverkraft"
+    },
+    {
+        "id": "074d1",
+        "name": "Podmornica"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Sir"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Pivovarna\/znamka piva"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Pivo"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Čaj"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Pijača"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Čokoladica"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Jed"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Sestavina"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restavracija"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Kuhar"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Kuhinja"
+    },
+    {
+        "id": "046cz33",
+        "name": "Destilarna"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Vinsko področje"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vinograd"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vino"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dieta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recept"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Hrana"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Hranilo"
+    },
+    {
+        "id": "0342h",
+        "name": "Kitara"
+    },
+    {
+        "id": "0319l",
+        "name": "Rog"
+    },
+    {
+        "id": "013y1f",
+        "name": "Orgle"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flavta"
+    },
+    {
+        "id": "05r5c",
+        "name": "Klavir"
+    },
+    {
+        "id": "0mkg",
+        "name": "Harmonika"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citat"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Prilagoditev"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Oseba, ki ji je delo posvečeno"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Posvečevalec"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publikacija"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Pregled"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Avtor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Intervju"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Prevod"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Intervjuvanec"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Izpraševalec"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Prevajalec"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Povzetek"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Odvetnik"
+    },
+    {
+        "id": "05t4q",
+        "name": "Zdravnik"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arhitekt"
+    },
+    {
+        "id": "09jwl",
+        "name": "Glasbenik"
+    },
+    {
+        "id": "01d30f",
+        "name": "Učitelj"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Kemik"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinar"
+    },
+    {
+        "id": "01c72t",
+        "name": "Skladatelj"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Kuhar"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Policist"
+    },
+    {
+        "id": "05xls",
+        "name": "Programer"
+    },
+    {
+        "id": "02h661t",
+        "name": "Zobozdravnik"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatrija"
+    },
+    {
+        "id": "099md",
+        "name": "Vojak"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Voznik tovornjaka"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Škarje"
+    },
+    {
+        "id": "06qrr",
+        "name": "Gazirana pijača"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Pitna voda"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kava"
+    },
+    {
+        "id": "02859d",
+        "name": "Črni čaj"
+    },
+    {
+        "id": "09w5r",
+        "name": "Noga človeka"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Zob"
+    },
+    {
+        "id": "031n1",
+        "name": "Stopalo"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Grlo"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Prsni koš"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Usta"
+    },
+    {
+        "id": "03q69",
+        "name": "Las"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Vrat"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Jezik"
+    },
+    {
+        "id": "039xj_",
+        "name": "Uho"
+    },
+    {
+        "id": "0k65p",
+        "name": "Roka"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nos"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Glava"
+    },
+    {
+        "id": "014sv8",
+        "name": "Oko"
+    },
+    {
+        "id": "02d46y",
+        "name": "Čepica"
+    },
+    {
+        "id": "0216vm",
+        "name": "Copati"
+    },
+    {
+        "id": "01nq26",
+        "name": "Nogavice"
+    },
+    {
+        "id": "01zzs",
+        "name": "Kompaktni disk"
+    },
+    {
+        "id": "01m2v",
+        "name": "Tipkovnica"
+    },
+    {
+        "id": "020lf",
+        "name": "Računalniška miška"
+    },
+    {
+        "id": "02bc6",
+        "name": "Podatkovna baza"
+    },
+    {
+        "id": "029kh",
+        "name": "Digitalno"
+    },
+    {
+        "id": "020s1",
+        "name": "Datoteka"
+    },
+    {
+        "id": "02nf_",
+        "name": "Elektronska pošta"
+    },
+    {
+        "id": "01mfj",
+        "name": "Strojna oprema"
+    },
+    {
+        "id": "03rsh",
+        "name": "Vhodno-izhodna enota"
+    },
+    {
+        "id": "02_0t4",
+        "name": "Interaktivnost"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Računalništvo v oblaku"
+    },
+    {
+        "id": "07wcf",
+        "name": "Univerzalno serijsko vodilo"
+    },
+    {
+        "id": "0mynm",
+        "name": "Spletna kamera"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Matična plošča"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haag"
+    },
+    {
+        "id": "02_286",
+        "name": "New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Jeruzalem"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seul"
+    },
+    {
+        "id": "031y2",
+        "name": "Firence"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Pariz"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Stolp"
+    },
+    {
+        "id": "06gfj",
+        "name": "Cesta"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Bolnišnica"
+    },
+    {
+        "id": "0k05r",
+        "name": "Sodišče"
+    },
+    {
+        "id": "06zdj",
+        "name": "Šola"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadion"
+    },
+    {
+        "id": "0166ls",
+        "name": "Park"
+    },
+    {
+        "id": "06zdj",
+        "name": "Šola"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muzej"
+    },
+    {
+        "id": "017ql",
+        "name": "Banka"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "Kolidž"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Trg"
+    },
+    {
+        "id": "03nybl",
+        "name": "Policijska postaja"
+    },
+    {
+        "id": "09cjl",
+        "name": "Letališče"
+    },
+    {
+        "id": "053rd",
+        "name": "Rudarstvo"
+    },
+    {
+        "id": "023907r",
+        "name": "Nepremičnine"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekom"
+    },
+    {
+        "id": "01mf0",
+        "name": "Programska oprema"
+    },
+    {
+        "id": "011s0",
+        "name": "Oglaševanje"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotehnologija"
+    },
+    {
+        "id": "0hz28",
+        "name": "Založništvo"
+    },
+    {
+        "id": "0191_7",
+        "name": "Trgovina na drobno"
+    },
+    {
+        "id": "0h61",
+        "name": "Arheologija"
+    },
+    {
+        "id": "01mtb",
+        "name": "Kuhanje"
+    },
+    {
+        "id": "034dj",
+        "name": "Igra na srečo"
+    },
+    {
+        "id": "034v_",
+        "name": "Vrtnarstvo"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografiranje"
+    },
+    {
+        "id": "064rk",
+        "name": "Lončarstvo"
+    },
+    {
+        "id": "09nyy",
+        "name": "Žongliranje"
+    },
+    {
+        "id": "017dv8",
+        "name": "Opazovanje ptic"
+    }
+]

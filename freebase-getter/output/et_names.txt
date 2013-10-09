@@ -1,0 +1,1214 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Sipelglased"
+    },
+    {
+        "id": "01dws",
+        "name": "Karulased"
+    },
+    {
+        "id": "015p6",
+        "name": "Linnud"
+    },
+    {
+        "id": "01x_v",
+        "name": "Kaamel"
+    },
+    {
+        "id": "01yrx",
+        "name": "Kass"
+    },
+    {
+        "id": "09b5t",
+        "name": "Kana"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Veis"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Elevant"
+    },
+    {
+        "id": "03k3r",
+        "name": "Hobune"
+    },
+    {
+        "id": "07bgp",
+        "name": "Lammas"
+    },
+    {
+        "id": "0cnyhnx",
+        "name": "Pull"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Harilik aspar"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Kapsas"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Porgand"
+    },
+    {
+        "id": "015w7p",
+        "name": "Lillkapsas"
+    },
+    {
+        "id": "01xj_",
+        "name": "Aedseller"
+    },
+    {
+        "id": "053wn",
+        "name": "Mais"
+    },
+    {
+        "id": "015x4r",
+        "name": "Harilik kurk"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Baklažaan"
+    },
+    {
+        "id": "017dqv",
+        "name": "Harilik apteegitill"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Küüslauk"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Aedsalat"
+    },
+    {
+        "id": "0dj75",
+        "name": "Harilik sibul"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Harilik hernes"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Maapähkel"
+    },
+    {
+        "id": "05vtc",
+        "name": "Harilik kartul"
+    },
+    {
+        "id": "0cl46",
+        "name": "Naeris"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Ürt-allikkerss"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Harilik raudrohi"
+    },
+    {
+        "id": "015fr",
+        "name": "Brasiilia"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Tšiili"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Hiina"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iraan"
+    },
+    {
+        "id": "01znc_",
+        "name": "Türgi"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Rootsi"
+    },
+    {
+        "id": "06mkj",
+        "name": "Hispaania"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Ungari"
+    },
+    {
+        "id": "0345h",
+        "name": "Saksamaa"
+    },
+    {
+        "id": "05qhw",
+        "name": "Poola"
+    },
+    {
+        "id": "04g5k",
+        "name": "Läti"
+    },
+    {
+        "id": "012wgb",
+        "name": "Iirimaa saar"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgaaria"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongoolia"
+    },
+    {
+        "id": "06q1r",
+        "name": "Šotimaa"
+    },
+    {
+        "id": "0chghy",
+        "name": "Austraalia"
+    },
+    {
+        "id": "035v3",
+        "name": "Gröönimaa"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armeenia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Jaapan"
+    },
+    {
+        "id": "019rg5",
+        "name": "Keenia"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Esmaspäev"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Teisipäev"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Kolmapäev"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Neljapäev"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Reede"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Laupäev"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Pühapäev"
+    },
+    {
+        "id": "06m_p",
+        "name": "Päike"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkuur"
+    },
+    {
+        "id": "09bcm",
+        "name": "Veenus"
+    },
+    {
+        "id": "02j71",
+        "name": "Maa"
+    },
+    {
+        "id": "09cws",
+        "name": "Marss"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uraan"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptuun"
+    },
+    {
+        "id": "07cqw",
+        "name": "Sõnn"
+    },
+    {
+        "id": "077r8d",
+        "name": "Kaksikud"
+    },
+    {
+        "id": "04h2q",
+        "name": "Lõvi"
+    },
+    {
+        "id": "07yt9",
+        "name": "Neitsi"
+    },
+    {
+        "id": "04h36",
+        "name": "Kaalud"
+    },
+    {
+        "id": "06pgz",
+        "name": "Skorpion"
+    },
+    {
+        "id": "06pgg",
+        "name": "Ambur"
+    },
+    {
+        "id": "01nk9",
+        "name": "Kaljukits"
+    },
+    {
+        "id": "05s7n",
+        "name": "Kalad"
+    },
+    {
+        "id": "02vx4",
+        "name": "Jalgpall"
+    },
+    {
+        "id": "0jm_",
+        "name": "Ameerika jalgpall"
+    },
+    {
+        "id": "018w8",
+        "name": "Korvpall"
+    },
+    {
+        "id": "018jz",
+        "name": "Pesapall"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tennis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Poks"
+    },
+    {
+        "id": "03tmr",
+        "name": "Jäähoki"
+    },
+    {
+        "id": "07_53",
+        "name": "Võrkpall"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Jalgrattasõit"
+    },
+    {
+        "id": "06z6r",
+        "name": "Ujumine"
+    },
+    {
+        "id": "03_8r",
+        "name": "Džuudo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maraton"
+    },
+    {
+        "id": "0194d",
+        "name": "Sulgpall"
+    },
+    {
+        "id": "07jbh",
+        "name": "Lauatennis"
+    },
+    {
+        "id": "087zy",
+        "name": "Jooga"
+    },
+    {
+        "id": "0397w",
+        "name": "Võimlemine"
+    },
+    {
+        "id": "036vg6",
+        "name": "Maadlus"
+    },
+    {
+        "id": "04xsv",
+        "name": "Võitluskunstid"
+    },
+    {
+        "id": "03_ly",
+        "name": "Jaanuar"
+    },
+    {
+        "id": "02xx5",
+        "name": "Veebruar"
+    },
+    {
+        "id": "04wzr",
+        "name": "Märts"
+    },
+    {
+        "id": "0lkm",
+        "name": "Aprill"
+    },
+    {
+        "id": "04w_7",
+        "name": "Mai"
+    },
+    {
+        "id": "040fb",
+        "name": "Juuni"
+    },
+    {
+        "id": "040fv",
+        "name": "Juuli"
+    },
+    {
+        "id": "0ll3",
+        "name": "August"
+    },
+    {
+        "id": "06vkl",
+        "name": "September"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktoober"
+    },
+    {
+        "id": "05cw8",
+        "name": "November"
+    },
+    {
+        "id": "028kb",
+        "name": "Detsember"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Põhi"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Lõuna"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Lääs"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Ida"
+    },
+    {
+        "id": "0j0k",
+        "name": "Aasia"
+    },
+    {
+        "id": "059g4",
+        "name": "Põhja-Ameerika manner"
+    },
+    {
+        "id": "06n3y",
+        "name": "Lõuna-Ameerika manner"
+    },
+    {
+        "id": "02j9z",
+        "name": "Euroopa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Aafrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktis"
+    },
+    {
+        "id": "05p553",
+        "name": "Komöödiafilm"
+    },
+    {
+        "id": "03npn",
+        "name": "Õudusfilm"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Dokumentaalfilm"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Draamafilm"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animatsioon"
+    },
+    {
+        "id": "06n90",
+        "name": "Teadusulme"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Märulifilm"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Thriller"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Romantiline film"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Imeulme"
+    },
+    {
+        "id": "0g65_",
+        "name": "Seiklusmäng"
+    },
+    {
+        "id": "06by7",
+        "name": "Rokkmuusika"
+    },
+    {
+        "id": "064t9",
+        "name": "Levimuusika"
+    },
+    {
+        "id": "03_d0",
+        "name": "Džäss"
+    },
+    {
+        "id": "01lyv",
+        "name": "Kantrimuusika"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hiphop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klassikaline muusika"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektrooniline muusika"
+    },
+    {
+        "id": "0155w",
+        "name": "Bluus"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Rahvamuusika"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Tantsumuusika"
+    },
+    {
+        "id": "0rfgh6w",
+        "name": "Lennuk"
+    },
+    {
+        "id": "0199g",
+        "name": "Jalgratas"
+    },
+    {
+        "id": "019jd",
+        "name": "Paat"
+    },
+    {
+        "id": "01bjv",
+        "name": "Buss"
+    },
+    {
+        "id": "0k4j",
+        "name": "Auto"
+    },
+    {
+        "id": "09ct_",
+        "name": "Kopter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Mootorratas"
+    },
+    {
+        "id": "06q74",
+        "name": "Laev"
+    },
+    {
+        "id": "0pg52",
+        "name": "Takso"
+    },
+    {
+        "id": "07jdr",
+        "name": "Rong"
+    },
+    {
+        "id": "07r04",
+        "name": "Veoauto"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramm"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Parvlaev"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trollibuss"
+    },
+    {
+        "id": "09g5h",
+        "name": "Kosmoseaparaat"
+    },
+    {
+        "id": "074d1",
+        "name": "Allveelaev"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Juust"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Õlletehas\/õllemark"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Õlu"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Tee"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Jook"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Maiustusepood"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Roog"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Koostisosa"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restoran"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Peakokk"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Toiduvalmistamisviis"
+    },
+    {
+        "id": "046cz33",
+        "name": "Viinavabrik"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Veini päritolupiirkond"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Viinamarjaistandus"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vein"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dieet"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Retsept"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Toit"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Toitaine"
+    },
+    {
+        "id": "0342h",
+        "name": "Kitarr"
+    },
+    {
+        "id": "0319l",
+        "name": "Metsasarv"
+    },
+    {
+        "id": "02hnl",
+        "name": "Trummikomplekt"
+    },
+    {
+        "id": "013y1f",
+        "name": "Orel"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flööt"
+    },
+    {
+        "id": "05r5c",
+        "name": "Klaver"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordion"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Tsitaat"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Kohandus"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Pühenduse adressaat"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Pühendaja"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Väljaanne"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Arvustus"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Intervjuu"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Tõlge"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Intervjueeritav"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Intervjueerija"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Tõlkija"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Katkend"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Illustraator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Jurist"
+    },
+    {
+        "id": "05t4q",
+        "name": "Arst"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arhitekt"
+    },
+    {
+        "id": "09jwl",
+        "name": "Muusik"
+    },
+    {
+        "id": "01d30f",
+        "name": "Õpetaja"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Modell"
+    },
+    {
+        "id": "01pxg",
+        "name": "Keemik"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Loomaarst"
+    },
+    {
+        "id": "01c72t",
+        "name": "Helilooja"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Kokk"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Politseinik"
+    },
+    {
+        "id": "05xls",
+        "name": "Programmeerija"
+    },
+    {
+        "id": "02h661t",
+        "name": "Hambaarst"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediaatria"
+    },
+    {
+        "id": "099md",
+        "name": "Sõdur"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Veokijuht"
+    },
+    {
+        "id": "01d380",
+        "name": "Trell"
+    },
+    {
+        "id": "03l9g",
+        "name": "Vasar"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Höövel"
+    },
+    {
+        "id": "05b_nc",
+        "name": "Tapisaag"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Käärid"
+    },
+    {
+        "id": "07ln6l",
+        "name": "Kruustangid"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Mutrivõti"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Tšekk"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Kahvel"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Joogivesi"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kohv"
+    },
+    {
+        "id": "09cx8",
+        "name": "Sõrmed"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Hambad"
+    },
+    {
+        "id": "031n1",
+        "name": "Labajalg"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Huuled"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Suu"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Varvas"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Lõug"
+    },
+    {
+        "id": "03q69",
+        "name": "Juuksed"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Kael"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Keel"
+    },
+    {
+        "id": "039xj_",
+        "name": "Kõrv"
+    },
+    {
+        "id": "0k65p",
+        "name": "Labakäsi"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nina"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Pea"
+    },
+    {
+        "id": "014sv8",
+        "name": "Silm"
+    },
+    {
+        "id": "01b638",
+        "name": "Saabas"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pidžaama"
+    },
+    {
+        "id": "013s93",
+        "name": "T-särk"
+    },
+    {
+        "id": "0fly7",
+        "name": "Teksad"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Lips"
+    },
+    {
+        "id": "01d40f",
+        "name": "Kleit"
+    },
+    {
+        "id": "07mhn",
+        "name": "Püksid"
+    },
+    {
+        "id": "0cp1w6l",
+        "name": "Aluspüksid"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Sõrmistik"
+    },
+    {
+        "id": "020lf",
+        "name": "Arvutihiir"
+    },
+    {
+        "id": "01fk53",
+        "name": "Käsk"
+    },
+    {
+        "id": "02bc6",
+        "name": "Andmebaas"
+    },
+    {
+        "id": "020s1",
+        "name": "Fail"
+    },
+    {
+        "id": "02nf_",
+        "name": "E-kiri"
+    },
+    {
+        "id": "03rsh",
+        "name": "Sisend\/väljund"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Pilvandmetöötlus"
+    },
+    {
+        "id": "07wcf",
+        "name": "Universaalne järjestiksiin"
+    },
+    {
+        "id": "0mynm",
+        "name": "Veebikaamera"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Emaplaat"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haag"
+    },
+    {
+        "id": "02_286",
+        "name": "New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Jeruusalemm"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Soul"
+    },
+    {
+        "id": "031y2",
+        "name": "Firenze"
+    },
+    {
+        "id": "0156q",
+        "name": "Berliin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Pariis"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Torn"
+    },
+    {
+        "id": "06gfj",
+        "name": "Tee"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Haigla"
+    },
+    {
+        "id": "0k05r",
+        "name": "Kohus"
+    },
+    {
+        "id": "06zdj",
+        "name": "Kool"
+    },
+    {
+        "id": "019cfy",
+        "name": "Staadion"
+    },
+    {
+        "id": "0166ls",
+        "name": "Park"
+    },
+    {
+        "id": "06zdj",
+        "name": "Kool"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muuseum"
+    },
+    {
+        "id": "017ql",
+        "name": "Pank"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Turg"
+    },
+    {
+        "id": "09cjl",
+        "name": "Lennujaam"
+    },
+    {
+        "id": "053rd",
+        "name": "Kaevandus"
+    },
+    {
+        "id": "023907r",
+        "name": "Kinnisvara"
+    },
+    {
+        "id": "01mf0",
+        "name": "Tarkvara"
+    },
+    {
+        "id": "011s0",
+        "name": "Reklaamindus"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotehnoloogia"
+    },
+    {
+        "id": "0hz28",
+        "name": "Kirjastamine"
+    },
+    {
+        "id": "0191_7",
+        "name": "Jaekaubandus"
+    },
+    {
+        "id": "0h61",
+        "name": "Arheoloogia"
+    },
+    {
+        "id": "01mtb",
+        "name": "Kokandus"
+    },
+    {
+        "id": "034dj",
+        "name": "Hasartmäng"
+    },
+    {
+        "id": "034v_",
+        "name": "Aiandus"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotograafia"
+    },
+    {
+        "id": "06h7j",
+        "name": "Jooks"
+    },
+    {
+        "id": "012v4j",
+        "name": "Matkamine"
+    }
+]

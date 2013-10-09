@@ -1,0 +1,1362 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Myre"
+    },
+    {
+        "id": "01dws",
+        "name": "Bjørne"
+    },
+    {
+        "id": "01h3n",
+        "name": "Bier"
+    },
+    {
+        "id": "015p6",
+        "name": "Fugle"
+    },
+    {
+        "id": "01x_v",
+        "name": "Camelus"
+    },
+    {
+        "id": "01yrx",
+        "name": "Kat"
+    },
+    {
+        "id": "09b5t",
+        "name": "Høns"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Tamkvæg"
+    },
+    {
+        "id": "09ddx",
+        "name": "Egentlige andefugle"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Elefant"
+    },
+    {
+        "id": "03k3r",
+        "name": "Hest"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Abe"
+    },
+    {
+        "id": "07bgp",
+        "name": "Får"
+    },
+    {
+        "id": "047v4b",
+        "name": "Artiskok"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Almindelig Asparges"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Almindelig Bede"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Broccoli"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Hvidkål"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Gulerod"
+    },
+    {
+        "id": "015w7p",
+        "name": "Blomkål"
+    },
+    {
+        "id": "01xj_",
+        "name": "Bladselleri"
+    },
+    {
+        "id": "053wn",
+        "name": "Majs"
+    },
+    {
+        "id": "015x4r",
+        "name": "Almindelig Agurk"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Aubergine"
+    },
+    {
+        "id": "017dqv",
+        "name": "Almindelig Fennikel"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Hvidløg"
+    },
+    {
+        "id": "02r5_b",
+        "name": "Grønkål"
+    },
+    {
+        "id": "04bk6",
+        "name": "Glaskål"
+    },
+    {
+        "id": "0666h8",
+        "name": "KUKA Roboter"
+    },
+    {
+        "id": "013__5",
+        "name": "Porre"
+    },
+    {
+        "id": "0dj75",
+        "name": "Løg"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Almindelig Pastinak"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Almindelig Ært"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Jordnød"
+    },
+    {
+        "id": "05vtc",
+        "name": "Kartoffel"
+    },
+    {
+        "id": "015x5n",
+        "name": "Radise"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Have-Rabarber"
+    },
+    {
+        "id": "016rh7",
+        "name": "Spinat"
+    },
+    {
+        "id": "0cl46",
+        "name": "Majroe"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Tykskulpet Brøndkarse"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Almindelig Røllike"
+    },
+    {
+        "id": "015fr",
+        "name": "Brasilien"
+    },
+    {
+        "id": "0d060g",
+        "name": "Canada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Kina"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Cuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Tyrkiet"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Sverige"
+    },
+    {
+        "id": "06mkj",
+        "name": "Spanien"
+    },
+    {
+        "id": "0h7x",
+        "name": "Østrig"
+    },
+    {
+        "id": "03gj2",
+        "name": "Ungarn"
+    },
+    {
+        "id": "0345h",
+        "name": "Tyskland"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polen"
+    },
+    {
+        "id": "04g5k",
+        "name": "Letland"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irland"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgarien"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongoliet"
+    },
+    {
+        "id": "06q1r",
+        "name": "Skotland"
+    },
+    {
+        "id": "0chghy",
+        "name": "Australien"
+    },
+    {
+        "id": "035v3",
+        "name": "Grønland"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenien"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japan"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Mandag"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Tirsdag"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Onsdag"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Torsdag"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Fredag"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Lørdag"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Søndag"
+    },
+    {
+        "id": "06m_p",
+        "name": "Solen"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkur"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venus"
+    },
+    {
+        "id": "02j71",
+        "name": "Jorden"
+    },
+    {
+        "id": "09cws",
+        "name": "Mars (planet)"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uranus"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptun"
+    },
+    {
+        "id": "0jwy",
+        "name": "Vædderen"
+    },
+    {
+        "id": "07cqw",
+        "name": "Tyren"
+    },
+    {
+        "id": "077r8d",
+        "name": "Tvillingerne"
+    },
+    {
+        "id": "0qck6",
+        "name": "Krebsen"
+    },
+    {
+        "id": "04h2q",
+        "name": "Løven"
+    },
+    {
+        "id": "07yt9",
+        "name": "Jomfruen (stjernetegn)"
+    },
+    {
+        "id": "04h36",
+        "name": "Vægten"
+    },
+    {
+        "id": "06pgz",
+        "name": "Skorpionen"
+    },
+    {
+        "id": "06pgg",
+        "name": "Skytten"
+    },
+    {
+        "id": "01nk9",
+        "name": "Stenbukken"
+    },
+    {
+        "id": "0jxf",
+        "name": "Vandmanden"
+    },
+    {
+        "id": "05s7n",
+        "name": "Fiskene"
+    },
+    {
+        "id": "02vx4",
+        "name": "Fodbold"
+    },
+    {
+        "id": "0jm_",
+        "name": "Amerikansk fodbold"
+    },
+    {
+        "id": "018w8",
+        "name": "Basketball"
+    },
+    {
+        "id": "018jz",
+        "name": "Baseball"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tennis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boksning"
+    },
+    {
+        "id": "03tmr",
+        "name": "Ishockey"
+    },
+    {
+        "id": "07_53",
+        "name": "Volleyball"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletik"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Cykling"
+    },
+    {
+        "id": "06z6r",
+        "name": "Svømning"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maratonløb"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Bordtennis"
+    },
+    {
+        "id": "087zy",
+        "name": "Yoga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gymnastik"
+    },
+    {
+        "id": "036vg6",
+        "name": "Brydning"
+    },
+    {
+        "id": "04xsv",
+        "name": "Kampsport"
+    },
+    {
+        "id": "03_ly",
+        "name": "Januar"
+    },
+    {
+        "id": "02xx5",
+        "name": "Februar"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marts"
+    },
+    {
+        "id": "0lkm",
+        "name": "April"
+    },
+    {
+        "id": "04w_7",
+        "name": "Maj"
+    },
+    {
+        "id": "040fb",
+        "name": "Juni"
+    },
+    {
+        "id": "040fv",
+        "name": "Juli"
+    },
+    {
+        "id": "0ll3",
+        "name": "August"
+    },
+    {
+        "id": "06vkl",
+        "name": "September"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktober"
+    },
+    {
+        "id": "05cw8",
+        "name": "November"
+    },
+    {
+        "id": "028kb",
+        "name": "December"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Syd"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Vest"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Øst"
+    },
+    {
+        "id": "0j0k",
+        "name": "Asien"
+    },
+    {
+        "id": "059g4",
+        "name": "Nordamerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Sydamerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktis"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Australien"
+    },
+    {
+        "id": "05p553",
+        "name": "Komik"
+    },
+    {
+        "id": "03npn",
+        "name": "Horror"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Dokumentarfilm"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animation"
+    },
+    {
+        "id": "06n90",
+        "name": "Science fiction"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Thriller (genre)"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasy"
+    },
+    {
+        "id": "0g65_",
+        "name": "Adventurespil"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock and roll"
+    },
+    {
+        "id": "064t9",
+        "name": "Popmusik"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hiphop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klassisk musik"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektronisk musik"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Folkemusik"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0199g",
+        "name": "Cykel"
+    },
+    {
+        "id": "019jd",
+        "name": "Båd"
+    },
+    {
+        "id": "01bjv",
+        "name": "Bus"
+    },
+    {
+        "id": "0k4j",
+        "name": "Bil"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikopter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motorcykel"
+    },
+    {
+        "id": "06q74",
+        "name": "Skib"
+    },
+    {
+        "id": "01pz3b",
+        "name": "New York City Subway"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taxa"
+    },
+    {
+        "id": "07jdr",
+        "name": "Tog"
+    },
+    {
+        "id": "07r04",
+        "name": "Lastbil"
+    },
+    {
+        "id": "07kfm",
+        "name": "Sporvogn"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Færge"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trolleybus"
+    },
+    {
+        "id": "09g5h",
+        "name": "Rumfartøj"
+    },
+    {
+        "id": "013xl3",
+        "name": "Luftpudebåd"
+    },
+    {
+        "id": "074d1",
+        "name": "Undervandsbåd"
+    },
+    {
+        "id": "057gn",
+        "name": "MPV"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Ost"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Bryggeri\/ølmærke"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Øl"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Te"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Drikkevarer"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Chokoladebar"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Ret"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingrediens"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurant"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Kok"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Kogekunst"
+    },
+    {
+        "id": "046cz33",
+        "name": "Destilleri"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Betegnelse"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vingård"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vin"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Diæt"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Opskrift"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Mad"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Næringsstof"
+    },
+    {
+        "id": "0342h",
+        "name": "Guitar"
+    },
+    {
+        "id": "0319l",
+        "name": "Valdhorn"
+    },
+    {
+        "id": "02hnl",
+        "name": "Trommesæt"
+    },
+    {
+        "id": "013y1f",
+        "name": "Orgel"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Fløjte"
+    },
+    {
+        "id": "05r5c",
+        "name": "Klaver"
+    },
+    {
+        "id": "0mkg",
+        "name": "Harmonika"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citat"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Tilpasning"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Den dedikerede"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedikator"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publikation"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Anmeldelse"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Forfatter"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Interview"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Oversættelse"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Den interviewede"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Interviewer"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Oversætter"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Uddrag"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Illustrator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Advokat"
+    },
+    {
+        "id": "05t4q",
+        "name": "Læge"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arkitekt"
+    },
+    {
+        "id": "09jwl",
+        "name": "Musiker"
+    },
+    {
+        "id": "01d30f",
+        "name": "Underviser"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Kemiker"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Dyrlæge"
+    },
+    {
+        "id": "01c72t",
+        "name": "Komponist"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Kok"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Politibetjent"
+    },
+    {
+        "id": "05xls",
+        "name": "Programmør"
+    },
+    {
+        "id": "02tx6q",
+        "name": "Lydtekniker"
+    },
+    {
+        "id": "02h661t",
+        "name": "Tandlæge"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pædiatri"
+    },
+    {
+        "id": "099md",
+        "name": "Soldat"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Lastbilchauffør"
+    },
+    {
+        "id": "01d380",
+        "name": "Boremaskine"
+    },
+    {
+        "id": "03l9g",
+        "name": "Hammer"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Høvl"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Saks"
+    },
+    {
+        "id": "07ln6l",
+        "name": "Skruestik"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Fastnøgle"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Check"
+    },
+    {
+        "id": "03m7wd",
+        "name": "Sachertorte"
+    },
+    {
+        "id": "06qrr",
+        "name": "Sodavand"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Gaffel"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Burger"
+    },
+    {
+        "id": "024gjb",
+        "name": "Menu"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Ske"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kaffe"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Ryg"
+    },
+    {
+        "id": "09cx8",
+        "name": "Finger"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Tand"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Læbe"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Brystkasse"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Mund"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Tå"
+    },
+    {
+        "id": "03q69",
+        "name": "Hår"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Hals"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Tunge"
+    },
+    {
+        "id": "039xj_",
+        "name": "Øre"
+    },
+    {
+        "id": "0k65p",
+        "name": "Hånd"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Næse"
+    },
+    {
+        "id": "027n3_",
+        "name": "Øjenbryn"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Hoved"
+    },
+    {
+        "id": "031974",
+        "name": "Talje"
+    },
+    {
+        "id": "014sv8",
+        "name": "Øje"
+    },
+    {
+        "id": "06rrc",
+        "name": "Sko"
+    },
+    {
+        "id": "01b638",
+        "name": "Støvle"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Kjole og skørt"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pyjamas"
+    },
+    {
+        "id": "013s93",
+        "name": "T-shirt"
+    },
+    {
+        "id": "0fly7",
+        "name": "Cowboybukser"
+    },
+    {
+        "id": "0216vm",
+        "name": "Badetøffel"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Slips"
+    },
+    {
+        "id": "01d40f",
+        "name": "Kjole og skørt"
+    },
+    {
+        "id": "01nq26",
+        "name": "Sok"
+    },
+    {
+        "id": "07mhn",
+        "name": "Bukser"
+    },
+    {
+        "id": "0174n1",
+        "name": "Handske"
+    },
+    {
+        "id": "02h19r",
+        "name": "Halstørklæde"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Skjorte"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Jakkesæt"
+    },
+    {
+        "id": "01767_",
+        "name": "Nylonstrømpe"
+    },
+    {
+        "id": "079f77",
+        "name": "Undertrøje"
+    },
+    {
+        "id": "01zzs",
+        "name": "Cd-rom"
+    },
+    {
+        "id": "01m2v",
+        "name": "Tastatur"
+    },
+    {
+        "id": "020lf",
+        "name": "Computermus"
+    },
+    {
+        "id": "02bc6",
+        "name": "Database"
+    },
+    {
+        "id": "020s1",
+        "name": "Fil"
+    },
+    {
+        "id": "02nf_",
+        "name": "E-mail"
+    },
+    {
+        "id": "01xfp",
+        "name": "Computergrafik"
+    },
+    {
+        "id": "01zrkr",
+        "name": "Ikon"
+    },
+    {
+        "id": "01mfj",
+        "name": "Hardware"
+    },
+    {
+        "id": "03rsh",
+        "name": "I\/O"
+    },
+    {
+        "id": "02_0t4",
+        "name": "Interaktiv"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Cloud computing"
+    },
+    {
+        "id": "07wcf",
+        "name": "Universal Serial Bus"
+    },
+    {
+        "id": "0mynm",
+        "name": "Webcam"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Bundkort"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haag"
+    },
+    {
+        "id": "02_286",
+        "name": "New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Jerusalem"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seoul"
+    },
+    {
+        "id": "031y2",
+        "name": "Firenze"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Tårn"
+    },
+    {
+        "id": "06gfj",
+        "name": "Vej"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Sygehus"
+    },
+    {
+        "id": "0k05r",
+        "name": "Domstol"
+    },
+    {
+        "id": "06zdj",
+        "name": "Skole"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadion"
+    },
+    {
+        "id": "0166ls",
+        "name": "Park"
+    },
+    {
+        "id": "06zdj",
+        "name": "Skole"
+    },
+    {
+        "id": "09cmq",
+        "name": "Museum"
+    },
+    {
+        "id": "017ql",
+        "name": "Bank"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "Seminarium"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Marked"
+    },
+    {
+        "id": "03nybl",
+        "name": "Politistation"
+    },
+    {
+        "id": "09cjl",
+        "name": "Lufthavn"
+    },
+    {
+        "id": "053rd",
+        "name": "Minedrift"
+    },
+    {
+        "id": "023907r",
+        "name": "Ejendomsmægling"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekommunikation"
+    },
+    {
+        "id": "02h400t",
+        "name": "Finansiel virksomhed"
+    },
+    {
+        "id": "01mf0",
+        "name": "Computerprogram"
+    },
+    {
+        "id": "011s0",
+        "name": "Reklame"
+    },
+    {
+        "id": "01ftz",
+        "name": "Bioteknologi"
+    },
+    {
+        "id": "0hz28",
+        "name": "Forlagsvirksomhed"
+    },
+    {
+        "id": "0191_7",
+        "name": "Detail"
+    },
+    {
+        "id": "0h61",
+        "name": "Arkæologi"
+    },
+    {
+        "id": "01mtb",
+        "name": "Madlavning"
+    },
+    {
+        "id": "034dj",
+        "name": "Hasardspil"
+    },
+    {
+        "id": "034v_",
+        "name": "Havebrug"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografi"
+    },
+    {
+        "id": "064rk",
+        "name": "Pottemagerkunst"
+    },
+    {
+        "id": "06h7j",
+        "name": "Løb"
+    },
+    {
+        "id": "09nyy",
+        "name": "Jonglering"
+    },
+    {
+        "id": "012v4j",
+        "name": "Hejk"
+    }
+]

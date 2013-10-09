@@ -1,0 +1,1206 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Skudru dzimta"
+    },
+    {
+        "id": "01dws",
+        "name": "Lāču dzimta"
+    },
+    {
+        "id": "01h3n",
+        "name": "Bites"
+    },
+    {
+        "id": "015p6",
+        "name": "Putni"
+    },
+    {
+        "id": "01x_v",
+        "name": "Kamieļi"
+    },
+    {
+        "id": "01yrx",
+        "name": "Kaķis"
+    },
+    {
+        "id": "09b5t",
+        "name": "Mājas vista"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Liellops"
+    },
+    {
+        "id": "09ddx",
+        "name": "Pīle"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Ziloņi"
+    },
+    {
+        "id": "03k3r",
+        "name": "Mājas zirgs"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Pērtiķi"
+    },
+    {
+        "id": "07bgp",
+        "name": "Aita"
+    },
+    {
+        "id": "047v4b",
+        "name": "Artišoks"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Sparģeļi"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokoļi"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Galviņkāposti"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Burkāns"
+    },
+    {
+        "id": "015w7p",
+        "name": "Ziedkāposts"
+    },
+    {
+        "id": "01xj_",
+        "name": "Selerija"
+    },
+    {
+        "id": "053wn",
+        "name": "Kukurūza"
+    },
+    {
+        "id": "015x4r",
+        "name": "Gurķis"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Baklažāns"
+    },
+    {
+        "id": "017dqv",
+        "name": "Fenhelis"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Ķiploks"
+    },
+    {
+        "id": "013__5",
+        "name": "Puravi"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Dārza salāti"
+    },
+    {
+        "id": "025s18p",
+        "name": "Bāmija"
+    },
+    {
+        "id": "0dj75",
+        "name": "Sīpols"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Zirnis"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Zemesrieksts"
+    },
+    {
+        "id": "05vtc",
+        "name": "Kartupelis"
+    },
+    {
+        "id": "015x5n",
+        "name": "Redīss"
+    },
+    {
+        "id": "016rh7",
+        "name": "Spināti"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Pelašķis"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazīlija"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanāda"
+    },
+    {
+        "id": "01p1v",
+        "name": "Čīle"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Ķīna"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Irāna"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turcija"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Zviedrija"
+    },
+    {
+        "id": "06mkj",
+        "name": "Spānija"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austrija"
+    },
+    {
+        "id": "03gj2",
+        "name": "Ungārija"
+    },
+    {
+        "id": "0345h",
+        "name": "Vācija"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polija"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latvija"
+    },
+    {
+        "id": "012wgb",
+        "name": "Īrija"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaika"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vjetnama"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgārija"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolija"
+    },
+    {
+        "id": "06q1r",
+        "name": "Skotija"
+    },
+    {
+        "id": "0chghy",
+        "name": "Austrālija"
+    },
+    {
+        "id": "035v3",
+        "name": "Grenlande"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armēnija"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japāna"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenija"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Pirmdiena"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Otrdiena"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Trešdiena"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Ceturtdiena"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Piektdiena"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sestdiena"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Svētdiena"
+    },
+    {
+        "id": "06m_p",
+        "name": "Saule"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkurs"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venera"
+    },
+    {
+        "id": "02j71",
+        "name": "Zeme"
+    },
+    {
+        "id": "09cws",
+        "name": "Marss"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiters"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturns"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Urāns"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptūns"
+    },
+    {
+        "id": "0jwy",
+        "name": "Auns"
+    },
+    {
+        "id": "07cqw",
+        "name": "Vērsis"
+    },
+    {
+        "id": "077r8d",
+        "name": "Dvīņi"
+    },
+    {
+        "id": "0qck6",
+        "name": "Vēzis"
+    },
+    {
+        "id": "04h2q",
+        "name": "Lauva"
+    },
+    {
+        "id": "07yt9",
+        "name": "Jaunava"
+    },
+    {
+        "id": "04h36",
+        "name": "Svari"
+    },
+    {
+        "id": "06pgz",
+        "name": "Skorpions"
+    },
+    {
+        "id": "06pgg",
+        "name": "Strēlnieks"
+    },
+    {
+        "id": "01nk9",
+        "name": "Mežāzis"
+    },
+    {
+        "id": "0jxf",
+        "name": "Ūdensvīrs"
+    },
+    {
+        "id": "05s7n",
+        "name": "Zivis"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbols"
+    },
+    {
+        "id": "0jm_",
+        "name": "Amerikāņu futbols"
+    },
+    {
+        "id": "018w8",
+        "name": "Basketbols"
+    },
+    {
+        "id": "018jz",
+        "name": "Beisbols"
+    },
+    {
+        "id": "07bs0",
+        "name": "Teniss"
+    },
+    {
+        "id": "01cgz",
+        "name": "Bokss"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hokejs"
+    },
+    {
+        "id": "07_53",
+        "name": "Volejbols"
+    },
+    {
+        "id": "037hz",
+        "name": "Golfs"
+    },
+    {
+        "id": "01sgl",
+        "name": "Riteņbraukšana"
+    },
+    {
+        "id": "06z6r",
+        "name": "Peldēšana"
+    },
+    {
+        "id": "03_8r",
+        "name": "Džudo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maratons"
+    },
+    {
+        "id": "0194d",
+        "name": "Badmintons"
+    },
+    {
+        "id": "07jbh",
+        "name": "Galda teniss"
+    },
+    {
+        "id": "087zy",
+        "name": "Joga"
+    },
+    {
+        "id": "0397w",
+        "name": "Vingrošana"
+    },
+    {
+        "id": "036vg6",
+        "name": "Cīņas sports"
+    },
+    {
+        "id": "04xsv",
+        "name": "Cīņas māksla"
+    },
+    {
+        "id": "03_ly",
+        "name": "Janvāris"
+    },
+    {
+        "id": "02xx5",
+        "name": "Februāris"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marts"
+    },
+    {
+        "id": "0lkm",
+        "name": "Aprīlis"
+    },
+    {
+        "id": "04w_7",
+        "name": "Maijs"
+    },
+    {
+        "id": "040fb",
+        "name": "Jūnijs"
+    },
+    {
+        "id": "040fv",
+        "name": "Jūlijs"
+    },
+    {
+        "id": "0ll3",
+        "name": "Augusts"
+    },
+    {
+        "id": "06vkl",
+        "name": "Septembris"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktobris"
+    },
+    {
+        "id": "05cw8",
+        "name": "Novembris"
+    },
+    {
+        "id": "028kb",
+        "name": "Decembris"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Ziemeļi"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Dienvidi"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Rietumi"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Austrumi"
+    },
+    {
+        "id": "0j0k",
+        "name": "Āzija"
+    },
+    {
+        "id": "059g4",
+        "name": "Ziemeļamerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Dienvidamerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Eiropa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Āfrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktīda"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Austrālija"
+    },
+    {
+        "id": "05p553",
+        "name": "Komēdija"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Dokumentālā filma"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animācija"
+    },
+    {
+        "id": "06n90",
+        "name": "Zinātniskā fantastika"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Trilleris"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantāzijas literatūra"
+    },
+    {
+        "id": "06by7",
+        "name": "Rokmūzika"
+    },
+    {
+        "id": "064t9",
+        "name": "Popmūzika"
+    },
+    {
+        "id": "03_d0",
+        "name": "Džezs"
+    },
+    {
+        "id": "01lyv",
+        "name": "Kantrī mūzika"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hiphops"
+    },
+    {
+        "id": "03lty",
+        "name": "Smagais metāls"
+    },
+    {
+        "id": "05r6t",
+        "name": "Pankroks"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klasiskā mūzika"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektroniskā mūzika"
+    },
+    {
+        "id": "0155w",
+        "name": "Blūzs"
+    },
+    {
+        "id": "06cqb",
+        "name": "Regejs"
+    },
+    {
+        "id": "02w4v",
+        "name": "Folkmūzika"
+    },
+    {
+        "id": "02x8m",
+        "name": "Fankmūzika"
+    },
+    {
+        "id": "0199g",
+        "name": "Divritenis"
+    },
+    {
+        "id": "019jd",
+        "name": "Laiva"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autobuss"
+    },
+    {
+        "id": "0k4j",
+        "name": "Automašīna"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikopters"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocikls"
+    },
+    {
+        "id": "06q74",
+        "name": "Kuģis"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taksometrs"
+    },
+    {
+        "id": "07jdr",
+        "name": "Vilciens"
+    },
+    {
+        "id": "07r04",
+        "name": "Kravas automašīna"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramvajs"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Prāmis"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trolejbuss"
+    },
+    {
+        "id": "09g5h",
+        "name": "Kosmosa kuģis"
+    },
+    {
+        "id": "074d1",
+        "name": "Zemūdene"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Siers"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Alus darītava\/zīmols"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Alus"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Tēja"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Dzēriens"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Saldumu batoniņš"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Ēdiens"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Sastāvdaļa"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restorāns"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Šefpavārs"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Kulinārija"
+    },
+    {
+        "id": "046cz33",
+        "name": "Spirta rūpnīca"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Apelācija"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vīnogu audzētava"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vīns"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Diēta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recepte"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Ēdiens"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Barības viela"
+    },
+    {
+        "id": "0342h",
+        "name": "Ģitāra"
+    },
+    {
+        "id": "0319l",
+        "name": "Mežrags"
+    },
+    {
+        "id": "013y1f",
+        "name": "Ērģeles"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flauta"
+    },
+    {
+        "id": "05r5c",
+        "name": "Klavieres"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordeons"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citāts"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptācija"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Cilvēks, kuram darbs veltīts"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Veltītājs"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publikācija"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Recenzija"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autors"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Intervija"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Tulkojums"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Intervijas sniedzējs"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Intervētājs"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Tulkotājs"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Fragments"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrators"
+    },
+    {
+        "id": "04gc2",
+        "name": "Jurists"
+    },
+    {
+        "id": "05t4q",
+        "name": "Ārsts"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arhitekts"
+    },
+    {
+        "id": "09jwl",
+        "name": "Mūziķis"
+    },
+    {
+        "id": "01d30f",
+        "name": "Skolotājs"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Modelis"
+    },
+    {
+        "id": "01pxg",
+        "name": "Ķīmiķis"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinārārsts"
+    },
+    {
+        "id": "01c72t",
+        "name": "Komponists"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Pavārs"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Policists"
+    },
+    {
+        "id": "05xls",
+        "name": "Programmētājs"
+    },
+    {
+        "id": "02h661t",
+        "name": "Zobārsts"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatrija"
+    },
+    {
+        "id": "099md",
+        "name": "Zaldāts"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Kravas automobiļa vadītājs"
+    },
+    {
+        "id": "03l9g",
+        "name": "Āmurs"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Šķēres"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Čeks"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Dakšiņa"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburgers"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Karote"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kafija"
+    },
+    {
+        "id": "09cx8",
+        "name": "Pirksts"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Zobi"
+    },
+    {
+        "id": "037p5b",
+        "name": "Vaigi"
+    },
+    {
+        "id": "031n1",
+        "name": "Pēda"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Lūpas"
+    },
+    {
+        "id": "025kyy",
+        "name": "Piere"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Mute"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Zods"
+    },
+    {
+        "id": "03q69",
+        "name": "Mati"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Kakls"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Mēle"
+    },
+    {
+        "id": "039xj_",
+        "name": "Auss"
+    },
+    {
+        "id": "0k65p",
+        "name": "Plauksta"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Deguns"
+    },
+    {
+        "id": "027n3_",
+        "name": "Uzacis"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Galva"
+    },
+    {
+        "id": "014sv8",
+        "name": "Acs"
+    },
+    {
+        "id": "06rrc",
+        "name": "Kurpes"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Svārki"
+    },
+    {
+        "id": "0fly7",
+        "name": "Džinsi"
+    },
+    {
+        "id": "0216vm",
+        "name": "Čības"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Kaklasaite"
+    },
+    {
+        "id": "01nq26",
+        "name": "Zeķes"
+    },
+    {
+        "id": "07mhn",
+        "name": "Bikses"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Krekls"
+    },
+    {
+        "id": "01m2v",
+        "name": "Datora klaviatūra"
+    },
+    {
+        "id": "020lf",
+        "name": "Datorpele"
+    },
+    {
+        "id": "02bc6",
+        "name": "Datubāze"
+    },
+    {
+        "id": "020s1",
+        "name": "Datne"
+    },
+    {
+        "id": "02nf_",
+        "name": "E-pasts"
+    },
+    {
+        "id": "01mfj",
+        "name": "Datoru aparatūra"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internets"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Mākoņskaitļošana"
+    },
+    {
+        "id": "07wcf",
+        "name": "Universal Serial Bus"
+    },
+    {
+        "id": "0mynm",
+        "name": "Tīmekļkamera"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Mātes plate"
+    },
+    {
+        "id": "07g0_",
+        "name": "Hāga"
+    },
+    {
+        "id": "02_286",
+        "name": "Ņujorka"
+    },
+    {
+        "id": "0430_",
+        "name": "Jeruzaleme"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kaira"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seula"
+    },
+    {
+        "id": "031y2",
+        "name": "Florence"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlīne"
+    },
+    {
+        "id": "05qtj",
+        "name": "Parīze"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdama"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakara"
+    },
+    {
+        "id": "06gmr",
+        "name": "Riodežaneiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Tornis"
+    },
+    {
+        "id": "06gfj",
+        "name": "Ceļš"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Slimnīca"
+    },
+    {
+        "id": "0k05r",
+        "name": "Tiesa"
+    },
+    {
+        "id": "06zdj",
+        "name": "Skola"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadions"
+    },
+    {
+        "id": "0166ls",
+        "name": "Parks"
+    },
+    {
+        "id": "06zdj",
+        "name": "Skola"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muzejs"
+    },
+    {
+        "id": "017ql",
+        "name": "Banka"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Tirgus"
+    },
+    {
+        "id": "09cjl",
+        "name": "Lidosta"
+    },
+    {
+        "id": "053rd",
+        "name": "Kalnrūpniecība"
+    },
+    {
+        "id": "023907r",
+        "name": "Nekustamais īpašums"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telesakari"
+    },
+    {
+        "id": "01mf0",
+        "name": "Programmatūra"
+    },
+    {
+        "id": "011s0",
+        "name": "Reklāma"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotehnoloģija"
+    },
+    {
+        "id": "0hz28",
+        "name": "Izdevējdarbība"
+    },
+    {
+        "id": "0191_7",
+        "name": "Mazumtirdzniecība"
+    },
+    {
+        "id": "0h61",
+        "name": "Arheoloģija"
+    },
+    {
+        "id": "01mtb",
+        "name": "Kulinārija"
+    },
+    {
+        "id": "034dj",
+        "name": "Azartspēles"
+    },
+    {
+        "id": "034v_",
+        "name": "Dārzkopība"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotogrāfs"
+    },
+    {
+        "id": "064rk",
+        "name": "Podniecība"
+    },
+    {
+        "id": "017dv8",
+        "name": "Putnu vērošana"
+    }
+]

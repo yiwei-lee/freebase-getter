@@ -1,0 +1,1038 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Skudru dzimta ir viena no visvieglāk atpazīstamākajām un izplatītākajām kukaiņu dzimtām. Skudras dzīvo lielās, labi organizētās kolonijās. Vienā skudru kolonijā var būt no 62 skudrām līdz vairākiem desmitiem tūkstošu darbaskudru. Tās ir nelielas - parasti no 2 līdz 10 mm garas, ar sešām kājām.\nVisas skudras dzīvo ligzdās, dažkārt šādi ligzdu sakopojumi veido milzīgas kolonijas. Katrā ligzdā ir viena karaliene, kas dēj olas. Strādnieki un sargi ir neattīstījušās mātītes. Tie vāc barību, aprūpē skudru oliņas un kāpurus, kā arī sargā ligzdu. Sargi stāv pie ligzdas ieejām un sargā to. Daļa strādnieku aizvāc atkritumus un atver ejas, lai vēdinātu ligzdu.\nSkudru tēviņiem un mātītēm pirms pārošanās laika izaug spārni. Darbaskudrām spārnu nav. Tēviņi pēc pārošanās nobeidzas, bet mātītes atbrīvojas no spārniem un sameklē vietu ligzdai. Mātīte izrok aliņu, ielien kāda spraugā un izdēj tur olas. Sākumā tiek izaudzētas tikai dažas darbaskudras, jo mātīte pati sev barību var arī negādāt, bet pārtikt no ķermenī esošam barības rezervēm un apēd daļu olu. Kāpurus mātīte baro ar siekalu izdalījumiem. Saime paplašinās tikai tad, kad radušies pirmās darbaskudras, kas uzņemas visus darbus. Mātītei tad atliek tikai olu dēšana. Dažkārt mātīti var \"adoptēt\" kāda jau gatava, novājināta skudru pūžņa skudras vai arī mātīte ielaužas citu skudru ligzdās. Dažu sugu, piemēram, smirdošās skudras Lasius umbratus mātītes okupētās ligzdas mātīti nonāvē. Bez savas sugas mātītes palikušās darbaskudras nokļūst it kā vergu lomā un audzē \"okupanta\" kāpurus. Tā rezultātā kādu laiku ligzdā ir jaukta saime, bet beigās paliek tikai agresīvās sugas īpatņi. Sarkanā mežskudra ieņemtajā ligzdā parasti pie melnās mežskudras vai purvu mežskudras nonāvē ne vien mātīti bet arī darbaskudras, jo tās svešajai mātītei nepakļaujas. No ieņemtajā ligzda esosajām kūniņām mātīte izaudzē sev paklausīgas darbaskudras, jo tās to neuztver par svešu un rezultatā aprūpē sarkanās mežskudras kāpurus. Sarkanā mežskudra uzbrūk citam vergu sugas ligzdām un papildina savu saimi ar nolaupītajām kūniņām. Šādas vienas sugas padarīšana par vergiem visticamāk ir tāpēc, ka \" vergturu\" sugu žokļu uzbūve ir piemērota cīņai un barības nešanai, savukārt priekš skudru kāpuru audzināšanas un rūpem žokļi ir pārāk lieli un spēcīgi."
+    },
+    {
+        "id": "01dws",
+        "description": "Lāču dzimtas dzīvnieki ir lieli plēsēju kārtas zīdītāji, kas pieder suņveidīgo apakškārtai, un ir tuvi radinieki airkājiem.\nLai arī lāču dzimtā mūsdienās ir tikai 8 dzīvojošas sugas, tie dzīvo ļoti dažādos apstākļos - no tropiem līdz Arktikai. Un lāču ģints ir sastopama gan Ziemeļamerikā, gan Dienvidamerikā, gan Eiropā un Āzijā. Lāču dzimtu Latvijā pārstāv brūnais lācis. Šī suga ierakstīta Latvijas Sarkanās grāmatas 3. kategorijā. 19. un 20. gadsimta mijā meža izciršanas un izmedīšanas rezultātā lācis bija izzudis no Latvijas teritorijas. Tikai 20. gadsimta 1970. gados atsākās dzīvnieku atgriešanās, tie ieceļoja no Igaunijas un Krievijas Pleskavas apgabala. 1980. gados lācis tika konstatēts arī Latvijas rietumdaļā, kopumā šobrīd ir vairāki desmiti īpatņu.\nKopš seniem laikiem cilvēks ir medījis lāčus, lai iegūtu ādu un gaļu. Joprojām arī mūsdienās lāči ieņem nozīmīgu lomu dažādās kultūras izpausmēs; mākslā, mitoloģijā, literatūrā un citās kultūras jomās. Mūsdienās no 8 eksistējošām lāču sugām 6 sugu izdzīvošana ir kritiska, lāči tiek aizsargāti ar likumu, tomēr malumedniecība joprojām ir viens no galvenajiem faktoriem lāču iznīcībai, īpaši Āzijā. Lācis ir Krievijas valsts simbols."
+    },
+    {
+        "id": "01h3n",
+        "description": "Bites jeb bišveidīgie kukaiņi ir kukaiņi, kuri ir radniecīgi lapsenēm un skudrām. Ir zināmas vairāk nekā 20 000 bišu sugu, kuras iedalītas 9 dzimtās. Savukārt visas šīs dzimtas ietilpst bišu virsdzimtā. Bites apdzīvo visus kontinentus, izņemot Antarktīdu."
+    },
+    {
+        "id": "015p6",
+        "description": "Putni ir ar spalvām klāta endotermiska mugurkaulnieku klase, kuri dēj olas un primāri ir specializējušies lidošanai. Kopā pavisam ir vairāk nekā 10 000 putnu sugu. Tie dzīvo visas planētas ekosistēmās, sākot no Arktikas līdz pat Antarktīdai. Putnu lielums var būt no 5 centimetriem, kā bišu kolibri, līdz pat 2,7 metriem. Putnus īsumā var raksturot kā divkājainus amniotus, kuru priekšējās ekstremitātes pārveidojušās spārnos, ķermenis apklāts ar spalvām, ķermeņa temperatūra pastāvīga un ļoti augsta, tiem ir četrkameru sirds ar diviem kambariem un diviem priekškambariem, aortas loks ir tikai viens, progresīvi attīstītas galvas smadzenes, it sevišķi priekšējo smadzeņu pusložu dibens, vidussmadzenes un smadzenītes. Putni vairojas dējot olas un perējot mazuļus. Putnus pēta zooloģijas apakšnozare — ornitoloģija."
+    },
+    {
+        "id": "01x_v",
+        "description": "Kamieļi, kamieļu ģints ir viena no kamieļu dzimtas ģintīm, kas pieder pārnadžu kārtai. Šajā ģintī ietilpst 5 sugas, no kurām mūsdienās ir sastopamas tikai divas: vienkupra kamielis jeb dromedārs un divkupru kamielis jeb baktriāns. Abas sugas ir domesticētas un tiek plaši audzētas, lai iegūtu pienu, gaļu un, lai tos izmantotu kā darba spēku. Karstajos klimatiskajos apstākļos, kādos dzīvo kamieļi, ar pieticīgiem un nabadzīgiem barības resursiem kamieļi ražo daudz vairāk piena nekā tradicionālie piensaimniecības mājdzīvnieki.\nVienkupra kamieļa savvaļas izplatības areāls nav īsti zināms, bet tiek pieņemts, ka tas kādreiz apdzīvojis Āzijas rietumus, mūsdienās tā domesticētā forma ir plaši izplatīta Ziemeļāfrikā un Tuvajos Austrumos. Lielākā daļa vienkupra kamieļu dzīvo Somālijā. Divkupru kamielim ir vēl saglabājusies neliela savvaļas populācija, apmēram 1000 kamieļu, kuru izplatības areāls ir Gobi tuksnesis Ķīnā un Mongolijā. Austrālijā dzīvo apmēram 100 000 savvaļas kamieļu, kas ir vienkupra kamieļu pēcteči, kurus 19. gadsimta vidū introducēja Austrālijas iebraucēji. Seno kamieļu fosilijas liecina, ka to attīstības pirmsākumi sākušies Ziemeļamerikā pirms 45 miljoniem gadu."
+    },
+    {
+        "id": "01yrx",
+        "description": "Kaķis, arī zināms kā mājas kaķis jeb domesticētais kaķis ir mazs, plēsīgs kaķu dzimtas zīdītājs, kurš ir pieradināts vairāk nekā pirms 9500 gadiem. Kaķis ir ļoti pieprasīts mājdzīvnieks, jo palīdz cilvēkam cīnīties pret dažādiem kaitēkļiem, piemēram, pret pelēm, čūskām un pat skorpioniem. Mājas kaķa tēviņus dēvē par runčiem, bet mātītes - par kaķenēm.\nIr zināms, ka kaķi medī vairāk nekā 1000 dažādu citu dzīvnieku sugu. Tiem var arī iemācīt izpildīt dažādas vienkāršas komandas. Ir fiksēti gadījumi, kad kaķi ir iemācījušies manipulēt ar dažādiem vienkāršiem mehānismiem, piemēram, atvērt durvis, izmantojot durvju rokturus. Kaķis, iespējams, ir populārākais mīlulis pasaulē; tiek lēsts, ka kopā pa visu pasauli ir aptuveni 600 miljoni kaķu.\nSaskaņā ar ģenētiskajiem pētījumiem, visi mājas kaķi ir domesticēti no mežā kaķa pasugas Āfrikas savvaļas kaķa. Lai gan visu veida meža kaķi var krustoties savā starpā, nav nekādu liecību, ka mājas kaķa filoģenēzē būtu citas meža kaķa pasugas."
+    },
+    {
+        "id": "09b5t",
+        "description": "Mājas vista jeb vienkārši vista ir fazānu dzimtas sarkanās savvaļas vistas viena no pasugām. Šīs sugas tēviņus sauc par gaiļiem, bet mātītes par vistām un jaunos putnus par cāļiem.\nVista ir viens no visizplatītākajiem mājdzīvniekiem pasaulē, kā arī visdaudzskaitlīgākais putns pasaulē. Pēc statistikas datiem pasaulē 2003. gadā bija 24 miljardi vistu. Pasaulē ir apmēram 250 vistu šķirnes, no kurām Latvijā ir selekcionēta viena - Latvijas pundurvista. Otra šķirne, ar kuru Latvijas vārds ir cieši saistīts, ir Pavlovas vista. Tā ir viena no vecākajām Krievijas vistu šķirnēm, kura gandrīz tika neatgriezeniski pazaudēta. Šķirni atjaunoja Latvijas vienīgais starptautiskais dekoratīvo putnu eksperts-tiesnesis Jurijs Dmitrijevs. Par šķirnes atjaunošanu viņš ir saņēmis Holandes putnkopju biedrības medaļu.\nVistas tiek galvenokārt audzētas, lai cilvēks iegūtu pārtikas produktus: olas un gaļu. Bet tiek izmantotas arī vistu spalvas un dūnas segu un spilvenu ražošanā. Latvijā viens iedzīvotājs vidēji patērē ap 200 olām gadā. Citās Eiropas valstīs vidēji 250 olas. Eiropā olas visvairāk patērē Portugālē, Spānijā un Itālijā. Pasaulē olu ēšanas rekordiste ir Japāna. Šajā valstī 1 cilvēks gada laikā apēd 450 olu."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Liellops ir liela auguma dobradžu dzimtas mājdzīvnieks, kura priekštecis ir izmirušais Eirāzijas taurs. Tas ir visbiežāk sastopamais vēršu ģints dzīvnieks. Liellopa mātīti sauc par govi, bet tēviņu par bulli, kastrētu tēviņu par vērsi, toties mazuli sauc par teļu."
+    },
+    {
+        "id": "09ddx",
+        "description": "Par pīli sauc daļu pīļu dzimtas putnu. Pīļu dzimta ir plaša, un tai ir vairākas apakšdzimtas, no kurām 8 apakšdzimtās tiek sistematizētas dažādu sugu pīles. Visas pīles ir ūdensputni, un tās dzīvo gan saldūdenī, gan sālsūdenī. Tās ir vidēji lieli putni, bet mazākas kā gulbji un zosis. Latviešu valodā dažas pīļu sugas tiek sauktas arī par gaurām, gaigalām, kākauļiem, ķerrām un krīkļiem. Dažu apakšdzimtu pīļu sugas tiek sauktas par zosīm, kā piešspārnu zosis un svilpējzosis, lai gan patiesībā tās ir liela auguma pīles.\nAr pīlēm reizēm jauc citus ūdensputnus, kuriem ir līdzīgas, noapaļotas formas, bet tie tomēr nav tām tuvu radniecīgi. Tādi ir gārgales, dūkuri, dumbrvistiņas un lauči. Pīles pēc peldēšanas veida iedalās peldpīlēs un nirējpīlēs. Peldpīles barību iegūst, iegremdējot ķermeni līdz pusei ūdenī, bet nirējpīles ienirstot. Lidojot nirējpīles atšķirībā no peldpīlēm ļoti strauji vēzē spārnus.\nPīles ir sastopamas visos kontinentos, izņemot Antarktīdu. Pīļu sugas, kas dzīvo ziemeļu reģionos ziemas periodā migrē dienvidu virzienā, bet siltākos reģionos dzīvojošās sugas ir nometnieces. Visbiežāk sastopamā pīļu suga ir meža pīle, kas sastopama arī visā Latvijā. Visā pasaulē pīle ir iecienīts medījums."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Ziloņi ir zīdītāju klases dzīvnieki.\nZiloņi ir vislielākie uz sauszemes dzīvojošie zīdītāji, Āfrikas tēviņu ziloņi var būt līdz pat 4 m gari un 7 tonnas smagi. Ziloņu grūsnības periods ir 22 mēneši.\nLīdz mūsdienām saglabājušās trīs ziloņu sugas un divas ģintis:\n⁕Āfrikas savannas zilonis\n⁕Āfrikas meža zilonis\n⁕Āzijas zilonis"
+    },
+    {
+        "id": "03k3r",
+        "description": "Zirgs jeb mājas zirgs ir liels zīdītājs, piederošs vienai no septiņām Equus ģints mūsdienu sugām. Pie zirgiem pieder arī ēzelis, kulans un zebras. Zirgu tēviņu latviešu valodā sauc par ērzeli, mātīti par ķēvi un dzimumbriedumu nesasniegušu īpatni par kumeļu.\nZirgam ilgu laiku ir bijusi ļoti nozīmīga loma gan transportēšanā, gan lauksaimniecībā, gan arī pārtikā. Visbiežāk kā aptuvenais zirga pieradināšanas laiks tiek minēts 2000. g.p.m.ē. Tas arī ir laiks, kad zirgs pirmo reizi tiek pieminēts kā pārvietošanās līdzeklis. Līdz pat 20. gs. vidum zirgi tika intensīvi un plaši izmantoti karadarbībā, un, kaut arī zirgi mūsu dienās aizstāti ar tehniku un mašīnām, vēl joprojām ir valstis, kuras ir saglabājušas zirgu karaspēka daļas, šādu daļu un karavīru apzīmēšanai lieto tādus jēdzienus kā kavalērija un kavalērists."
+    },
+    {
+        "id": "08pbxl",
+        "description": "Par pērtiķiem sauc lielāko daļu primātu sugas, kuras pieder pie sausdeguna pērtiķu apakškārtas, jeb pērtiķi ir visi tie primāti, kas klasificēti Jaunās pasaules pērtiķu virsdzimtā un zemāko šaurdeguna pērtiķu virsdzimtā. Vienkāršoti varētu teikt, ka pērtiķi ir visi tie primāti, kas nav puspērtiķi un cilvēkpērtiķi. Ir zināmas 264 pērtiķu sugas. Latviešu valodā vārds \"pērtiķi\" tiek izmantots arī, lai apzīmētu otru primātu apakškārtu - slapjdeguna pērtiķi, lai gan šajā apakškārtā nav nevienas \"īsto pērtiķu\" sugas, tās visas ir puspērtiķu sugas. Sarunvalodā par pērtiķiem bieži tiek saukti gandrīz visi primāti.\nVisi Jaunās pasaules pērtiķi ir apvienoti vienā virsdzimtā Platyrrhini, bet zemāko šaurdeguna pērtiķu virsdzimta ir daļa no Vecās pasaules pērtiķu sekcijas, kurā ir iekļauti arī cilvēkpērtiķi. Kopumā zemākie šaurdeguna pērtiķi ir tuvāk radniecīgi cilvēkpērtiķiem nekā Jaunās pasaules pērtiķi."
+    },
+    {
+        "id": "07bgp",
+        "description": "Mājas aita ir ir vidēja auguma aitu ģints savvaļas aitas pasuga, kas pieder pārnadžu kārtas dobradžu dzimtai. Cilvēks to ir pieradinājis, lai iegūtu vilnu, gaļu un pienu. Mūsdienās DNS pētījumi ir pierādījuši, ka mājas aitai tiešā radniecība ir tikai ar divām savvaļas aitu pasugām - Āzijas muflonu un Eiropas muflonu, turklāt iespējams, ka Eiropas muflons ir ne tikai viens no mājas aitas priekštečiem, bet arī pirms vairākiem tūkstošiem gadu savvaļā sākusi dzīvot mājas aita.\nAitu tēviņus sauc par teķiem, bet kastrētus tēviņus par auniem, mātītes par aitām un mazuļus par jēriem. Mājas aitas ir visdaudzskaitlīgākā aitu populācija no visām aitām, to skaits nedaudz pārsniedz miljardu. Tās audzē visā pasaulē, un daudzām tautām vēsturiski tā ir bijusi viena no galvenajām nodarbēm. Mūsdienās galvenās aitkopības zemes ir Austrālija, Jaunzēlande, Dienvidamerika, Centrālamerika un Britu salas."
+    },
+    {
+        "id": "047v4b",
+        "description": "Lapu artišoks jeb dzeloņainais artišoks ir daudzgadīgs kurvjziežu dzimtas lakstaugs. Artišoku dabiskais izplatības areāls ir Dienvideiropa un Tuvie Austrumi. Latvijā maz tiek audzēts un izmantots. Zied parasti otrajā gadā. Ziedkopa ir zilā krāsā. Artišoks tiek lietots kā garšaugs un ārstniecības augs. Tas ir noderīgs cilvēkiem, kas slimo ar aterosklerozi."
+    },
+    {
+        "id": "0cjs7",
+        "description": "Sparģeļi jeb ārstniecības asparāgs ir daudzgadīgs asparāgu dzimtas augs, kura jauno dzimumu galotnes tiek izmantotas uzturā. Stumbra augstums sasniedz 150 cm. Tie ir kāpelētājaugi ar reducētām zvīņveida lapām. Ziedi ir nelieli, galvenokārt, dzelteni. Zied jūnijā un jūlijā. Tā auglis ir sarkana oga. Sparģeļu saknes tiek izmantotas arī ārstniecībā.\nPārliecinoši visvairāk sparģeļi tiek izaudzēti Ķīnā. Tur tiek novākti gandrīz 90% no visas kopējās pasaules sparģeļu ražas."
+    },
+    {
+        "id": "0hkxq",
+        "description": "Brokoļi ir dārza kāposta pasuga. Tie ir viengadīgi augi. Brokoļu stumbra galā veidojas blīvi kopā saauguši, mazi, zaļi pumpuri, veidojot galviņu. Plaši tiek izmantots uzturā. Satur daudz vitamīnu, īpaši C vitamīnu. Brokoļu izcelsmes vieta ir Mazāzija un Vidusjūras austrumu zemes. Vislabāk tie aug mitrā, vēsā klimatā. Galviņas novāc, kad to izmērs sasniedz 10-17 cm.\n2008. gadā aptuveni puse no visas brokoļu ražas tika ievākta Ķīnā. Nākošās lielākās brokoļu audzētājvalstis ir Indija, Amerikas Savienotās Valstis, Spānija un Itālija."
+    },
+    {
+        "id": "0fbw6",
+        "description": "Galviņkāposti ir dārza kāposta pasuga. Atšķirībā no citām dārza kāposta pasugām, galviņkāpostiem ir raksturīgas lielas lapas, kas saaugušas cieši blakus viena otrai un veido apaļu \"bumbu\"."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Burkāns, arī dārza burkāns un sējas burkāns, ir savvaļas burkāna pasuga, kuru cilvēks ir iemācījies audzēt uzturam. Burkāni ir vieni no vecākajiem un visvairāk audzētajiem dārzeņiem. Uzturā tiek izmanota tikai burkānu sakne. Tos izmanto arī kā lopbarību. Dārza burkāni no savvaļas burkāniem atšķiras ar biezāku, mīkstāku un oranžāku sakni. Burkānu saknēs ir aptuveni 2% cukura, 6,5% citi ogļhidrāti, kā arī karotīns un vitamīni. To saknes uzturā izmanto gan svaigā veidā, gan termiski apstrādātus, gan arī konservētus."
+    },
+    {
+        "id": "015w7p",
+        "description": "Ziedkāposts jeb puķkāposts ir dārza kāposta pasuga, kura zieds tiek izmantots uzturā kā dārzenis. Zieds parasti ir baltā krāsā, bet tiek kultivētas arī tādas ziedkāpostu šķirnes, kuru zieds ir zaļā vai violetā krāsā. Ziedkāposti satur daudz C vitamīnu; satur arī folijskābi, B6 vitamīnu.\n2009. gadā vislielākā ziedkāpostu raža tika ievākta Ķīnā un Indijā. No Eiropas valstīm visvairāk ziedkāposti tika izaudzēti Itālijā un Spānijā."
+    },
+    {
+        "id": "01xj_",
+        "description": "Smaržīgā selerija ir čemurziežu dzimtas garšaugs un dārzenis. Uzturā galvenokārt lieto tā lapas un saknes. Plaši tiek kultivētas trīs smaržīgās selerijas pasugas: salātu selerija, sakņu selerija un lapu selerija."
+    },
+    {
+        "id": "053wn",
+        "description": "Parastā kukurūza ir graudzāļu dzimtas kultūraugs. Kukurūzu sāka kultivēt Vidusamerikā, no kurienes 1. gadu tūkstotī p.m.ē. tā strauji izplatījās visā Amerikā. Citur pasaulē tā sāka izplatīties pēc eiropiešu ierašanās Amerikā 16. gadsimtā. Kukurūzu audzē arī Latvijā, taču vēsā klimata dēļ raža ne vienmēr ienākas."
+    },
+    {
+        "id": "015x4r",
+        "description": "Lauka gurķis ir ložņājošs ķirbju dzimtas augs. Iespējams, ka gurķu izcelsmes vieta ir Indijas ziemeļi. Gurķis tiek plaši kultivēts to augļu dēļ. Pasaules daļās, kur klimats ir vēsāks, gurķi tiek audzēti siltumnīcās. Siltākos apvidos tos audzē zem klajas debess. Tas ir trausls viengadīgs augs ar raupju, sukulentu un vīteņojošu stublāju.\nUzturā tiek izmantoti lauku gurķu augļi. Gurķus pievieno salātiem, liek uz sviestmaizēm utt."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Baklažāns ir nakteņu dzimtas daudzgadīgs augs, kas bioloģiski ir radniecīgs kartupelim un tomātam. Baklažāniem ir nepieciešams silts klimats, tādēļ tos galvenokārt audzē Austrumāzijā un Dienvidāzijā. Tieši Ķīna un Indija ir valstis, kurās visvairāk gada laikā izaudzē baklažānus. Trešajā vietā ir Āfrikas valsts Ēģipte. Austrumāzijā un Dienvidāzijā baklažāni ir audzēti jau tālā senatnē, jo cilvēki uzturā izmantoja tā mīkstos augļus. Šim nolūkam tos audzē tikai vienu gadu."
+    },
+    {
+        "id": "017dqv",
+        "description": "Fenhelis - 90 - 200 cm augsts divgadīgs čemurziežu dzimtas lakstaugs ar stipri zarainu stumbru. Lapas pamīšus, trīskārt vai četrkārt dalītas sīkās pavedienveida plūksnās. Ziedi sīki, dzelteni, sakopoti saliktos čemuros; vīkala un vīkaliņa nav. Zied jūlijā, augustā. Auglis cilindrisks, iegarens skaldauglis, kas nogatavojoties viegli sadalās 2 sēkleņos.\nAugs ir ļoti aromātisks. Augu var izmantot kā kulinārijā, tā arī medicīnas vajadzībām. Fenhelis ir viena no galvenajām absinta sastāvdaļām.\nFenheļa ēteriskajai eļļai ir antiseptiskas un antispazmatiskas īpašības, tā novērš pūšanas un rūgšanas procesus zarnās, sekmē atkrēpošanu un piena dziedzeru sekrēciju"
+    },
+    {
+        "id": "0dbrl",
+        "description": "Ķiploks ir daudzgadīgs sīpolu dzimtas augs. Ķiploki tiek audzēti gan kā garšaugi, gan kā ārstniecības augi. Tas ir radniecīgs sīpoliem, šalotēm, puraviem un maurlokiem. Ķiplokiem ir raksturīga asa, pikanta garša. Visbiežāk no ķiplokiem izmanto to daļu, kas aug zem zemes, ķiploka sīpolu, kurš sastāv no vairākām daiviņām. Ķiploku izcelsmes vieta ir Centrālāzija, bet cilvēks apzināti tos sāka audzēt Ķīnā. Latvijā ķiplokus sāka audzēt 12.-15. gadsimtā, un tie \"ienāca\" no Krievijas dienvidiem.\nĶiploki izaug no 20 līdz 100 cm augsti. Zem zemes atrodas ķiploka sīpols, kuru veido vairākas daiviņas. Saknes izaug vidēji līdz 20-30 cm garas. Pēc sīpola izaugšanas saknes atmirst. Vienam augam ir no 8 īdz 12 lapām, kas ir lineāras un plakanas, pie pamatnes — stobrveida.\nĶiploki tiek uzskatīti par vērtīgiem ārstniecības augiem. Tas pazemina asinsspiedienu, novērš vēdera uzpūšanos, aizsargā pret cērmēm, samazina holesterīna līmeni un tam piemīt daudzas citas ārstnieciskas īpašības. Mitoloģijā ķiploki aizsargā arī no vampīriem."
+    },
+    {
+        "id": "013__5",
+        "description": "Puravi ir savvaļas puravu pasuga, amariļļu dzimtas lakstaugi. Puravi agrāk tika izdalīta kā atsevišķa suga, un to zinātniskais nosaukums bija Allium porrum. Puravi plaši tiek kultivēti un izmantoti kulinārijā. Saskaņā ar Pārtikas un lauksaimniecības organizācijas datiem, visvairāk puravi tiek izaudzēti Indonēzijā, Turcijā, Beļģijā un Francijā.\nPuravi ir viens no Velsas nacionālajiem simboliem."
+    },
+    {
+        "id": "0fqlj",
+        "description": "Dārza salāti ir viengadīgs kurvjziežu dzimtas dārzenis. Ka kultūraugs tas tiek kultivēts visā pasaulē, bet savvaļā aug Rietumeiropā, Dienvideiropā, Ziemeļāfrikā, Kaukāzā un Centrālāzijā. Cilvēki uzturā lieto tā lapas. Lapas ir dzeltenīgi zaļas, retākos gadījumos arī sarkanas. No viena hektāra liela lauka vidēji var ievākt no 300 līdz 500 centneriem salātu. Dārza salāti satur salīdzinoši daudz C un B vitamīnus, kā arī karotīnu."
+    },
+    {
+        "id": "025s18p",
+        "description": "Bāmija, okra, ēdamais hibisks jeb dāmu pirkstiņi ir viengadīgs malvu dzimtas augs, kura augļus izmanto uzturā un kā garšaugu, piemēram, tiramisu gatavošanā. Par tās dabisko izplatības areālu uzskata Āfrikas tropus, bet augs plaši tiek kultivēts arī pārējos pasaules tropu un subtropu reģionos. Vislielākā bāmiju raža tiek ievākta Indijā."
+    },
+    {
+        "id": "0dj75",
+        "description": "Sīpols ir sīpolu ģints dārzenis. Parasti šo terminu saista tieši ar \"dārza sīpoliem\", lai gan retos gadījumos arī ar citiem sīpolu ģints augiem. Sīpolus izmanto pārtikā. Tie ir ar spēcīgu un specifisku smaržu."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Sējas zirnis ir tauriņziežu dzimtas lakstaugs, kultūraugs. Tiek saukts arī par dārza zirni. Zirņi parasti izaug no 15 līdz 250 cm augstumam. Tā stublājs ir šķautnains, dobs un kāpelējošs. Tiem ir mietsakne. Lapas ir plūksnaini saliktas no četrām līdz astoņām olveidīgām vai ovālām lapiņām. Ziedi ir tauriņveida, un zied no maija beigām līdz augustam. Tā auglis ir pāksts, kur atrodas vairākas sēklas. Šīs sēklas cilvēki lieto uzturā, tāpēc tas ir vērtīgs pārtikas augs."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Zemesrieksts jeb arahiss ir tauriņziežu dzimtas augs. Zemesriekstu augļi, ko cilvēki lieto uzturā, atšķirībā no citiem pākšaugiem, nogatavojas zem zemes. Botāniski zemesriekstu augļi nav rieksti. Zemesriekstu izcelsmes vieta ir Dienvidamerika, bet mūsdienās tos kultivē arī citos kontinentos, galvenokārt tropu un subtropu zemēs. 2008. gadā vislielākā zemesriekstu raža tika ievākta Ķīnā, Indijā, Nigērijā, Amerikas Savienotajās Valstīs un Mjanmā.\nZemesriekstu augļi ir ļoti barojoši. Tos uzturā izmanto ne tikai cilvēki, bet arī dzīvnieki. Tie satur daudz olbaltumvielas, niacīnu un dzelzi. Nelielā daudzumā tie satur arī tiamīnu, riboflavīnu un kalciju. No zemesriekstiem iegūst arī eļļu, kuru izmanto dažādu ēdienu pagatavošanā."
+    },
+    {
+        "id": "05vtc",
+        "description": "Kartupelis ir daudzgadīgs nakteņu ģints augs. Par kartupeļiem sauc arī šī auga apakšzemes vasas pārveidnes, kuras plaši izmanto pārtikā. Pēc ieguves apjomiem pasaulē kartupelis ir piektais lielākais kultūraugs un pirmais starp dārzeņiem.\nIr selekcionētas vairāk nekā 2000 kartupeļu šķirnes.\nLai pievērstu pasaules iedzīvotāju lielāku uzmanību kartupelim kā vērtīgam pārtikas produktam, Pārtikas un lauksaimniecības organizācija, kas darbojas ANO paspārnē, 2008. gadu bija pasludinājusi par Starptautisko kartupeļa gadu."
+    },
+    {
+        "id": "015x5n",
+        "description": "Redīss ir krustziežu dzimtas augs un ēdams sakņaugs. Pie redīsu sugas pieder arī rutki, kas ir redīsa pasuga. Redīsi satur daudz vitamīnus un uzturvielas. Redīsu vasa aug no 20 līdz 80 cm augstumā. Sakne ir mietsakne, kas bieži ir sarkanā krāsā, bet var būt arī melnā un pat zilā krāsā. Apakšējā daļā ir dobs stublājs.\nKā kultūraugus audzē divas redīsu pasugas:\n⁕dārza redīsus;\n⁕rutkus."
+    },
+    {
+        "id": "016rh7",
+        "description": "Dārza spināti ir viengadīgi amarantu dzimtas lapu dārzeņi. Uzturā lieto spinātu lapas. Spinātu lapas satur daudz olbaltumvielas, ogļhidrātus, C un B vitamīnus, karotīnu un minerālvielas, īpaši kalciju, magniju un dzelzi. Persiju uzskata par spinātu izcelsmes vietu.\nAnimācijas seriālā \"Papaijs\" galvenais varonis visās kritiskajās situācijas ieēd spinātus, kā rezultātā viņam rodas pārdabisks spēks. Šis fakts neatbilst reālajai dzīvei."
+    },
+    {
+        "id": "0jtc5",
+        "description": "Parastais pelašķis ir daudzgadīgs kurvjziežu dzimtas augs, kuras dabiskais izplatības areāls ir Ziemeļu puslodes mērenā josla. Pelašķi ir ārstniecības augi un garšaugi. Tie tiek audzēti arī kā dekoratīvie augi un augi, no kuriem bites ievāc medu."
+    },
+    {
+        "id": "015fr",
+        "description": "Brazīlija, oficiāli Brazīlijas Federatīvā Republika, ir valsts Dienvidamerikā, kura aizņem 47% no kontinenta. Tā ir lielākā valsts Latīņamerikā un piektā lielākā pasaulē. Arīdzan pēc iedzīvotāju skaita tā ir piektā lielākā valsts. Ziemeļaustrumos, austrumos un dienvidaustrumos valsti apskalo Atlantijas okeāns. Ziemeļos tā robežojas ar Francijas aizjūras departamentu Franču Gviānu, Surinamu, Gajanu un Venecuēlu, ziemeļrietumos robežojas ar Kolumbiju, rietumos ar Bolīviju un Peru, dienvidrietumos ar Paragvaju un Argentīnu, bet dienvidos ar Urugvaju.\nNo 1500. līdz 1822. gadam Brazīlija bija Portugāles kolonija, tadēļ tā ir vienīgā valsts Dienvidamerikā, kuras oficiālā valoda ir portugāļu valoda. Pēc neatkarības iegūšanas tā tika pasludināta par Brazīlijas impēriju, bet tikai 1889. gadā tā kļuva par republiku. Pašlaik Brazīlija ir federāla republika, kura sastāv no 26 štatiem un viena federālā distrikta. Tā ir Apvienoto Nāciju dibinātājvalsts.\nBrazīlijai ir desmitais lielākais iekšzemes kopprodukts pasaulē un lielākais Latīņamerikā. Brazīlijai ir arī liela ietekme uz globālo ekonomiku. Pēc dzīves kvalitātes Brazīlija ir 39. vietā pasaulē. Brazīlijā mīt un aug aptuveni 15-20% no visām dzīvnieku un augu sugām, kas galvenokārt ir izskaidrojams ar Amazones lietusmežu atrašanos valstī, kura platība ir aptuveni 3,6 miljoni km²."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanāda ir valsts, kura aizņem lielāko daļu no Ziemeļamerikas ziemeļiem. Tā plešas no Atlantijas okeāna austrumos līdz Klusajam okeānam rietumos, bet ziemeļos to apskalo Ziemeļu Ledus okeāns. Kanāda ir pasaulē otra lielākā valsts pēc platības. Sauszemes robeža dienvidos un rietumos tai ir tikai ar Amerikas Savienotajām Valstīm.\nZemi, kur mūsdienās atrodas Kanāda, vairākus tūkstošus gadus apdzīvoja dažādas ieziemiešu ciltis. 15. gadsimta beigās britu un franču ekspedīcijas devās izpētīt mūsdienu Kanādas austrumu krastu, bet vēlāk šeit arī apmetās uz dzīvi. 1763. gadā pēc Septiņgadu kara Francija atdeva gandrīz visas savas kolonijas britiem. 1867. gadā, apvienojoties trim Britu Ziemeļamerikas kolonijām ar Kanādas konfederāciju, tika izveidota federāla domīnija, kura sastāvēja no četrām provincēm. Ar to sākās citu provinču un teritoriju pievienošana, kā rezultātā pastiprinājās tās autonomija no Apvienotās Karalistes, kas īpaši tika uzsvērts 1931. gadā, kad tika pieņemts Vestminsteras statūts, bet šis process kulminācijas punktu sasniedza 1982. gadā, kad tika parakstīts Kanādas akts, kurš atbrīvoja Kanādu no Britu parlamenta varas.\nKanāda atrodas vistālāk ziemeļos no visām valstīm. Tā aizņem divas piektdaļas no Ziemeļamerikas un valsti šķērso 5 laika joslas. Kanāda ir decentralizēta federācija no 10 provincēm un 3 teritorijām, ko valda kā konstitucionālu monarhiju. Mūsdienās Kanāda ir attīstīta industriāla lielvalsts un viena no bagātākajām valstīm pasaulē. Rūpniecība visvairāk balstās uz bagātajiem dabas resursiem: koksnes, dažādu rūdu, naftas un ogļu krājumiem. Kanādas galvaspilsēta ir Otava, kurā atrodas tās parlaments, ģenerālgubernators un premjerministrs. Kanāda ir tehnoloģiski attīstīta valsts, bet tās ekonomika tradicionāli balstās uz dabas resursu pārpilnību."
+    },
+    {
+        "id": "01p1v",
+        "description": "Čīle, oficiāli Čīles Republika, ir valsts Dienvidamerikā. Skatoties kartē, Čīle izskatās kā šaura un gara zemes josla Dienvidamerikas dienvidrietumu krastā. Čīle ir dažādu fizikālu ekstrēmu zeme, piemēram, ziemeļos atrodas Atakamas tuksnesis, kas ir viens no sausākajiem pasaulē, savukārt dienvidos klimats ir vējains un lietains. Ziemeļos Čīle robežojas ar Peru, ziemeļaustrumos ar Bolīviju, bet austrumos ar Argentīnu. Lielākā daļa no sauszemes robežas ir ar Argentīnu. Valsts rietumus apskalo Klusais okeāns. Valsts nosaukuma izcelsme ir neskaidra, bet tiek pieļauts, ka nosaukums \"Čīle\" ir cēlies no Amerikas indiāņu vārda, kas nozīmē \"zemes beigas\".\nČīle pārvalda arī vairākas salas Klusā okeāna dienvidos, kas atrodas tālu uz rietumiem no Čīles piekrastes. Tās ir Huana Fernadesa salas, Desventuradasu salas, kā arī Lieldienu sala. Lieldienu sala ir slavena ar agrāko salas iedzīvotāju izveidotajām moai - gigantiskām akmens galvām. Čīlei ir arī teritoriālas pretenzijas Antarktīdā. Čīles Antarktiskā teritorija daļēji pārklājas ar Britu Antarktisko teritoriju un Argentīnas Antarktīdu.\nIzņemot Čīles Antarktisko teritoriju, valsts platība ir 756 950 km². Ziemeļu-dienvidu virzienā Čīle ir aptuveni 4300 km gara. Salīdzinot ar to, Čīle ir šaura valsts, kuras vidējais platums rietumu-austrumu virzienā ir 180 km."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Ķīna, oficiāli Ķīnas Tautas Republika, ir sociālistiska valsts Austrumāzijā. Galvaspilsēta ir Pekina. Robežojas ar Mongoliju, Krieviju, Ziemeļkoreju, Vjetnamu, Laosu, Mjanmu, Indiju, Butānu, Nepālu, Pakistānu, Afganistānu, Tadžikistānu, Kirgizstānu un Kazahstānu."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Kubas Republika ir sociālistiska salu valsts Ziemeļamerikā, aizņem Kubas salu Lielo Antiļu salu arhipelāgā, Huventudas salu un virkni mazāku saliņu. No kontinenta to atdala Floridas jūras šaurums ziemeļos un Jukatanas jūras šaurums rietumos. Lielākā pilsēta un reizē arī galvaspilsēta ir Havana.\nTropu pasātu klimats - divi gadalaiki - lietaina vasara un ziema. Vidējā temperatūra gadā ir 25,5 °C. Vidējā temperatūra janvārī ir 22,5 °C, temperatūa augustā ir 27,8 °C. Ūdens temperatūra piekrastē ziemā ir 22-24 °C, bet vasarā ir 28-30 °C. Vidējais nokrišņu daudzums gadā ir 1400 mm, kaut gadās sausuma pārņemti gadi. Izteiktas divas gadalaiku sezonas: lietus periods, kurā ir 3\/4 visu nokrišņu, un sausuma periods. Saulainākais laiks ir no janvāra līdz aprīlim. Mitruma dēļ šķiet, ka ir karstāks nekā patiesībā.\n3 kalnu grēdas: rietumos - Sierra de los Organos, centrālajā daļā - Sierra del Escambray un Austrumkubas dienvidu reģionā - Sierra Maestra, kur atrodas valsts augstākais punkts - Pico Real del Turquino. Garākā upe ir 250 km gadā Kauto."
+    },
+    {
+        "id": "03shp",
+        "description": "Irāna, oficiālais nosaukums: Irānas Islāma Republika, ir Tuvo Austrumu valsts, kura atrodas Dienvidrietumu Āzijā. Ziemeļos Irāna robežojas ar Armēniju, Azerbaidžānu un Turkmenistānu, austrumos ar Pakistānu un Afganistānu, kā arī ar Turciju un Irāku rietumos. Irānas jūras robeža dienvidos ir Persijas līcis, kura pretējā krastā atrodas Kuveita, Sauda Arābija, Bahreina, Katara un Apvienotie Arābu Emirāti. Islāma novirziens šiītisms ir Irānas valsts reliģija. Valsts atrodas starp Tuvajiem austrumiem, Kaukāza reģionu, Centrālāziju un Persijas līci, tās tuvumā atrodas Austrumeiropa un Indijas subkontinents, līdz ar to Irānai vēsturiski ir bijusi ļoti liela ģeostratēģiska nozīme."
+    },
+    {
+        "id": "01znc_",
+        "description": "Turcija, oficiālais nosaukums Turcijas Republika, ir Eirāzijas valsts, kura atrodas Mazāzijas pussalā, Dienvidrietumāzijā, un Trāķijā, Dienvideiropas Balkānu reģionā. Turcijai ir sauszemes robeža ar astoņām valstīm: ziemeļrietumos ar Bulgāriju, rietumos ar Grieķiju, ziemeļaustrumos ar Gruziju un Armēniju, austrumos ar Azerbaidžānas eksklāvu Nahčivanu un Irānu, dienvidaustrumos ar Irāku un Sīriju. Turcijas krastus ziemeļos apskalo Melnā jūra, rietumos Egejas jūra, bet dienvidos Vidusjūra. Turcijas teritorijā atrodas Marmora jūra, caur kuru ir novilkta ģeogrāfiskā robeža starp Āziju un Eiropu, tādēļ Turcija ir valsts, kas atrodas divās pasaules daļās.\nPateicoties tās ģeogrāfiskajam novietojumam starp divām pasaules daļām, tās kultūra ir austrumnieku un rietumnieku kultūru īpatnējs sajaukums. Turcija ir kļuvusi par stratēģiski svarīgu valsti, jo tai vēsturiski ir cieši sakari rietumos ar Eiropas Savienību, austrumos ar Centrālāziju, ziemeļos ar Krieviju un dienvidos ar Tuvajiem Austrumiem.\nTurcija ir demokrātiska, sekulāra, unitāra un konstitucionāla republika un tās valsts iekārta tika izveidota 1923. gadā Mustafa Kemala Ataturka vadībā pēc Osmaņu impērijas sabrukuma Pirmā pasaules kara rezultātā. Kopš tās dibināšanas Turcija arvien vairāk tuvinās rietumvalstīm, tieši iesaistoties tādās savienībās kā Eiropas Padome, NATO, ESAO, EDSO un Industriālo valstu G20. Turcija kopš 2005. gada ir uzsākusi oficiālās iestāšanās sarunas ar Eiropas Savienību un ir tās asociatīvā dalībvalsts kopš 1963. gada. Atrodoties šajā statusā, Turcija 1995. gadā panāca muitas savienības izveidošanu ar ES. Tai pat laikā Turcija ir spējusi stiprināt ciešas politiskas, ekonomiskas un industriālās attiecības ar austrumu valstīm, it īpaši ar Tuvajiem Austrumiem, Centrālāziju un Austrumāziju."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Zviedrija, oficiāli Zviedrijas Karaliste, ir valsts Ziemeļeiropā, kura atrodas Skandināvijas pussalas austrumu un dienvidu daļā. Ziemeļos un rietumos robežojas ar Norvēģiju, ziemeļaustrumos ar Somiju, dienvidos un austrumos atrodas Baltijas jūra, austrumos — Botnijas līcis. Dienvidos to ar Dāniju savieno Ēresunda tilts. Zviedrijai pieder divas lielas salas Baltijas jūrā — Gotlande un Ēlande.\nZviedrijas platība ir gandrīz 450 000 km², tādējādi tā ir trešā lielākā valsts Eiropas Savienībā pēc platības. Zviedrijā dzīvo vairāk nekā 9,2 miljoni iedzīvotāji. Valstī ir zems iedzīvotāju blīvums, tas ir, 20 cilvēki uz km². Valsts dienvidu pusē blīvums ir daudz augstāks nekā ziemeļos. Aptuveni 85% iedzīvotāju dzīvo pilsētās, un ir paredzams, ka šis procents turpinās augt urbanizācijas dēļ. Zviedrijas galvaspilsēta ir Stokholma, kura vienlaicīgi ir arī lielākā valsts pilsēta. Nākamās lielākās pilsētas ir Gēteborga un Malme.\nZviedrijā ir konstitucionāla monarhija ar parlamentāru valdības sistēmu. Zviedrija ir augsti attīstīta viennacionāla valsts. Pēc tautas attīstības indeksa Zviedrija ir septītā labākā valsts pasaulē. Zviedrija Eiropas Savienībā ir kopš 1995. gada 1. janvāra. Tā ir arī OECD dalībvalsts."
+    },
+    {
+        "id": "06mkj",
+        "description": "Spānija, oficiāli Spānijas Karaliste, ir valsts, kura atrodas Pireneju pussalā, Dienvidrietumeiropā. Tā rietumos robežojas ar Portugāli, ziemeļaustrumos ar Franciju un Andoru, bet dienvidrietumos ar Gibraltāru. Ziemeļos to apskalo Atlantijas okeāns, dienvidos un austrumos - Vidusjūra. Spānijai pieder arī Baleāru Salas Vidusjūrā un Kanāriju Salas Atlantijas okeānā pie Āfrikas krastiem, kā arī divas autonomas pilsētas Ziemeļāfrikā, kuras robežojas ar Maroku. Spānijas platība ir 504 030 km², tādēļ tā ir otra lielākā valsts Eiropas Savienībā pēc Francijas.\nSpānijas ģeogrāfiskā stāvokļa dēļ sākot no aizvēsturiskiem laikiem līdz pat valsts izveidei tā ir bijusi pakļauta dažādām ārējām ietekmēm, bieži vien pat vienlaicīgi. No otras puses skatoties, arī pašai Spānijai ir bijusi nozīmīga ietekme uz citām teritorijām, galvenokārt jaunajos laikos, kad tā kļuva par visu pasauli aptverošu impēriju. Tieši šī iemesla dēļ mūsdienās spāņu valodā runā vairāk nekā 400 miljoni cilvēki.\nSpānijas politiskās sistēmas uzbūve ir demokrātiski parlamentārās pārstāvības konstitucionālā monarhija ar mantojumā nododamu troni, kur valsts galva ir monarhs, bet daudzpartiju iekārtas valsts valdības vadītājs ir valdības prezidents. Izpildvara ir piešķirta valdībai. Centrālā likumdošanas vara ir piešķirta parlamentam ar divām palātām. Tiesu vara ir neatkarīga no izpildu un likumdošanas varām."
+    },
+    {
+        "id": "0h7x",
+        "description": "Austrija, oficiāli Austrijas Republika, ir valsts Centrāleiropā. Austriju no visām pusēm ieskauj citas valstis un tai nav izejas pie jūras. Ziemeļos Austrija robežojas ar Vāciju un Čehiju, austrumos ar Slovākiju un Ungāriju, dienvidos ar Slovēniju un Itāliju, bet rietumos ar Šveici un Lihtenšteinu. Tā ir federāla, parlamentāra un reprezentatīvi demokrātiska republika. Austrija sastāv no deviņām federālajām zemēm, kur katrai ir savs parlaments un valdība.\nAustrijas platība ir 83 849 km², un 2009. gadā šajā valstī dzīvoja aptuveni 8,36 miljoni iedzīvotāji, no kuriem aptuveni trīs ceturtdaļas ir katoļi. Valsts galvaspilsēta ir Vīne, kur dzīvo aptuveni 20% no visiem Austrijas iedzīvotājiem. Oficiālā valoda ir vācu valoda. Austrijas iedzīvotāji etniski ir vācieši. Lielākās minoritātes ir slovēņi, horvāti un ungāri.\nAustrija pēc Pirmā pasaules kara tika dibināta uz Austroungārijas dubultmonarhijas paliekām. Pirmā Austrijas konstitūcija tika pieņemta 1920. gadā. Otrajā pasaules karā Austrija anšlusa rezultātā tika pievienota Trešajam reiham. 1945. gadā tā atkārtoti ieguva neatkarību un tika nodibināta tā sauktā Otrā republika. Pilnīgu suverenitāti Austrija ieguva tikai 1955. gada 15. maijā. Valsts galva ir Austrijas prezidents, bet valdības galva - kanclers."
+    },
+    {
+        "id": "03gj2",
+        "description": "Ungārija ir valsts Viduseiropas vidienē bez pieejas pie jūras. Rietumos tā robežojas ar Austriju, ziemeļos ar Slovākiju, ziemeļaustrumos ar Ukrainu, bet dienvidaustrumos ar Rumāniju, dienvidos ar Serbiju, bet dienvidrietumos ar Horvātiju un Slovēniju. 2004. gada 1. maijā Ungārija kļuva par Eiropas Savienības dalībvalsti."
+    },
+    {
+        "id": "0345h",
+        "description": "Vācija, oficiāli Vācijas Federatīvā Republika, ir valsts Centrāleiropā. To ziemeļos apskalo Ziemeļjūra un Baltijas jūra, kā arī robežojas ar Dāniju; savukārt austrumos robežojas ar Poliju un Čehiju; dienvidos ar Austriju un Šveici; rietumos ar Franciju, Beļģiju, Nīderlandi un Luksemburgu. Vācijas platība ir 357 021 km² un to ietekmē mērenās joslas klimats. Ziemeļos plešas plaši līdzenumi, bet, virzoties uz valsts dienvidiem, reljefs kļūst kalnaināks, līdz dienvidos tiek sasniegti Alpi. Vācija ar 81,8 miljoniem iedzīvotāju ir lielākā Eiropas Savienības dalībvalsts.\nPirms 100. gada mūsdienu Vācijas reģions bija zināms un dokumentēts kā Ģermānija. To apdzīvoja vairākas ģermāņu ciltis. 10. gadsimta sākumā ģermāņu cilšu apdzīvotās teritorijas kļuva par pamatu Svētās Romas impērijai, kas pastāvēja līdz 1806. gadam. 16. gadsimta laikā Vācijas ziemeļi kļuva par Protestantu reformācijas centru. Kā mūsdienu nacionāla valsts Vācija pirmoreiz tika apvienota Francijas-Prūsijas kara laikā 1871. gadā. 1949. gadā pēc Otrā pasaules kara Vācija tika sadalīta divās atsevišķās valstīs — Austrumvācijā un Rietumvācijā — starp sabiedroto okupētajām teritorijām. 1990. gadā abas valstis tika apvienotas. Rietumvācija 1957. gadā kļuva par Eiropas Kopienas dibinātājvalsti. Eiropas Kopiena 1993. gadā kļuva par Eiropas Savienību. Vācija ir daļa no Šengenas zonas, un 1999. gadā tajā tika ieviesta Eiropas valūta eiro."
+    },
+    {
+        "id": "05qhw",
+        "description": "Polija, oficiāli Polijas Republika, ir viennacionāla valsts Centrāleiropā, kas robežojas ar Vāciju rietumos, Čehiju un Slovākiju dienvidos, Ukrainu un Baltkrieviju austrumos, un Lietuvu un Krieviju ziemeļos. Ziemeļos tās krastus apskalo Baltijas jūra, kur Polijai ir jūras robeža ar Zviedriju un Dāniju. Polijas kopējā platība ir 312 679 km², un tā ir 69. lielākā valsts pasaulē un 9. lielākā valsts Eiropā. Valstī dzīvo vairāk nekā 38 miljoni iedzīvotāju. Ļoti daudz cilvēku dzīvo lielajās pilsētās, īpaši valsts galvaspilsētā Varšavā, vēsturiskajā galvaspilsētā Krakovā un Lodzā, Polija ir sestā visblīvāk apdzīvotā valsts Eiropas Savienībā.\nPirmā Polijas valsts izveidojās 966. gadā teritorijā, kas atbilst mūsdienu Polijas teritorijai. 1025. gadā tā kļuva par karalisti. 1569. gadā Polijas karaliste apvienojās ar Lietuvas lielkņazisti un izveidoja Polijas-Lietuvas ūniju. Šī savienība izjuka 1795. gadā, un Polija tika sadalīta starp Krieviju, Prūsiju un Austriju. 1918. gadā pēc Pirmā pasaules kara Polija atguva neatkarību, bet to atkal zaudēja Otrajā pasaules karā, kad Poliju okupēja nacistiskā Vācija un Padomju Savienība. 1944. gadā Polijā tika atjaunota neatkarība, bet izveidotā Polijas Tautas Republika bija sociālistiska Padomju Savienības satelītvalsts, kurā valdīja komunistiskā partija. 1980. gadā Polijā aizsākās Austrumeiropas atbrīvošanās no komunistu varas un 1989. gadā šeit notika pirmās brīvās vēlēšanas pēckara gados, valsti neoficiāli sāka dēvēt par \"Trešo Polijas Republiku\"."
+    },
+    {
+        "id": "04g5k",
+        "description": "Latvija, oficiāli Latvijas Republika, ir valsts Ziemeļeiropā, Baltijas jūras austrumu krastā. Tā ir viena no trijām Baltijas valstīm un ir Eiropas Savienības dalībvalsts. Ziemeļos Latvija robežojas ar Igauniju, austrumos ar Krieviju, dienvidaustrumos Baltkrieviju, bet dienvidos ar Lietuvu. Rietumos to apskalo Baltijas jūra, savukārt ziemeļos — Rīgas jūras līcis. Latvijas platība ir 64 589 km², un tajā 2012. gada sākumā dzīvoja 2 217 053 iedzīvotāji. Aptuveni trīs piektdaļas no iedzīvotājiem ir latvieši, bet no pārējiem iedzīvotājiem lielākā daļa ir krievi, latviešu valoda ir oficiālā valoda. Dominējošā reliģija ir kristietība.\nLatvija ir unitāra daudzpartiju republika. Valsts galva ir prezidents, bet valdības galva ir Ministru prezidents.\nAizvēsturē Latvijas teritoriju apdzīvoja baltu un Baltijas somu ciltis. Kopš 9. gadsimta Kurzemē un Daugavas baseinā pastiprinājās vikingu ietekme, kuri to izmantoja kā daļu no ceļa no varjagiem uz grieķiem. Jau pirms 11. gadsimta Latvijas austrumu daļā nostiprinājās Austrumu kristietība un izveidojās Jersikas un Kokneses valstis. 12. un 13. gadsimtā Livonijas krusta karu rezultātā Latvijas teritorijā tika izveidota Livonijas konfederācija un iedzīvotāji pievērsti katoļticībai. No 16. gadsimta vidus līdz 18. gadsimta sākumam Latvija bija sadalīta starp Poliju-Lietuvu, Dāniju un Zviedriju. 18. gadsimtā Lielā Ziemeļu kara un Polijas-Lietuvas sadalīšanas rezultātā Latviju anektēja Krievijas impērija. Pēc 1917. gada Krievijas revolūcijas un Brestļitovskas līguma noslēgšanas Latviju pilnībā okupēja Vācijas impērija, pēc kuras sakāves Pirmajā pasaules karā 1918. gada 18. novembrī tika deklarēta neatkarīga Latvijas Republika. Latvijas brīvības cīņās tās neatkarība tika nosargāta, ko starptautiski atzina 1921. gada 26. janvārī. Otrā pasaules kara sākumā Latviju okupēja Padomju Savienība, pēc tam nacistiskā Vācija, bet kara beigās atkal Padomju Savienība. Latvijas Republika suverenitāti atkārtoti deklarēja 1990. gada 4. maijā, bet neatkarības atjaunošana tika starptautiski atzīta pēc 1991. gada 21. augusta. 2004. gada 29. martā Latvija kļuva par NATO dalībvalsti, bet 2004. gada 1. maijā arī par Eiropas Savienības dalībvalsti."
+    },
+    {
+        "id": "012wgb",
+        "description": "Īrija ir sala Atlantijas okeāna ziemeļrietumos Britu salu arhipelāgā, trešā lielākā Eiropas sala un 20. lielākā sala pasaulē. No Lielbritānijas salas austrumos to atdala Īrijas jūra un Ziemeļu un Sentdžordža šaurumi.\nPolitiski Īrija ir sadalīta starp Īrijas valsti, kas aizņem aptuveni 80% no salas, un Ziemeļīriju, kas ir Apvienotās Karalistes zeme. Salā dzīvo apmēram 6,4 miljoni iedzīvotāju, lielākā daļa salas austrumu piekrastē. Aptuveni 4,6 miljoni dzīvo Īrijas Republikā, bet atlikušie 1,8 miljoni — Ziemeļīrijā. Lielākās pilsētas ir Dublina, Belfāsta un Korka.\nĪrijas krasti, it īpaši ziemeļos, ir klinšaini, ir daudz nelielu līču. Piekrastē ir daudz mazu, klinšainu salu. Virsma pārsvarā līdzena, nav lielu kalnu grēdu, tomēr atsevišķas virsotnes sasniedz 1000 m augstumu."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamaika ir salu valsts Karību jūrā. Šī sala atrodas 145 km uz dienvidiem no Kubas."
+    },
+    {
+        "id": "01crd5",
+        "description": "Vjetnama, oficiālais valsts nosaukums Vjetnamas Sociālistiskā Republika, ir valsts Indoķīnas pussalā. Ziemeļos robežojas ar Ķīnu, ziemeļrietumos ar Laosu, dienvidrietumos ar Kambodžu un austrumos ar Dienvidķīnas jūru. Vjetnamas iedzīvotāju skaits pārsniedz 85 miljonus un tā ir 13 visapdzīvotākā valsts pasaulē. 2006. gadā ekonomikas pieaugums bija 8,17%."
+    },
+    {
+        "id": "015qh",
+        "description": "Bulgārija, oficiāli Bulgārijas Republika ir valsts Austrumeiropā, kas atrodas Balkānos. Tā robežojas ar piecām citām valstīm: ziemeļos ar Rumāniju, rietumos ar Serbiju un Maķedoniju, dienvidos ar Grieķiju un Turciju. Austrumos to apskalo Melnā jūra. Bulgārijas platība ir 110 993 km², un tajā dzīvo aptuveni 7,35 miljoni iedzīvotāji. Valsts galvaspilsēta ir Sofija. Sofija ir arī lielākā valsts pilsēta. Nākošās lielākās pilsētas ir Plovdiva un Varna.\nBulgārija ir dibināta 7. gadsimtā un ir viena no vecākajām joprojām eksistējošajām valstīm Eiropā. Tā atradās vēsturiski nozīmīgu tirdzniecības ceļu krustpunktā. Caur šo valsti gāja tirdzniecības ceļš no Ziemeļeiropas un citām Austrumeiropas valstīm uz Vidusjūras baseina zemēm un tirdzniecības ceļš no Rietumeiropas un Centrāleiropas uz Tuvajiem Austrumiem. Pirms bulgāri izveidoja savu valsti, šajā reģionā lielā ietekme bija Senajai Grieķijai, Romas impērijai un Bizantijai. Viduslaikos gadsimtiem ilgi Bulgārijas attīstība bija atkarīga no Osmaņu impērijas. Turku elementi vēl joprojām ir sastopami bulgāru arhitektūrā, folkmūzikā un dejās.\nNeatkarību no Osmaņu impērijas Bulgārija atguva 19. gadsimta beigās. 20. gadsimta vidū Bulgārija kļuva par Padomju Savienības satelītvalsti. Pie varas nonāca komunisti. 1990. gadu sākumā valstī tika gāzts komunisms un tā nonāca postkomunisma laikā. 2004. gadā tā kļuva par NATO dalībvalsti, bet 2007. gadā — par Eiropas Savienības dalībvalsti."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongolija - valsts centrālajā un Austrumāzijā, robežojas ar Krieviju un Ķīnu. Prezidentāla republika. Iedzivotāji: mongoļi, kirgīzi, burjati, kazahi, krievi, ķīnieši u.c. Dominējošā reliģija - lamaisms.\n1921. gada jūlijā Urgā tika proklamēta no Ķīnas neatkarīga Mongolijas Republika. 1924. gada 26. novembrī valsts mainīja nosaukumu uz Mongolijas Tautas Republika. Līdz 1990. gadam tajā bija vienpartijas sistēma. 1991. gada 21. novembrī parlaments, mainīja valsts nosaukumu uz Mongolijas valsts. 1992. gada 12. februārī stājās spēkā jauna Konstitūcija."
+    },
+    {
+        "id": "06q1r",
+        "description": "Skotija ir viena no Apvienotās Karalistes četrām daļām. Skotija atrodas Lielbritānijas salas ziemeļos, tai ir sauzsemes robeža ar Angliju, austrumos to apskalo Ziemeļjūra, ziemeļos un rietumos Atlantijas okeāns, savukārt Ziemeļu šaurums un Īrijas jūra dienvidaustumos. Skotijai pieder apmēram 790 salas. Skotijā atrodas Lielbritānijas augstākā virsotne Neviss.\nLielākās pilsētas Skotijā ir Glāzgova un galvaspilsēta Edinburga.\nSkotijas Atlantijas okeāna un Ziemeļjūras sektoros ir ievērojamas naftas iegulas"
+    },
+    {
+        "id": "0chghy",
+        "description": "Austrālija, oficiāli Austrālijas Savienība, ir valsts Zemes dienvidu puslodē. Pēc platības tā ir sestā lielākā valsts pasaulē. Austrālija ir vienīgā valsts pasaulē, kuras teritorija aizņem visu kontinentu. Austrālija kontrolē arī Tasmaniju un vairākas mazākas salas Indijas un Klusajā okeānā. Kopš 1933. gada Austrālijas valdība ir izteikusi teritoriālas pretenzijas uz Austrālijas Antarktisko Teritoriju. Austrālijas tuvākās kaimiņvalstis ziemeļos ir Indonēzija, Austrumtimora un Papua-Jaungvineja, ziemeļaustrumos — Zālamana Salas, Vanuatu un Jaunkaledonija, bet dienvidaustrumos — Jaunzēlande.\nVairāk nekā 42 000 gadus Austrālijas pamatiedzīvotāji bija aborigēni. Pirmie eiropieši, kuri 1606. gadā saniedza Austrālijas krastus, bija nīderlandiešu jūrasbraucēji. Austrālijas austrumu pusi 1770. gadā savā pakļautībā pārņēma Lielbritānijas Karaliste, kuru nosauca par Jaundienvidvelsu. Tur briti izveidoja noziedznieku koloniju. 19. gadsimta laikā briti kolonizēja visu Austrāliju. 1851. gadā Austrālijas dienvidaustrumos tika atrasts zelts un sākās zelta drudzis, tādēļ iedzīvotāju skaits īsā laikā pieauga trīs reizes. 1901. gada 1. janvārī, apvienojoties sešām kolonijām, tika dibināta Austrālijas Savienība."
+    },
+    {
+        "id": "035v3",
+        "description": "Grenlande ir lielākā sala pasaulē un pieder Dānijai. Gandrīz visa Grenlande atrodas aiz Ziemeļu polārā loka. Salu klāj pastāvīga ledus sega. Grenlende ir reti apdzīvota, aptuveni 16 tūkstoši tās iedzīvotāju dzīvo galvaspilsētā Nūkā. Salā ir 16 mazpilsētas un 66 citas apdzīvotas vietas. Tur nav ne ceļu, ne dzelzceļu, pārvietoties var tikai ar lidmašīnu vai kuģi.\nGrenlandes pamatiedzīvotāji ir inuīti. Inuīti vēl joprojām ir sastopami plašās Kanādas un Grenlandes teritorijās. Kad inuīti dodas medībās, viņi ceļ pagaidu mājas no sniega un ledus, ko sauc par iglu. Inuīti pārtiek no nomedītā jeb no ziemeļbriežiem, roņiem, valzirgiem un zivīm. Tādi vārdi kā \"kajaks\" un \"anoraks\" ir aizgūti no inuītu valodas. Galvenā reliģija Grenlandē ir kristietība. Luterāņi ir 99% Grenlandes iedzīvotāju, bet 1% ir katoļi.\nGrenlandes zvejas zona plešas 1 000 000 kvadrātkilometru platībā. 80% valsts zivju eksporta nodrošina garneles, bet mencas, laši, pikšas un citas zivis — pārējos 20%. Grenlandes robotā krasta līnija stiepjas 39315 km garumā. Lielākā daļa cilvēku dzīvo piekrastē un nodarbojas ar zvejniecību. Golfa straumes ietekmē dienvidu piekrastē jūra neaizsalst. Grenlandes klimatā var izdzīvot zemi augi ar seklu sakņu sistēmu, piemēram, rododendrs, arktiskā magone, akmeņlauzīte un mellene."
+    },
+    {
+        "id": "0jgx",
+        "description": "Armēnija, oficiālais nosaukums - Armēnijas Republika, ir valsts Eirāzijā, starp Melno jūru un Kaspijas jūru, Aizkaukāza dienvidu daļā. Tā robežojas ar Turciju rietumos, Gruziju ziemeļos, Azerbaidžānu austrumos, Irānu un Azerbaidžānai piederošo Nehičevanu dienvidos. Armēnija ir unitāra, daudzpartiju, demokrātiska nacionāla valsts un viena no senākajām civilizācijām pasaulē ar bagātīgu kultūras mantojumu.\nDibināta 1918. gadā, taču jau 1922. gadā to anektēja PSRS. Atguvusi suverenitāti 1991. gadā."
+    },
+    {
+        "id": "03_3d",
+        "description": "Japāna ir salu valsts Austrumāzijā, kas atrodas Klusā okeāna rietumos. Japānai nav sauszemes robežas ar citām valstīm, bet vistuvāk tai atrodas Krievija, Ķīna un Koreja. No kontinenta Japānu atdala Ohotskas jūra ziemeļos, Japāņu jūra rietumos un Austrumķīnas jūra dienvidos. Japānu dēvē arī par \"Uzlēcošās saules zemi\". Japāna ir izvietojusies uz 6852 salām, kas veido Japānas salu arhipelāgu. Četras lielākās no tām ir Hokaido, Honsju, Sikoku un Kjusju salas, kas kopā veido 97% no Japānas teritorijas. Gandrīz visas salas ir kalnainas un vulkāniskas. Arī Japānas augstākais punkts Fudzijama ir vulkāns. Japāna ir desmitā lielākā valsts pēc iedzīvotāju skaita. Tajā dzīvo ap 128 miljoniem iedzīvotāju. Tokijas aglomerācija, kurā ietilpst Tokija un apkārtējās prefektūras, ir lielākā aglomerācija pasaulē pēc iedzīvotāju skaita. Tajā dzīvo ap 30 miljoniem iedzīvotāju.\nJapāna ir unitāra konstitucionāla monarhija. Valsts galva ir imperators. Likumdošanas vara pieder parlamentam.\nJapāna ir viena no vadošajām valstīm tehnoloģijā un mašīnbūvē. Japānas ekonomika ir otrā lielākā pasaulē pēc nominālā iekšzemes kopprodukta. Tai ir ceturtais lielākais eksports pasaulē, kā arī sestais lielākais imports."
+    },
+    {
+        "id": "019rg5",
+        "description": "Kenija, oficiāli Kenijas Republika, ir valsts Austrumāfrikā. Valsts atrodas Indijas okeāna piekrastē un caur to ir novilkts ekvators. Tā robežojas ar Etiopiju, Somāliju, Tanzāniju, Ugandu un Sudānu. Valsts galvaspilsēta ir Nairobi. Iedzīvotāju skaits valstī ir strauji pieaudzis pēdējo desmitu gadu laikā un ir apmēram 43 miljoni iedzīvotāju. Tulkojumā no masaju valodas Kenija nozīmē Baltais kalns. Kalns, kas atrodas valsts vidienē, ir aprimis vulkāns, un tā virsotni klāj sniegs."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Pirmdiena Latvijā ir nedēļas pirmā diena. Tomēr ir valstis, kur par nedēļas pirmo dienu uzskata svētdienu, tādēļ arābu, grieķu, portugāļu valodās, ivritā un citās valodās pirmdiena nozīmē \"otrā diena\"."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Otrdiena ir nedēļas otrā diena starp pirmdienu un trešdienu."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Trešdiena ir nedēļas trešā diena starp otrdienu un ceturtdienu."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Ceturtdiena ir nedēļas ceturtā diena. Tā ir nedēļas vidus. Pēc standarta ISO 8601 ceturtdiena nosaka nedēļu numerāciju — pirmā gada nedēļa ir nedēļa, kurā iekrīt gada pirmā ceturtdiena."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Piektdiena ir nedēļas piektā diena. Piektdiena ir pēdējā darba nedēļas diena valstīs ar piecu dienu darba nedēļu."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Sestdiena ir nedēļas sestā diena. Dažās valstīs tā ir nedēļas septītā, pēdējā diena. Sestdiena ir diena starp piektdienu un svētdienu. Tā ir viena no nedēļas nogales dienām."
+    },
+    {
+        "id": "0f6ld",
+        "description": "Svētdiena ir nedēļas septītā diena. Tā ir nedēļas pēdējā diena, tomēr ir valstis, kur svētdiena ir nedēļas pirmā diena. Izraēlā un islāma zemēs svētdiena ir parasta darba diena."
+    },
+    {
+        "id": "06m_p",
+        "description": "Saule ir zvaigzne, kas atrodas Saules sistēmas centrā. Orbītā ap Sauli riņķo Zeme un pārējās Saules sistēmas planētas, kā arī asteroīdi, komētas un citi kosmiskie ķermeņi. Saule ir milzīga plazmas lode, tās masa ir aptuveni 2×10^30 kg. Saule sastāv no 74% ūdeņraža un 25% hēlija, pārējo masu veido smagāki elementi. Saule ir apmēram 4,5-5 miljardus gadu veca, bet vēl pēc 5 miljardiem gadu tā pārvērtīsies par sarkano milzi un tad — par balto punduri. Saule ir Zemei tuvākā un tādējādi arī vislabāk izpētītā zvaigzne."
+    },
+    {
+        "id": "09cy8",
+        "description": "Merkurs ir Saulei tuvākā un mazākā Saules sistēmas planēta. Merkurs apriņķo Sauli 88 dienās, tā arī ir planēta ar lielāko orbītas ekscentritāti. Merkuram nav pavadoņu. Merkurs ir arī mazāks par Saules sistēmas lielākajiem pavadoņiem - Jupitera pavadoni Ganimēdu un Saturna pavadoni Titānu. Merkurs pie debesīm ir salīdzinoši spožs, taču dēļ mazā attāluma no Saules, to ir grūti novērot Saules spožuma dēļ - vislabāk Merkurs saskatāms agros rītos vai vēlos vakaros - pirms saullēkta vai pēc saulrieta. Salīdzinot ar citām Saules sistēmas planētām par Merkuru ir zināms salīdzinoši maz - to pētījis tikai viens zinātniskais aparāts un ar teleskopiem no Zemes iespējams novērot tikai apgaismoto Merkura daļu. Merkurs bijis zināms arī senajām kultūrām - agrākās dokumentētas ziņas par Merkura novērojumiem datējas ar pirmo gadu tūkstoti pirms mūsu ēras."
+    },
+    {
+        "id": "09bcm",
+        "description": "Venera ir otrā planēta no Saules mūsu Saules sistēmā, kas ir viena no zemes grupas planētām. Tā ir trešais spilgtākais objekts pie debess sfēras. Veneras orbīta atrodas Zemes iekšējā orbītā, attālums līdz Venerai mainās no 45 līdz 259 milj. kilometru. Tā kā vidējais attālums no Saules līdz Venerai ir 108,2 milj. km, tad Venera saņem no Saules vismaz divas reizes vairāk saules enerģijas nekā Zeme, turklāt siltumnīcas efekta rezultātā planētas temperatūra pieaug līdz 730K. Oglekļa dioksīda blīvie mākoņi labi laiž cauri Saules redzamo gaismu, bet aiztur no planētas atstaroto siltumu, kā rezultātā planētas temperatūra krasi pieaug.\nVeneras simbols ir romiešu dievietes Veneras spoguļattēls: aplis ar nelielu krustu apakšā."
+    },
+    {
+        "id": "02j71",
+        "description": "Zeme ir trešā planēta Saules sistēmā, skaitot no Saules, kā arī piektā lielākā planēta Saules sistēmā, lielākā planēta no Saules sistēmas iekšējām planētām. Zemei ir viens dabiskais pavadonis — Mēness.\nZemes masa ir 5,9742×10^24 kg, tā ir visblīvākā planēta Saules sistēmā. Ik dienas Zeme kļūst smagāka par vairākiem simtiem tonnu pateicoties nokritušajiem meteoriem un kosmiskajiem putekļiem. Šis pieaugums neveido jūtamu Zemes masas pieaugumu. Zeme izveidojusies apmēram pirms 4,54 miljardiem gadu un tās dabiskais pavadonis Mēness sāka riņķot pa savu orbītu pirms 4,53 miljardiem gadu. Pašlaik Zeme ap Sauli apriņķo 365,25 dienās. Planētas maksimālais slīpums attiecībā pret rotācijas plakni ir 23,4°.\nZeme ir vienīgā zināmā planēta, uz kuras atrodas ūdens šķidrā stāvoklī. Zeme ir vienīgais zināmais debess ķermenis Visumā, kur ir attīstījusies un eksistē dzīvība un kur ir saprātīgas būtnes — cilvēki. Zemes unikalitāti nosaka tas, ka tai ir magnētiskais lauks un slāpekļa—skābekļa atmosfēra, kuri aizsargā Zemes virsmu no dzīvībai kaitīgās Saules radiācijas daļas. Atmosfēras apvalks aizsargā Zemi arī no daudziem mazajiem meteorītiem, kuri, ielidojot atmosfērā, sadeg."
+    },
+    {
+        "id": "09cws",
+        "description": "Marss ir Saules sistēmas planēta, ceturtā planēta no Saules. Marss nosaukts romiešu kara dieva vārdā. Marsu bieži dēvē arī par \"Sarkano planētu\" tā rūsganās krāsas dēļ. Marsam ir divi pavadoņi — Foboss un Deimoss. Marss pieder pie Zemes grupas planētām.\nMarsa diametrs ir apmēram 6 804,9 km, tas ir aptuveni divreiz mazāks nekā Zemei. Marsam ir relatīvi blīva atmosfēra, kas gan sastāv lielākoties no oglekļa dioksīda, slāpekļa un argona. Marsa virsmas vidējā temperatūra ir −63 °C. Marsa diennakts garums ir aptuveni 24,6 stundas.\nMarsa astronomiskais simbols ir, aplis ar no tā ziemeļaustrumu virzienā izejošu bultu. Šis simbols attēlo dieva Marsa vairogu un šķēpu."
+    },
+    {
+        "id": "09q84",
+        "description": "Jupiters ir piektā planēta no Saules un pieskaitāms pie gāzes gigantiem, tāpat kā Saturns, Urāns un Neptūns."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Saturns, viena no milzu planētām, ir Saules sistēmas planēta — sestā no Saules. Tā ir otra lielākā Saules sistēmas planēta, nosaukta romiešu dieva Saturna vārdā. Saturna īpaša pazīme ir tā gredzeni, kas sastāv no ledus un putekļiem. Saturnam ir daudz pavadoņu — 61.\nSaturna ekvatoriālais diametrs ir 120 536 km, tas ir 9,45 reizes lielāks nekā Zemei. Saturna virsmas vidējā temperatūra ir 143 kelvini. Saturnam ir ļoti blīva atmosfēra, kas sastāv galvenokārt no ūdeņraža un hēlija.\nSaturna astronomiskais simbols ir . Tas attēlo dieva Saturna sirpi.\nKopš 2004. gada Saturnu pēta zonde Cassini no planētas orbītas."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Urāns, viena no Saules sistēmas milzu planētām, ir septītā planēta no Saules. Tā ir trešā lielākā Saules sistēmas planēta pēc diametra un ceturtā lielākā pēc masas. Urāns ir nosaukts grieķu dieva Urāna vārdā.\nUrāna ekvatoriālais diametrs ir aptuveni 51 118 km, tas ir 4 reizes lielāks nekā Zemei. Urāna virsmas vidējā temperatūra ir 68 kelvini. Urānam ir ļoti blīva atmosfēra, kas sastāv galvenokārt no ūdeņraža un hēlija.\nUrānam ir divi astronomiskie simboli. attēlo stilizētu H burtu, savukārt tāpat kā Marsa simbols simbolizē vīrišķo."
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptūns, viena no Saules sistēmas milzu planētām, ir astotā planēta no Saules. Neptūns ir nosaukts romiešu jūras dieva Neptūna vārdā. Neptūns tika atklāts 1846. gadā, taču jau iepriekš matemātiķi Ž. Leverjē un Dž. K. Adamss bija noteikuši tā orbītu. Lai arī Neptūns izmēra ziņā ir mazāks kā Urāns, Neptūna masa ir lielāka par Urāna masu. Neptūnam ir 11 pavadoņi. Tam ir arī vismaz 3 planetārie gredzeni.\nNeptūna ekvatoriālais diametrs ir 49 528 km, tas ir 3,8 reizes lielāks nekā Zemei. Neptūna virsmas vidējā temperatūra ir 53 kelvini. Neptūnam ir ļoti blīva atmosfēra, kas sastāv galvenokārt no ūdeņraža un hēlija.\nNeptūna astronomiskais simbols ir, tas attēlo dieva Neptūna trijzari."
+    },
+    {
+        "id": "0jwy",
+        "description": "Auna zvaigznājs ir viens no 12 zodiaka zvaigznājiem. Zvaigznājs ir diezgan blāvs un tam ir tikai divas salīdzinoši spožas zvaigznes — Hamals un Šaratans. Hamala vārds cēlies no arābu Al Ħamal — \"aita, auns\" un senāk ar šo vārdu apzīmēja visu zvaigznāju.'Tā simbols ir ♈. Auna zvaigznājā atrodas Tīgārdena zvaigzne — viena no tuvākajām zvaigznēm Saules sistēmai — 12 gaismas gadu attālumā.\nDažādas kultūras Auna zvaigznāja zvaigznes ir iekļāvušas citos zvaigznājos. Daži dzīļu objekti, kas ir zvaigznājā, ir diezgan vārgi redzami un iekļauj vairākas mijiedarbīgās galaktikas. Vairākas meteoru plūsmas visticamāk nāk no Auna zvaigznāja, tajā skaitā Dienas Arietis un Epsilona Arietis.\nAuna zvaigznājs ir zināms jau no antīkiem laikiem un Starptautiskā Astronomijas savienība to ir atdzinusi par oficiālu zvaigznāju. Tas iekļauj seno zvaigžņu sistēmu, kā arī apkārt esošās zvaigznes. Babilonas zodiaku aprakstā, kas pierakstītas uz senām māla plāksnēm, šim zvaigznājam ir dots nosaukums MUL.APIN."
+    },
+    {
+        "id": "07cqw",
+        "description": "Vērsis ir ziemeļu puslodes zvaigznājs. Viens no Zodiaka zvaigznājiem. Tas atrodas starp Auna un Dvīņu zvaigznājiem. Apzīmē . Zvaigznājs bija zināms jau senajos laikos. Ptolemajs to bija iekļāvis savā darbā „Almagest”. Zvaigznājā ar neapbruņotu aci redzamas 125 zvaigznes.\n⁕Aldebarans — zvaigznāja spožākā zvaigzne, kā arī viena no spožākajām redzamajām zvaigznēm. Tā ir oranžs milzis. Redzamais spožums ir −0.85m. Atrodas 65 gaismas gadu attālumā.\n⁕Alnats ir otra spožākā zvaigzne zvaigznājā. Tās redzamais spožums ir 1.65m. Atrodas apmēram 131 ± 5 gaismas gadu attālumā.\n⁕M 45 jeb Plejādes. Latvijā to pazīst kā Sietiņu. Tā ir vaļēja zvaigžņu kopa. Atrodas 440 gaismas gadu attālumā.\n⁕M 1 jeb Krabja miglājs. Izveidojies pēc pārnovas sprādziena 1051. gadā. Atrodas 6500 ± 1600 gaismas gadu attālumā. Redzamais spožums ir 8.4m.\n⁕Hijādes — vaļēja zvaigžņu kopa. Atrodas 151 gaismas gadu attālumā. Redzamais spožums ir 0.5m."
+    },
+    {
+        "id": "077r8d",
+        "description": "Dvīņu zvaigznājs ir viens no 12 zodiaka zvaigznājiem. Tā kā zvaigznājā viegli saskatīt divas paralēlas figūras, tas jau senatnē tika saistīts ar mītu par dvīņiem Kastoru un Polluksu."
+    },
+    {
+        "id": "0qck6",
+        "description": "Vēzis ir viens no Zodiaka zvaigznājiem. Apzīmē: . Tas ir blāvs zvaigznājs, atrodas starp Dvīņiem un Lauvu. Zvaigznājā atrodas 60 ar neapbruņotu aci redzamas zvaigznes. Vēzim bija sava loma Hērakla 12 varoņdarbos. Saskaņā ar mītu, kad Hērakls cīnījās ar Hidru, dieviete Hēra sūtīja Vēzi, lai tas novērš Hērakla uzmanību. Vēzis ieķērās Hērakla kājas pirkstā, bet Hērakls cīņas karstumā to samina. Hēra atalgoja Vēzi par tā sniegumu, piešķirot vietu debesīs. Tā kā Vēža sniegums bija nenozīmīgs, viņa zvaigznājā ir tikai blāvas zvaigznes.\n⁕Mesjē kataloga objekts — M44. Tā ir vaļēja zvaigžņu kopa. Redzama ar neapbruņotu aci. Tās redzamais spožums 3.7m. Atrodas 577 gaismas gadu attālumā.\n⁕Mesjē kataloga objekts — M67. Tā ir vaļēja zvaigžņu kopa. Tās redzamais spožums 6.1m. Atrodas 2 700 gaismas gadu attālumā.\n⁕Akubens — zvaigžņu sistēma. Sastāv no divām zvaigznēm. α Cnc A — A tipa galvenās secības punduris. Redzamais spožums 4.26m. α Cnc B — redzamais spožums 11m.\n⁕Tarfs — zvaigznāja spožākā zvaigzne. Tas ir oranžs K tipa milzis ar redzamo spožumu 3.52m. Atrodas 290 gaismas gadu attālumā."
+    },
+    {
+        "id": "04h2q",
+        "description": "Lauvas zvaigznājs sastāv no vairākām spožām zvaigznēm un to ir viegli pamanīt debesīs. Lauva ir viens no 12 zodiaka zvaigznājiem. Tajā atrodamas arī vairākas galaktikas."
+    },
+    {
+        "id": "07yt9",
+        "description": "Jaunava ir otrs lielākais zvaigznājs. Tas ir arī zodiaka zvaigznājs, kuru viegli atrast blakus Lauvas zvaigznājam. Zvaigznājā atrodamas daudzas galaktikas — Jaunavas galaktiku kopa."
+    },
+    {
+        "id": "04h36",
+        "description": "Svari ir viens no 12 zodiaka zvaigznājiem. Senāk zvaigznājs tika pieskaitīts pie Skorpiona zvaigznāja un simbolizēja skorpiona spīles."
+    },
+    {
+        "id": "06pgz",
+        "description": "Skorpions ir viens no 12 zodiaka zvaigznājiem. Skorpionu pie debesīm var redzēt vasaras naktīs, tāpēc šis zvaigznājs ir vasaras zvaigznājs. Skorpions ir salīdzinoši liels zvaigznājs, kas labāk redzams dienvidos. Šajā zvaigznājā atrodas Piena Ceļš un šī iemesla dēļ, šajā zvaigznājā ir daudz interesantu objektu. Skorpionu var pazīt pēc to īpatnējo zvaigžņu konfigurācijas, kas atgādina pūķi ar līku un garu asti dienvidu virzienā. Latvijā aste slēpjas aiz apvāršņa.\nSkorpiona spožākā zvaigzne α ir Antaress. Tā ir sarkana. Tulkojumā Antaress nozīmē Marsa sāncense . Antaress ir dubultzvaigzne. Tās diametrs ir 300 reizes lielāks par Saules diametru, bet temperatūra ir 3300 K. Antaress pavadonis ir neliela zaļgana zvaigzne."
+    },
+    {
+        "id": "06pgg",
+        "description": "Strēlnieks ir viens no 12 zodiaka zvaigznājiem. Skatoties no Zemes, Strēlnieka zvaigznājā atrodas Piena Ceļa kodols, kurš ir bagāts ar dažādiem objektiem — zvaigžņu kopām, miglājiem. Strēlnieks ir redzams vasaras naktīs, taču vēl vājāk nekā Skorpions (zvaigznājs). Senie grieķi šajā vietā pie debess iztēlojās kentauru - mītisko puszirgu, puscilvēku ar roku un bultām rokās."
+    },
+    {
+        "id": "01nk9",
+        "description": "Mežāzis ir viens no 12 zodiaka zvaigznājiem. Lai gan tas ir salīdzinoši blāvs tas, iespējams, ir senākais zvaigznājs, kas zināms cilvēcei, jo ziemas saulgriežos Saule atrodas tieši šajā zvaigznājā, tādejādi piesaistot seno astronomu interesi. Vācu astronoms Johans Galle 1846. gada 22. septembrī šajā zvaigznājā pirmo reizi novēroja Neptūnu."
+    },
+    {
+        "id": "0jxf",
+        "description": "Ūdensvīrs ir viens no 12 zodiaka zvaigznājiem. Tas ir arī viens no senākajiem zvaigznājiem vispār."
+    },
+    {
+        "id": "05s7n",
+        "description": "Zivju zvaigznājs ir viens no Zodiaka zvaigznājiem. Tas atrodas starp Ūdensvīra un Auna zvaigznājiem. Apzīmē . Zvaigznājs bija zināms jau senajos laikos. Ptolemajs to bija iekļāvis savā darbā „Almagest”.\n⁕Zvaigznājā atrodas viens no Mesjē kataloga objektiem — spirālveida galaktika M74. Tā atrodas 35 000 000 gaismas gadu attālumā. Redzamais spožums 9.4m.\n⁕α Psc — dubultzvaigzne ar komponentiem 4.33m un 5.23m\n⁕β Psc — 492 gaismas gadu attālumā no Saules. Redzamais spožums 4.53m\n⁕Van Mānena zvaigzne — baltais punduris. Redzamais spožums 12.36m. Atrodas 14 gaismas gadu attālumā no Saules"
+    },
+    {
+        "id": "02vx4",
+        "description": "Futbols ir komandu sporta veids, kurā piedalās divas komandas, katrā uz laukuma pa vienpadsmit spēlētājiem, izmantojot futbolbumbu. Futbols ir vispopulārākais futbola veids pasaulē, kā arī nereti tiek saukts par vispopulārāko sporta veidu.\nFutbols ir spēle, kuru spēlē uz taisnstūrveida zālāja vai mākslīgā zāliena laukuma ar vārtiem katrā laukuma galā. Spēles mērķis ir gūt pēc iespējas vairāk vārtus, raidot bumbu pretinieku komandas vārtos. Vārtsargs ir vienīgais spēlētājs, kuram spēles laikā ir atļauts piekarties bumbai ar plaukstām vai rokām, lai mestu bumbu uz priekšu. Pārējiem laukuma spēlētājiem ar rokām ir atļauts bumbai pieskarties tikai izmetot to no sānu auta vai pēc tam, kad tiesnesis ir konstatējis pārkāpumu un ir licis spēlētājiem novietot bumbu soda sitiena izpildīšanai. Pārējā spēles laikā laukuma spēlētāji bumbas kontrolei izmanto kājas, precīzāk, pēdas, kā arī drīkst izmantot savu ķermeni vai spēlēt ar galvu. Futbola spēli uzvar tā komanda, kura līdz spēles beigām ir guvusi visvairāk vārtu. Ja rezultāts spēles beigās ir vienāds, tad tiek paziņots neizšķirts vai seko pagarinājums un\/vai 11 metru soda sitienu sērija, kas ir atkarīgs no turnīra nolikuma.\nMūsdienu futbola spēle tika pilnveidota Anglijā pēc Anglijas Futbola Asociācijas izstrādātajiem principiem. Tieši 1863. gadā izstrādātie spēles noteikumi lika pamatus futbolam, kuru spēlē mūsdienās. Futbolu starptautiski pārvalda Fédération Internationale de Football Association, parasti zināma pēc saīsinājuma FIFA. Visprestižākais starptautiskais futbola turnīrs ir FIFA Pasaules kauss, kas notiek ik pēc četriem gadiem. Šis turnīrs ir visskatītākās sacensības pasaulē, FIFA Pasaules kauss piesaista divreiz vairāk skatītāju nekā Vasaras Olimpiskās spēles."
+    },
+    {
+        "id": "0jm_",
+        "description": "Amerikāņu futbols, ko ASV un Kanādā pazīst vienkārši ar vārdu futbols, ir komandu sporta spēle. Komandu uzdevums ir nogādāt bumbu iezīmētā zonā aiz pretinieku komandas gala līnijas, tādējādi gūstot punktus. Tas notiek, spēlētājiem nesot bumbu rokās, piespēlējot vai padodot to komandas biedriem. Punktus var gūt dažādos veidos - ar bumbu rokās ieskrienot gala zonā, veiksmīgi piespēlējot to spēlētājam aiz gala līnijas, ar kājas spērienu raidot bumbu starp vārtu stabiem. Uzvar komanda, kam, spēlei beidzoties, ir visvairāk punktu."
+    },
+    {
+        "id": "018w8",
+        "description": "Basketbols ir sporta veids, kurā divas komandas ar pieciem spēlētājiem katrā cenšas gūt punktus, izmetot bumbu cauri stīpai, ievērojot īpašus noteikumus.\nKopš tā izgudrošanas Springfīldā, Masačūsetsā, 1891. gadā, tas ir attīstījies, lai kļūtu par patiesi starptautisku sporta veidu. Organizēta spēle līgās radās Jauno vīriešu kristīgajā apvienībā; pirmās līgas tika veidotas augstskolās. Ar laiku basketbols kļuva par profesionālu sporta veidu. Lai gan tā bija amerikāņu sporta spēle, basketbols strauji izplatījās starptautiski un mūsdienās izcili spēlētāji un komandas ir visā pasaulē.\nBasketbolu pamatā spēlē telpās — basketbola laukumā. Punkti tiek gūti, iemetot bumbu cauri grozam no augšas; komanda ar visvairāk gūtiem punktiem spēles beigās uzvar. Bumba drīkst tikt vadīta pa laukumu, sitot to pret zemi vai piespēlējot komandas biedriem. Ļaunprātīgs fizisks kontakts ir aizliegts, un ir arī nosacījumi, kā drīkst rīkoties ar bumbu. Basketbolā spēlētājiem ir 5 pozīcijas laukumā:\n⁕Saspēles vadītājs\n⁕Uzbrūkošais aizsargs\n⁕Vieglais uzbrucējs\n⁕Spēka uzbrucējs\n⁕Centrs\nLaika gaitā basketbols ir attīstījies, ietverot sevī pazīstamus mešanas, piespēlēšanas un driblēšanas paņēmienus, kā arī spēlētāju pozīcijas laukumā, uzbrukuma un aizsardzības stratēģijas. Kamēr sacensībās basketbols tiek stingri uzraudzīts, vairākas basketbola variācijas ir attīstījušās ikdienas spēlei. Basketbols ir arī iecienīts skatītāju sporta veids."
+    },
+    {
+        "id": "018jz",
+        "description": "Beisbols ir komandu sporta spēle ar bumbu un vāli, kurā spēlētājiem ar atsevišķiem pārskrējieniem jāvirzās no bāzes uz bāzi, kamēr aizsardzībā esošā komanda ar vāli atsisto bumbu nav nogādājusi atpakaļ attiecīgajā bāzē. Uzvar komanda, kas pēc deviņām maijām veikusi vairāk pilnu pārskrējienu. Beisbols ir ASV nacionālā sporta spēle."
+    },
+    {
+        "id": "07bs0",
+        "description": "Teniss ir olimpiskais sporta veids, kurā notiek spēle starp diviem spēlētājiem vai divām divu spēlētāju komandām. Spēlētāji izmanto stīgotu raketi, lai pārsistu bumbiņu pāri tīklam pretinieka korta pusē. Teniss radies 19. gadsimta beigās Eiropā, sākotnēji izplatoties starp angliski runājošām valstīm, it īpaši sabiedrības augstākajos slāņos. Teniss šobrīd atkal ir olimpiskais sporta veids, ko spēlē visu vecumu cilvēki un no visiem sabiedrības slāņiem daudzās pasaules valstīs. Izņemot taibreika ieviešanu 1970. gados, tenisa noteikumi ir saglabājušies nemainīgi kopš 1890. gadiem. Papildu miljoniem aktīvo spēlētāju, tenisam līdzi seko vēl miljoniem cilvēku, it īpaši četriem Grand Slam turnīriem."
+    },
+    {
+        "id": "01cgz",
+        "description": "Bokss ir sporta veids, kurā notiek divcīņa starp diviem bokseriem. Tā notiek speciālā ringā un rokās bokseriem ir speciāli cimdi, amatieriem papildus ir jānēsā aizsargķivere. Boksa cīņā notiek 12 raundi pa trijām minūtēm. Cīņā uzvar bokseris, kurš pretinieku ir savainojis līdz tādai stadijai, ka ievainotais vairs nevar turpināt cīņu, ja pretinieks ir nokautēts un nespēj piecelties 10 sekunžu laikā vai arī, ja pretinieks ir pārkāpis noteikumus.\nBokss ir iekļauts Olimpisko spēļu programmā kopš 1904. gada Olimpiskajām spēlēm."
+    },
+    {
+        "id": "03tmr",
+        "description": "Hokejs ir komandu sporta veids, kuru spēlē uz ledus. Tas ir ātrākais komandu sporta veids pasaulē — spēlētāji uz slidām ir spējīgi sasniegt ļoti lielus ātrumus, bet ripas lidojuma ātrums var pārsniegt pat 160 km\/h. Saskaņā ar Starptautiskās hokeja federācijas reitingu, pašlaik spēcīgākas valstis šajā sporta veidā ir Kanāda, Zviedrija, Somija, Krievija un Čehija. Hokejs ir kļuvis īpaši populārs valstīs, kurās ir vēss klimats, lai gan mūsdienās tam nav īpaši lielas nozīmes, jo lielākoties tas tiek spēlēts slēgtās hallēs, nevis laukumos zem klajas debess."
+    },
+    {
+        "id": "07_53",
+        "description": "Volejbols ir sporta veids, kurš radies Amerikas Savienotajās Valstīs 1895. gadā. Volejbols — sporta veids, komandu sporta spēle, kurā divas komandas sacenšas speciāli tam paredzētā laukumā, kurš laukuma vidū pārdalīts ar tīklu uz pusēm, cenšoties nogādāt bumbu pretinieka laukuma pusē un lai tā piezemētos tajā, kā arī cenšoties piespiest pretinieku kļūdīties. Spēlētāji nedrīkst pieskarties bumbai savā laukuma pusē, izveidot vairāk kā trīs saspēles.\nVolejbola galvenā pārvalde ir FIVB, Starptautiskā volejbola federācija. Olimpisko spēļu programmā volejbols pirmo reizi tika iekļauts 1964. gadā, Tokijā.\nVolejbols - kombinacionāls sporta veids, kur katram spēlētājam ir sava noteikta vieta laukumā. Svarīga nozīme ir spēlētājiem, kuri spēlē pie tīkla un bloķē pretinieku raidītās bumbas. Reakcija, koordinācija un fiziskais spēks ir vieni no svarīgākajiem elementiem efektīgam uzbrukumam. Iesācējiem volejbols ir ļoti labs brīvā laika pavadīšanas kavēklis.\nPastāv volejbola spēles dažādas variācijas, tās atšķiras no tradicionālā volejbola spēles - pludmales volejbols, minivolejbols un pionierbols."
+    },
+    {
+        "id": "037hz",
+        "description": "Golfs ir sporta spēle, kurā spēlētāji vai komandas ar īpašām nūjām cenšas iesist bumbiņu bedrītē ar pēc iespējas mazāku sitienu skaitu. Tā ir arī viena no nedaudzajām spēlēm ar bumbas izmantošanu, kurai nav nepieciešams stingri noteikta lieluma spēles laukums. Golfa noteikumos ir rakstīts, ka ”bumbiņa jāizspēlē no sākumlaukuma bedrītē ar vienu vai vairākiem veiksmīgiem vēzieniem, saskaņā ar noteikumiem”.\nPirmā golfa spēle, par kuru ir saglabājušās liecības, notika 1456. gadā Edinburgā, Skotijā, kas ir atzīmēts Edinburgas pilsoņu golfa biedrības arhīvos."
+    },
+    {
+        "id": "01sgl",
+        "description": "Riteņbraukšana ir pārvietošanās ar velosipēdu. Tas var būt brīvā laika pavadīšanas veids, nokļūšana no viena punkta citā, tūrisma veids, veselības uzturēšanas līdzeklis, kā arī sporta veids: riteņbraukšanas sports. Personas, kas brauc ar divriteni, sauc par riteņbraucējiem vai velosipēdistiem."
+    },
+    {
+        "id": "06z6r",
+        "description": "Peldēšana ir ūdens sporta veids, ko starptautiski pārvalda Starptautiskā peldēšanas federācija. Sporta sacensībās peldēšanā uzvar tas, kurš uzstāda labāko laiku.\nAr sporta peldēšanu cilvēki Eiropā nodarbojas jau kopš 1800. gada pirms mūsu ēras, pārsvarā tika izmantota brasa tehnika.\nPeldēšana ir iekļauta Olimpiskajās spēlēs jau kopš 1896. gada Vasaras Olimpiskajām spēlēm Atēnās, savukārt sievietes Olimpiskajās spēlēs sacenšas kopš 1912. gada Stokholmas Olimpiskajām spēlēm.\nPirmās peldēšanas sacensības ir notikušas 1515. gadā Venēcijā."
+    },
+    {
+        "id": "03_8r",
+        "description": "Džudo ir japāņu cīņas māksla, filozofija un sporta divkauja bez ieročiem, ko uz Džiu džitsu pamatiem 19. gadsimta beigās sakopoja un izveidoja klasifikāciju, japāņu ārsts Žigoro Kano, kurš arī noformulēja pamatnoteikumus, treniņu principus. Žigoro Kano izslēdza no tās sitienus un traumējošos cīņas paņēmienus. Katrā Pasaules Valstī ir sava džudo federācija, kā arī pastāv Starptautiskā džudo federācija, kas apvieno visu Valstu džudo federācijas. Džudo ir pirmais austrumu cīņas veids, ko iekļāva Olimpiskajās spēlēs, 1964. gadā.\nDžudo pirmsākumi saistās ar Kano pirmās džudo skolas izveidi 1882. gadā. Pēc Japānā pieņemtas klasifikācijas, džudo pieskaitāms pie tā saucamajiem mūsdienu cīņas veidiem, kas ir pretstatā tradicionālajām kara mākslām.\nAtšķirībā no boksa, karatē un citām sišanas stilu divkaujām, džudo pamatā ir metieni, sāpju paņēmieni,noturēšana un žņaugšana. No citiem cīņas veidiem džudo atšķiras ar mazāku fiziskā spēka pielietojumu paņēmienos un ar lielāku paņēmienu daudzveidību.\nDžudo tehnika ir daudzu mūsdienu cīņas mākslu pamatos, tajā skaitā sambo, Brazīlijas cīņu stiliem, un citām."
+    },
+    {
+        "id": "0d38m",
+        "description": "Maratons ir vieglatlētikas disciplīna — skriešana 42,195 kilometrus garā distancē, ko parasti skrien ārpus stadiona pa ielām un citiem ceļiem. Šī sporta skriešanas disciplīna ir izveidojusies, balstoties uz leģendu par Senās Grieķijas kareivi Feidipīdu, kurš noskrēja no Maratonas līdz Atēnām, lai paziņotu par grieķu uzvaru Maratonas kaujā.\nPasaules rekords maratonā vīriešiem ir 2.03:38 un pieder Patrikam Makau no Kenijas, uzstādīts 2011. gada 25. septembrī Berlīnes maratonā. Pasaules rekords maratonā sievietēm ir 2.15:25 un pieder Polai Redklifai no Lielbritānijas, uzstādīts Londonas maratonā 2003. gada 13. aprīlī.\nLatvijas rekords maratonā vīriešiem ir 2.15:56 un to 1995. gada 17. septembrī Karlsrūē uzstādīja Aleksandrs Prokopčuks. Latvijas rekords maratonā sievietēm ir 2.28,36 un tā īpašniece ir viņa dzīvesbiedre Jeļena Prokopčuka, uzstādīts Parīzē, 2002. gada 7. aprīlī."
+    },
+    {
+        "id": "0194d",
+        "description": "Badmintons ir sporta veids, kurā divi spēlētāji vai divu spēlētāju komandas izmanto stīgotu raketi, lai pārsistu īpašu bumbiņu pāri tīklam pretinieka pusē. Sporta veida pirmsākumi datējami ar 18. gadsimta vidu, tas savu attīstību uzsāka Britu Indijā. Kopš 1992. gada badmintons ir olimpiskais sporta veids. Tajās pašlaik tiek sadalīti pieci medaļu komplekti: vīriešu un sieviešu vienspēlēs, dubultspēlēs un jauktajām bubultspēlēs. Šo sporta veidu starptautiski pārvalda Pasaules badmintona federācija."
+    },
+    {
+        "id": "07jbh",
+        "description": "Galda teniss jeb pingpongs ir viens no populārākajiem sporta veidiem pasaulē, kā arī jaunākais no pasaulē pazīstamākajiem sporta veidiem. Šajā sporta veidā divi vai četri spēlētāji sit vieglu bumbiņu turp un atpakaļ, izmantojot galda tenisa raketes. Spēle notiek uz cieta galda, ko pārdala tīkls. Spēle tiek uzsākta ar servi."
+    },
+    {
+        "id": "087zy",
+        "description": "Joga neatkarīgi no tās saistības ar dažādām tradīcijām var tikt uzskatīta par filosofisku disciplīnu, kas aptver dažādas garīgas prakses hinduismā.\nPastāv dažādas Jogas formas, tajā skaitā hatha joga, kas uzsver ķermeņa fizisko attīstību, bhakti joga, kas ir mīlestības un pielūgsmes joga, karma joga, kurā uzsvars tiek likts uz nesavtīgu kalpošanu citiem, jņāna joga, ko sauc arī par zināšanu un filozofijas jogu, un rādža joga. Rādža joga ir visaptverošāka un zinātniski pamatotākā jogas forma, kuras gala mērķis ir pilnīga apziņas attīstība. Rādža jogas sistēmu radīja kāds indietis vārdā Pataņdžali, uzrakstot Joga Sūtra vairāk kā tūkstots gadus atpakaļ. Šo jogas formu sauc arī par aštanga jogu, jeb astoņu pakāpju jogu, jo tā sastāv no astoņām vispārīgas attīstības fāzēm.\nJogas paņēmieni ietver dažādas prakses mokšas jeb samādhi sasniegšanai ar fiziskām, mentālām un garīgām aktivitātēm, individuāli fokusējoties uz realitātes patieso būtību.\nCilvēks, kurš praktizē jogu, ir jogs.\nJogas prakse ir aprakstīta Bhagavadgītā un Jogas Sūtrās, kā arī dažās tantrās. Pēc Svāmī Vivekānandas ierašanās ASV 1893. gadā rietumos sāka strauji izplatīties jogas prakse tās fiziskajā aspektā. Daudzi jogu uzskata vienkārši par vingrinājumiem veselības uzlabošanai, bet arī jogas mistiskie aspekti ir piesaistījuši daudzus sekotājus visā pasaulē."
+    },
+    {
+        "id": "0397w",
+        "description": "Vingrošana ir uzdevumu kopums, kuru izpildīšanai ir nepieciešams fiziskais spēks, lokanība, veiklība, koordinēšanās spējas, balanss un pievilcība. Starptautiski visus vingrošanas sporta veidus pārvalda Starptautiskā vingrošanas federācija, katrā valstī ir nacionālā vingrošanas federācija, kas ir pakļauta FIG. Pazīstamākais no vingrošanas veidiem ir sporta vingrošana, kas ir olimpiskais sporta veids. Tajā vīrieši sacenšas brīvajās kustībās, uz vingrošanas zirga, uz riņķiem, atbalsta lēcienā, līdztekās un uz stieņa. Sievietes sacenšas uz vingrošanas stieņiem, baļķa, brīvajās kustībās un atbalsta lēcienā.\nCits olimpiskais sporta veids sievietēm ir mākslas vingrošana. Populāras ir aerorobiskā un akrobātiskā vingrošana, kā arī sacensības uz batuta."
+    },
+    {
+        "id": "036vg6",
+        "description": "Cīkstēšanās ir cīņa starp diviem neapbruņotiem sportistiem, kurā tiek izmantota noteikta tehnika, lai gūtu uzvaru. Pastāv ļoti daudz cīkstēšanās veidu un cīņas sports ir iekļauts Olimpiskajās spēlēs. Šo sporta veidu starptautiski pārvalda Starptautiskā Nacionālo cīņas sporta veidu federācija. Pašlaik tā atzīst piecas starptautiskās disciplīnas: grieķu-romiešu cīņu, brīvo cīņu, grappling cīņu, sambo un pludmales cīņu."
+    },
+    {
+        "id": "04xsv",
+        "description": "Cīņas māksla ir dokumentēta paņēmienu un treniņa sistēma cīņai. Tās galvenais princips ir pašaizsardzība no fiziskiem draudiem. Daudzas cīņas mākslas ir cieši saistītas ar tādām reliģijām kā hinduisms, budisms, daoisms, konfūcisms vai sintoisms, kamēr citas seko īpašam goda kodeksam. Visbiežāk cīņas māksla tiek apgūta priekš sacensībām vai kā sava veida deja."
+    },
+    {
+        "id": "03_ly",
+        "description": "Janvāris ir gada pirmais mēnesis. Janvārī ir 31 diena, tas ir viens no 7 mēnešiem, kuros ir 31 diena. Senie latvieši janvāri vēl sauca par ziemas mēnesi.\nMēnesis savu nosaukumu ieguvis pateicoties Romas karalim Numam Pompīlijam par godu romiešu dievam Janusam, kuram bija veltīta šī mēneša pirmā diena. Veiktajā kalendāra reformā Numa ievietoja janvāri kā gada pirmo mēnesi, pirms tam tas bija gada vienpadsmitais mēnesis, bet pirmais bija marts. Šā mēneša pirmajā trešdaļā saule atrodas Mežāža zvaigznājā, pēc tam Ūdensvīra zīmē."
+    },
+    {
+        "id": "02xx5",
+        "description": "Februāris ir gada otrais mēnesis. Februāris ir gada īsākais mēnesis, un parasti tajā ir 28 dienas. Garajā gadā februārī ir 29 dienas. Senie latvieši februāri vēl sauca par sveču mēnesi. Februāris ir ziemas pēdējais mēnesis.\nLatīņu nosaukums saistīts ar Luperkālijām, kas norisinājās senajā Romā katru gadu 15. februārī.\n1930. un 1931. gadā PSRS, februārī bija 30 dienas."
+    },
+    {
+        "id": "04wzr",
+        "description": "Marts ir gada trešais mēnesis. Martā ir 31 diena. Senie latvieši martu vēl sauca par sērsnu vai baložu mēnesi. Marts ir pirmais pavasara mēnesis. Martā ir pavasara ekvinokcija, kad diena izlīdzinās ar nakti un tās ir vienāda garuma. Marta pēdējā svētdienā notiek pāreja uz vasaras laiku."
+    },
+    {
+        "id": "0lkm",
+        "description": "Aprīlis pēc Gregora kalendāra ir gada ceturtais mēnesis. Aprīlī ir viens no četriem mēnešiem, kura ir 30 dienas. Senie latvieši aprīli vēl sauca par sulu mēnesi."
+    },
+    {
+        "id": "04w_7",
+        "description": "Maijs ir gada piektais mēnesis un viens no septiņiem mēnešiem, kuram ir 31 diena. Senie latvieši maiju vēl sauca par lapu mēnesi. Maijs ir pēdējais pavasara mēnesis. Tie cilvēki, kuri ir dzimuši līdz 20. maijam pēc horoskopa ir vērši, bet pēc šī datuma dzimušie ir dvīņi."
+    },
+    {
+        "id": "040fb",
+        "description": "Jūnijs ir gada sestais mēnesis. Jūnijā ir 30 dienas. Mēnesis ir nosaukts par godu romiešu dievietei Junonai, Jupitera sievai. Latvieši jūniju vēl sauc par ziedu mēnesi. Jūnijs ir pirmais vasaras mēnesis. Jūnijā ir vasaras saulgrieži, kad diena ir visgarākā un nakts visīsākā. Ziemeļeiropā sākas baltās naktis, kad visu nakti ir gaišs."
+    },
+    {
+        "id": "040fv",
+        "description": "Jūlijs ir gada septītais mēnesis. Jūlijā ir 31 diena. Mēnesis ir nosaukts Jūlija Cēzara vārdā, jo viņš šajā mēnesī ir dzimis. Senie latvieši jūliju vēl sauca par siena mēnesi."
+    },
+    {
+        "id": "0ll3",
+        "description": "Augusts ir gada astotais mēnesis, un augustā ir 31 diena. Senie latvieši augustu vēl sauca par rudzu mēnesi. Augusts ir pēdējais vasaras mēnesis. Īrijā pirmais rudens mēnesis."
+    },
+    {
+        "id": "06vkl",
+        "description": "Septembris ir gada devītais mēnesis. Septembrī ir 30 dienas. Senie latvieši septembri vēl sauca par viršu jeb silu mēnesi. Septembris ir pirmais rudens mēnesis. Septembrī ir rudens ekvinokcija, kad diena izlīdzinās ar nakti un tās ir vienāda garuma. Latvijā septembris ir pirmais skolas mēnesis."
+    },
+    {
+        "id": "05lf_",
+        "description": "Oktobris ir gada desmitais mēnesis, kādreiz saukts par veļu vai zemliku mēnesi. Viens no 7 mēnešiem, kas ir 31 dienu garš, astroloģijā sākas ar Sauli Svaru zīmē, beidzas ar Sauli Skorpiona zīmē.\nLīdz pat 8. gadsimtam p.m.ē. oktobris romiešiem tas bija astotais mēnesis.\nLietuviešiem mēneša nosaukums ir spalis — šajā laikā vāc linus. Vēl lietuviešiem šis mēnesis saucas vėlinis, spalinis, lapkristys.\nOktobra pēdējā svētdienā notiek pāreja atpakaļ uz ziemas laiku."
+    },
+    {
+        "id": "05cw8",
+        "description": "Novembris ir gada vienpadsmitais mēnesis. Novembrī ir 30 dienas. Kādreiz, iespējams, saukts par sala jeb salnu mēnesi, lietuviešiem lapkritis. Latīniski novem nozīmē deviņi. Astroloģijā sākas ar Sauli Skorpiona zīmē, beidzas ar Sauli Strēlnieka zīmē.\nPasaulē 1. novembris dažkārt pazīstams kā Visu svēto diena.\nMārtiņi 10. novembrī ir aptuveni vidus starp rudens un ziemas saulgriežiem. Tika uzskatīti par ziemas sākumu. Senāk Latvijā 25. novembrī tika atzīmētas Katrīnas, bet 30. Andreji. Katrīnas dažās vietās uzskatīja par veļu laika beigām. Mūsdienu Latvijā tiek atzīmēts 11. novembris — Lāčplēša diena un 18. novembris — Latvijas Republikas Proklamēšanas diena."
+    },
+    {
+        "id": "028kb",
+        "description": "Decembris pēc Gregora kalendāra ir gada divpadsmitais mēnesis. Decembrī ir 31 diena. Decembris ir ziemas pirmais un gada pēdējais mēnesis. Decembrī ir ziemas saulgrieži, kad diena ir visīsākā un nakts visgarākā.\nVārds decembris nāk no latīņu valodas vārda decem, jo līdz pat 8. gadsimtam p.m.ē. decembris romiešu kalendārā bija desmitais mēnesis.\nAstroloģijā, decembris sākas, kad Saule ieiet Strēlnieka zvaigznājā, un beidzas, kad tā ieiet Mežāža zvaigznājā."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Ziemeļi ir viena no četrām debespusēm. Mūsdienu ģeogrāfiskajās kartēs ziemeļi parasti atrodas kartes augšā, bet ir arī kartes, kurās ziemeļi ir apakšpusē. Latviešu valodā ziemeļus apzīmē ar burtu \"Z\", starptautiski - ar burtu \"N\".\nTulkojumā no sengrieķu valodas vārda \"שבר\" [ziemeļi] nozīmē \"cerība\"."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Dienvidi ir viena no četrām debespusēm. Kartēs parasti dienvidi atrodas apakšējā pusē. Lai noteiktu, uz kuru pusi ir dienvidi, tiek izmantots kompass. Dienvidi ir pretēji ziemeļiem. Zemes dienvidos atrodas ģeogrāfiskais dienvidpols, kura atrašanās vieta tikai mazliet atšķiras no magnētiskā dienvidpola.\nVārds dienvidi ir cēlies no diviem latviešu valodas vārdiem: diena un vidus. Tā ir tāpēc, ka Saule dienas vidū atrodas dienvidu pusē."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Rietumi ir viena no četrām debespusēm. Kartēs parasti rietumi atrodas kreisajā pusē. Lai noteiktu, uz kuru pusi ir rietumi, tiek izmantots kompass. Rietumi ir pretēji austrumiem. Zemeslodes rietumu puslodē atrodas Ziemeļamerika, Dienvidamerika, kā arī daļa no Āfrikas un Eiropas.\nVārds rietumi ir cēlies no tā, ka rietumu pusē Saule noriet."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Austrumi ir viena no četrām debespusēm. Austrumos uzaust Saule. Mūsdienu ģeogrāfiskajās kartēs austrumi parasti atrodas labajā pusē. Latviešu valodā austrumus apzīmē ar burtu \"A\", bet starptautiski - ar burtu \"E\"."
+    },
+    {
+        "id": "0j0k",
+        "description": "Āzija ir pasaules lielākā kontinenta Eirāzijas austrumu daļa. Āzija aizņem 29,4% no Zemes sauszemes platības. Āzijā dzīvo vairāk, kā 60% pasaules iedzīvotāju.\nĀzija plešas no Arktikas līdz ekvatoram. Liela daļa Āzijas - tuksneši un Tibetas kalniene ziemeļos no Himalaju kalniem - ir neauglīga. Vienlaikus Āzijā atrodas daudzi no auglīgākajiem līdzenumiem pasaulē Mekongas, Indas, Eifratas un citu upju ielejās. Vairākās no šīm upju ielejām veidojušās pirmās civilizācijas pasaulē."
+    },
+    {
+        "id": "059g4",
+        "description": "Ziemeļamerika ir trešais lielākais kontinents pēc platības un ceturtais lielākais — pēc iedzīvotāju skaita. Tao apskalo Ziemeļu ledus okeāns ziemeļos, Atlantijas okeāns — ziemeļaustrumos un austrumos, Karību jūra — dienvidaustrumos un Klusais okeāns — dienvidrietumos un rietumos. Kontinenta platība ir 24 230 000 kvadrātkilometru. Tiek lēsts, ka 2001. gadā iedzīvotāju skaits bija 454 225 000.\nZiemeļamerika atrodas ziemeļos pasaules daļai, kuru dēvē par Jauno Pasauli, Rietumu puslodi vai vienkārši — par Ameriku. Ziemeļamerika ir savienota tikai ar Dienvidameriku. Šo savienojumu šaurākajā vietā dēvē par Panamas zemesšaurumu, kas dienvidaustrumos beidzas ar Darjenas grēdu. Saskaņā ar dažiem avotiem, Ziemeļamerikas robeža ir nevis Panamas zemesšaurums, bet gan Tevantepekas zemesšauruma šaurākā vieta starp Meksikas līci un Kluso okeānu, un šo reģionu starp šiem zemesšaurumiem dēvējot par Centrālameriku. Tomēr plašāk ir izplatīts uzskats, ka Centrālamerika ir Ziemeļamerikas sastāvdaļa."
+    },
+    {
+        "id": "06n3y",
+        "description": "Dienvidamerika ir viens no kontinentiem. No austrumiem to apskalo Atlantijas okeāns, bet no rietumiem Klusais okeāns, ziemeļos — Karību jūra. Tas savienojas ar Ziemeļameriku Panamā.\nDienvidamerika ir ceturtais lielākais kontinents pasaulē pēc teritorijas, un piektais lielākais pēc iedzīvotāju skaita.\nCaur visu kontinentu gar rietumu piekrasti stiepjas Andu kalni, kuru nosaukums tulkojumā no indiāņu valodas nozīmē \"vara kalni\", jo tur ir atrastas lielas vara rūdas atradnes. Uz austrumiem no Andiem plešas milzīgi tropisko mežu masīvi, kas tiek intensīvi izcirsti, radīdami draudus visas pasaules ekosistēmai. Anodos atrodas lielākais augstkalnu ezers Titikakas ezers, kura platība ir 8300 kilometri un dziļums ir 250 m.\nVēsturiski Dienvidameriku apdzīvoja dažādas indiāņu ciltis. Andu reģionā līdz 16. gs. tām izdevās radīt augsti attīstītu inku civilizāciju. 16. gs. sākās spāņu un portugāļu iekarojumi, un Dienvidamerika kļuva par Spānijas un Portugāles kolonijām. Kontinentā ieviesās spāņu un portugāļu valoda, kristietība, eiropeiskās sociālās attiecības. Līdz 19. gs. sākumam Dienvidamerikā bija izveidojušās nācijas, tāpēc 19. gs. pirmā puse pagāja karos par neatkarību, līdz 19. gs. vidū Dienvidamerikā nodibinājās neatkarīgas valstis."
+    },
+    {
+        "id": "02j9z",
+        "description": "Eiropa ir otra mazākā pasaules daļa pasaulē. Ģeoloģiski un ģeogrāfiski tā ir pussala, kas veido Eirāzijas kontinenta rietumu daļu. Bieži vien Eiropu kļūdaini uzskata par kontinentu. Ziemeļos to apskalo Ziemeļu ledus okeāns, rietumos — Atlantijas okeāns, bet dienvidos — Vidusjūra un Melnā jūra. Vispārpieņemts, ka Eiropas austrumu robeža ir Urālu kalni, Urālas upe, Kaspijas jūra un Kaukāza kalni. Eiropā tiek iekļautas vairākas salas, arhipelāgi un pussalas. Lielākā no salām ir Lielbritānija. Krasta līnijas kopējais garums ir 38 000 km. Tā ir tik gara, jo to veido vairāki līči, fjordi un iekšējās jūrās. Eiropas platība ir gandrīz 10,2 miljoni km², savukārt iedzīvotāju skaits pārsniedz 731 miljonu.\nLielāko daļu no Eiropas veido zemienes. Aptuveni trīs piektdaļas no kopējās platības ir zemāk par 200 m virs jūras līmeņa, bet tikai aptuveni 1\/15 daļa no Eiropas ir augstāk par 1 km. Augstākās kalnu sistēmas šķērso Eiropu tās dienvidu daļā. Tie ir Pireneji, Alpi, Apenīni, Karpati un Balkānu kalni. Ziemeļos vienīgā ievērības cienīgā kalnu grēda ir Skandināvijas kalni. Lai gan Eiropā ir ļoti daudz upju, tajā ir maz lielo ezeru. Garākā Eiropas upe ir Volga, bet lielākais ezers — Lādogas ezers. Plašas teritorijas, īpaši ziemeļos, ir klātas ar ledājiem. Aptuveni viena trešdaļa no Eiropas teritorijas ir aramzeme, kur audzē galvenokārt labību, īpaši kviešus un miežus. Vēl viena trešdaļa ir klāta ar mežiem. Eiropa ir vadošais pasaules reģions pēc tās mūsdienīgās tautsaimniecības, kas balstās uz komerciālo lauksaimniecību un rūpniecību. Tā ir arī viens no pasaules lielākajiem rūpnieciskajiem reģioniem, kur gada vidējie ienākumi uz vienu iedzīvotāju ir starp augstākajiem pasaulē. Eiropas iedzīvotāji veido aptuveni vienu desmito daļu no visiem pasaules iedzīvotājiem. Lielākā daļa no iedzīvotājiem runā romāņu, ģermāņu un slāvu valodās. Eiropas iedzīvotāji galvenokārt ir kristieši."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Āfrika ir otrs lielākais kontinents pasaulē aiz Eirāzijas gan pēc platības, gan pēc iedzīvotāju skaita. Nereti pie Āfrikas pieskaita arī tās tuvumā esošās salas, un kopā ar tām Āfrikas platība ir 30 221 532 km². 2009. gadā Āfrikā dzīvoja mazliet vairāk par vienu miljardu iedzīvotāju. Āfrikas ziemeļus apskalo Vidusjūra, ziemeļaustrumos Āfriku no Āzijas atdala Suecas kanāls un Sarkanā jūra. Dienvidaustrumos Āfrikas krastus apskalo Indijas okeāns, bet rietumos - Atlantijas okeāns. Āfrikā ir 54 valstis, kuras ir sagrupētas pa pieciem Āfrikas reģioniem. Šie reģioni ir Ziemeļāfrika, Rietumāfrika, Centrālā Āfrika, Austrumāfrika un Dienvidu Āfrika. 32 Āfrikas valstis ir 50 nabadzīgāko valstu sarakstā.\nĀfrika, īpaši centrālā Austrumāfrika, tiek uzskatīta par hominīdu, tai skaitā arī cilvēku izcelsmes vietu. Āfrikas ziemeļu daļā atrodas, iespējams, pasaulē garākā upe — Nīla. Citas lielas un nozīmīgas Āfrikas upes ir Nigēra un Kongo. Sahāras tuksnesis, kas aizņem aptuveni vienu ceturto daļu no kontinenta kopējās platības, ir pasaulē lielākais tuksnesis. Pasaulē otrais lielākais saldūdens ezers ir Viktorijas ezers."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antarktīda jeb Antarktika ir kontinents, kurš ieskauj Zemes Dienvidpolu, un, savukārt, to visapkārt apskalo Dienvidu okeāns. Antarktīda, kuras platība ir 13 980 000 km², ir piektais lielākais kontinents; par Antarktīdu mazāka ir vienīgi Austrālija. No pasaules daļām mazāka par Antarktīdu ir arī Eiropa. No šīs teritorijas aptuveni 98% klāj ledus sega, kuras vidējais biezums ir 1,6 kilometri. Tas ir lielākais tuksnesis pasaulē, tādēļ arī dzīvnieku un augu daudzveidība ir ierobežota. Tomēr okeānos, kas apskalo Antarktīdu, ir ļoti plaša dzīvas dabas daudzveidība. Vidēji ņemot, Antarktīda ir visaukstākais, vissausākais un visvējainākais kontinents, kā arī ar vislielāko vidējo augstumu virs jūras līmeņa.\nAntarktīdas tuvumā cilvēki pirmo reizi nokļuva tikai ap 1820. gadu. Tas ir izskaidrojams ar skarbajiem laika apstākļiem, kā arī tas, ka ledainās un vētrainās jūras ap Antarktīdu bija nepārvarams šķērslis. Līdz 1950. gadam joprojām vairāk nekā puse no kontinenta nebija izpētīta. Mūsdienās lidaparāti un traktori ļauj nokļūt cilvēkiem jebkurā Antarktīdas nostūrī. Arī satelītuzņēmumi atvieglina Antarktīdas izpētes procesu. Tomēr zinātnieki ir atzinuši, ka Antarktīdā joprojām ir daudz dažādu lietu un vietu, kuras nav vēl pietiekoši izpētītas."
+    },
+    {
+        "id": "09pkq0",
+        "description": "Austrālija ir 7 686 850 kvadrātkilometrus liels kontinents uz Indoaustrālijas plātnes. To ieskauj Indijas, Dienvidu un Klusais okeāns. No Āzijas to atdala Arafuru un Timoras jūras. Austrālijai ir 25 760 kilometrus gara krasta līnija, tā ir vismazākais un visplakanākais Zemes kontinents. Visu kontinenta teritoriju aizņem viena valsts — Austrālija. Pēdējos 10 000 gadu no kontinenta atdalījās, ūdens līmenim paceļoties, Tasmānijas un Jaungvinejas salas.Austrālija ir sausākais kontinents kas atrodas D puslodē."
+    },
+    {
+        "id": "05p553",
+        "description": "Terminu Komēdija izveidoja Aristotelis. Saskaņā ar viņa uzskatiem komēdija no traģēdijas atšķiras ar to ka:\n⁕Komēdijā darbojas zemāko slāņu pārstāvji.\n⁕Beigas vienmēr laimīgas\n⁕Mērķis - publikas smiekli\nMūsdienas komēdija stipri atšķiras no Aristoteļa uzskatiem. Populārākie komēdiju veidi mūsdienās:\nSituāciju komēdija - ļoti ātra darbība. Intrigas ir daudz svarīgākas par tēla raksturu. Ļoti strauji mainās situācijas, beigas var būt negaidītas.\nRaksturu komēdija - skaidri izstrādāti raksturi, komisms rodas no konfrontācijām, attiecībām.\nMelnā komēdija - tiek rādītas un izsmietas lietas, notikumi par kuriem parasti nesmejas"
+    },
+    {
+        "id": "0jtdp",
+        "description": "Dokumentālā filma ir viens no kinofilmu veidiem, kas veidota, filmējot īstus notikumus. Sākotnēji dokumentālās filmas tika uzņemtas vienīgi kinolentēs, taču mūsdienās filmu uzņemšanas iespējas ir paplašinājušās. Dokumentālā kino attīstība Latvijā ir aizsākusies 1920. gados. Par vienu no izcilākajiem latviešu dokumentālo filmu režisoriem tiek uzskatīts Juris Podnieks, viena no viņa slavenākajām filmām ir \"Vai viegli būt jaunam?\"."
+    },
+    {
+        "id": "0hcr",
+        "description": "Animācija ir fotografētu attēlu secīga rādīšana noteiktā ātrumā un noteikta lieluma fiksētā kadrā, lai panāktu kustības ilūziju. Animācijas filma parasti tiek rādīta ar ātrumu 24 kadri sekundē, kas ir pietiekami, lai mūsu acs neredzētu kadru maiņu un uztvertu atsevišķus attēlus kā vienu, kurā attēlota objekta kustība. Kustības ilūzija ir iespējama pateicoties mūsu redzes īpatnībām. Tiek lietots arī jēdziens multiplikācija. Šo principu izmanto arī kino."
+    },
+    {
+        "id": "06n90",
+        "description": "Zinātniskā fantastika ir literatūras un kino tematisks paveids, kam raksturīga lielākā vai mazākā mērā fantastiska darbības norises vide vai laiks, vai procesi un tehnoloģijas, vai varoņi un būtnes, bet — atšķirībā no, piemēram, fantāzijas literatūras — zinātniskajā fantastikā neparastais nav pārdabiska rakstura un darba ietvaros tiek pamatots zinātniski vai vismaz tiek uzskatīts par zinātniski pamatojamu. Jāatzīmē gan, ka gandrīz vienmēr šis zinātniskais pamatojums ir vairāk vai mazāk hipotētisks, spekulatīvs un ne vienmēr ir tiešām zinātniski precīzs.\nLielākajai daļai zinātniskās fantastikas darbu galvenā ir izklaides funkcija, tāpēc bieži vien zinātniskās fantastikas literatūra tiek uzskatīta par masu literatūru, filmas — par nenozīmīgām un nevērtīgām, taču ir arī daudzi zinātniskās fantastikas darbi, kas atzīstami par mākslinieciski augstvērtīgiem, piemēram, Oldesa Hakslija romāns \"Brīnišķīgā jaunā pasaule\", režisora Stenlija Kubrika filma \"2001: Kosmosa odiseja\" un citi.\nDaudzi zinātniskās fantastikas darbi ir savā ziņā pētnieciska vai pat brīdinoša rakstura. Tā, piemēram, tajos var tikt aplūkota zinātnes un tehnoloģiju attīstības ietekme uz cilvēci vai indivīdu, sekas saskarsmei ar ārpuszemes civilizācijām, pārapdzīvotības problēma, totalitāru režīmu izveidošanās nākotnē u.tml."
+    },
+    {
+        "id": "01jfsb",
+        "description": "Trilleris ir literatūras un kino žanrs. Pie tiem tik pieskaitīti darbi, kuri cenšas radīt skatītājam vai lasītājam saspringtu pārdzīvojumu sajūtu un uztraukumu. Žanram nav noteiktu ierobežojumu. Kinematogrāfā bieži pie trilleriem tiek attiecināti arī detektīva piedzīvojumu filmas. Vēl pie trilleriem attiecina šausmu literatūru un filmas, bet tikai tad, ja filmas sižetā ir slepkavība un tās izmeklēšana."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Fantāzijas literatūra ir literatūras tematisks paveids; fantāzijas literatūrā attēloto pasauļu, tēlu, notikumu, sižetu pamatā parasti ir maģija un cita rakstura pārdabiski spēki. Fantāzijas literatūra ir spēcīgi ietekmējusies no mitoloģijas, viduslaiku leģendām, tajā bieži sastopami dažādi mītiska rakstura motīvi un tēli, un darbība fantāzijas literatūras darbos bieži vien noris vidē, kas līdzinās viduslaiku pasaulei — lai gan pastāv arī, piemēram, tā sauktā pilsētas fantāzija, kur darbība var risināties arī mūsdienu pilsētās."
+    },
+    {
+        "id": "06by7",
+        "description": "Rokmūzika ir daudzos novirzienos sazarojies mūsdienu mūzikas žanrs. Skaņdarbi ir vokāli instrumentāli un instrumentāli, raksturīgs akcentēts ritms, dinamiskums. Pamatā izmantotas elektriskās ģitāras, sitaminstrumenti un elektroniskie mūzikas instrumenti."
+    },
+    {
+        "id": "064t9",
+        "description": "Popmūzika ir termins, kas parasti tiek attiecināts uz komerciāli ierakstītu mūziku, kas pārsvarā ir orientēta uz jaunatnes auditoriju. Popmūzika visbiežāk ir relatīvi īsa un vienkāršas uzbūves dziesma par mīlestību, kurās tiek izmantotas tehnoloģiskās inovācijas, lai veidotu jaunas muzikālās variācijas esošajām tēmām. Popmūzika ietekmējas no daudziem citiem populārās mūzikas novirzieniem, bet kā žanrs ir īpaši saistīta ar rokenrolu un vēlāk arī ar rokmūziku."
+    },
+    {
+        "id": "03_d0",
+        "description": "Džezs ir mūzikas žanrs, kas 20. gadsimta sākumā izveidojās ASV Dienvidu štatu afroamerikāņu kopienās, saplūstot afrikāņu un eiropiešu mūzikas elementiem. Iepriekš vārds džezs bija žargons ASV Rietumu krastā un to pirmoreiz šī žanra apzīmēšanai izmantoja 1915. gadā. Laika gaitā džezam ir izveidojušies vairāki apakš žanri, tostarp, bebop, džezroks un acid jazz.\nDžezs ir izveidojies no 3 mūzikas žanriem: blūza, spiričuela un regtaima."
+    },
+    {
+        "id": "01lyv",
+        "description": "Kantrī mūzikas saknes atrodamas jau sen - apmēram pirms 300 gadiem, taču šis mūzikas stils savu straujo attīstību sāka un lielo popularitāti ieguva 1920. gados. Par tās rašanās vietu tiek uzskatīti ASV dienvidu štati.\nKantrī mūzikas pamatā ir dažādu tautas mūzikas stilu sajaukums. Tajā sakņojas gan Amerikas pamatiedzīvotāju tautas mūzika, gan ķeltu mūzika, gan blūzs un gospeļi, jo vēsturiski izveidojās, ka ieceļotāji Apalaču kalnu dienvidu apkaimē līdz sev paņēma arī savas mūzikas tradīcijas un instrumentus. Instrumentu klāstā tolaik bija gan īru vijole, gan itāļu mandolīna, spāņu ģitāra un afrikāņu bandžo. Dažādu etnisko grupu mūziķiem savstarpēji sadarbojoties, radās unikāla mūzika.\n19. gadsimtā dažādas etniskās grupas no Centrāleiropas un Britu salām ieceļoja Teksasā. Saplūstot ar tur jau dzīvojošajiem spāņiem, meksikāņiem, Amerikas pamatiedzīvotājiem, Teksasā radās unikāla kultūra, kurā sakņojās visas ieceļotāju etnisko grupu iezīmes.\nJēdzienu country music sāka lietot pagājušā gadsimta četrdesmitajos gados, kad līdz tam lietoto šīs mūzikas apzīmējumu hillbily sāka uzskatīt par nievājošu. Apzīmējums tika plaši lietots septiņdesmitajos gados, līdz ar šo laika perioda kantrī un vesterna mūzikas stilus sāka vienu no otrā nodalīt."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hiphops ir mūzikas žanrs un kultūras kustība, kura aizsākās agrajos 1970. gados Ņujorkā un tās aizsācēji bija galvenokārt afroamerikāņi un latīņamerikāņi. Hiphopa kultūru raksturo četri galvenie pamatelementi: repošana, dīdžejošana, grafiti un breikošana. Citi papildu elementi ir bītbokss, hiphopa ģērbšanās stils un slengs, jeb valodas kultūra. Kopš hiphopa dzīvesstila rašanās Bronksā, tas ir izplatījies visā pasaulē.\nKad hiphopa mūzika sāka izplatīties, tā bija balstīta uz dīdžejiem, kuri radīja ritmiskus bītus. Vēlāk šai mūzikai sāka pievienoties repošana."
+    },
+    {
+        "id": "03lty",
+        "description": "Smagais metāls ir rokmūzikas žanrs, kas radās un attīstījās 1960. gadu beigās un 1970. gadu sākumā Savienotajās Valstīs un Apvienotajā Karalistē. Smagajam metālam ir raksturīgi agresīvi, brāzmaini ritmi un spēcīga ģitārspēle.\nSmagais metāls ir attīstījies no blūza, blūzroka un roka. Tas cēlies no smagā roka grupu mūzikas, kas radīja blūza un roka sajaukumu ar smagu, uz ģitārām un bungām balstītu skaņu. Smagais metāls popularitāti sasniedza 1980. gados, kad attīstījās daudzi tā apakšžanri.\nMūsdienās ir izveidojušies vairāki smagā metāla paveidi, piemēram, nāves metāls, folkmetāls, power metal, trešmetāls, gotiskais metāls, doom, melnais metāls, simfoniskais metāls, episkais metāls, popmetāls, ņūmetāls un vēl daudz žanri. Galvenokārt dziesmu teksti ir par nāvi, vardarbību, Sātanu, tumsu, vēsturiskiem notikumiem, folkloru. Katrā apakšžanra var būt savas tēmas, kurām mūziķi visbiežāk pievēršas, piemēram, Tolkīna \"Gredzenu Pavēlnieka\" Viduszemes dzīve, fantāzija, dažādi pārdabiski radījumi, kaujas mēdz būt raksturīgas power, epic un battle metal."
+    },
+    {
+        "id": "05r6t",
+        "description": "Pankroks ir rokmūzikas žanrs un kustība, kura radās 1970. gadu vidū. 1960. gados un 70. gadu sākumā parādījās dažādu protopanku mūzikas paveidi, savukārt pankroks attīstījās tikai starp 1974. un 1976. gadu Amerikas Savienotajās Valstīs, Apvienotajā Karalistē un Austrālijā, kad grupas, piemēram, kā Ramones, Sex Pistols un The Clash, tika atpazītas kā jaunās mūzikas kustības priekšgājēji. Līdz 1977. gadam pankroks bija jau plaši izplatījies pa visu pasauli.\nLatvijas spilgtākie pankroka pārstāvji ir tādas grupas, kā Inokentijs Mārpls, Travolta, PND, Konservētie Stringi, Drunk Punk.\nPankroks ir rokmūzikas paveids, kam atšķirībā no klasiskā roka ir raksturīgs vienkāršots instrumentālais izpildījums un nihilistiski dziesmu teksti, bieži vien ar politisku pieskaņu."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Klasiskā mūzika ir vispārējs termins, ar kuru parasti apzīmē liturģisko un laicīgo mūziku no 9. gadsimta līdz mūsdienām. Tradicionāli uzskata, ka klasiskās mūzikas ziedu laiki bija no 1550. gada līdz 1900. gadam."
+    },
+    {
+        "id": "02lkt",
+        "description": "Elektroniskā mūzika ir plašs apzīmējums mūzikai, kura galvenokārt tiek veidota elektroniskā ceļa, izmantojot datorus, sintezatorus un citus instrumentus.\nElektroniskā mūzika kopš tās pirmsākumiem tika asociēta vienīgi ar rietumu akadēmisko mūziku, bet kopš 1960. gadu beigām ar straujo mūzikas tehnoloģiju pieaugumu elektroniskā mūzika ienāca arī populārajā mūzikā. Mūsdienās elektroniskā mūzika veido ļoti plašu žanru spektru, sākot no elektroakustiskās mūzikas līdz elektroniskajai deju mūzikai."
+    },
+    {
+        "id": "0155w",
+        "description": "Blūzs sākotnēji bija afroamerikāņu liriska solodziesma, pēc tam - virziens mūzikā. Blūzs ir viens no senākajiem populārās mūzikas stiliem.\nBlūzs parādījās 19. gadsimta otrajā pusē ASV. 20. gadsimta sākumā formējās tā saucamais klasiskais jeb pilsētas blūzs, kura formas pamatā bija 12 taktu periods ar harmoniska secīgumu kopīgo shēmu: pirmā 4 taktu frāze - T, otrā - S, trešā - D un T. Tāds periods atbilst trīsrindu dzejoļu pantam. Blūza skaņkārta, atšķirībā no mažora un minora skaņkārtām, ir diezgan nekonkrēta, tas ir, izmantotās notis nav iespējams viennozīmīgi iekļaut tanī vai izslēgt. Tomēr biežāk izmantotā intervālu attiecība ir 3\/2 1 1\/2 1\/2 3\/2 1. Sastopami arī hromatiskās gammas elementi. Blūzs sevišķi strauji attīstījās 20. gadsimta 50. gados.\nSākotnēji blūzs pārstāvēja tikai \"melno\" mūziku, ko izpilda melnādaini cilvēki citiem melnādainiem cilvēkiem. Tas bija izpildāms bandžo, ģitāras, vēlāk - klavieru vai instrumentālā ansambļa pavadījumā. Pēc tam blūzs apvienojās ar balto ieceļotāju un citos stilos, un pats dalījās vairākos skaidri noformētos zaros.\nBlūza melodikai ir raksturīgs jautājuma - atbildes struktūra un blūzu saticības izmantošana. Liriskajos blūza tekstos rod atspulgu sociālas un rases apspiešanas tēmas. Blūza tapšanu kā virzienu sekmēja \"melnā\" komponista Viljama Hendija daiļrade. Klasiskā sieviešu blūza izpildītājas bija Ma Raineja, Čipija Hila, Besija Smita un citas. Blūzs atstāja milzīgu iespaidu uz džeza un popmūzikas noformēšanos. Blūza elementus izmantoja arī 20. gadsimta komponisti."
+    },
+    {
+        "id": "06cqb",
+        "description": "Regejs ir mūzikas stils, kas izveidojies Jamaikā. Regejs sevī iekļauj vairākus apakšstilus - rocksteady, dub, dancehall un ragga. Mūzikas stils sāka veidoties 1960to gadu otrajā pusē Jamaikā. Regejs, it sevišķi 1970. gados populārais roots reggae ir cieši saistīts ar rastafari. Pirmie regeja pārstāvji bija Bobs Mārlijs un The Wailers, Burnin’ Spear, Toots & the Maytals. Pasaulē pazīstamākais no viņiem ir Bobs Mārlijs. Regejs ir modernizēta tautas mūzika - lauku tautasdziesmu un pilsētu roktradīciju apvienojums. Karību salās regeja smagās formas ir tāpat dažreiz zināmas kā šūpuļsolu mūzika."
+    },
+    {
+        "id": "02w4v",
+        "description": "Folkmūzika ir mūzikas žanrs, kas ir radies no tautasdziesmām. Par folkmūziku mēdz saukt arī populārās mūzikas dziesmas, kas radušās tautasdziesmu ietekmē. Populārākie populārās folkmūzikas žanri ir electric folk, folkmetāls un folkroks."
+    },
+    {
+        "id": "02x8m",
+        "description": "Fankmūzika ir ASV radies mūzikas žanrs. Tas radās 1960. gados afroamerikāņu kopienās, sajaucot kopā soulmūziku, R&B, džezu un psihodēlisko roku un izveidojot ritmisku mūzikas stilu, pie kura var dejot. Fankmūzikā bieži vien dziesma tiek veidota uz viena akorda pamata, atšķirībā no R&B un soulmūzikas, kur tiek lietoti vairāki akordi.\nFankmūzika ir ietekmējusi 1970. gadu disko mūziku. Hiphopa un hausmūzikas pirmsākumos vairākas dziesmas tika veidotas uz fankmūzikas dziesmu pamata vai izmantojot esošu fankmūzikas dziesmu elementus. Arī jaunajā vilnī un postpanka mūzikā ir manāma fankmūzikas ietekme."
+    },
+    {
+        "id": "0199g",
+        "description": "Divritenis, bieži tiek saukts arī par velosipēdu vai riteni, ir ar pedāļiem darbināms viegls transportlīdzeklis uz diviem riteņiem. Persona, kas ar to brauc, sauc par riteņbraucēju. Lai gan jau Leonardo da Vinči bija uzskicējis pirmās divriteņu skices, par pirmo divriteņa tipa transportlīdzekļa izgudrotāju uzskata francūzi Desivraku, kas to izgatavoja 1690. gadā. Tam nebija pedāļu. 1840. gadā pirmo divriteni ar pedāļiem izgatavoja skotu kalējs Kirkpatriks Makmilans. Tādi divriteņi, kas pēc izskata izskatās pēc mūsdienu divriteņiem, parādījās tikai 1900. gadā.\nDivriteņi plaši tiek izmantoti transporta, atpūtas un sporta nolūkos. Mūsdienās to ir apmēram 2 miljardi, kas ir divas reizes vairāk nekā automašīnas. No tiem aptuveni 400 miljoni atrodas Ķīnā. Divriteņi plaši tiek izmantoti arī Nīderlandē, Japānā un Dānijā. Vasaras Olimpiskajās spēlēs ir iekļauti trīs riteņbraukšanas sporta veidi: šosejas riteņbraukšana, treka riteņbraukšana un BMX.\nDivriteņus iedala piecās kategorijās: kalnu, šosejas, BMX, tūrisma un hibrīda divriteņos.\nLielākais ātrums, kāds ir sasniegts braucot ar divriteni, ir 268,831 km\/h. To 1995. gada 3. oktobrī uzstādīja Nīderlandes riteņbraucējs Freds Rompelbergs."
+    },
+    {
+        "id": "019jd",
+        "description": "Laiva ir ūdens transporta līdzeklis. Tās var būt darbināmas ar cilvēka spēku, motoru, propelleriem, burām u.c. Parasti tās ir mazākas, nekā kuģi un domātas seklākiem ūdeņiem.\nLaivas ir attīstījušās vairākus tūkstošus gadu - senākās ir vairāk nekā 8000. gadu vecas. Senie cilvēki laivas izmantoja ne tikai transportam, bet arī medībām - tā bija viegla, klusa tuvošanās medījumam."
+    },
+    {
+        "id": "01bjv",
+        "description": "Autobuss ir liels automobilis, kas paredzēts liela daudzuma cilvēku pārvadāšanai. Atšķirībā no trolejbusa un tramvaja, autobusam nav vajadzīgi iekārtie kabeļi un sliedes. Autobusi, kas īsāki par 5,5 metriem un kuros ir no 9 līdz 16 pasažieru vietām tiek saukti par mikroautobusiem."
+    },
+    {
+        "id": "0k4j",
+        "description": "Automašīna jeb automobilis ir ar riteņiem aprīkots bezsliežu transportlīdzeklis, ko uz priekšu dzen tajā iemontēts motors. Paredzēts priekš pārvietošanās pa sauszemi. Izšķir vairākus automašīnu veidus, kā vieglie auto, autobusi, mikroautobusi, kravas auto. Automašīnās ir sēdeklis vadītājam, kā arī var būt sēdeklis vienam vai vairākiem pasažieriem. Ir dažādu marku automašīnas."
+    },
+    {
+        "id": "09ct_",
+        "description": "Helikopters ir par gaisu smagāks lidaparāts, kuram nepieciešamais cēlējspēks tiek iegūts ar rotējošu propelleru, kurus griež dzinējs, palīdzību. Tas spēj pacelties un nolaisties vertikāli, nekustīgi karāties gaisā un pārvietoties jebkurā virzienā.\nIdeja par helikoptera radīšanu pirmajam radās Leonardo da Vinči 1490. gadā, taču pirmais helikopters tika uzbūvēts vairāku simtu gadu vēlāk — 20. gadsimta sākumā. Par mūsdienu helikoptera radītāju parasti uzskata Igoru Sikorski, kurš 1939. gadā uzbūvēja helikopteru VS-300.\nHelikopteru darbības shēmas:\n⁕ar astes propelleri;\n⁕pēc gareniskās shēmas;\n⁕pēc koaksiālās shēmas — ar divām gaisa skrūvēm, kuru propelleri griežas pretējos virzienos."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motocikls ir divriteņu transportlīdzeklis ar blakusvāģi vai bez tā, kam maksimālais svars nepārsniedz 400 kg un iekšdedzes motors ir vismaz 50 cm³ liels vai vismaz 4 kW jaudīgs elektrodzinējs. Dažādās valstīs šīs normas var atšķirties. Pie motocikliem arī pieskaita motorollerus, motoratus, trīsriteņu un citus mehāniskos transportlīdzekļus, kuru maksimālais svars nepārsniedz 400 kg.\nLatvijā motocikli tiek klasificēti kā A vai A1 kategorijas transportlīdzekļi. Tiesības vadīt B, C1, D1, C vai D kategorijas transportlīdzekļus ietver arī tiesības vadīt A1 kategorijas transportlīdzekļus.\nPirmo motociklu, 1885. gadā, patentēja Gotlībs Daimlers."
+    },
+    {
+        "id": "06q74",
+        "description": "Kuģis ir jebkurš kuģošanas līdzeklis - inženiertehniska ierīce, - kas konstruktīvi paredzēta izmantošanai uz ūdens. Kuģa tiesības un pienākumus īsteno kuģa īpašnieks, kuģa kapteinis, kā arī operators vai fraktētājs.\nPeldlīdzeklis atzīstams par kuģi, ja tas var droši pārvietoties pa to, nesot uz borta kravu virs savas masas. Lai kuģis sekmīgi veiktu šo uzdevumu, tam nepieciešamas jūras spēju īpašības, kā peldamība, noturība, gājība, vadāmība un t.s. negrimstība. Kuģa ekspluatācijā svarīgi nodrošināt tā korpusa ūdensnecaurlaidību un stiprību. Kravas izvietošanai uz kuģa jābūt kravas tilpnēm, kurās tā tiek pasargāta no ārējo meteoroloģisko apstākļu iedarbības. Tāpat jāparedz telpas pasažieriem un komandas locekļiem, telpas kuģa funkciju nodrošināšanai, kā arī telpas sadzīves vajadzībām.\nVirs galvenā klāja vēl atrodas virsbūves vairākos stāvos, kuras var aizņemt visu kuģa platumu vai tikai tā daļu. Kuģa ekspluatācijas noteikumos paredzēto uzdevumu veikšanai tam nepieciešamas dažādas ierīces: navigācijas aparatūra, stūres ierīce, enkura ierīce, kravas ierīces u.c. Dažādu šķidrumu un gāzu kustību kuģa iekšienē pa cauruļvadiem nodrošina dažādas kuģa sistēmas: balasta, sateču, ugunsdzēsības u.c. Apsildīšanas, ventilācijas un netīro ūdens izvadīšanas sistēmas nodrošina normālus sadzīves apstākļus kuģa komandai un pasažieriem."
+    },
+    {
+        "id": "0pg52",
+        "description": "Taksometrs ir sabiedriskais transportlīdzeklis, ierasti automobilis, kas tiek izmantots pasažieru un kravu pārvadāšanai uz jebkuru norādīto vietu apmaksājot braucienu pēc skaitītāja — taksometra.\nMūsdienās lielākoties par taksometru automobiļiem izmanto sedanus vai minivenus, sastopami arī limuzīni. Īpašā taksometra pazīme ir uz dzeltena vai balta taisnstūra formas izvietoti melni kvadrāti dambretes dēļa rakstā, kas piestiprināta pie automobiļa jumta.\nPastāv arī maršrutu taksometri, kas veic pasažieru pārvadājumus konkrētos maršrutos. No autobusiem tie atšķiras ar nelielo pasažieru skaitu."
+    },
+    {
+        "id": "07jdr",
+        "description": "Vilciens ir sabiedriskā transporta veids, kuru veido lokomotīve vai motorvagons, un tas velk vagonus pa speciāli izbūvētām sliedēm. Ar vilcienu no viena punkta uz otru var pārvadāt gan pasažierus, gan dažāda veida kravu. Senāk lielākā daļa vilcienu darbojās ar tvaika dzinēju, bet mūsdienās parasti tie tiek darbināti ar elektrību vai arī dīzeļdzinēju.\nVilciena sastāvs var būt no vienas vai arī vairākām lokomotīvēm un vairākiem vagoniem. Ir arī vilcieni kuriem ir tikai viens posms, kas kalpo gan kā lokomotīve, gan kā vagons.\nVilcieni var pārvietoties pa divsliežu, viensliežu un šaursliežu dzelzceļu. Ir arī vilcieni, kurus var uzskatīt gan par pasažieru, gan par kravas vilcieniem, jo tie pārvadā abus reizē."
+    },
+    {
+        "id": "07r04",
+        "description": "Kravas auto - automašīna, kas paredzēta dažādu apjomīgu gabalkravu, beramkravu un lejamkravu pārvadāšanai.\nKravas automobiļus klasificē šādi:\n⁕pēc uzdevuma\n⁕vispārīgā uzdevuma automobiļos,\n⁕pašizgāzējos automobiļos,\n⁕speciālajos automobiļos,\n⁕pēc motora tipa:\n⁕karburatormotoru,\n⁕dīzeļmotoru,\n⁕gāzģeneratormotoru,\n⁕gāzmotoru,\n⁕gāzturbīnmotoru;\n⁕pēc asu skaita:\n⁕divasu,\n⁕trīsasu,\n⁕četrasu automobiļos;\n⁕pēc kravnesības:\n⁕mazas kravnesības,\n⁕vidējas kravnesības,\n⁕lielas kravnesības automobiļos;\n⁕pēc masas lieluma uz dzenošajām asīm\n⁕septiņās unificētās saimēs ar 10...130 t masu uz vienu dzenošo asi."
+    },
+    {
+        "id": "07kfm",
+        "description": "Tramvajs ir pilsētas sliežu sabiedriskā transporta veids, parasti ar elektrodzinēju, kas tiek lietots pilsētās pasažieru pārvadāšanai noteiktajos maršrutos. Tāpat tiek dēvēta ekipāža un atsevišķs šī transporta veida vagons.\nT.s. zirgu tramvaji parādījās 19. gadsimta beigās. Pēc tramvaju uzplaukuma laikposmā starp pasaules kariem sākās šī transporta veida panīkums, taču kopš 20. gadsimta beigām tramvaju popularitāte ievērojami pieaug.\nLielāko daļu tramvaju darbina elektriskā strāva, kas tiek pievadīta pa gaisa kontakttīklu ar strāvas uztvērēju palīdzību, tomēr tiek ekspluatēti tramvaji, kuri barojas no trešās sliedes un akumulatoru tramvaji.\nBez elektriskajiem pazīst arī tramvajus ar vilcējzirgu jeb konkas, trošu jeb virves tramvajus un dīzeļtramvajus. Agrāk tika ekspluatēti pneimatiskie tramvaji, tvaika tramvaji, ka arī tramvaji ar benzīna dzinēju.\nIr arī piepilsētas, starppilsētu, sanitārie un kravas tramvaji."
+    },
+    {
+        "id": "0ddnl",
+        "description": "Prāmis ir ūdens transportlīdzeklis, kas parasti tiek izmantots, lai pārceltu pasažierus un kravu pāri upei, ezeram, jūras šaurumam vai jūrai no viena punkta uz otru. Prāmjus parasti iedala jūras prāmjos, kas parasti ir rolkertipa pasažieru kuģi un upju prāmjos, kas ir laivas, plosti vai liellaivas. Savukārt trosē vai virvē iesietus plostus vai laivas, kas arī izpilda prāmju funkcijas, sauc par pārceltuvēm."
+    },
+    {
+        "id": "0f6pl",
+        "description": "Trolejbuss ir pilsētas sabiedriskā transporta veids, parasti ar elektrodzinēju, kas tiek lietots pilsētās pasažieru pārvadāšanai noteiktajos maršrutos. Trolejbuss ir būvēts tāpat kā autobuss, tomēr tam nav iekšdedzes dzinējs, bet gan viens vai vairāki elektrodzinēji. Elektroenerģiju tas saņem tāpat kā tramvajs caur kontaktstieņiem, no virs brauktuves esošajiem vadiem. Tādēļ trolejbusam ir jābrauc pa kontakttīkla posmu, bet mūsdienās trolejbusiem tiek iebūvēts arī dīzeļģenerators, kas ļauj trolejbusam novirzīties no kontakttīkla posma vai turpināt maršrutu aiz šī posma beigām.\nPirmās trolejbusu līnijas tika ierīkotas 20. gadsimta sākumā un šobrīd visā pasaulē 318 pilsētās, 47 valstīs eksistē pa kādai trolejbusu līnijai. Pārsvarā trolejbusu sistēmas ir sastopamas Viduseiropā, bijušajā PSRS teritorijā, Ķīnā, Ziemeļkorejā un Šveicē. Aptuveni 550 trolejbusu pārvadājumus veicošie uzņēmumi visā pasaulē ir likvidēti, pārsvarā Rietumeiropā, kur trolejbuss savus ziedu laikus piedzīvoja 1950. un 1960. gados. 29 valstīs šobrīd vairs nebrauc trolejbusi.\nIr šādu veidu trolejbusi: pilsētas, starppilsētu, trolejbuss, kas var braukt izmantojot tramvaju kontakttīklu, trolejbusvilcieni, trolejbusi, kas brauc pa noteiktu joslu jeb \"noteiktās joslas trolejbusi\", divkārši savienotie trolejbusi, tuneļtrolejbusi, trolejbusi aprīkoti ar mehāniskajiem motoriem un par trolejbusiem pārbūvēti autobusi."
+    },
+    {
+        "id": "09g5h",
+        "description": "Kosmosa kuģis ir cilvēku, un dažos gadījumos arī kravu, pārvadāšanai paredzēts pilotējams kosmiskais aparāts. Kosmosa kuģis veic vai nu patstāvīgu lidojuma uzdevumu, vai nogādā apkalpi orbitālajā stacijā. Kosmosa kuģi ar spārniem, kas paredzēti nolaišanās posmam, sauc par kosmoplānu.\nBūtiska atšķirība kosmosa kuģim no nepilotējama kosmiskā aparāta ir tajā iebūvēta dzīvības nodrošināšanas sistēma, kas ļauj cilvēkam dzīvot un strādāt kosmiskajos apstākļos. Kosmosa kuģim ir hermētiska dzīvojamā kabīne, atdalāms vai kosmosa kuģa konstrukcijā integrēts nolaižamais aparāts, kas nodrošina apkalpes atgriešanos uz Zemes, dzinējiekārta manevriem kosmosā un iziešanai no orbītas, kā arī daudzas citas sistēmas. Lai savienotos ar citu kosmosa kuģi vai staciju, tas ir apgādāts ar sakabināšanās mezglu."
+    },
+    {
+        "id": "074d1",
+        "description": "Zemūdene ir kuģa veids, kas spēj ilgstoši peldēt zem ūdens. Mūsdienu zemūdenēm mēdz būt cilindrveidīgs plūdlīnijas korpuss, kas sadalīts nodalījumos ar hermētiski noslēdzamām starpsienām."
+    },
+    {
+        "id": "0342h",
+        "description": "Ģitāra — stīgu mūzikas instruments, viens no pašiem izplatītākajiem pasaulē."
+    },
+    {
+        "id": "0319l",
+        "description": "Mežrags ir metāla pūšamais instruments, kas izveidojies no mednieku raga. Tas ir izteiksmīgs instruments simfoniskajā. Skanējuma ziņā tas ir pārejā starp koka un metāla pūšamajiem instrumentiem."
+    },
+    {
+        "id": "013y1f",
+        "description": "Ērģeles ir pneimatisks taustiņinstruments, kas sastāv no daudzām dažāda izmēra stabulēm, pneimatiskās sistēmas un vadības pults ar roku klaviatūrām un kāju klaviatūru. Manuāļu skaits ērģelēs mēdz būt no 1 līdz 7. Vienāda tembra, bet dažāda augstuma stabules, veido ērģeļu reģistru. Reģistrus kombinējot, tiek radīts orķestrim līdzīgs skanējums.\nRietumu mūzikā ērģeles ir relatīvi sens instruments. Tās tiek datētas ar trešo gadsimtu pirms mūsu ēras, kad grieķu zinātnieks Ktezībijs no Aleksandrijas esot izgudrojis hidrauliskās ērģeles, kurām gan nebija taustiņu. Ērģeļu spēle kopš 7. gadsimta plaši ieviesās baznīcas liturģijā.\nLatvijā ērģeles būvētas no 14. gadsimta. No Latvijas ērģelēm pazīstamas ir Rīgas Doma ērģeles, kā arī Liepājas Svētās Trīsvienības katedrāles ērģeles, kas ar apm. 7000 stabulēm, 4 manuāļiem un 131 reģistru ir lielākās nepārbūvētās ērģeles pasaulē."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Flauta ir koka pūšamais instruments. Flauta ir ļoti sens mūzikas instruments, 2009. gadā Vācijā arheoloģiskajos izrakumos tika atrasta 35 000 gadus veca kaula flauta, kas ir senākais vispāratzītais mūzikas instrumenta atradums pasaulē. Flautas priekšteči ir dažādas mēlīšu stabules, svilpes. Flautas tipa instrumenti vispirms bija pazīstami Āzijā. Senākais flautas paraugs bija garenflauta jeb slīpflauta. Pazīstama Eiropā jau X - XI gs. Spēlējot to turēja vertikāli noliektu uz leju kā oboju un klarneti. No mūzikas prakses tā izzuda sava bālā un vienveidīgā skanējuma dēļ. Šķērsflauta sākotnēji bija klejojošu mūziķu instruments. Instrumenta pirmos paraugus izgatavoja no koka, tādēļ arī mūsdienu flauta, kas tiek gatavota no metāla vai plastmasas, pēc tradīcijas sauc par koka pūšamo mūsdienu spēles stāvoklim. XVII gs. beigās flautām parādījās pirmie vārsti. Tad arī instrumentu pirmo reizi iekļāva operas orķestrī.."
+    },
+    {
+        "id": "05r5c",
+        "description": "Klavieres ir taustiņu un stīgu mūzikas instruments. Tām ir būtiska nozīme Rietumu klasiskajā mūzikā, lielākā daļa komponistu ir arī pianisti, viņi spēlē klavieres, un bieži tās izmanto komponēšanai. Kaut gan klavieres nevar pārnēsāt un ir dārgas, klavierēm ir daudzpusība un visuresamība ir padarījusi to par vienu no pasaules visvairāk pazīstami mūzikas instrumentu. Plaši izmanto klasisko un džezu mūziku solo izrādēs, ansambļu izmantošanu, kamermūziku un pavadījumu, klavieres ir ļoti populārs kā palīglīdzeklis komponēšanai un mēģinājumiem.\nKlavieres izgudroja Bartolomeo Kristofori Florencē, Itālijā. Nav īsti skaidrs, kad tieši viņš uzbūvēja pirmās klavieres, bet Frankēzo Manuči savā dienasgrāmatā šo instrumentu piemin jau 1698. gadā. Senākie instrumenti, kas ir saglabājušies, ir izgatavoti 1720. gados.\nKlavierēs skaņu veido mazi āmurīši, kas, taustiņu vadīti, var uzsist pa kādu no rāmī nostiprinātajām stīgām, un ļauj muzikantam kontrolēt nots skaļumu, atkarībā no taustiņa nospiešanas ātruma. Klavierēs ir baltie un melnie taustiņi. Vienu kopu no otras var atšķirt tā, ka viena kopa iesākas ar diviem blakus esošiem taustiņiem un turpinās kur ir triju taustiņu kopa līdz otrai divu taustiņu kopai. Itāļu valodā klavires sauc par pianoforte. Tulkojot vārdus piano un forte tie nozīmē kluss un skaļš."
+    },
+    {
+        "id": "0mkg",
+        "description": "Akordeons ir mēlīšu tipa mūzikas instruments, kam gaisu pievada ar rokām darbināmas plēšas, un tas atgādina kasti, kurai vienā pusē ir taustiņi, bet otrajā pusē — pogas. Akordeonu, kuriem abās pusēs ir pogas, sauc par bajānu. Lai gan skaņa no akordeoniem netiek iegūta, pūšot gaisu no mutes, to tomēr pieskaita pie pūšamajiem instrumentiem."
+    },
+    {
+        "id": "04gc2",
+        "description": "Advokāts ir jurists, kas klientam sniedz juridiska rakstura konsultācijas, pārzina tā juridiskās lietas, sagatavo dokumentus juridiskajos jautājumos, kā arī, ja nepieciešams, klienta interesēs pārstāv vai aizstāv to tiesā un pirmstiesas izmeklēšanā.\nAdvokāts kā amats parādījās Romas Republikas laikā. Romas impērijas periodā advokāti apvienojās slēgtā advokātu kolēģijā, kas atradās valsts ierēdņu pārziņā. Jau tobrīd, lai kļūtu par advokātu, bija jāapliecina zināšanas jurisprudencē. Arī mūsdienās jebkurš jurists nevar tikt saukts par advokāts, respektīvi, parasti normatīvajos aktos tiek izvirzīti dažādi noteikumi, piemēram, noteikta juridiska kvalifikācija, eksāmena kārtošana, noteikta ilguma prakse juridiskā profesijā, nevainojama reputācija un citas prasības, kas nepieciešamas, lai kļūtu par advokātu. Latvijā \"Latvijas Republikas Advokatūras likums\", kas regulē zvērināto advokātu darbību, paredz eksāmenu kārtošanu, zvēresta nodošanu, kā arī citas prasības pretendentiem, kuri vēlas kļūt par zvērinātiem advokātiem. Lai arī sniegt juridiskas konsultācijas, pārzināt klienta juridiskās lietas un veikt citas līdzīgas darbības var jebkurš cilvēks, tomēr atsevišķos gadījumos likums paredz, ka klienta lietu var vest tikai advokāts, piemēram, Latvijā \"Kriminālprocesa likums\" paredz, ka par aizstāvi kriminālprocesā var būt zvērināts advokāts, zvērināta advokāta palīgs, Eiropas Savienības dalībvalsts pilsonis, kurš ieguvis advokāta kvalifikāciju kādā no Eiropas Savienības dalībvalstīm, ārvalstu pilsonis, kas nav Eiropas Savienības pilsonis, un darbojas saskaņā ar Latvijas Republikai saistošu starptautisko līgumu par juridisko palīdzību. Valstī var būt valsts, zvērinātie vai privātie advokāti, kas apvienojas profesionālajās organizācijās. Latvijā pastāv zvērinātie advokāti, kas apvienojas Latvijas Zvērināto advokātu kolēģijā. Anglosakšu tiesību sistēmas zemēs advokāti parasti tiek dalīti baristeros un solisitoros. Vienkāršoti pirmie ir advokāti, kas var pārstāvēt klientu tiesā, kamēr otrie lielākoties nodarbojas ar juridiskajām konsultācijām un dokumentu sagatavošanu."
+    },
+    {
+        "id": "05t4q",
+        "description": "Ārsts ir ārstniecības persona, kura ieguvusi augstāko medicīnisko ārsta izglītību un kura ar zinātniski pamatotu medicīnisko darbību tieši vai netieši iedarbojas uz cilvēku un savas profesionālās darbības ietvaros - izmeklē pacientus fizisku, garīgu vai psihisku slimību konstatēšanai vai noliegšanai un ārstēšanai; novērtē slimības un to radītās sekas; ārstē augstākminētās slimības; veic profilaktiskos pasākumus slimību novēršanai; sniedz dzemdību palīdzību; veic rehabilitāciju; izdara līķa sekcijas."
+    },
+    {
+        "id": "0mn6",
+        "description": "Arhitekts ir persona, kas profesionāli strādā ar arhitektūru saistītās jomās. Viņa galvenie uzdevumi ir celtņu un dažādu konstrukciju projektēšana, pilsētu plānošana, interjera un dizaina izstrādāšana, civilā inženierija un citas līdzīgas darbības.\nAugstākais arhitektu apbalvojums ir Prickera balva, kas dažreiz neoficiāli tiek saukta arī par \"Nobela prēmiju arhitektūrā\". 2011. gadā šo balvu saņēma portugāļu arhitekts Eduardu Soutu de Moura par futbola stadiona Estádio Municipal de Braga veidošanu 2004. gada Eiropas futbola čempionāta vajadzībām."
+    },
+    {
+        "id": "09jwl",
+        "description": "Mūziķis ir persona, kuras darbība saistīta ar mūziku. Mūziķus var klasificēt pēc to darbības:\n⁕instrumentālisti spēlē mūzikas instrumentus;\n⁕dziedātājs izmanto savu balsi;\n⁕komponisti, aranžētāju, dziesmu rakstītāji mūziku pieraksta nošu veidā vai ieraksta kādā no audio formātiem;\n⁕diriģentu uzdevums ir vadīt korus, ansambļus un orķestrus."
+    },
+    {
+        "id": "01d30f",
+        "description": "Skolotājs ir persona, kura palīdz citiem cilvēkiem iegūt zināšanas. Visbiežāk skolotāji tiek saistīti ar darbu, kuru veic skolā, bet tik pat labi tas var būt arī ģimenes lokā, ar reliģijām saistītās lietās vai vienkārši uz ielas. Skolotājs parasti ir ceļvedis vai palīgs mācīšanās procesā. Dažādās kultūrās skolotāja loma var būt atšķirīga. Akadēmiskie priekšmeti ir bijuši nozīmīgi daudzās kultūrās, bet skolotāju pienākumos var ietilpt ne tikai palīdzēšana iemācīties šos priekšmetus. Bieži vien skolotājs sniedz arī profesionālas iemaņas, sagatavo skolniekus tālākai dzīvei, attīsta skolnieka personību, kā arī iemāca vienkāršas dzīves iemaņas. Mūsdienās skolotājs ir definēts kā specifisks amats, kas to pielīdzina nozīmības ziņā citām profesijām."
+    },
+    {
+        "id": "01c72t",
+        "description": "Komponists ir persona, kura veido mūzikas skaņdarbus, kurus vēlāk izpilda mūziķi. Termins \"komponists\" biežāk tiek saistīts ar klasisko mūziku nekā ar mūsdienu mūziku."
+    },
+    {
+        "id": "05wgy",
+        "description": "Pediatrija ir medicīnas nozare par bērnu un pusaudžu slimībām un to ārstēšanu. Ārstus, kas ir praktizējušies šajā nozarē, sauc par pediatriem. Pediatri novēro, vai bērns attīstās normāli un veic preventīvus pasākumus pret slimībām. Viens no šiem pasākumiem ir imūnsistēmas nostiprināšana. To parasti veic ar vakcīnu palīdzību. Pediatri stāsta arī vecākiem kā pareizi nodrošināt bērnam drošus apstākļus un par pareizu uzturu. Pediatrija ir cieši saistīta ar bērnu un pusaudžu higiēnu un pedagoģiju.\nLīdz 19. gadsimtam vidēji katrs piektais bērns nomira līdz 5 gadu vecuma sasniegšanas brīdim. Visbiežāk to nāves cēloņi bija infekcijas slimības. Pēc tam, sākot attīsties pediatrijai, šis rādītājs samazinājās."
+    },
+    {
+        "id": "099md",
+        "description": "Kareivis — līdz 20 gadsimta vidum par kareivi uzskatīja militārpersonu, kas dien valsts regulārajā armijā. Kareivju grupas veido karaspēka vienības. 20. gadsimta otrajā pusē, izplūstot pašam kara jēdzienam, karavīru sāka apzīmēt ar jēdzienu kaujinieks, bet sarunvalodā saglabājies apzīmējums \"karavīrs\". Gandrīz visos pasaules valstu bruņotajos spēkos kareivis ir zemākā dienesta pakāpe."
+    },
+    {
+        "id": "03l9g",
+        "description": "Āmurs ir darbarīks, kas paredzēts trieciena veikšanai objektam. Visbiežāk to izmanto naglu iedzīšanai, metāla detaļu apstrādei, objektu graušanai. Smagākus āmurus, kuri jātur abās rokās, sauc par veseriem.\nĀmurs parasti ir vienā rokā turams ar vieglāku kātu un daudz smagāku galvu. Kāts tiek iestiprināts galvas caurumā, un āmura smaguma centrs parasti ir zem šī cauruma. Āmura galvu izgatavo no materiāla, kas nedeformējas trieciena rezultātā. Ja jādod trieciens pa objektu, to nedeformējot, āmura galvu izgatavo no mīkstāka materiāla, piemēram, gumijas vai koka.\nAtkarībā no to pielietojuma, āmuriem var atšķirties forma un struktūra. Piemēram, namdaru āmuriem viens gals ir spīles formā, lai ar to varētu izvilkt naglas."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Šķēres jeb grieznes ir instruments drēbju, papīra un citu materiālu griešanai, kuru veido divi krustiski salikti un kustīgi asmeņi, kas vērsti viens pret otru. Asmeņi parasti ir gatavoti no metāla. Par šķērēm var dēvēt arī dzirkles, kas parasti ir lielākas par parastajām šķērēm un ar atsperi.\nVārds \"šķēres\" ir cēlies no vācu vārda Schere."
+    },
+    {
+        "id": "04nmy9",
+        "description": "Čeks ir vērtspapīrs, dokuments un finanšu instruments, parasti papīra formātā, kas nosaka kārtību, kādā izmaksā naudu no čeka devēja bankas konta. Par čeku sauc arī talonu, kuru pircējiem izdod pārdēvēji tirdzniecības vietās pēc pirkuma veikšanas, vai arī papīru, kurš jāapmaksā pie kases."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Dakšiņa ir galda piederums, kas tiek izmantots ēdiena gatavošanai, servēšanai un paņemšanai, lai to apēstu. To veido kāts, kura vienā galā ir no diviem līdz četriem paralēliem zariem, ar kuriem uzdur ēdienu. Parasti dakšiņas tiek izgatavotas no metāla, bet ir arī dakšiņas, kas izgatavotas no koka vai plastmasas. Dakšiņas ir izplatīts galda piederums rietumu kultūrās, austrumu kultūrās tās tiek izmantotas ļoti maz. Tur tās aizvieto ar irbulīšiem."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Hamburgers ir sviestmaize, kas sastāv no ceptas gaļas, kas parasti atrodas starp divām maizes šķēlēm. Tāpat hamburgeru sastāvā var būt salāti, bekons, tomāti, sīpoli, marinēti gurķi, siers, garšvielas, piemēram, sinepes, majonēze, kečups. Hamburgera nosaukums ir cēlies no Vācijas otras lielākās pilsētas Hamburgas nosaukuma. Pirmie hamburgeri tikuši pagatavoti ASV aptuveni 1890. gadā. Mūsdienās hamburgeri ir ātrās ēdināšanas restorānu piedāvājumā, piemēram, McDonald's un Hesburger. Pastāv dažādas hamburgera variācijas."
+    },
+    {
+        "id": "0cmx8",
+        "description": "Karote ir galda piederums, kuru veido kāts un paplašināts, nedaudz ieliekts, apaļš vai ovāls gals, lai varētu ar to pasmelt, paņemt vai izmaisīt ēdienu. Karoti visbiežāk izmanto, ja ēd šķidru ēdienu, piemēram, zupu vai jogurtu, bet tikpat labi var ēst arī citus ēdienus, kas nav šķidri. Karotes cilvēki izmanto kopš paleolīta laikmeta."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Kafija ir karsts dzēriens, kas tiek gatavots no grauzdētām kafijkoku sēklām, kafijas pupiņām. Tas parasti ir populārs dzēriens brokastīs vai \"kafijas pārtraukumos\" darbā. Tā satur no viena līdz diviem procentiem kofeīna, kas stimulē centrālo nervu sistēmu.\nKafijas pupiņas iegūst vairāk nekā 70 valstīs, galvenokārt Āfrikā, Dienvidaustrumāzijā un Latīņamerikā, no divu sugu kafijkokiem: Coffea arabica un Coffea canephora. Kafijkoku dzimtene ir Etiopija. Pasaulē zināmas vairāk nekā 60 kafijkoku šķirnes. Labākās kafijas audzēšanas vietas ir sastopamas tropiskajā klimata joslā, un viena no šādām vietām ir Brazīlija, kur katru gadu tiek ievāktas visvairāk kafijpupiņas. Tur ir ierīkotas lielākās kafijas plantācijas pasaulē, dažās no tām ir miljoniem koku, un tās plešas daudzu kilometru garumā. Kafiju pazina jau apmēram 1000 gadus pirms mūsu ēras. Eiropā tā parādījās 16. gadsimtā. Latvijā kafija parādījās 19. gadsimta otrajā pusē."
+    },
+    {
+        "id": "09cx8",
+        "description": "Pirksts ir iegarena, kustīga mugurkaulnieku plaukstas vai pēdas daļa.\nCilvēka plaukstas pirkstus, izņemot īkšķi, veido trīs kauli jeb falangas: pamata falanga, vidējā falanga un naga falanga; īkšķi veido tikai divas falangas: pamata un naga falanga. Visi pirkstu kauli ir savienoti ar delnas kauliem. Līdzīgi ir arī ar pēdas pirkstiem.\nParasti cilvēkiem ir pieci pirksti, kuru nosaukumi, sākot ar īkšķi, ir šādi:\n⁕īkšķis\n⁕rādītājpirksts\n⁕vidējais pirksts\n⁕zeltnesis\n⁕marijas pirkstiņš\nĻoti reti, galvenokārt mutāciju dēļ, cilvēkiem var būt arī vairāk par pieciem pirkstiem. Šo anomāliju zinātniski dēvē par polidaktiliju."
+    },
+    {
+        "id": "0hz0h",
+        "description": "Zobi ir cieti veidojumi mutes dobumā vairākumam mugurkaulnieku. Tie veic barības satveršanas, nokošanas un sasmalcināšanas funkciju. Daži mugurkaulnieki, galvenokārt plēsēji, tos izmanto arī medīšanai un aizsardzībai. Cilvēkam zobi vajadzīgi arī artikulēto skaņu veidošanā. Zobi nav veidoti no kaula, tie ir dažādu blīvu un ļoti cietu audu veidojums. Zobu saknes ir no ārpuses nosegtas ar smaganām, kuras veic aizsargfunkciju pret ārējās vides ietekmi.\nKatrai zīdītāju sugai ir atšķirīgi zobi, tāpēc paleontologi izmanto zobus, lai noteiktu pēc fosilijām konkrētās sugas izcelsmi. Tas ir pats vienkāršākais veids, kā pēc fosilijām noteikt sugas identitāti. Dzīvniekus iedala zālēdājos un gaļēdājos, un tāpēc arī katram no šiem dzīvniekiem ir sava zobu forma. Zālēdājiem tie vairāk ir noapaļotas formas, lai vieglāk būtu barību sakošļāt, bet gaļēdājiem tie parasti ir ļoti smaili, lai vieglāk varētu nogalināt un sagremot savu medījumu.\nCilvēkiem pirmie zobiņi sāk parādīties apmēram no sešu mēnešu vecuma, kas jaundzimušajam parasti ir sāpīgs periods, lai gan pa retam ir arī tādi gadījumi, ka piedzims bērns ar vienu vai vairākiem zobiņiem. Šādus zobiņus mēdz saukt par jaundzimušo zobiņiem."
+    },
+    {
+        "id": "037p5b",
+        "description": "Vaigi ir sejas daļa katrā pusē degunam līdz ausīm. Vaigus veido muskuļaudi, kas klāj vaiga kaulus. No augšas vaigu apgabalu ierobežo acis, bet no apakšas — žoklis. Asins piegāde uz vaigu kapilāriem notiek caur vaiga artēriju. To iekšpusē atrodas siekalu dziedzeri.\nCilvēkiem vaigu krāsa ir viena no norādēm uz veselības stāvokli. Ja tie ir sārti, tad uzskata, ka cilvēks ir veselīgs, bet, ja ir bāli, tad ir aizdomas, ka cilvēks varētu būt saslimis. Vaigi nosarkst arī, piemēram, kad cilvēks ir apmulsis vai arī kauna, neveiklas situācijas un citu iemeslu dēļ.\nUz vaigiem kā draudzības apliecinājums vai sveiciens svētkos tiek dotas bučas."
+    },
+    {
+        "id": "031n1",
+        "description": "Pēda ir kājas apakšējā daļa, kas nodrošina balsta un kustības funkcijas. Pēda atrodas zem potītes locītavas, kas to savieno ar apakšstilbu. Pēdas ir tikai sauszemes mugurkaulniekiem. Cilvēka pēdas veido šādi kauli: papēža kauls, veltņa kauls, laivveida kauls, ķīļveida kauli, kubveida kauls un kāju pirkstu kauli jeb falangas. Viena no biežāk sastopamajām pēdu deformācijām ir plakanā pēda."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Lūpas ir cilvēka un daudzu citu dzīvnieku mutes ārējais orgāns. Lūpas ir gremošanas orgānu sistēmas sākums. Lūpas tiek izmantotas arī, lai skūpstītos. Lūpas nodrošina arī cilvēka spēju runāt."
+    },
+    {
+        "id": "025kyy",
+        "description": "Piere ir sejas augšējā daļa virs uzacīm līdz matiem, savukārt no sāniem to ierobežo deniņi.\nRomas katoļu baznīca un dažām citām kristiešu konfesijām Pelnu dienā ticīgajiem uz pieres ar pelniem uzvelk krustu, kas simbolizē grēcīgumu. Savukārt hinduismā sievietes uz savas pieres uzzīmē sarkanu punktiņu, kas ir par godu Šivam, vienai no nozīmīgākajām dievībām. Dažām tautām pieres aizskaršana ir sava veida sasveicināšanās, būtībā tā aizstāj rokas spiedienu."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Mute ir ķermeņa atvere, caur kuru tiek uzņemta barība, daudzos gadījumos notiek arī elpošana. Mutes atvere savieno mutes dobuma priekštelpu ar ārējo vidi. Mutes atveri norobežo augšlūpa, apakšlūpa. Tās savienojās ar lūpu saikni un izveido mutes kaktiņu."
+    },
+    {
+        "id": "0f9swq",
+        "description": "Zods ir pati apakšējā sejas daļa, kas atrodas zem apakšlūpas. Zoda formu nosaka apakšzokļa kaula forma un tam pieguļošie muskuļi."
+    },
+    {
+        "id": "03q69",
+        "description": "Mati ir tieva, elastīga struktūra, kas atrodas uz zīdītāju ādas. Matu kopumu, kas atrodas uz ķermeņa, dēvē par apmatojumu, savukārt dzīvniekiem dažreiz dēvē arī par spalvu vai kažoku. Tieši apmatojums ir viena no īpašībām, ar kuru zīdītāji atšķiras no citām dzīvnieku klasēm. Kukaiņiem uz ķermeņa arī ir matiņi, bet tiem ir pavisam cita veida struktūra. Savukārt augu matiņus sauc par trihomām. Ikdienā ar terminu \"mati\" saprot tikai apmatojumu, kas atrodas cilvēkam uz galvas.\nMati ir pārragojušies īstās ādas veidojumi, kas aug visu mūžu."
+    },
+    {
+        "id": "0dzd8",
+        "description": "Kakls ir ķermeņa daļa, kas savieno galvu ar rumpi."
+    },
+    {
+        "id": "0fjkt",
+        "description": "Mēle ir mīksts muskulis mutes iekšpusē. Mēle ļauj sajust ēdiena garšu, jo to klāj garšas kārpiņas. Mēle arīdzan ir ļoti elastīga, kas ļauj ne tikai ēst, bet cilvēkiem arī runāt. Mēle ir jūtīga, jo tai ir daudz nervu, kas nodrošina tās kustību. Tā ir stiprākais muskulis cilvēka ķermenī."
+    },
+    {
+        "id": "039xj_",
+        "description": "Auss ir dzirdes un līdzsvara pāra orgāns, kas uztver skaņu un ķermeņa stāvokļa izmaiņas. Reizēm par ausi tiek saukts nevis viss orgāns, bet gan tikai tā redzamā daļa - gliemežnīca."
+    },
+    {
+        "id": "0k65p",
+        "description": "Plauksta ir daļa no augšējās brīvās ekstremitātes. To nereti dēvē arī par roku, lai gan roku veido ne tikai plauksta, bet arī augšdelms un apakšdelms. Plauksta nodrošina ķermeņu satveršanas funkciju. Plauksta ir ne tikai cilvēkiem, bet arī pērtiķiem. Plaukstu veido plaukstas locītava, plaukstas pamatne, delna un pirksti, savukārt tie sastāv no plaukstas locītavas, plaukstas pamatnes kauliem, delnas kauliem un falangām."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Deguns ir anatomisks izvirzījums mugurkaulniekiem uz purna vai uz sejas, kas atrodas virs mutes, un kuram ir elpošanas, ožas, barības iegūšanas un saziņas funkcijas. Degunam ir nāsis, caur kurām tiek ieelpots gaiss. Cilvēkam un vairums citiem zīdītājiem deguns atrodas sejas vai purna centrālajā daļā. Degunu veido divas daļas — ārējais deguns un deguna dobums. Deguna dobumu ar pārējo elpošanas orgānu sistēmu savieno rīkle."
+    },
+    {
+        "id": "027n3_",
+        "description": "Uzacis ir apmatojums uz sejas virs acu dobumiem. Uzacis pasargā acis no spilgta apgaismojuma un no sviedru ietecēšanas acīs. Ar uzacīm bieži vien var izteikt dažādas emocijas, piemēram, pārsteigumu, bailes, aizvainojumu un tā tālāk. Uzacīm lielu uzmanību pievērš arī modes pasaulē, kur tās tiek raustītas vai krāsotas, lai padarītu seju skaistāku."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Galva ir cilvēka vai dzīvnieka ķemeņa daļa, kurā atrodas mute, smadzenes, redzes, garšas, ožas un dzirdes orgāni. Visprimitīvākajām dzīvnieku formām galvas var arī nebūt. Kakls savieno galvu ar ķermeni."
+    },
+    {
+        "id": "014sv8",
+        "description": "Acis ir orgāni, kuri uztver gaismu un pēc tam pa optisko nervu nosūta uz smadzenēm. Dzīvnieku acis ir dažādos attīstības līmeņos, sākot ar orgāniem, kas uztver atšķirību starp gaismu un tumsu, un beidzot ar acīm, kas spēj uztvert pat vissīkākās detaļas. No visiem ķermeņa sensorajiem receptoriem 70% atrodas acīs. Optiskie trakti katrs satur vairāk nekā miljonu nervu šķiedru. Acs ir lodveida orgāns, kura diametrs ir 2,5 cm. Sesto daļu acs ārsieniņas var redzēt starp plakstiņiem. Pārējo daļu nosedz plakstiņi, orbītas kauli un muskuļi. Seši ārējie muskuļi nodrošina acs kustības, ka arī ļauj cilvēkam, galvu nekustinot, sekot kustīgam objektam. No ārpuses aci pārsedz un aizsargā augšējais un apakšējais plakstiņš, kas savienojas acs iekšējā un ārējā kaktiņā. Plakstiņu malās aug skropstas. Skropstu matu folikuli ir sastīti ar Meibioma dziedzeriem, kas producē eļļainu šķidrumu acu lubrifikācijai. Līdzīgi dziedzeri klāj plakstiņu iekšējās gļotādas virsmu. Konjunktīva kā mukoza membrāna viegli slīd par acs ābolu. Asaru aparāts sastāv no asaru dziedzeriem, asaru kanāliem, asaru maisa un nazolakrimālā kanāla. Asarās ir antibaktēriāls enzīms - lisozīms, kas kavē baktēriju augšanu un aizsargā acis no iekaisuma. Ar gadiem acu asaru un plakstiņu sekrēcijas dziedzeri ražo mazāk lubricējošo šķīdumu, acis kļūst neaizsargātākas no mehāniskiem bojājumiem un baktērijām."
+    },
+    {
+        "id": "06rrc",
+        "description": "Kurpes ir apavu veids, kam raksturīga cieta zole ar papēdi un neapsedz pēdu augstāk par potīti. Cilvēku, kas gatavo vai remontē kurpes, sauc par kurpnieku. Kurpes tiek izgatavotas pa pāriem, kur viena ir paredzēta labajai kājai, otra — kreisajai kājai. Kurpes parasti velk, ejot sabiedriskās vietas. To uzdevums ir sildīt kājas, nodrošināt higiēnu un mazināt risku iegūt pēdu traumas, piemēram, uzkāpjot uz asiem priekšmetiem."
+    },
+    {
+        "id": "02wv6h6",
+        "description": "Svārki ir apģērba gabals, virsdrēbes. Parasti svārki sniedzas no vidukļa uz leju, nosedzot kāju daļu vai arī visas kājas. Rietumu pasaulē svārki ir sieviešu apģērbs, taču ir izņēmumi. Skotijā kilti ir tradicionāls vīriešu apģērbs, kā arī vairāki dizaineri, tai skaitā Žans Pauls Goltjē, ir izveidojuši svārkus vīriešiem. Armēnijā ir tikuši atklāti ar 3900. gadu p.m.ē. datēti no salmiem veidoti svārki."
+    },
+    {
+        "id": "0fly7",
+        "description": "Džinsi ir bikses, kas izgatavotas no rupja kokvilnas auduma. Visbiežāk termins \"džinsi\" tiek attiecināts uz zilo džinsu biksēm ar metāla kniedēm. Tās izgudroja Rīgā dzimušais Džeikobs Deiviss un patentēja 1873. gadā kopā ar Levi Strausu. Līdz 1950. gadiem džinsus lielākoties valkāja kovboji galvenokārt tāpēc, ka tie neplīsa tik ātri, kā no cita auduma izgatavotās un nekniedētās bikses. 1950. gados džinsi kļuva populāri pusaudžu vidū un drīz pēc tam tos sāka valkāt arī citas paaudzes. Vēsturiski vispopulārākās džinsu ražotājfirmas ir Levi's, Lee un Wrangler."
+    },
+    {
+        "id": "0216vm",
+        "description": "Čības ir mīksti un viegli apavi, kuri paredzēti valkāšanai iekštelpās. Čības parasti gatavo no mīksta auduma, ādas un līdzīgiem materiāliem. Dažreiz čības, kuras paredzētas valkāšanai pirtīs, pie baseiniem, mitrās vietās, izgatavo arī no gumijas un plastikas. Zole čībām parasti ir ļoti plāna."
+    },
+    {
+        "id": "01rkbr",
+        "description": "Kaklasaite jeb šlipse ir garš lentes veida apģērba gabals, kuru parasti sien ap kaklu. Kaklasaites viens gals parasti ir platāks nekā otrs. To parasti izmanto vīrieši kā dekoratīvu elementu, aksesuāru. Kaklasaiti sien zem krekla vai blūzes apkakles."
+    },
+    {
+        "id": "01nq26",
+        "description": "Zeķes ir apģērba gabals, kuru velk kājās. Tā uzdevums ir sildīt kājas un uzsūkt sviedrus, kas izdalās no pēdām, kā arī novērst kāju berzēšanos ar apaviem. Mūsdienās zeķes bieži vien ir neatņemama stila un modes sastāvdaļa. Zeķes var būt gan adītas, gan austas, gan pītas. Arī materiāls, no kura izgatavo zeķes, var būt dažāds. Tas var būt neilons, vilna, kokvilna, akrils, poliesters. Zeķes gatavo arī linu un zīda audumiem."
+    },
+    {
+        "id": "07mhn",
+        "description": "Bikses ir staklēts lejasģērbs, kas aptver iegurni un arī atsevišķi abus stilbus. Konstruktīvi atšķirīgas bikses valkā gan apakšdrēbju, gan padrēbju, gan virsdrēbju, gan ārdrēbju kārtās. Pēc garuma staru bikses sniedzas līdz pastaklei, pusgurnam, ceļgalam, pacelei, puslielam, potītei, pēdai, pēdapakšai. Pēc staru silueta ir ciešās S staru bikses, taisnās H staru bikses, šaurgalu V staru bikses, platgalu A vai X staru bikses, ovālo O staru bikses un platgurnaino P staru bikses."
+    },
+    {
+        "id": "01n4qj",
+        "description": "Krekls ir uz kailas miesas valkājams apģērba gabals, kas nosedz ķermeņa augšdaļu virs jostasvietas. Kreklam var būt gan īsas, gan garas piedurknes. Kreklu veidi: uzvalku krekls, naktskrekls, apakškrekls, T-krekls, polo krekls, bruņu krekls, trako krekls, tunika un citi."
+    },
+    {
+        "id": "01m2v",
+        "description": "Datora klaviatūra jeb datora tastatūra ir datora ievades iekārtā. Standarta datora klaviatūrai ir 101 vai 102 taustiņi. Mūsdienu datora klaviatūrai ir vairāk kā simt taustiņu, turklāt taustiņu nozīme nav pastāvīga. Dažādas programmas piešķir taustiņiem dažādu nozīmi. Uz klaviatūras ir visi latīņu burti, no A līdz Z, visi cipari, no 0 līdz 9, un daudz citu speciālas nozīmes taustiņu. Klaviatūras atšķiras pēc to pielietojuma, taustiņu novietojuma un citām īpašībām. Cilvēkiem ar īpašām vajadzībām ir izveidotas programmas, kas attēlo tastatūru uz datora ekrāna. Šīs programmas parasti ir integrētas operētājsistēmās.\nPārsvarā standarta klaviatūrām ir divpadsmit funkciju taustiņi izvietoti klaviatūras augšējā rindā, zem tās atrodas alfabēta-ciparu taustiņu bloks. Šī bloka labajā pusē atrodas kursora vadības pogas, savukārt klaviatūras labajā pusē atrodas ciparu panelis."
+    },
+    {
+        "id": "020lf",
+        "description": "Datorpele ir ierīce kursora pārvietošanai pa datora ekrānu. Tās funkcijas ir atkarīgas no konkrētās programmas, ar kuru strādā lietotājs. Lielākajā daļā programmu peles pārvietošana izraisa noteiktas formas veidojuma - pārvietošanos pa ekrānu. Kursora izskats var būt atkarīgs no programmas statusa vai atrašanās vietas programmas logā. Normālos apstākļos grafiskajā vidē kursors ir bultiņa ar aso galu uz augšu un pa kreisi. Teksta programmās kursors atgādina burtu \"I\". Dažās programmās, peles pārvietošana maina skatīšanās virzienu spēles pasaulē.\nParasti pele ir apgādāta ar diviem taustiņiem un rullīti, tai ir iespējamas arī citas papildpogas. Pirms plašas rullīšu peļu izplatības bija arī sastopamas peles ar 3 pogām. Macintosh datoru pelēm ilgu laiku bija tikai viena poga.\nPeles savienošanai ar datoru izmanto PS\/2 vai USB tipa savienojumu. Agrāk lietoja arī virknes porta savienojumu. Tās var būt piesaistītas ar kabeli vai arī bezvadu. Ir sastopamas arī bezvadu bluetooth peles. Bezvadu peles darbību nodrošina divvirzienu sakaru kanāls starp peli un datoru."
+    },
+    {
+        "id": "02bc6",
+        "description": "Datubāze ir informācijas kopums ar noteiktu struktūru. Par datu bāzi var saukt jebkuru strukturētas informācijas kopumu.\nKompleksas datu bāzes projektēšana, būvniecība, un uzturēšana prasa speciālista prasmes: darbinieki, kas veic šīs funkcijas ir datu bāžu lietojumprogrammatūras programmētāji un datu bāžu administratori. To uzdevumi ir veicami ar dažādiem rīkiem, kas iekļauti kā daļa no datu bāzes pārvaldības sistēmas vai arī kā atsevišķas programmatūras produkti. Šie rīki sevī iekļauj specializētas datu bāzes valodas, kā, piemēram, datu definēšanas valodas, datu manipulācijas valodas, un vaicājumvalodas.Šīs var uzskatīt par īpaša nolūka programmēšanas valodām, īpaši izstrādātām, lai manipulētu ar datu bāzēm; dažkārt tās ir kā paplašinājumi jau esošajām programmēšanas valodām, ar pievienotām datubāžu komandām. Datu bāžu valodas parasti ir attiecināmas uz vienu datu modeli, vai daudzos gadījumos tās var arī attiekties uz vienu datu bāzu pārvaldes sistēmas tipu. Visplašāk atbalstītā datu bāzu valoda ir strukturēta vaicājumvaloda, kas ir izstrādāta datu relāciju modelim un apvieno sevī funkcijas gan no datu definēšanas valodas, gan datu manipulēšanas valodas, gan vaicājumu valodas.Veids, kā klasificē datu bāzes ir pēc to tipa un satura, piemēram: bibliogrāfisko,dokumentu, statistikas vai multivides objektu. Vēl viens veids kā datu bāzes tiek iedalītas ir pēc to pielietošanas jomas, piemēram, grāmatvedības, mūzikas, filmu, banku, ražošanas vai apdrošināšanas."
+    },
+    {
+        "id": "020s1",
+        "description": "Datne jeb fails ir datu kopa, kas glabājas datu nesējā un kuru datu glabāšanas, pārsūtīšanas vai apstrādes procesā uzskata par vienotu veselumu. Datne var saturēt jebkāda veida digitālus datus. Parasti datu nesēju noformatē kādā failsistēmā, lai arī tas nav obligāti. Lielākajā daļā failsistēmu datnes satur datus un metadatus."
+    },
+    {
+        "id": "02nf_",
+        "description": "E-pasts jeb elektroniskais pasts ir ziņojumu sastādīšanas, nosūtīšanas un saņemšanas metode, izmantojot elektroniskās sakaru sistēmas. Terminu \"e-pasts\" attiecina gan uz Interneta e-pasta sistēmu, kas balstās uz SMTP protokolu, gan arī koplietošanas sistēmām, kas atļauj viena uzņēmuma vai organizācijas dalībniekiem apmainīties ar ziņojumiem savā starpā. Bieži vien koplietošanas sistēmas iekšienē izmanto nestandarta protokolus, taču ar dažādu vārteju palīdzību tās ļauj nosūtīt un saņem Interneta e-pastu. Daudzas organizācijas izmanto Interneta protokolus arī iekšējai e-pasta sarakstei.\nZiņojumi, kas tiek sūtīti ar e-pasta palīdzību, nonāk pie adresāta sekunžu daļu ātrumā, atkarībā no tīkla un aparatūras apstrādes ātruma. Lai gan sākotnēji e-pasts bija paredzēts vienkāršu teksta ziņojumu nosūtīšanai citam lietotājam, mūsdienās ar to ir iespēja nosūtīt arī attēlus, mūzikas un citus failus."
+    },
+    {
+        "id": "01mfj",
+        "description": "Datoru aparatūra jeb datortehnika ir komplekss jēdziens, kas apraksta datu apstrādes sistēmas fizikālo daļu, kuru veido mehāniskas, magnētiskas, elektroniskas un elektriskas komponentes. Lai datoru aparatūra strādātu ir nepieciešama programmatūra."
+    },
+    {
+        "id": "03rlt",
+        "description": "Internets ir publiski pieejama vispasaules savstarpēji saslēgtu datortīklu sistēma, kas pārsūta datus, izmantojot Interneta protokolu. Tas ir veidots no tūkstošiem mazāku komerciālu, akadēmisku un valdību tīklu. Tas ietver elektronisko pastu, tērzēšanas retranslēšanu, datņu pārraidi, tīmekļa dokumentus, sociālos tīklus utt.\nInternets dod plašāku iespēju izvēlēties laiku un vietu, no kurienes strādāt, it īpaši, palielinoties ātro brīvpiekļuves tīklu skaitam. Internetam var piekļūt gandrīz no jebkuras vietas dažādos veidos, tai skaitā caur mobilajām interneta ierīcēm. Mobilie telefoni, pārnēsājamās spēļu konsoles un interneta modemi ļauj lietotājiem pieslēgties bezvadu internetam. Neraugoties uz ierobežotā izmēra ekrāniem un citām ierobežotām iespējām, ko piedāvā šādas kabatas izmēra ierīces, tajās var būt pieejams internets, ieskaitot e-pastu."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "Mākoņskaitļošana vai mākoņdatošana tiek skaidrota kā datu glabāšanas, skaitļošanas jaudas vai programmatūras pakalpojumu pirkšanu no citas kompānijas, piekļūstot šiem resursiem caur internetu.\nMākoņskaitļošana attiecas uz skaitļošanas resursu sniegšanu pēc pieprasījuma, izmantojot datoru tīklu, nevis no vietējo datoru. Lietotāji vai klienti var iesniegt uzdevumu, piemēram, teksta apstrādi, pakalpojumu sniedzējam, kaut arī pašam klientam nepieder programmatūra vai aparatūra. Patērētāja datorā var būt ļoti maz programmatūras vai datu, kas kalpo nedaudz vairāk kā displeja terminālis, kas savienots ar internetu. Tā kā mākoņa pamatu nodrošina mehānisms, mākonis ir balstīts uz lietojumprogrammām.\nPagātnē gan dati, gan programmatūra tika uzglabāti un apstrādāta datorā vai tuvu tam. Lokālo datortīklu izstrāde ir atļauta sistēmām, kurām vairākas CPU un atmiņas ierīces, ko var organizēt tā, lai palielinātu visas sistēmas veiktspēju. Aizsardzības attiecināšanā uz mākoņskaitļošau, notiek funkcionālā nodalīšana starp izmantotajiem resursiem un lietotāja datoru, kas parasti atrodas ārpus vietējā tīkla, piemēram, tālvadības datu centrā. Patērētāji tagad regulāri izmanto intensīvas datu apstrādes programmas, ko virza mākoņa tehnoloģija, kas iepriekš nebija pieejama izmaksu un sarežģītās izvietošanas dēļ."
+    },
+    {
+        "id": "07wcf",
+        "description": "Universal Serial Bus jeb USB ir seriālās kopnes standarts perifērijas iekārtu pieslēgšanai datoram vai citai iekārtai. Tas standartizē USB pieslēgvietas, iekārtas, kuras pieslēdz šīm pieslēgvietām, kā arī sakaru protokolu, kuru lieto datu pārsūtīšanai starp USB pieslēgvietām un USB ierīcēm.\nUSB standartu izstrādāja, lai tas aizvietotu dažādu veidu datoru paralēlās un seriālās un ps\/2 pieslēgvietas. Atšķirībā no šiem iepriekšējiem standartiem, USB nodrošina plug'n'play un hotplug. Bez tam USB var nodrošināt barošanas spriegumu ierīcēm ar nelielu elektrības patēriņu. USB datu pārraides ātrums ir lielāks nekā paralēlajiem un virknes portiem.\nPirmā USB standarta versija tika pieņemta 1995. gadā. 1998. gadā pieņēma 1.1 versiju, kurā bija izlabotas 1.0 versijas kļūdas. 2001. gadā pieņēma 2.0 versiju, kurā galvenā izmaiņa bija lielāks datu pārraides ātrums. Jaunākas standarta versijas ierīces ir savietojamas ar vecāka standarta ierīcēm. 2007. gada septembrī tika demonstrēta versija 3.0 ar datu pārraides ātrumu 4,8 Gb\/s. To plānots ieviest 2009. vai 2010. gadā."
+    },
+    {
+        "id": "0mynm",
+        "description": "Tīmekļkamera jeb vebkamera ir ciparkamera, kas paredzēta attēlu un video uzņemšanai, lai tos nosūtītu internetā, kā arī videoattēla tiešraidei tīmekļvietnēs un tūlītējās ziņojumapmaiņas lietotnēs. Parasti šīs kameras ir nelielas video uzņemšanas ierīces, kas pievienojamas datoram, izmantojot USB kabeli, vai datortīklam, izmantojot tīklu Ethernet vai bezvadu tīklu Wi-Fi. Klēpjdatoros tiek izmantotas arī korpusā iebūvētas tīmekļkameras."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook ir tiešsaites sociālā tīkla tīmekļa vietne, kas tika atvērta 2004. gada 4. februārī. Brīvās piekļuves mājas lapas īpašnieks ir AS Facebook, kuras mītne ir Palo Alto, Kalifornijā. Lietotāji var pievienoties tīkliem, kas sakārtoti pa pilsētām, darbavietām, skolām un reģioniem, sazināties ar citiem cilvēkiem. Viņi arī var pievienot draugus, sūtīt elektroniskās vēstules un publicēt ziņas par sevi. Sociālā tīkla Facebook lietotāju skaits pasaulē 2011. gada janvārī pārsniedza 600 miljonus."
+    },
+    {
+        "id": "0508p",
+        "description": "Mātes plate, saukta arī par pamatplati vai sistēmplati, ir centrālā jeb galvenā montāžas plate sarežģītās elektroniskās sistēmās, piemēram, datoros.\nTipisku datoru veido mikroprocesors, pamata atmiņa un citas mātes plates pamatkomponentes. Citas datora komponentes, piemēram, ārējie datu nesēji, audio un video kontroles ierīces, perifērijas ierīces parasti tiek savienotas ar mātes plati, izmantojot dažāda veida savienotājus un kabeļus."
+    },
+    {
+        "id": "07g0_",
+        "description": "Hāga ir pilsēta Nīderlandes rietumos, pie Ziemeļjūras. Trešā lielākā pilsēta Nīderlandē.\nKaut arī Amsterdama pēc konstitūcijas ir Nīderlandes galvaspilsēta, faktiskā valsts galvaspilsēta ir Hāga, tajā atrodas valsts parlaments un valdība, kā arī monarha ģimene.\nEkonomikā pazīstama kā kompānijas Shell galvenās mītnes vieta.\nPilsētā ir ievērojama indonēziešu izcelsmes iedzīvotāju kopiena.\nStarptautiskā Kriminālā tribunāla bijušajai Dienvidslāvijai, Starptautiskās Justīcijas tiesas, Starptautiskās Krimināltiesas, Europol un Eurojust mītnes vieta.\nNo muzejiem ievērojami :\n⁕Madurodam - miniatūra pilsētiņa mērogā 1:25\n⁕Mauritshuis - mākslas muzejs ar Vermēra un Rembranta darbiem\n⁕Ešera muzejs - mākslas muzejs ar Ešera darbiem\n⁕Gemeentemuseum - mākslas muzejs ar pasaulē lielāko Mondriāna darbu kolekciju"
+    },
+    {
+        "id": "02_286",
+        "description": "Ņujorka ir pilsēta Ņujorkas štatā, ASV, tā ir visapdzīvotāka pilsēta ASV un Ņujorkas Metropoles centrs, kas ir viena no apdzīvotākajām metropolēm pasaulē. Ņujorkai ir liela nozīme vairākos sektoros — sakaros, finansēs, medijos, mākslā, modē, zinātnē, tehnoloģijās, izglītībā un izklaidē. Ņujorkā arī atrodas Apvienoto Nāciju galvenā mītne, kas Ņujorku padara par nozīmīgu ārvalstu darījumu vietu. Ņujorku bieži vien dēvē arī par Ņujorkas pilsētu, lai to nesajauktu ar Ņujorkas štatu.\nŅujorka iedalās piecos apgabalos — Bronksā, Bruklinā, Manhetenā, Kvīnsā un Steitenailendā. Pamatojoties uz 2010. gada ASV tautas skaitīšanas datiem, Ņujorkā dzīvo 8 175 133 cilvēki, tādējādi tā ir apdzīvotākā pilsēta valstī. Ņujorkā runā aptuveni 800 valodās, kas to padara par pilsētu, kurā tiek runāts visvairāk valodās. Ņujorkas metropoles zonā dzīvo 18,9 miljoni iedzīvotāju.\nŅujorkas vēsture sniedzas līdz pat 1624. gadam, kad to atklāja Holandes Republikas kolonisti, un tika nosaukta par Jauno Amsterdamu. Pilsēta un tās apkārtne angļu kontrolē nonāca 1664. gadā un tika pārdēvēta par Ņujorku. Ņujorka bija ASV galvaspilsēta no 1785. gada līdz 1790. gadam. Tā ir bijusi valsts lielāka pilsēta kopš 1790. gada. Brīvības statuja sveicināja miljoniem imigrantu, kas iebrauca Amerikā ar kuģiem 19. un 20. gadsimtā."
+    },
+    {
+        "id": "0430_",
+        "description": "Jeruzaleme ir sena pilsēta Tuvajos Austrumos, kam ir īpaša nozīme jūdaismā, kristietībā un Islamā. Šobrīd tajā dzīvo apmēram 700 000 cilvēki, kas pārstāv ļoti dažādas tautības un ticības.\nPilsētas statuss ir neviennozīmīgs - 1949. gada pamiera līnija starp Izraēlu un Palestīnas Rietumkrastu iet cauri Jeruzalemei. Kopš Izraēlas uzvaras 1967. gada Sešu dienu karā tā kontrolē visu pilsētu un ir pasludinājusi to par savu sastāvdaļu. Izraēlas Jeruzalemes likums pasludina to par Izraēlas galvaspilsētu, kaut arī daudzas valstis to neatzīst un uztur vēstniecības Telavivā. Palestīnieši arī uzskata Jeruzalemi vai daļu no tās par galvaspilsētu nākotnes Palestīnai."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kaira - pilsēta Ēģiptes ziemeļos pie Nīlas pie upes deltas sākuma. Ēģiptes galvaspilsēta un lielākā pilsēta. Ēģiptes galvenais ekonomikas, finansiālais un izglītības centrs.\nJau no XIX gadsimta Kaira kļuva par tūrisma centru tuvējo Senās Ēģiptes laika pieminekļu dēļ. Ēģiptes Nacionālajais muzejs Kairā slavens kā viena no labākajām Senās Ēģiptes mākslas priekšmetu krātuvēm pasaulē."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Seula ir Dienvidkorejas galvaspilsēta un lielākā valsts pilsēta. Tā atrodas valsts ziemeļos, netālu no demarkācijas līnijas ar Ziemeļkoreju pie Hanganas upes.\nSeula ar dažādiem nosaukumiem bija Korejas galvaspilsēta no 1394. gada 29. novembra līdz 1910. gadam, kad Koreja tika iekļauta Japānas impērijā. Pēc Otrā pasaules kara, kad Koreja tika sadalīta Ziemeļkorejā un Dienvidkorejā, Seula de jure bija ne tikai Dienvidkorejas, bet arī Ziemeļkorejas galvaspilsēta. Tikai 1972. gada decembrī Ziemeļkorejas konstitūcijā tika izmainīts, ka oficiāli Ziemeļkorejas galvaspilsēta ir Phenjana.\nSeulā dzīvo gandrīz 10,5 miljoni iedzīvotāji, bet kopā ar piepilsētām Inčhonu, Suvonu, Kojanu, Sonnamu un citām tās aglomerācijā dzīvo vairāk nekā 20 miljoni, kas ir gandrīz puse no visiem valsts iedzīvotājiem. Pēc aglomerācijas iedzīvotāju skaita Seula ir otra lielākā pilsēta pasaulē aiz Tokijas aglomerācijas."
+    },
+    {
+        "id": "031y2",
+        "description": "Florence ir pilsēta Itālijas ziemeļdaļā, Toskānā pie Arno upes, Toskānas administratīvais centrs un Florences provinces centrs.\nPilsētas ekonomika lielā mērā balstās uz tūrismu. Modes ekonomikā pazīstama kā kompānijas Gucci dzimtene. Florencē atrodas viens no ievērojamākajiem mākslas muzejiem pasaulē - Ufici galerija. Pilsētas pārbagātība ar mākslas pieminekļiem radījusi jēdzienu Stendāla sindroms. Florence tiek uzskatīta par itāliešu literārās valodas rašanās vietu.\nPilsēta bija viens no ievērojamākajiem vēlo viduslaiku Eiropas tirdzniecības un kultūras centriem. Florence tiek uzskatīta par galveno renesanses izcelsmes vietu un centru. Daudzus gadsimtus pilsētu un apkārtni pārvaldīja Mediči ģimene.\nFlorencē daudzu ievērojamu renesanses darbinieku vidū darbojušies - Dante Aligjēri, Džoto, Džovanni Bokačo, Mikelandželo Buonaroti, Leonardo da Vinči, Sandro Botičelli, Džirolamo Savonarola, Nikolo Makjavelli, Rafaels."
+    },
+    {
+        "id": "0156q",
+        "description": "Berlīne ir Vācijas galvaspilsēta, kā arī atsevišķa federālā zeme. Ar 3 440 441 iedzīvotājiem tā ir lielākā valsts pilsēta, kā arī Eiropas Savienības otra lielākā pilsēta, bet pēc iedzīvotāju skaita kopā ar piepilsētām tā ir tikai astotā lielākā pilsēta. Berlīne atrodas Vācijas ziemeļaustrumos, Brandenburgas federālās zemes centrā. Caur Berlīni tek Šprē un Hāfeles upes. Jāpiezīmē, ka pirms Otrā pasaules kara pilsētā bija ap 4 500 000 iedzīvotāju.\nBerlīne ir pasaules kultūras, politikas, mediju un zinātņu centrs. Tās ekonomika galvenokārt balstās uz augsto tehnoloģiju rūpniecību un pakalpojumu sektoru. Nozīmīgākās nozares ietver IT, farmāciju, biomedicīnu, inženierzinātni, biotehnoloģijas, elektroniku, satiksmes inženierzinātni un atjaunojamo enerģiju. Berlīne kalpo arī par nozīmīgu dzelzceļa un gaisa satiksmes centru, kā arī tā ir populārs tūristu galamērķis.\nBerlīne ir mājvieta slavenām universitātēm, pētniecības institūtiem, orķestriem, muzejiem un sporta komandām. Pilsēta ir labi pazīstami ar saviem festivāliem, daudzveidīgo arhitektūru, naksdzīvi, mūsdienu mākslu, sabiedrisko transporta tīklu un augstas kvalitātes dzīves līmeni.\nBerlīne pirmo reizi dokumentēta 13. gadsimtā. Berlīne ir bijusi Prūsijas Karalistes, Vācijas impērijas, Veimāras republikas un Trešā reiha galvaspilsēta. Pēc Otrā pasaules kara no 1949. līdz 1990. gadam Berlīne tika sadalīta divās daļās: Austrumberlīnē un Rietumberlīnē. Austrumberlīne kļuva par Austrumvācijas galvaspilsētu, bet Rietumberlīne kļuva par Rietumvācijas anklāvu, kuru no 1961. līdz 1989. gadam apjoza Berlīnes mūris. Pēc Vācijas atkalapvienošanas Berlīne atkārtoti kļuva par Vācijas galvaspilsētu."
+    },
+    {
+        "id": "05qtj",
+        "description": "Parīze ir Francijas galvaspilsēta un lielākā valsts pilsēta, kā arī Ildefransas reģiona administratīvais centrs un viens no valsts departamentiem. Parīze atrodas Sēnas upes krastos valsts ziemeļu daļā. Parīze ir valsts politiskais, biznesa un kultūras centrs. Parīzes platība ir 118,3 km². Tajā dzīvo 2,20 miljoni iedzīvotāji, bet, ja pieskaita arī piepilsētas, tad iedzīvotāju skaits pārsniedz 10 miljonus. Savukārt Parīzes metropoles iedzīvotāju skaits pārsniedz 12,5 miljonus. Līdz ar to tā ir viena no lielākajām Eiropas pilsētām.\nTā ir viena no tūristu visapmeklētākajām pilsētām pasaulē. Parīzē ir daudzi mākslas muzeji un vēsturiskas celtnes. Slavenākie objekti ir Eifeļa tornis, Luvra un Triumfa arka. Kopš viduslaikiem Parīze ir viena no Eiropas svarīgākajiem intelektuālajiem un mākslas centriem. Daudzas no Eiropas politiskajām, mākslas un kultūras parādībām ir dzimušas tieši Parīzē.\nParīze ir UNESCO, Ekonomiskās sadarbības un attīstības organizācijas un Svaru un mēru starptautiskā biroja mītnes vieta."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdama ir pilsēta Nīderlandes centrālajā daļā, pie Amstelas upes ietekas Eiselmērā. Nīderlandes galvaspilsēta un lielākā pilsēta, tomēr valsts valdība atrodas Hāgā. Amsterdama arī nav Ziemeļholandes galvaspilsēta. Liels ekonomikas un finanšu centrs. Otra lielākā Nīderlandes osta. Amsterdamā notika 1928. gada Vasaras Olimpiskās spēles.\nPilsētas centru daudzi kanāli sadala salās, tāpēc Amsterdama iesaukta par \"Ziemeļu Venēciju\".\nPilsētā atrodas vairāki pasaulslaveni muzeji:\n⁕Nacionālais muzejs ar Rembranta, Vermēra un Halsa darbiem\n⁕Van Goga muzejs\n⁕Rembranta muzejmāja\n⁕Stedelijk Museum - modernās mākslas muzejs\n⁕Annas Frankas muzejmāja\nAmsterdama ir pazīstam ar savu koncertzāli Concertgebouw, un tās pasaulslaveno orķestri Koninklijk Concertgebouworkest, kuras diriģents kopš 2004. gada ir Mariss Jansons.\nPazīstama arī ar savu \"sarkano lukturu\" rajonu - Wallen, kurā atrodas arī daudzi Coffeeshop - marihuānas kafejnīcas, kuras lietošana Nīderlandē ir atļauta."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakara ir Senegālas galvaspilsēta, kura atrodas Kapeverdes pussalā, pie Atlantijas okeāna. Dakarā ir nedaudz vairāk kā 1 miljons iedzīvotāju. Dakara tika dibināta 1857. gadā."
+    },
+    {
+        "id": "06gmr",
+        "description": "Riodežaneiro, saukta arī par Rio, kā arī \"brīnumaino pilsētu\", ir pilsēta Brazīlijas dienvidos, pie Atlantijas okeāna Gvanabaras līča. Riodežaneiro štata administratīvais centrs un Brazīlijas otrā lielākā pilsēta. Līdz 1960. gadam — valsts galvaspilsēta. Tūrisma centrs.\nSlavena ar saviem dabas apstākļiem, lieliskajām pludmalēm un iedzīvotāju bezrūpigo dzīves stilu. Riodežaneiro ir sambas un bosanovas dzimtene. Visā pasaulē pazīstama ar karnevālu, kas katru gadu notiek četrdesmit dienas pirms Lieldienām un apzīmē gavēņa sākumu."
+    },
+    {
+        "id": "01fdzj",
+        "description": "Tornis ir augsta brīvi stāvoša struktūra vai būves daļa, kas visbiežāk augstumā pārsniedz savu platumu. Vecākais zināmais tornis atrasts Jērikā, tas celts 8. gadu tūkstotī pirms mūsu ēras. Torņus ceļ dažādu iemeslu dēļ - lai novērotu apkārtni, informācijas nodošanai, lai piekļūtu augstām vietām, dzesēšanai un lai izmantotu gravitācijas spēku dažādu vielu efektīvāka uzglabāšanai, saspiešanai vai dažādu priekšmetu nomešanai no liela augstuma."
+    },
+    {
+        "id": "06gfj",
+        "description": "Ceļš ir speciāli izveidota zemes josla, kas atvieglo sauszemes transportlīdzekļu, kā arī gājēju kustību. Ceļš, kuram ir ciets segums, nereti tiek saukts par šoseju, bet pilsētās par ielu, bulvāri vai gatvi. Vilcieni pārvietojas pa dzelzceļu, pa speciāli izbūvētām sliedēm. Arī ūdens transportlīdzekļiem ir savi ceļi, pa kuriem tie pārvietojas, piemēram, kuģu ceļš.\nFizikā par ceļu sauc trajektorijas garumu un to apzīmē ar burtu \"s\"."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Slimnīca ir pilsoniskas stacionāras medicīniskas iestādes veids, kas paredzēta slimnieku ārstēšanai un var būt specializēta padziļinātai dažādu saslimšanu diagnostikai un ārstēšanai stacionāros apstākļos. Kara slimnīcas dēvē par hospitāļiem."
+    },
+    {
+        "id": "0k05r",
+        "description": "Tiesa ir iestāde, kuru vada tiesnesis, tiesneši vai miertiesnesis, un darbojas kā tribunāls civillietās un krimināllietās. Tās galvenais uzdevums ir uzraudzīt, lai cilvēki ievērotu likumus un izšķirtu strīdus starp vairākām personām. Par tiesu sauc arī celtni, kurā atrodas šī valsts iestāde. Ļoti bieži tiesa darbojas tikai valsts līmenī, bet ir arī starptautiskas tiesas, piemēram, ANO Starptautiskā tiesa."
+    },
+    {
+        "id": "06zdj",
+        "description": "Skola ir mācību un audzināšanas iestāde, kur skolotāji apmāca skolēnus. Parasti ar jēdzienu \"skola\" apzīmē iestādes, kur apgūst zemākās, vidējās vispārējās un speciālās programmas. Augstākā līmeņa zinības apgūst augstskolās, kuru darbības principi tomēr atšķiras.\nMūsdienās vairums valstu bērni dodas uz skolu apgūt pamatzināšanas, kuras viņiem būtu nepieciešams zināt, lai varētu pilnvērtīgi dzīvot pēc skolas absolvēšanas. Parasti šīs pamatlietas tiek apgūtas dažādos mācību priekšmetos. Katrā mācību priekšmetā tiek iegūtas savādākas zināšanas. Piemēram, Latvijas skolās tiek pasniegta latviešu valoda, angļu valoda, krievu valoda, literatūra, matemātika, ķīmija, fizika, bioloģija, ģeogrāfija, vēsture, ekonomika, informātika, mūzika, vizuālā māksla, mājturība un citi priekšmeti. Parasti katram priekšmetam tiek atvēlēta sava klase, kur tas tiek mācīts."
+    },
+    {
+        "id": "019cfy",
+        "description": "Stadions ir sporta laukumu, vieglatlētikas sektoru, skatītāju sektoru un palīgbūvju komplekss, kas domāts sporta un citu pasākumu rīkošanai.\nStadions varbūt atklāts, kā arī slēgts. Stadions tiek izmantots sporta pasākumiem, treniņiem, kā arī lieliem masu pasākumiem, piemēram, koncertiem. Stadioni ir vai nu universāli, vai arī specializēti. Universāls stadions ļauj izmantot to priekš dažādiem sporta veidiem, piemēram, vieglatlētikai, komandu sporta spēlēm. Specializēti stadioni ir domāti vienam sporta veidam, piemēram, tikai futbolam, vieglatlētikai, ziemas sporta veidiem.\nMūsdienu stadionu pamatelementi ir pazīstami pasaulē jau no senatnes, kad pirmie stadioni parādījās jau Senajā Grieķijā. Tobrīd tos cēla Olimpisko spēļu rīkošanai un citiem sporta pasākumiem. Vecākais stadions atrodas Olimpijā. Pašā sākumā stadions tika izmantot tikai skriešanas sacensībām. No tā laika parādījās skriešanas laukuma standarts 180 - 220 metri, ko izmanto arī šodien. Tobrīd par mērvienību izmantoja stadiju, kas vēlāk deva nosaukumu arī pašai sacensību ēkai."
+    },
+    {
+        "id": "0166ls",
+        "description": "Parks ir estētiska apzaļumota dabas teritorija tās dabiskajā vai cilvēka pārveidotajā formā. Parka nozīme parasti tiek saistīta ar atpūtu vai rekreāciju. Kā parka tipi tradicionāli tiek izšķirti dabas parki, nacionālie parki un tematiskie parki. Līdztekus tam par parkiem tiek saukti arī īpaši nodrošināta teritorija, kura tiek izmantota plaša spektra transportlīdzekļu novietnei, apkopei un remontam. Par parku mēdz saukt arī iekārtu kopumu."
+    },
+    {
+        "id": "06zdj",
+        "description": "Skola ir mācību un audzināšanas iestāde, kur skolotāji apmāca skolēnus. Parasti ar jēdzienu \"skola\" apzīmē iestādes, kur apgūst zemākās, vidējās vispārējās un speciālās programmas. Augstākā līmeņa zinības apgūst augstskolās, kuru darbības principi tomēr atšķiras.\nMūsdienās vairums valstu bērni dodas uz skolu apgūt pamatzināšanas, kuras viņiem būtu nepieciešams zināt, lai varētu pilnvērtīgi dzīvot pēc skolas absolvēšanas. Parasti šīs pamatlietas tiek apgūtas dažādos mācību priekšmetos. Katrā mācību priekšmetā tiek iegūtas savādākas zināšanas. Piemēram, Latvijas skolās tiek pasniegta latviešu valoda, angļu valoda, krievu valoda, literatūra, matemātika, ķīmija, fizika, bioloģija, ģeogrāfija, vēsture, ekonomika, informātika, mūzika, vizuālā māksla, mājturība un citi priekšmeti. Parasti katram priekšmetam tiek atvēlēta sava klase, kur tas tiek mācīts."
+    },
+    {
+        "id": "09cmq",
+        "description": "Muzejs ir vieta vai ēka, kur glabā un izstāda kultūrai nozīmīgus objektus. Muzeji nodarbojas ar izglītojošo un pētniecisko darbu.\nMuzeja fondus un darbību noteiktā nozarē nosaka muzeja profils. Ir dabaszinātņu, vēstures, mākslas, mūzikas, tehnikas u.c. profilu muzeji. Pēc muzeja profila tiek iekārtotas patstāvīgās ekspozīcijas, rīkotas ekskursijas, tematiskie pasākumi, izdoti uzziņas materiāli.\nSenajā Grieķijā muzejs bija mūzām veltīts templis. Renesanses laikā ar šo vārdu saprata telpas, kur zinātnieks glabāja savu kolekciju. Līdz ar Lielo franču revolūciju 18. gs. radās muzeji, kuru eksponātus varēja apskatīt plaša publika."
+    },
+    {
+        "id": "017ql",
+        "description": "Banka ir kredītiestāde, kas piesaista uz laiku brīvos naudas līdzekļus, veic norēķinu un kredīta, vērtspapīru, valūtas, naudas apgrozības regulēšanas un vērtību glabāšanas operācijas. Šaurākā nozīmē ar vārdu \"banka\" saprot komercbanku, kas ir institūcija, kas sniedz finanšu pakalpojumus, īpaši - pieņemot noguldījumus un izsniedzot kredītus, nodrošinot norēķinus.\nMūsdienās lielākajā daļā attīstīto valstu ir divpakāpju banku sistēma, kas sastāv no pirmā līmeņa bankas - centrālās jeb emisijas bankas - un otrā līmeņa bankām un kredītiestādēm - komercbankām, krājbankām, investīciju bankām, hipotēku bankām, krājaizdevu sabiedrībām, apdrošināšanas kompānijām, pensiju fondiem, lombardiem u.tml.\nValsts centrālās bankas uzdevumi ir:\n⁕emitēt nacionālo valūtu;\n⁕īstenot monetāro politiku, lai nodrošinātu zināmus mērķus, piemēram, cenu stabilitāti valstī, zemu inflāciju, u.tml.;\n⁕noteikt oficiālo kursu nacionālās naudas apmaiņai pret ārvalstu valūtām;\n⁕uzraudzīt komercbanku un citu kredītiestāžu darbību;"
+    },
+    {
+        "id": "09y4pm",
+        "description": "Ekonomikā ar tirgu saprot ekonomisko, juridisko un citu nosacījumu kopumu, ar kura palīdzību pārdevēji un pircēji, kuri tirgū ir galvenās darbojošās puses, brīvprātīgi vienojas par preču vai pakalpojumu apmaiņu, citiem vārdiem, veic tirdzniecību. Šaurākā nozīmē ar jēdzienu \"tirgus\" tiek apzīmēta vieta vai teritorija, kur fiziski notiek preču vai pakalpojumu apmaiņa. Tie ir tirgus laukumi, plači, ielas utt. galvenokārt pilsētās vai ciematos, kā, piemēram, Rīgas Centrāltirgus.\nPateicoties mēdiju, telekomunikāciju un citu mūsdienu tehnoloģiju attīstībai, tirdzniecība var notikt ar laikrakstu, žurnālu, telefona zvanu, interneta utt., palīdzību. Prece pircējam var tikt piegādāta mājās, darbavietā utt., tam pašam nedodoties uz fizisko preču atrašanās vietu lai iepirktos."
+    },
+    {
+        "id": "09cjl",
+        "description": "Lidosta ir vieta, kur paceļas gaisā un nolaižas lidmašīnas, helikopteri, dirižabļi un citi lidaparāti. Bieži vien lidaparāti tiek arī turēti lidostās. Lidosta sastāv vismaz no vien skrejceļa, kas var būt ne tikai uz zemes, bet arī ūdenī, kā arī lidostās var būt angāri un termināļi.\nLielākās lidostās tiek sniegti dažādi pakalpojumi: pastāvīgi operatora pakalpojumi, gaisa satiksmes kontrole, restorāni un atpūtas telpas pasažieriem, kā arī avārijas dienesti. Militārās lidostas ir vairāk zināmas kā gaisa bāzes. Savukārt par lidlaukiem sauc salīdzinoši mazākas lidostas, kuras izmanto arī salīdzinoši mazāki lidaparāti.\n2009. gadā pasaulē kopumā bija aptuveni 43,8 tūkstoši lidostu, no kurām visvairāk atrodas Savienotajās Valstīs, tas ir, 15095 lidostas. Salīdzinoši, Latvijā ir tikai 43 lidostas."
+    },
+    {
+        "id": "053rd",
+        "description": "Kalnrūpniecība ir rūpniecības nozare, kurā nodarbojas ar derīgo izrakteņu ieguvi, kā arī ar to izpēti un bagātināšanu. Sīkāk kalnrūpniecība tiek iedalīta iežu ieguves rūpniecībā un iežu apstrādes rūpniecībā. Lai iegūtu derīgos izrakteņus, tiek veidotas raktuves. Raktuves iedala atklātajās, apakšzemes un zemūdens raktuvēs. Lai iegūtu šķidrus vai gāzveida izrakteņus, piemēram, naftu, tiek veikti urbumi."
+    },
+    {
+        "id": "029g_vk",
+        "description": "Telesakari jeb telekomunikācija ir informācijas sūtīšana attālumā, izmantojot kādu informācijas nesēju. Mūsdienās par informācijas pārraidi nodrošina elektriskas vai optiskas ierīces, kas nodrošina signālu noraidīšanu lielā ātrumā, lielos attālumos un lielā apjomā.\nAgrākos laikos informācija tika sūtīta vizuālu vai skaņas signālu veidā. Pagrieziena punkts moderno tālsakaru virzienā bija 1830. un 1840. gados izgudrotajam telegrāfam. Tas 19. gadsimtā ļāva ar sakaru līnijām savienot kontinetus. Revolūcija tālsakaros notika 20. gadsimta sākumā, kad tika izgudrots radio, telefons. 20. gadsimta vidū tika ieviesta televīzija. 20. gadsimta beigās attīstītās interneta un mobilo telefonu tehnoloģijas ir nozīmīgi ietekmējušas mūsdienu sabiedrību sociālā, kultūras un ekonomikas jomā.\nTelesakari ir nozīmīga mūsdienu pasaules ekonomikas nozare ar 3,85 triljoniem USD ieņēmumu 2008. gadā."
+    },
+    {
+        "id": "01mf0",
+        "description": "Programmatūra ir viena vai vairākas datorprogrammas un dati, kas tiek glabāti datora datu nesējā noteiktam mērķim."
+    },
+    {
+        "id": "011s0",
+        "description": "Reklāma ir materiāls, kura pamatmērķis ir pārliecināt vai rosināt cilvēkus patērēt noteiktu produktu, pakalpojumu, popularizēt kādu ideju vai indivīdu. Parasti reklāmas mērķis ir radīt pieprasījumu; citi mērķi var būt tēla uzlabošana, informācijas sniegšana par produktu utt. Reklāmas bieži sastopamas masu saziņas līdzekļos, kā arī dažādās publiskās vietās — reklāmu stendos, uz transporta līdzekļiem, veikalu skatlogos utt. Nozīmīga loma reklāmu biznesā ir arī Internetam.\nReklāmas uzdevums ir radīt pieprasījumu pēc kādas preces, tāpēc reklāmām raksturīga produkta pozitīvo īpašību izcelšana vai pārspīlēšana un negatīvo īpašību noklusēšana.\nVeiksmīga reklāma var radīt tik lielu zīmola atpazīstamību, ka zīmola nosaukumu sāk lietot kā sugas vārdu — piemēram, skočs vai kola. Dažkārt nosaukums kļūst tik bieži lietots, ka tam vairs nav zīmola funkciju vai aizsardzības likumdošanā — piemēram, aspirīns.\nPēc likuma \"reklāmai jābūt likumīgai, patiesai un objektīvai, tā veidojama saskaņā ar godprātīgu reklāmas praksi\", tā \"nedrīkst mazināt sabiedrības uzticēšanos reklāmai, un tai jāatbilst godīgas konkurences principiem\", un tajā \"atļauts iekļaut tikai tādus paziņojumus vai vizuālos attēlus, kas nepārkāpj ētikas, humānisma, morāles, tikumības un pieklājības normas\"."
+    },
+    {
+        "id": "01ftz",
+        "description": "Biotehnoloģija - bioloģijas un tehnikas nozare, kas izmanto dabiskās bioloģiskās sistēmas, lai ražotu bioloģiski nozīmīgas vielas. Biotehnoloģija arī izstrādā un pēta dzīvo šūnu un audu audzēšanas un pavairošanas metodes. Biotehnoloģiju izmanto pārtikas rūpniecībā, medicīnā, ķīmisko vielu ražošanā, lopkopībā un citur."
+    },
+    {
+        "id": "0hz28",
+        "description": "Latviešu nacionālā kustība un emancipācijas process 19. gadsimtā otrajā pusē izveidoja grāmatniecības aizsākumu. Latvijā tika iedibinātas latviešu grāmatu iespiešanas tradīcijas 20. gadsimta sākumā.\nLatvijas grāmatniecībā 60. un 70. gadu mijā Vidzemē un Kurzemē darbību sāka pirmie latviešu tautības grāmatizdevēji, iespiedēji un arī grāmatu mākslinieki. Latgalē latviešu grāmatu iespiešanas tradīcijas tika iedibinātas tikai 20. gadsimta sākumā.\nLatviešu izdevēji pieslējās jaunlatviešu aizsāktajām rūpēm par grāmatu vizuālo informāciju un pievērsa uzmanību ilustrēšanai, šajā darbā tika iesaistīti savi tautieši. Pirmie ar izdevējiem uzsāka sadarbību kokgrebēji Kārlis Kronvalds un Mārtiņš Bušs. 19. gadsimtā vairums izdevumu bija necilas, plānas grāmatiņas un brošūras tipogrāfiskajos papīra vākos. Apjomīgus publicējamos tekstus sāka sadalīt mazākās vienībās un izdot burtnīcās. Pēc tradīcijas papīra vāku pirmās lappuses tekstus iekārtoja ornamentālās apmalēs, bet uz ceturtās lappuses arvien populārāk kļuva iespiest reklāmas. 1904. gadā savu darbību uzsāka pirmais apgāds „Zalktis” – pirmā izdevniecība, kas strādāja programmatiski ar mērķi izdot poligrāfiski un mākslinieciski augstvērtīgas grāmatas. Lai realizētu apgāda darbību, apgāds pulcēja vairākus māksliniekus, tādus kā: Jani Rozentālu, Vilhelmu Purvīti, Gustavu Šķilteru, Jūliju Madernieku, Burkardu Dzeni u.c. Pirmais pasaules karš radīja pārtraukumu latviešu grāmatniecībā. Vairāki latviešu mākslinieki – Aleksandrs Apsītis, Jēkabs Belzēns un arī Rihards Zariņš – darbojās ārzemju grāmatniecībā."
+    },
+    {
+        "id": "0191_7",
+        "description": "Mazumtirdzniecība ir preču pārdošana nelielā apjomā konkrētā vietā - kioskā, veikalā, lielveikalā, pa pastu vai citur tieši patērētāju lietošanai. Mazumtirdzniecība ir process, kurā iepērk preces no ražotājiem vai vairumtirgotājiem un pārdod tās gala patērētājiem viņu personīgajām tēriņam bez īpašās pārstrādes vai apstrādes. Tirdzniecībā mazumtirgotājs, atbilstoši kategoriju vadības politikas, iepērk preces no ražotāja vai importētāja, vai nu pa tiešo vai caur vairumtirgotāju. Mazumtirdzniecība iedalās atkarībā no pārdotajām precēm:\n⁕pārtikas preces\n⁕tekstilpreces\n⁕ilglietojamas preces"
+    },
+    {
+        "id": "0h61",
+        "description": "Arheoloģija ir vēstures zinātnes nozare, kurā pēta vēsturi, izmantojot lietiskos vēstures avotus — arheoloģiskos pieminekļus. Šīs liecības parasti iegūst arheoloģiskajos izrakumos. Kaut gan pirmie arheoloģiskie izrakumi izdarīti tālā senatnē, par zinātni arheoloģija izveidojās tikai 18. gadsimta beigās un 19. gadsimta sākumā.\nPar lielāko daļu cilvēces vēstures nav nekādu rakstisku liecību — rakstība parādījās tikai pirms 5000 gadiem, turklāt tikai atsevišķām civilizācijām. Šīs civilizācijas, protams, šobrīd ir vispazīstamākās — vēsturnieki tās ir varējuši pētīt jau ilgu laiku. Bet arī par vietām, no kurām saglabājušās rakstiskas liecības, zināms maz — bieži tās apraksta tikai valdnieku un augstāko šķiru situāciju un viedokli.\nTā kā arheoloģija ir plaša zinātne, tad to mēdz sīkāk iedalīt vai nu pēc perioda, piemēram, aizvēstures vai jauno laiku arheoloģijā, vai nu pēc ģeogrāfiskās vietas, piemēram, klasiskā arheoloģija vai Mezopotāmijas arheoloģija. Dažreiz arheoloģijas apakšnozares ir praktiski neatkarīgas nozares, piemēram, zemūdens arheoloģija, kurā pēta kuģu vrakus vai citas ūdenī atstātas cilvēces darbības pēdas, un arheologiem ir jābūt prasmīgiem ūdenslīdējiem. Arheoloģiju dažreiz jauc ar paleontoloģiju, kur pēta aizvēsturiskos augus un dzīvniekus nevis cilvēkus un to priekštečus."
+    },
+    {
+        "id": "01mtb",
+        "description": "Kulinārija ir ēdienu pagatavošanas māksla. Bieži vien ēdienu pagatavošanas procesā tiek izmantota uguns, tas ir, ēdiens tiek cepts vai vārīts, bet tikpat labi var iztikt arī bez tās, piemēram, pagatavojot salātus. Ēdiena gatavošanas speciālists ir pavārs, bet ikdienā jebkurš var pats pievērsties kulinārijai un pagatavot sev un\/vai citiem ēdienu. Ēdiena pagatavošanas paņēmienus apraksta receptēs, un nereti šīs receptes tālāk tiek apkopotas pavārgrāmatās."
+    },
+    {
+        "id": "034dj",
+        "description": "Azartspēles ir jebkuras spēles uz naudu, kur to spēlētājiem ir iespēja iegūt laimestu. Ļoti bieži azartspēļu laimests vairāk ir atkarīgs no veiksmes nekā no prasmēm. Populārākās azartspēles ir spēļu automāti, rulete, dažādas kāršu spēles, piemēram, pokers, un citas.\nTermins \"azartspēle\" ir radies no krievu vārda азартная игра. Savukārt krievu valodā šis termins ir radies no franču vārda jeu de hasard, kas burtiskā tulkojumā nozīmē \"veiksmes spēle\"."
+    },
+    {
+        "id": "034v_",
+        "description": "Dārzkopība jeb dārzniecība ir dažādu dārza augu — gan augļu koku un ogu krūmu, gan dekoratīvo augu — audzēšana un kopšana. Tā ir lauksaimniecības nozare. Cilvēkus, kas ar dārzkopību nodarbojas profesionāli vai sava vaļasprieka dēļ, sauc par dārzniekiem.\nDažreiz pie dārzkopības pieskaita arī iekštelpu dekoratīvo augu audzēšanu."
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotogrāfija ir attēlu iegūšanas tehnoloģisks process, apkopojot un fokusējot atstarotos elektromagnētiskos starus uz gaismjūtīgu materiālu, piemēram, uz fotofilmu vai uz elektrisko sensoru. Tātad attēli tiek iegūti gan ķīmiskā, gan elektroniskā veidā. Šādā veidā iegūtus attēlus sauc par fotogrāfiju vai arī saīsinātā formā vienkārši sauc par foto."
+    },
+    {
+        "id": "064rk",
+        "description": "Podniecība ir process, kurā no māliem tiek izgatavoti dažādi māla trauki. Lai tie būtu izturīgi, trauku sagataves tiek apdedzinātas speciālās podnieku krāsnīs, bet lai tie būtu arī ūdens necaurlaidīgi un tiem būtu estētisks izskats, tos pārklāj ar glazūru."
+    },
+    {
+        "id": "017dv8",
+        "description": "Putnu vērošana ir hobijs, kas ietver putnu vērošanu dabā un parasti ir saistīts ar padziļinātu interesi par tiem, izpēti, kā arī iegūtās informācijas apkopošanu, ziņošanu par neparastākajiem novērojumiem putnu vērotāju vidē un profesionāliem ornitologiem.\nPutnu vērotāji parasti nav ornitologi un bieži tiem nav bioloģijas izglītības, tomēr, nopietni aizraujoties ar putnu vērošanu, pieredze, zināšanas un prasme strauji pieaug un neprofesionāļu novērojumiem bieži ir liela nozīme nopietnos ornitoloģiskajos pētījumos, īpaši faunistikas pētījumos. Nopietnākie putnu vērotāji parasti apkopo novēroto sugu sarakstus gan pēc reģionālā principa, gan laika griezumā. Sevišķi iecienīts vaļasprieks tas ir Skandināvijas valstīs un Somijā, Lielbritānijā, citās Rietumeiropas valstīs, ASV; bieži putnu vērošana tiek apvienota ar ceļojumiem. Lai vērotu putnus var iztikt bez īpaša aprīkojuma, tomēr labāki rezultāti sasniedzami izmantojot binokli, teleskopu, fotoaparātu, putnu noteicēju un balsu ierakstus. Izcilākajās putnu vērošanas vietās tiek būvēti īpaši putnu vērošanas torņi, kas ļauj pārskatīt plašāku apkārtni un vērojot mazāk traucēt putniem."
+    }
+]

@@ -1,0 +1,1482 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Mrówkowate"
+    },
+    {
+        "id": "01dws",
+        "name": "Niedźwiedziowate"
+    },
+    {
+        "id": "01h3n",
+        "name": "Apiformes"
+    },
+    {
+        "id": "015p6",
+        "name": "Ptaki"
+    },
+    {
+        "id": "01x_v",
+        "name": "Wielbłąd"
+    },
+    {
+        "id": "01yrx",
+        "name": "Kot domowy"
+    },
+    {
+        "id": "09b5t",
+        "name": "Kura domowa"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Krowa"
+    },
+    {
+        "id": "09ddx",
+        "name": "Kaczki"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Słoniowate"
+    },
+    {
+        "id": "03k3r",
+        "name": "Koń"
+    },
+    {
+        "id": "07bgp",
+        "name": "Owca domowa"
+    },
+    {
+        "id": "0cnyhnx",
+        "name": "Buhaj"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Aligator amerykański"
+    },
+    {
+        "id": "0qqk",
+        "name": "Szarłat"
+    },
+    {
+        "id": "047v4b",
+        "name": "Karczoch zwyczajny"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Szparag lekarski"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Burak zwyczajny"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokuł"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Kapusta warzywna głowiasta"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Marchewka"
+    },
+    {
+        "id": "015w7p",
+        "name": "Kalafior"
+    },
+    {
+        "id": "01xj_",
+        "name": "Selery zwyczajne"
+    },
+    {
+        "id": "02nm6c",
+        "name": "Burak liściowy"
+    },
+    {
+        "id": "02nm75",
+        "name": "Kapusta warzywna pastewna"
+    },
+    {
+        "id": "053wn",
+        "name": "Kukurydza zwyczajna"
+    },
+    {
+        "id": "015x4r",
+        "name": "Ogórek siewny"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Psianka podłużna"
+    },
+    {
+        "id": "022p79",
+        "name": "Cykoria endywia"
+    },
+    {
+        "id": "017dqv",
+        "name": "Fenkuł włoski"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Czosnek pospolity"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Tykwa pospolita"
+    },
+    {
+        "id": "02r5_b",
+        "name": "Jarmuż"
+    },
+    {
+        "id": "04bk6",
+        "name": "Kalarepa"
+    },
+    {
+        "id": "0666h8",
+        "name": "KUKA"
+    },
+    {
+        "id": "013__5",
+        "name": "Por"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Sałata"
+    },
+    {
+        "id": "025s18p",
+        "name": "Ketmia piżmowa"
+    },
+    {
+        "id": "0dj75",
+        "name": "Cebula zwyczajna"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Pasternak zwyczajny"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Groch"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Orzacha podziemna"
+    },
+    {
+        "id": "05vtc",
+        "name": "Ziemniak"
+    },
+    {
+        "id": "05zsy",
+        "name": "Dynia"
+    },
+    {
+        "id": "015x5n",
+        "name": "Rzodkiewka"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Rabarbar ogrodowy"
+    },
+    {
+        "id": "016rh7",
+        "name": "Szpinak warzywny"
+    },
+    {
+        "id": "0cl46",
+        "name": "Rzepa"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Rukiew wodna"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Krwawnik pospolity"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazylia"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Chiny"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turcja"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Szwecja"
+    },
+    {
+        "id": "06mkj",
+        "name": "Hiszpania"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Węgry"
+    },
+    {
+        "id": "0345h",
+        "name": "Niemcy"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polska"
+    },
+    {
+        "id": "04g5k",
+        "name": "Łotwa"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irlandia"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamajka"
+    },
+    {
+        "id": "01crd5",
+        "name": "Wietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bułgaria"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolia"
+    },
+    {
+        "id": "06q1r",
+        "name": "Szkocja"
+    },
+    {
+        "id": "0chghy",
+        "name": "Australia"
+    },
+    {
+        "id": "035v3",
+        "name": "Grenlandia"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japonia"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenia"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Poniedziałek"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Wtorek"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Środa"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Czwartek"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Piątek"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sobota"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Niedziela"
+    },
+    {
+        "id": "06m_p",
+        "name": "Słońce"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkury"
+    },
+    {
+        "id": "09bcm",
+        "name": "Wenus"
+    },
+    {
+        "id": "02j71",
+        "name": "Ziemia"
+    },
+    {
+        "id": "09cws",
+        "name": "Mars"
+    },
+    {
+        "id": "09q84",
+        "name": "Jowisz"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uran"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptun"
+    },
+    {
+        "id": "0jwy",
+        "name": "Gwiazdozbiór Barana"
+    },
+    {
+        "id": "07cqw",
+        "name": "Gwiazdozbiór Byka"
+    },
+    {
+        "id": "077r8d",
+        "name": "Gwiazdozbiór Bliźniąt"
+    },
+    {
+        "id": "0qck6",
+        "name": "Gwiazdozbiór Raka"
+    },
+    {
+        "id": "04h2q",
+        "name": "Gwiazdozbiór Lwa"
+    },
+    {
+        "id": "07yt9",
+        "name": "Panna (gwiazdozbiór)"
+    },
+    {
+        "id": "04h36",
+        "name": "Gwiazdozbiór Wagi"
+    },
+    {
+        "id": "06pgz",
+        "name": "Gwiazdozbiór Skorpiona"
+    },
+    {
+        "id": "06pgg",
+        "name": "Gwiazdozbiór Strzelca"
+    },
+    {
+        "id": "01nk9",
+        "name": "Gwiazdozbiór Koziorożca"
+    },
+    {
+        "id": "0jxf",
+        "name": "Gwiazdozbiór Wodnika"
+    },
+    {
+        "id": "05s7n",
+        "name": "Gwiazdozbiór Ryb"
+    },
+    {
+        "id": "02vx4",
+        "name": "Piłka nożna"
+    },
+    {
+        "id": "0jm_",
+        "name": "Futbol amerykański"
+    },
+    {
+        "id": "018w8",
+        "name": "Koszykówka"
+    },
+    {
+        "id": "018jz",
+        "name": "Baseball"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boks"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hokej na lodzie"
+    },
+    {
+        "id": "07_53",
+        "name": "Piłka siatkowa"
+    },
+    {
+        "id": "0bynt",
+        "name": "Lekkoatletyka"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf (sport)"
+    },
+    {
+        "id": "01sgl",
+        "name": "Kolarstwo"
+    },
+    {
+        "id": "06z6r",
+        "name": "Pływanie"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Bieg maratoński"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Tenis stołowy"
+    },
+    {
+        "id": "087zy",
+        "name": "Joga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnastyka"
+    },
+    {
+        "id": "036vg6",
+        "name": "Zapasy"
+    },
+    {
+        "id": "04xsv",
+        "name": "Sztuki walki"
+    },
+    {
+        "id": "03_ly",
+        "name": "Styczeń"
+    },
+    {
+        "id": "02xx5",
+        "name": "Luty"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marzec"
+    },
+    {
+        "id": "0lkm",
+        "name": "Kwiecień"
+    },
+    {
+        "id": "04w_7",
+        "name": "Maj"
+    },
+    {
+        "id": "040fb",
+        "name": "Czerwiec"
+    },
+    {
+        "id": "040fv",
+        "name": "Lipiec"
+    },
+    {
+        "id": "0ll3",
+        "name": "Sierpień"
+    },
+    {
+        "id": "06vkl",
+        "name": "Wrzesień"
+    },
+    {
+        "id": "05lf_",
+        "name": "Październik"
+    },
+    {
+        "id": "05cw8",
+        "name": "Listopad"
+    },
+    {
+        "id": "028kb",
+        "name": "Grudzień"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Północ"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Południe"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Zachód"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Wschód"
+    },
+    {
+        "id": "0j0k",
+        "name": "Azja"
+    },
+    {
+        "id": "059g4",
+        "name": "Ameryka Północna"
+    },
+    {
+        "id": "06n3y",
+        "name": "Ameryka Południowa"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afryka"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktyda"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Australia"
+    },
+    {
+        "id": "05p553",
+        "name": "Film komediowy"
+    },
+    {
+        "id": "03npn",
+        "name": "Horror"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Film dokumentalny"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Film dramatyczny"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animacja"
+    },
+    {
+        "id": "06n90",
+        "name": "Fantastyka naukowa"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Film akcji"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Dreszczowiec"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Romans"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasy"
+    },
+    {
+        "id": "0g65_",
+        "name": "Komputerowa gra przygodowa"
+    },
+    {
+        "id": "04t36",
+        "name": "Film muzyczny"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock and roll"
+    },
+    {
+        "id": "064t9",
+        "name": "Muzyka pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Muzyka country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip-hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Muzyka poważna"
+    },
+    {
+        "id": "02lkt",
+        "name": "Muzyka elektroniczna"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Muzyka folkowa"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Dance"
+    },
+    {
+        "id": "0199g",
+        "name": "Rower"
+    },
+    {
+        "id": "019jd",
+        "name": "Łódź"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autobus"
+    },
+    {
+        "id": "0k4j",
+        "name": "Samochód"
+    },
+    {
+        "id": "09ct_",
+        "name": "Śmigłowiec"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocykl"
+    },
+    {
+        "id": "06q74",
+        "name": "Statek wodny"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Metro w Nowym Jorku"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taksówka"
+    },
+    {
+        "id": "07jdr",
+        "name": "Pociąg"
+    },
+    {
+        "id": "07r04",
+        "name": "Samochód ciężarowy"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramwaj"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Prom"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trolejbus"
+    },
+    {
+        "id": "09g5h",
+        "name": "Statek kosmiczny"
+    },
+    {
+        "id": "013xl3",
+        "name": "Poduszkowiec"
+    },
+    {
+        "id": "074d1",
+        "name": "Okręt podwodny"
+    },
+    {
+        "id": "057gn",
+        "name": "Minivan"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Ser"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Browar\/marka piwa"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Piwo"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Herbata"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Napój"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Batonik"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Potrawa"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Składnik"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restauracja"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Kuchmistrz"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Kuchnia"
+    },
+    {
+        "id": "046cz33",
+        "name": "Gorzelnia"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Apelacja"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Winnica"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Wino"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dieta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Przepis"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Jedzenie"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Składnik pokarmowy"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitara"
+    },
+    {
+        "id": "0319l",
+        "name": "Róg (instrument muzyczny)"
+    },
+    {
+        "id": "02hnl",
+        "name": "Perkusja"
+    },
+    {
+        "id": "013y1f",
+        "name": "Organy"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flet"
+    },
+    {
+        "id": "05r5c",
+        "name": "Fortepian"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordeon"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Cytat"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptacja"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Adresat dedykacji"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedykujący"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publikacja"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Recenzja"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Wywiad"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Przekład"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Udzielający wywiadu"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Przeprowadzający wywiad"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Tłumacz"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Fragment"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Prawnik"
+    },
+    {
+        "id": "05t4q",
+        "name": "Lekarz"
+    },
+    {
+        "id": "0mn6",
+        "name": "Architekt"
+    },
+    {
+        "id": "09jwl",
+        "name": "Muzyk"
+    },
+    {
+        "id": "01d30f",
+        "name": "Nauczyciel"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Chemik"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Weterynarz"
+    },
+    {
+        "id": "01c72t",
+        "name": "Kompozytor"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Kucharz"
+    },
+    {
+        "id": "07npwc",
+        "name": "Profesjonalny golfista"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Policjant"
+    },
+    {
+        "id": "05xls",
+        "name": "Programista"
+    },
+    {
+        "id": "02tx6q",
+        "name": "Inżynier dźwięku"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentysta"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatria"
+    },
+    {
+        "id": "099md",
+        "name": "Żołnierz"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Kierowca ciężarówek"
+    },
+    {
+        "id": "01d380",
+        "name": "Wiertarka"
+    },
+    {
+        "id": "03l9g",
+        "name": "Młotek"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Strug"
+    },
+    {
+        "id": "0cqs9q",
+        "name": "Kombinerki"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Nożyczki"
+    },
+    {
+        "id": "07ln6l",
+        "name": "Imadło"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Klucz płaski"
+    },
+    {
+        "id": "02qhwc4",
+        "name": "Śniadanie angielskie"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Czek"
+    },
+    {
+        "id": "03m7wd",
+        "name": "Tort Sachera"
+    },
+    {
+        "id": "06qrr",
+        "name": "Napój bezalkoholowy"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Widelec"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Łyżka"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Woda pitna"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kawa"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Plecy"
+    },
+    {
+        "id": "09cx8",
+        "name": "Palec ręki"
+    },
+    {
+        "id": "09w5r",
+        "name": "Kończyna dolna"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Zęby człowieka"
+    },
+    {
+        "id": "037p5b",
+        "name": "Policzek"
+    },
+    {
+        "id": "031n1",
+        "name": "Stopa"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Wargi ust"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Gardziel"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Klatka piersiowa"
+    },
+    {
+        "id": "025kyy",
+        "name": "Czoło"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Jama ustna"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Palec stopy"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Broda (anatomia)"
+    },
+    {
+        "id": "03q69",
+        "name": "Włos"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Szyja"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Język"
+    },
+    {
+        "id": "039xj_",
+        "name": "Ucho"
+    },
+    {
+        "id": "0k65p",
+        "name": "Ręka"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nos"
+    },
+    {
+        "id": "027n3_",
+        "name": "Brew"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Głowa"
+    },
+    {
+        "id": "014sv8",
+        "name": "Oko"
+    },
+    {
+        "id": "0176mf",
+        "name": "Pas"
+    },
+    {
+        "id": "032b3c",
+        "name": "Kurtka"
+    },
+    {
+        "id": "06rrc",
+        "name": "But"
+    },
+    {
+        "id": "019b80",
+        "name": "Sweter"
+    },
+    {
+        "id": "01b638",
+        "name": "Kosaki"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Spódnica"
+    },
+    {
+        "id": "02d46y",
+        "name": "Czapka"
+    },
+    {
+        "id": "0142wf",
+        "name": "Piżama"
+    },
+    {
+        "id": "013s93",
+        "name": "T-shirt"
+    },
+    {
+        "id": "01xygc",
+        "name": "Płaszcz"
+    },
+    {
+        "id": "0fly7",
+        "name": "Dżinsy"
+    },
+    {
+        "id": "0216vm",
+        "name": "Kapeć"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Krawat"
+    },
+    {
+        "id": "01d40f",
+        "name": "Suknia"
+    },
+    {
+        "id": "01nq26",
+        "name": "Skarpetki"
+    },
+    {
+        "id": "07mhn",
+        "name": "Spodnie"
+    },
+    {
+        "id": "0174n1",
+        "name": "Rękawiczki"
+    },
+    {
+        "id": "02h19r",
+        "name": "Szalik"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Koszula"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Garnitur"
+    },
+    {
+        "id": "01767_",
+        "name": "Pończochy"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Klawiatura komputerowa"
+    },
+    {
+        "id": "020lf",
+        "name": "Mysz komputerowa"
+    },
+    {
+        "id": "02bc6",
+        "name": "Baza danych"
+    },
+    {
+        "id": "01q5jp",
+        "name": "CRUD"
+    },
+    {
+        "id": "029kh",
+        "name": "Technologia cyfrowa"
+    },
+    {
+        "id": "020s1",
+        "name": "Plik"
+    },
+    {
+        "id": "045hfw",
+        "name": "Font"
+    },
+    {
+        "id": "02nf_",
+        "name": "Poczta elektroniczna"
+    },
+    {
+        "id": "01xfp",
+        "name": "grafika komputerowa"
+    },
+    {
+        "id": "01zrkr",
+        "name": "Ikona"
+    },
+    {
+        "id": "01mfj",
+        "name": "Hardware"
+    },
+    {
+        "id": "03rsh",
+        "name": "Urządzenie wejścia-wyjścia"
+    },
+    {
+        "id": "02_0t4",
+        "name": "Interaktywność"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Chmura obliczeniowa"
+    },
+    {
+        "id": "07wcf",
+        "name": "Universal Serial Bus"
+    },
+    {
+        "id": "0mynm",
+        "name": "Kamera internetowa"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Płyta główna"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haga"
+    },
+    {
+        "id": "02_286",
+        "name": "Nowy Jork"
+    },
+    {
+        "id": "0430_",
+        "name": "Jerozolima"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kair"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seul"
+    },
+    {
+        "id": "031y2",
+        "name": "Florencja"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paryż"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Wieża"
+    },
+    {
+        "id": "06gfj",
+        "name": "Droga"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Szpital"
+    },
+    {
+        "id": "0k05r",
+        "name": "Sąd"
+    },
+    {
+        "id": "06zdj",
+        "name": "Szkoła"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadion"
+    },
+    {
+        "id": "0166ls",
+        "name": "Park"
+    },
+    {
+        "id": "06zdj",
+        "name": "Szkoła"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muzeum"
+    },
+    {
+        "id": "017ql",
+        "name": "Bank"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "College"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Rynek"
+    },
+    {
+        "id": "016yx7",
+        "name": "Sala gimnastyczna"
+    },
+    {
+        "id": "09cjl",
+        "name": "Port lotniczy"
+    },
+    {
+        "id": "053rd",
+        "name": "Górnictwo"
+    },
+    {
+        "id": "023907r",
+        "name": "Nieruchomości"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekomunikacja"
+    },
+    {
+        "id": "02h400t",
+        "name": "Usługa finansowa"
+    },
+    {
+        "id": "01mf0",
+        "name": "Oprogramowanie"
+    },
+    {
+        "id": "011s0",
+        "name": "Reklama"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotechnologia"
+    },
+    {
+        "id": "0hz28",
+        "name": "Działalność wydawnicza"
+    },
+    {
+        "id": "0191_7",
+        "name": "Handel detaliczny"
+    },
+    {
+        "id": "0h61",
+        "name": "Archeologia"
+    },
+    {
+        "id": "01mtb",
+        "name": "Sztuka kulinarna"
+    },
+    {
+        "id": "034dj",
+        "name": "Gry hazardowe"
+    },
+    {
+        "id": "034v_",
+        "name": "Ogrodnictwo"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografia"
+    },
+    {
+        "id": "064rk",
+        "name": "Garncarstwo"
+    },
+    {
+        "id": "06h7j",
+        "name": "Biegi lekkoatletyczne"
+    },
+    {
+        "id": "09nyy",
+        "name": "Żonglerka"
+    },
+    {
+        "id": "017dv8",
+        "name": "Obserwacja ptaków"
+    }
+]

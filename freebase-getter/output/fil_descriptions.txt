@@ -1,0 +1,850 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Ang langgam o guyam ay isang insekto. Sila ay mabilis mag-parami at kinikilala silang mga mapang-lipunang kulisap. May apat na klase ng langgam: manggagawa, sundalo, reyna o nanay at ang dalaga. Ang langgam ay nakikita sa buong mundo maliban sa Antarktika. Sila ay nakatira sa isang bahay o kolonya na may mahigit sa 1 milyong langgam.\nDulot ng asidong pormiko, na tinuturok o ini-iniksyon ng langgam kapag nangangagat, ang hapding sanhi ng kagat ng langgam. Sa Latin, formica ang katawagan para sa langgam."
+    },
+    {
+        "id": "01dws",
+        "description": "Ang mga oso o mga osa, kung babae, ay mga malalaking mamalya sa pamilyang Ursidae ng order na Carnivora. Inuuri ang mga oso sa mga caniform, o mga tila-asong carnivoran, na ang pinakamalapit na mga namumuhay na kamag-anakan ay ang mga piniped. Bagaman may walo lamang na mga nabubuhay na espesye ng oso, malawak ang nasasakupan ng mga ito at lumilitaw sa iba't ibang uri ng mga pook sa buong Hilagang parte ng mundo at sa ilang bahagi ng katimugang hemispiro.\nKabilang sa pangkaraniwang katangian ng mga oso ang pagkakaroon ng maikling buntot, mabisang pang-amoy at pandinig, ang pagkakaroon ng limang di-naibabalik na mga kuko sa bawat kamay at paa, at pagkakaroon ng mahaba at makapal na balahibo."
+    },
+    {
+        "id": "01h3n",
+        "description": "Ang bubuyog ay isang uri ng kulisap. Ang mga bubuyog ay nabibilang sa superpamilya ng mga Apoidea at binubuo ng siyam na pamilya. Tinatayang may kumulang-kulang na dalawampung libong uri ang mga bubuyog sa mundo. Sila'y matatagpuan sa lahat ng kontinente maliban sa Antartica. Kabilang sa mga ito ang mga pukyutan, ang mga bubuyog na lumilikha ng pulut-pukyutan.\nNakasanayan na ng mga bubuyog ang mabuhay sa nektar at mga polen mula sa mga bulaklak. Nagmumula sa nektar ang kanilang lakas o enerhiya at sa pollen naman nila nakukuha ang protina at sustansya. Kadalasan, polen ang pinapakain sa mga batang bubuyog o larba.\nNagtataglay din ng probosis ang mga bubuyog, katulad ng mga lamok, na siyang ginagamit nila sa pagkuha o paghigop ng nektar mula sa mga bulaklak. Ang mga lalaking bubuyog ay may labintatlong antena at labindalawa naman ang sa mga kababaihan na pangkaraniwan sa kanilang superpamilya. Lahat ng mga bubuyog ay nagtataglay ng dalawang pares ng pakpak. Sa ibang mga uri ng bubuyog, ang isang kasarian o kaantasan ay nagtataglay ng mas maikling mga pakpak."
+    },
+    {
+        "id": "015p6",
+        "description": "Ang mga ibon ay grupo ng mga hayop na tinatawag na vertebrates o mga hayop na mayroong buto sa likod. Nabibilang sila sa klaseng kung tawagin ay Aves at nakalilipad.\nAng mga ibon ay mga warm-blooded o may mainit na dugo, at sila ay nangingitlog. Sila ay binabalutan ng balahibo at mayroon silang pakpak. Ang mga ibon ay may dalawang paa na pangkaraniwang binabalutan ng kaliskis. Mayrooon silang matigas na tuka at wala silang mga ipin. At dahil ang mga ibon ay may mataas na temperatura at kumukunsumo ng napakaraming enerhiya, sila ay nangangailangang kumain ng maraming pagkain kumpara sa kanilang timbang. Mayroong mahigit sa 9,000 ibat-ibang uri ng ibon na kilala na.\nAng mga ibon ay matatagpuan sa bawat kontinente ng mundo. Ang ibat-ibang klase ng ibon ay nasanay na sa kanilang tinitirahang lugar kung kaya't may mga ibong nakatira sa malalamig na lugar o lugar na puro yelo at ang iba naman ay nakatira sa disyerto. Ang mga ibon ay maaaring nakatira sa gubat, sa mga damuhan, sa mga mabato-batuhing bangin, sa tabing-ilog, sa mga mabatong baybayin at sa mga bubungan ng mga bahay.\nAng mga ibon ay nasanay na ring kumain ng ibat-ibang uri ng pagkaing depende sa kanilang kapaligiran. Karamihan sa mga ibon ay nabubuhay sa pamamagitan ng pagkain ng mga butong-kahoy at prutas. Ang iba naman ay kumakain ng mga luntiang halaman at dahon. Ang iba naman ay nabubuhay sa pagkain ng nektar o pulot-pukyutan mula sa mga bulaklak. Ang iba ay kumakain ng mga insekto. Ang iba naman ay kumakain ng isda ng mga patay na hayop."
+    },
+    {
+        "id": "01x_v",
+        "description": "Ang mga kamelyo o kamel ay mga unggulado at kubang hayop na magkakapantay ang mga kuko na kabilang sa saring Camelus. May isang kabukutan o bukol sa likod ang mga kamelyong Arabo o dromedaryo, habang dalawa naman ang mga kabukutan sa likod ng mga baktriyanong kamelyo. Katutubo ang mga ito sa mga tuyong disyerto ng kanlurang Asya, at ng gitna at silangang Asya. Sa hanay na pangkasarian ng mga kamel, tinatawag na kamelyo ang mga lalaki, samantalang kamelya naman ang mga babae."
+    },
+    {
+        "id": "01yrx",
+        "description": "Ang pusa, Felis catus, o Felis silvestris catus ay isang hayop na inaalagan ng tao. Kadalasang hinuhuli nito ang mga bubuwit at ibon. Isang karniboro ang mga pusa o mga mamalyang kumakain ng karne na kabilang sa pamilyang Felidae. Naging alagang domestikado ang mga pusa na may higit na sa 3,000 mga taon, at tanyag sila bilang mga alagang hayop sa bahay. Una silang naging domestikado o \"pusang-bahay\" at inalagaan dahil kumakain sila ng mga peste, subalit nang lumaon inalagaan sila dahil sa pagiging palakaibigan at mabuting kasama sa buhay.\nGinagamit din ang salitang \"pusa\" para sa ibang mga kasapi ng Felidae: ang mga malalaking pusang tulad ng liyon, tigre, at iba pa; at maging para sa mga pusang-gubat na lynx, puma, at iba pa. Maiilap ang mga pusang ito at maaaring maging labis na mapanganib. Maraming mga uri ng ganitong mga pusa.\nBatay sa katawagang Ingles, tinatawag na Reyna ang babaeng pusa, samantalang Tom naman ang lalaking pusa."
+    },
+    {
+        "id": "09b5t",
+        "description": "Ang manok ay isang uri ng domestikadong ibon na kadalasang kabilang sa mga pagkaing niluluto at inuulam ng tao. Tandang ang tawag sa lalaking manok, inahin naman ang sa babaeng manok, at sisiw para sa mga inakay o anak na ibon nito. Ang mabata-batang inahin ay tinatawag na dumalaga. Kapag mamula-mula o mala-ginto ang kulay ng tandang, tinatawag itong bulaw.\nKabilang ang mga manok sa mga poltri, mga ibong inaalagaan at pinalalaki para kainin. Manukan ang katawagan sa pook na alagaan ng mga manok sa bukid."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Ang baka ay isang pinaamong ungulado, isang kasapi ng subpamilyang Bovinae ng pamilyang Bovidae. Pinapalaki sila bilang mga alagang hayop para sa kanilang karne, mga produktong gatas, katad at bilang hayop na tagahatak. Sa ibang mga bansa, katulad ng Indya, binibigyan sila ng relihiyosong sermonya at paggalang. Tinatayang maryoong mga 1.3 bilyong baka sa buong mundo ngayon."
+    },
+    {
+        "id": "09ddx",
+        "description": "Ang bibe, bibi, itik, o pato ay isang uri ng ibon. Karaniwang tinatawag na bibi o bibe ang mga uring may mapuputing balahibo, samantalang itik naman ang may mga kayumanggi o itim na kulay. Ito ay ibong lumalangoy na kamag-anak ng gansa at sisne. Ang likas na ninuno ng karamihan sa domestikadong itik ay ang tinatawag na Mallard na mas maliit, mas magaan at may kakayahang lumipad. Ang mga lalaking Mallard ay may luntiang ulo at kulay-abong katawan; ang mga inahin ay batik-batik na kayumanggi at itim.\nAng pangalawang uri ng domestikadong itik ay ang mas malaking moskobito o Muscovy duck sa Ingles. Ang mga ito ay may balahibong puti, itim o batik-batik na puti at itim. Bukod sa pagiging mas malaki kaysa mga ibang itik, ang mga ito ay may taglay na mga pulang palong at mala-maskarang balat sa paligid ng mga mata at tuka. Sa mga ibong maygulang lang ito makikita; ang mga bibi nito ay mukhang pangkaraniwang bibi rin.\nAng mga itik ay siyang pinagkukunan ng itlog na balut at penoy, at gayundin ang karne nito ay karaniwang matitikman sa mga lutong Intsik at Timog-Silangan Asyano."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Ang mga elepante o gadya ay isang pamilya sa orden Proboscidea sa uring Mamalya, kabilang dito ang Elepante ng Aprika at ng Asya. Isang katangian ng elepante ang pagtataglay ng malalapad na tainga at mahabang ilong o ang tinatawag na bulalay."
+    },
+    {
+        "id": "03k3r",
+        "description": "Ang kabayo ay isang malaking ungulate na may di-karaniwang daliri sa paa na mammal, isa sa sampung mga makabagong species ng genus na Equus. Isa sa mga pinakamahalagang hayop sa larangan ng kabuhayan ang mga kabayo; kahit na ang kanilang kahalagahan ay bumaba dahil sa mekanisasyon, nakikita pa rin sila sa buong mundo, na nakatutulong sa buhay ng tao sa ilang mga paraan. Prominente ang kabayo sa relihiyon, mitolohiya at sining; gumanap ito ng mahalagang papel sa transportasyon, agrikultura at digmaan; pinagkukunan rin ito ng pagkain, gatong at damit.\nHalos lahat ng lahi ng kabayo, ayon sa isang teorya, ay nagsasakay ng mga tao sa kanilang likod at ginagamit sa pagtutulak ng mga bagay tulad ng mga kariton at paragos. Ngunit, sinasanay ang ilang mga lahi ng kabayo upang gumanap sa isang gawain, magaang mga kabayo para sa karera o pagsasakay, mabigat na kabayo para sa pag-aararo at ibang mga gawaing nangangailangan ng paghihila. Sa ilang lipunan, pinagkukunan ng pagkain ang mga kabayo, parehong karne at gatas; sa ilan ito ay masangsang na pagkain. Sa ilang mga mauunlad na bansa, inaalagaan ang mga kabayo para sa pagpapahinga at pampalakasan, bagaman ginagamit pa rin sila sa pagtatrabaho sa maraming bahagi sa mundo."
+    },
+    {
+        "id": "08pbxl",
+        "description": "Ang unggoy ay isang primado ng suborden na Haplorrhini at impraorden na simian na isang Lumang Daigdig na unggoy o isang Bagong Daigdig na unggoy ngunit hindi kasama ang mga bakulaw. Sa kasalukuyan ay may mga 260 alam na nabubuhay na species ng unggoy. Ang marami sa mga ito ay nakatira sa mga puno bagaman may ilang species ng unggoy na pangunahing nakatira sa lupain gaya ng mga baboon. Ang mga unggoy ay pangkalahatang itinuturing na matalino. Hindi tulad ng mga bakulaw na walang buntot, ang mga unggoy ay karaniwang may buntot. Ang mga walang buntot na unggoy ay hindi tamang tinawag na mga \"bakulaw\" o \"ape\" gaya ng mga walang buntot na Barbary macaque na tinatawag na \"Barbary ape\". Ang mga Bagong Daigdig na unggoy ay inuuri sa loob ng pavorden na Platyrrhini samantalang ang mga Lumang Daigdig na unggoy ay bahagi ng pavorden na Catarrhini na kinabibilangan ng mga hominoid na kinabibilangan ng mga tao. Dahil ang Lumang Daigdig na unggoy ay mas malapit sa mga hominoid kesa sa mga Bagong Daigdig na unggoy, ang mga unggoy ay hindi isang unitaryong pangkat."
+    },
+    {
+        "id": "07bgp",
+        "description": "Ang domestikong tupa, domestikong kordero, domestikong karnero o Ovis aries ay ang pinakakaraniwang espesye sa henerong tupa o Ovis. Mayroon itong mabalahibong katawan, mga kuko at apat na paa na nagmula marahil sa mabangis na urial ng gitnang-timog at timog-kanlurang Asya. Karaniwang tumutukoy ang kordero sa isang batang tupa, samantalang ang karnero ay para sa malaki nang tupa o nasa hustong gulang na."
+    },
+    {
+        "id": "047v4b",
+        "description": "Ang artichoke ay isang gulay na madalas ginagamit sa lutuing Mediteraneo. Nagbibigay ito ng malaprutas na amoy at lasa sa mga pagkain kung saan ito kinasasangkapan."
+    },
+    {
+        "id": "0cjs7",
+        "description": "Ang esparago o asparagus ay isang uri ng gulay."
+    },
+    {
+        "id": "0hkxq",
+        "description": "Ang brokoli o Brassica oleracea italica ay isang halaman mula sa pamilya ng mga repolyo na Brassicaceae. Isa itong uri ng koliplor na nagsasanga ng mga lunting kumpol."
+    },
+    {
+        "id": "0fbw6",
+        "description": "Ang repolyo o Brassica oleracea Linne ay isang uri ng gulay na may maikling tangkay at mga dahong bumubuo ng isang bilog na ulo. Bilang isang halamang inaalagaan na mula pa noong mga 400 BK sa Kanluraning Mundo, itinuturing itong isang mahalagang halamang-gamot. Mula pa noong kapanahunan ni Dioscorides, ginagamit na ito bilang isang panlunas sa suliranin sa dihestiyon o panunaw, bilang toniko para sa mga kasu-kasuan, bilang gamot para sa mga sakit sa balat, at panlaban sa mga lagnat. Kinakain ng sinaunang mga Romano ang hilaw na repolyo upang maiwasan ang pagkalasing. Lagi rin itong nakahanda upang magamit para sa anumang karamdamang nararanasan ng mag-anak.\nNagagamit ang mga dahon ng repolyo bilang panggamot sa mga sugat, mga ulser, mga pamamaga, mga pananakit ng kasu-kasuan o rayuma, at akne. Bilang nakaugaliang gamot, kinakain ito o iniinom ang katas para sa mga sakit sa dihestiyon, karamdaman sa baga, matinding pananakit ng ulo, pananatili ng pluido sa loob ng katawan, at iba pang mga kahapdian sa katawan.\nNoong 1967, tinawag itong \"ang gamot ng mga mahihirap\" ni Dr. Jean Valnet."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Ang karot, kerot, remolatsa, asintorya, asanorya, asonorya o asinorya isang uri ng mahabang gulay na karaniwang kulay narangha, subalit lumilitaw rin ito sa iba't ibang kulay."
+    },
+    {
+        "id": "015w7p",
+        "description": "Ang koli, koles, kales, koliplor, o kaliplawer, may pangalang pang-agham na Brassica oleracea var. botrytis, ay isa sa ilang mga gulay na nasa loob ng uring Brassica oleracea, sa pamilyang Brassicaceae. Isa itong uri ng repolyong nakakain ang puting mga ulo ng mga bulaklak. Mabuting pagkaing pangkalusugan ang koliplor, na maaaring kainin ng luto, hilaw, o binuro.\nNakuha ang pangalan nito mula sa Latin na caulis at bulaklak, na isang pagkilala sa hindi pangkaraniwang lugar nito sa piling ng mga pagkaing halamang karaniwang nagbibigay lamang ng lunting dahong madadahong nakakain. Bukod sa repolyo, kabilang pa rin sa Brassica oleracea ang kole ng brusela, mga kaleng tinatawag na koleng lunti, brokoli at bersa, bagaman magkakaiba ang kanilang kapangkatang kultibar."
+    },
+    {
+        "id": "01xj_",
+        "description": "Ang apyo ay isang uri ng gulay. Tinatawag din itong kintsay. Sa agham, kilala ito bilang Apium graveolens, isang uri ng halamang nasa pamilyang Apiaceae. Daan-daantaon nang itinatanim, inaalagaan, at pinararami ang halamang ito, hindi katulad ng ibang mga halamang naging domestikado o alaga lamang sa tahanan nitong mga huling 200 hanggang 300 mga taon. Tinatawag din itong seleri."
+    },
+    {
+        "id": "02nm75",
+        "description": "Ang mga bersa, lunting kolardo, o kales Pangkat Acephala), ang kaparehong mga uri na pinagmulan ng repolyo at ng brokoli. Pinatutubo ang mga halamang ito dahil sa angkin nitong malalaki, maiitim, at nakakaing mga dahon. Pangunahing ginagamit din itong palamuting halaman sa mga halamanan sa Brasil (tinatawag doon na couve), Portugal (kilala bilang couve-galega), Katimugang Estados Unidos, maraming mga bahagi ng Aprika, Montenegro (kilala bilang Raštan), Espanya, at sa Kashmir (kilala bilang haak). Tinatawag itong kovi o kobi sa Kabo Berde. Nagmula ang pangalan nito sa Ingles na collard mula sa Angglo-Saksong colewort o colewyrt na may ibig sabihing (\"halamang repolyo\"). Kinaklasipika ang mga ito sa katulad na pangkat ng mga kultibar ng mga kale at mga lunti ng tagsibol."
+    },
+    {
+        "id": "053wn",
+        "description": "Ang mais ay isang uri ng bungang gulay. Isa ito sa mga mahahalagang produkto sa Pilipinas."
+    },
+    {
+        "id": "015x4r",
+        "description": "Ang pipino o pepino ay isang uri ng prutas na kinakain ng hilaw kung bagong pitas. Kahawig ito ng mga patola."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Ang talong ay isang uri ng prutas na pangkaraniwang kulay lila ang mga bunga, bagaman mayroon ding lunti at puti uri. Maaari itong mahaba, bilugan, malaki, maliit o maikli."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Ang bawang o Allium sativum ay isang uri ng halamang gulay na ginagamit sa pagluluto. Isa itong uri ng sibuyas na nasa pamilyang Alliaceae. Kalapit na kamag-anak nito ang mga sibuyas. Ginagamit na ito sa kabuoan ng kasaysayang nakatala, partikular na sa pagluluto at panggagamot. Mayroon itong maanghang na amoy o lasang nakapagpapabanayad at nakapagpapatamis sa mga lutuin. Nahahati ang mga kumpol nito sa mga malalamang mga butil. Ginagamit ang mga butil bilang buto, pagkain, at para sa panggagamot. Nakakain din ang mga dahon, sanga o tangkay, bulaklak sa ulo at kalimitang kinakain kapag mura at malambot pa. Ang tila mga papel na balot o balat at mga ugat na nakadikit sa mga kumpol ang mga natatanging bahaging hindi nakakain. Nagmumula ang matapang na amoy ng bawang sa nilalaman nitong kompawnd na may sulpur."
+    },
+    {
+        "id": "03lp1_",
+        "description": "Ang upo ay isang uri ng halamang baging o gumagapang na may mga mahahaba at mapuputing bunga na kahugis ng batuta. Nagagamit sa pagluluto ang bungang ito."
+    },
+    {
+        "id": "025s18p",
+        "description": "Ang okra ay isang uri ng halamang gulay. Itinuturing itong isang brain food o \"pagkaing pang-utak\" sapagkat mayaman ito sa posporo. Maaaring gawing adobo ang okra."
+    },
+    {
+        "id": "0dj75",
+        "description": "Ang sibuyas ay isang uri ng halamang gulay na ginagamit sa pagluluto. Nakakasanhi ng luha ang bunga nito kapag hinihiwa kung hindi nahugasan. Tinatawag na sibuyas ang anumang maraming mga halamang nasa saring Allium. Bagaman kilala ng mga ito bilang sibuyas sa pangkaraniwan katawagan, kalimitan itong tumutukoy sa Allium cepa, ang \"sibuyas mula sa hardin o halaman.\" Kilala lamang ang Allium cepa sa larangan ng pagtatanim, subalit mayroon ding mga likas na uri matatagpuan sa Gitnang Asya. Kabilang sa mga pinakamalapit na mga uri ang Allium vavilovii Popov & Vved. at ang Allium asarense R.M. Fritsch & Matin mula sa Iran. Subalit nagbigay ng babala sina Zohary at Hopf na \"mayroong pagaalangan kung ang kalipunan vavilovii sinuri ay kumakatawan sa tunay na materyal na ilang o mga ligaw o naging mailap lamang na halaw din lamang mula sa mga itinatanim.\""
+    },
+    {
+        "id": "01xfpd",
+        "description": "Ang Pastinaca sativa o parsnip na kabilang sa mga pastinaka, ay isang uri ng gulay na ugat na kamag-anakan ng mga karot. Kahawig ng mga parsnip ang mga karot, subalit mas maputla ang kulay kaysa sa karamihan sa mga karot, at mayroong mas matamis na lasa, lalo na kapag niluto. Ang malangis o mamantikilya, may bahagyang anghang, at matamis na lasa ng nalutong nasa gulang na mga parsnip ay nakapagpapagunita ng butterscotch, pulut-pukyutan, at mapitagang kardamon. Katulad ng mga karot, katutubo ang mga parsnip sa Eurasya at kinakain na roon magmula pa noong sinaunang mga kapanahunan. Ayon kina Zohary at Hopf, ang katibayang pang-arkeolohiya para sa paglilinang ng parsnip ay mayroon pa ring limitasyon, at na ang mga napagkunang panitikang Griyego at Romano ay ang isang pangunahing pinanggalingan hinggil sa maagang paggamit nito, subalit nagbabala sila na mayroong kahirapan sa pagkilala ng pagkakaiba sa pagitan ng parsnip at ng karot sa loob ng mga sulating pangklasiko dahil ang mga gulay na ito ay kapwa tila paminsan-minsang tinatawag na pastinaca bagaman ang bawat isang gulay ay mukhang maigi na ang paglilinang noong mga kapanahunan ng sinaunang mga Romano. Bilang pastinache comuni, ang \"karaniwang\" pastinaca, ay kabilang sa mahabang tala ng mga pagkaing kinasisiyahan ng mga Milanes na ibinigay ni Bonvesin de la Riva sa kanyang \"Marvels of Milan\"."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Ang tsitsaro o sitsaro ay isang uri ng payat na gisantes. Makakain ang lahat o buong bahagi ang sariwang bunga ng halamang ito."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Ang mani ay isang uri ng halaman na karaniwang inaakalang nasa pamilyang Fabaceae na likas sa Timog Amerika, Mehiko at Gitnang Amerika."
+    },
+    {
+        "id": "05vtc",
+        "description": "Ang patatas ay isang uri ng gulay, o ang halaman na nagpapatubo nito. Unang napatubo ang patatas sa mga bundok ng Andes sa Timog Amerika. Nang napunta ang mga Europeo sa Timog Amerika, dinala nila ang patatas sa Europa. Ang siyentipikong pangalan ng halamang patatas sa wikang Latin ay Solanum tuberosum.\n\n Ang lathalaing ito na tungkol sa Halaman ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "05zsy",
+        "description": "Ang kalabasa ay isang uri ng malaking gulay na tumutubo sa isang baging; o isang malaking bunga ng gumagapang na halamang baging na may kulay na pinaghalong narangha at dilaw. Nasa saring Cucurbita ito at nasa pamilyang Cucurbitaceae. Maaaring tumukoy ito sa mga uri na Cucurbita pepo o Cucurbita mixta, o posible sa isang partikular na uri ng Cucurbita maxima o Cucurbita moschata."
+    },
+    {
+        "id": "015x5n",
+        "description": "Ang labanos o rabanos ay isang uri ng maliit na halamang gulay na may matigas at malutong na ugat."
+    },
+    {
+        "id": "0cl46",
+        "description": "Ang singkamas, pulang singkamas, turnip, o pulang turnip ay isang ugat na gulay na pangkaraniwang pinatutubo sa mga pook na may klimang hindi kainitan at hindi kalamigan sa buong mundo, dahil sa puting mabulbo o parang ulo ng sibuyas na ugat nito. Pinatutubo at inaalagaan ang maliliit at malalambot na mga uri nito para makain ng tao, habang nagiging pakain naman sa mga alagang hayop na pangkatay ang mga mas malalaking uri.\n\n Ang lathalaing ito na tungkol sa Halaman at Pagkain ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0jtc5",
+        "description": "Ang Achillea millefolium, yaro, milepolyo o milepolyum ay isang uri ng halamang yerba o halamang-gamot. Nagmula ang pangalang Latin nito - ang pangalan sa agham - sa bayaning Griyegong si Achilles. Ginamit itong gamot para sa mga sugat noong mga panahon ng mga digmaang Trojan. Sa Ingles, isa sa mga pangkaraniwang tawag dito ang nosebleed o \"pagdurugo ng ilong\", sapagkat kaugnay ito sa katangian nitong makapigil sa pagdurugo ng sugat. Sa kasalukuyang panahon, mahalaga ito sa paggamot ng mga sipon at sa epekto sa mga sistemang sirkulatoryo, dihestibo, at urinaryo. Karaniwang matatagpuan itong tumutubo sa mga damuhan."
+    },
+    {
+        "id": "015fr",
+        "description": "Ang Brasil ang pinakamalaking bansa sa Timog Amerika at ang may pinakamalaking populasyon sa kontinente. Ito rin ang ikalimang pinakamalaking bansa sa daigdig. Ipinangalan mula sa brazilwood, isang katutubong puno, ang Brasil ay sagana sa lupang agrikultural at magubat. Portuges ang wikang opisyal ng Brasil."
+    },
+    {
+        "id": "0d060g",
+        "description": "Ang Canada ay isang bansa sa Hilagang Amerika, ang pinakahilaga sa buong mundo, at ang pangalawang pinakamalaki sa sukat. Tinatawag na Kanadyano, Kanadyana, o Kanadiyense ang mga taga-Canada o mga mamamayan ng Canada.\nAng Canada ay naging tirahan ng mga Aborgines bago dumating ang mga Briton at Pranses noong ika-15 siglo. Pagkatapos ng Digmaan ng Pitong Taon ang Prasya ang isinuko halos lahat ng mga kolonya nila sa Hilagang Amerika.\nAng mga opisyal na wika ng Canada ay Ingles at Pranses."
+    },
+    {
+        "id": "01p1v",
+        "description": "Ang Republika ng Chile ay isang bansa sa timog-kanlurang baybayin ng Timog Amerika. Ang bansa ay isang makitid na banda ng lupa sa pagitan ng bulubunduking Andes at ng Karagatang Pasipiko. Hinahanggan ito ng Argentina sa silangan, Bolivia sa hilagang-silangan, at Peru sa hilaga."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Ang Republikang Popular ng Tsina o Pangmadlang Republika ng Tsina ay ang pinakamalaking bansa na matatagpuan sa Asya.\nAng Madlang Republika ng Tsina ang ika-3 o ika-4 na pinakamalawak na bansa sa mundo dahil sa sukat nito na umaabot ng 9.6 milyong kilometro parisukat\nAng kahalagan ng Tsina sa mundo ngayon ay mapapansin dahil sa kaniang bahaging ginagampanan bilang ikatlong pinakamalaking ekonomiya nominally at isang permanenteng kasapi ng UN, United Nations Security Council atsaka din miyembro sila ng iba-ibang kapisanan katulad ng WTO, APEC, East Asia Summit, at Shanghai Cooperation Organization.\nAng mga pinakamahahalagang lungsod ay Shanghai, Beijing, Guangzhou, Shenzhen, Hong Kong at Inner Mongolia. Ang Beijing ang kasalukuyang kabisera ng bansa."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Ang Republika ng Kuba o Kuba ay binubuo ng mga pulo ng Cuba, ang Maliit na Pulo ng Kabataan at iba't ibang karatig na maliliit na pulo. Nagmula ang salitang Cuba sa salitang Taino na \"cubanacán\", na nangangahulugang gitnang lugar. Matatagpuan ito sa hilagang Caribbean sa pagsasamang pagdaloy ng Dagat Carribean, Gulpo ng Mehiko at ang Karagatang Atlantic. Matatagpuan naman sa hilaga ang Estados Unidos, sa hilaga-silangan ang Bahamas, sa silangan ang Mga Pulo ng Turks at Caicos, sa kanluran ang Mehiko, sa timog ang Mga Pulo ng Cayman at Hamayka, at sa timog-silangan ang Haiti."
+    },
+    {
+        "id": "03shp",
+        "description": "Ang Iran ay isang Gitnang Silangang bansa na matatagpuan sa Timog-kanlurang Asya na pinapaligiran ng Aserbayan, Armenya, at Turkmenistan sa Hilaga, Pakistan, at Afghanistan sa silangan, Turkiya at Irak sa kanluran. Bagaman kilala na ito ng mga katutubo bilang Iran simula noong panahon ng dinastiyang Akemenida, tinutukoy ng Kanluraning Daigdig ang bansang ito bilang Persiya hanggang noong 1935. Noong 1959, ipinahayag ni Mohammad Reza Shah Pahlavi na maaaring gamitin ang parehong kataga. Noong 1979, isang rebolusyon na pinamunuan ni Ruhollah Khomeini sa kalaunan, ang nagtatag ng isang a teokratikong Republikang Islamiko at pinalitan ang pangalan ng bansa sa Ang Republikang Islamiko ng Iran."
+    },
+    {
+        "id": "01znc_",
+        "description": "Ang Republika ng Turkiya ay isang bansa na pangunahing matatagpuan sa Gitnang Silangan at bahagi nito sa timog-silangang Europa. Hinahanggan ang Turkiya ng Bulgaria at Greece sa kanluran, Georgia, Armenia, Azerbaijan, at Iran sa silangan, at Iraq at Sirya sa timog. Ito hanggang 1922 ang sentro ng Imperyong Otomano."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Ang Kaharian ng Sweden ay isang bansang Nordiko sa Eskandinabya, sa Hilagang Europa. Ito ay napalilibutan ng Norway sa kanluran, Finland sa hilagang silangan, ng Kipot ng Skagerrak at Kipot ng Kattegat sa timog kanluran at ng Dagat Baltiko at Gulpo ng Bothnia sa silangan. Ang Sweden ay may mababang densidád ng populasyon sa lahat ng kaniyang mga metropolitan area."
+    },
+    {
+        "id": "06mkj",
+        "description": "Ang Kaharian ng Espanya ay isang bansang matatagpuan sa timog-kanlurang Europa. Sinasaklaw nito ang Tangway ng Iberya kasama ng Portugal at Gibraltar. Ang hangganan nito sa hilagang-silangan, sa bulubunduking Pyrenees, ay ang Pransiya at ang maliit na prinsipado ng Andorra. Kasama sa territoryo nito ang Kapuluang Balear sa Dagat Meditereo, ang Canarias sa Karagatang Atlantiko, ang mga lungsod ng Ceuta at Melilla sa hilagang Afrika, at ilang maliliit at di pinananahanang pulo sa Meditereo sa tabi ng Kipot ng Hibraltar, gaya ng Islas Chafarinas, Peñón de Vélez de la Gomera, Peñón de Alhucemas, at Isla Perejil.\nAng mga sinaunang modernong tao ay dumating sa tangway ng Iberia noong tinatayang 35,000 taong nakalilipas. Sumailalim ito sa pamumuno ng Roma noong 200 BCE, at lumaon ang rehiyon ay binansagang \"Hispania\". Noong Gitnang Panahon sinakop ito ng mga tribong Germaniko at lumaon ng mga Moro sa katimugan. Nabuo bilang isang bansa ang Espanya noong ika-15 dantaon, pagkatapos ng pagpapakasal ng mga Reyes Catolicos at ang pagwawakas ng dantaong pagsakop muli, Reconquista, ng tangway ng Iberia mula sa mga Moro noong 1492. Naging maimpluwensyang imperyo sa daigdig ang Espanya sa unang bahagi ng modernong panahon, isa sa ilang mga bansang sumakop sa Bagong Daigdig at ipinamana ang Wikang Kastila, na naging dahilan upang maging ikalawang pangunahing sinasalitang wika sa daigdig."
+    },
+    {
+        "id": "0h7x",
+        "description": "Ang Republika ng Austria ay isang bansa sa Gitnang Europa. Vienna ang kabisera nito. Napapaligiran ito ng mga bansang Alemanya at Republika ng Tsek sa hilaga, Islobakya at Hungary sa silangan, Islobenya at Italya at timog at Suwisa at Prinsipado ng Liechtenstein sa kanluran."
+    },
+    {
+        "id": "03gj2",
+        "description": "Ang Unggarya o Unggriya, ay isang bansang walang pampang sa Gitnang Europa, napapaligiran ng Austria, Slovakia, Ukraine, Romania, Serbya, Croatia at Slovenia. Sa lokal na pagtawag, kilala ito bilang ang Bansa ng mga Mahyar."
+    },
+    {
+        "id": "0345h",
+        "description": "Ang Alemanya ay isang bansa sa gitnang Europa na kasama sa Unyong Europeo. Ito ay pinaliligiran ng Hilagang Dagat, Denmark at ng Dagat Baltic sa hilaga; ng Poland at Czechia sa silangan; Austria at Switzerland sa timog, at ng Pransiya, Luxembourg, Belhika, at Netherlands sa kanluran. Ang teritoryo ng Alemanya ay sumasaklaw sa 375,201 kilometro kuwadradong lupain na may pabagu-bagong klima. Ang bansa ay mayroong higit 82 milyong mamamayan at natatangi at unang bansang may pinakamalaking populasyon na kasapi ng Unyong Europeo, at ikatlo sa may pinakamaraming nandarayuhan.\nSa kabuuan ng kanyang kasaysayan, ang Alemanya ay naging bahagi ng iba't ibang estado. Isang maliit na lugar na kung tawagin ay Germania ang tinirahan ng mga taong Germaniko noong mga 100 AD.\n\nIto ay nabuo lamang bilang estado mula 1871 hanggang 1945, at muli na namang nahati pagkatapos ng Ikalawang Digmaang Pandaigdig sa dalawa: Republikang Pederal ng Alemanya na nakilala bilang Kanlurang Alemanya at Demokratikong Republika ng Alemanya na nakilala naman bilang Silangang Alemanya. Noong Oktubre 3, 1990, bumagsak ang Silangang Alemanya sa Kanlurang Alemanya at muling nabuo ang bansa. Ang Berlin ang kabisera at ang pinakaimportanteng lungsod."
+    },
+    {
+        "id": "05qhw",
+        "description": "Ang Republika ng Polonya ay isang bansang matatagpuan sa gitnang Europa, sa pagitan ng Alemanya sa kanluran, ang Republikang Tseko at Eslobakya sa timog, Ukranya at Belarus sa silangan, at ng Dagat Baltiko, Litwaniya, at ng Oblast ng Kaliningrad ng Rusya sa hilaga. Ang kabisera at gayundin ang pinakamataong lungsod nito ay ang Warsaw.\nUnang itinatag ang Polonya noong 966 sa Kristiyanisasyon nito. Inabot ng Polonya ang rurok nito noong ika-16 siglo sa pagkatatag ng Komonwelt ng Polonya at Litwaniya hanggang sa paghahati-hati nito sa pagitan ng Imperyong Ruso, Austria-Unggarya at ang Kaharian ng Prusya noong ika-19 siglo, kung saan tumigil ang pag-iral nito bilang hiwalay na bansa. Muling itinatag ang Polonya noong 11 Nobyembre 1918, pagkatapos ng Unang Digmaang Pandaigdig, na kilala bilang Ikalawang Republika."
+    },
+    {
+        "id": "04g5k",
+        "description": "Ang Republika ng Latbiya o Letonya ay isang bansa sa hilagang Europa. Hinahanggan ito ng dalawa nitong kaestadong Baltiko—Estonya sa hilaga at Litwanya sa timog—at ng Rusya at Byelorusya sa silangan. Sa kanluran, may hangganang marítimo ang Lithuania sa Sweden."
+    },
+    {
+        "id": "012wgb",
+        "description": "Ang pulo ng Irlanda ay nahahati sa mga bahagi ng Republika ng Irlanda at ng Hilagang Irlanda.\nAng Hilagang Irlanda ay kasama sa Nagkakaisang Kaharian at kinikilala nilang puno ng gobyerno ay ang Reyna Elizabeth II.\nAng Republika ng Irlanda ay malaya.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "03_r3",
+        "description": "Ang Hamayka ay isang bansang pulong matatagpuan sa Karibe. Sa Hamayka ipinanganak ang sikat na artista na si Bob Marley. Dito inimbento ang sikat na musikang reggae."
+    },
+    {
+        "id": "01crd5",
+        "description": "Ang Vietnam, opisyal na tinatawag na Sosyalistang Republika ng Vietnam ay ang pinakasilangang bansa as Tangway ng Indotsina sa Timog-silangang Asya. Ito ay naghahanggan sa Tsina sa hilaga, sa Laos sa hilagang kanluran, sa Cambodia sa timog kanluran, at sa Dagat Timog Tsina sa silangan. Sa populasyon nitong nasa 86 milyon, ang Vietnam ay naging ika-13 pinakamataong bansa sa buong daigdig.\nAng mga mamamayan ng Vietnam ay nagkamit muli ng kalayaan at tumiwalag sa Tsina noong AD 938 pagkatapos ng pagkapanalo nila sa Labanan sa Bạch Đằng River. Sunod-sunod na dinatiya ang umusbong kasabay ng pagpapalawak nito sa politikal at heograpiyang aspeto hanggang nasakop ito ng mga Pranses noong ika-19 daantaon. May mga pag-aaklas laban sa mga Pranses na nagbunga ng pagpapaalis o pagpapalayas sa mga ito sa bansa. Bunga nito ay ang pagkahati ng bansa sa dalawa. Ang labanan na ito ay nagtagal hanggang Vietnam War. Nagtapos ito sa pagkapanalo ng Hilagang Vietnamese noong 1975. Nakabukod mula sa ibang bansa ang Vietnam habang ito bumabangon mula sa matinding pagkasira o pagkasawak dahil giyera. Ang ekonomiya at pulitika ng Vietnam ay isinaayos upang makiisa muli sa mundo. Noong taong 2000, ang Vietnam ay nagtatag ng diplomatikong relasyon sa halos lahat ng bansa sa buong mundo. Ang paglago ng ekonomiya ng Vietnam ay isa sa pinakamataas sa buong dekada. Itong pagkilos na ito ay nagbunga ng pagsali ng Vietnam sa World Trade Organization noong 2007."
+    },
+    {
+        "id": "015qh",
+        "description": "Ang Republika ng Bulgarya ay isang republika sa timog-silangang Europa. Hinahanggan ito ng Dagat Itim sa silangan, ng Gresya at Turkiya sa timog, ng Serbia at Montenegro at Dating Republikang Yugoslav ng Masedonya sa kanluran, at ng Romania sa hilaga katabi ng Ilog Danubyo."
+    },
+    {
+        "id": "04w8f",
+        "description": "Ang Monggolya \/mong·gol·ya\/ ay isang bansa sa Silangan at Gitnang Asya na lubos na napapalibutan ng kalupaan. Nasa hilaga ng hangganang nito ang Russia at sa timog ang China. Kahit hindi nito kahangganan ang Kazakhstan, ang pinakakanlurang dulo nito ay 38 kilometro lang ang layo sa pinakasilangang dulo ng Kazakhstan. Ulan Bator ang kabisera at pinakamalaking lungsod ng Monggolya, kung saan 45 porsiyento ng populasyon ng bansa ay dito nakatira. Ang pamahalaan ng Monggolya ay isang republikang parliyamentaryo.\nPinagharian ng iba't-ibang imperyong lagalag, kasama na rito ang Xiongnu, Xianbei, Rouran, Gokturk at iba pa ang lugar na sakop na ngayon ng Monggolya. Itinayo ni Genghis Khan ang Imperyong Mongol noong 1206. Matapos bumagsak ang Dinastiyang Yuan, bumalik sa sinaunang nilang kaugaliang pagtutunggalian ang mga Mongol at madalas na pananalakay sa mga lupaing nasa hangganan nito sa China. Noong ika-16 at ika-17 siglo, napasailalim ng impluwensiyang Budismong Tibetan ang bansa. Sa pagsasara ng ika-17 siglo, napaloob ang buong Monggolya sa teritoryong pinamumunuan ng Dinastiyang Qing. Sa pagbagsak ng Dinastiyang Qing noong 1911, nagdeklara ng kasarinlan ang Monggolya ngunit kinailangan nitong sikapin hanggang 1921 upang matamo at maitatag ang de factong kalayaan nito mula sa Republika ng China at hanggang 1945 upang kilalanin sa buong mundo ang kalayaan nito."
+    },
+    {
+        "id": "06q1r",
+        "description": "Ang Eskosya ay isang kaharian sa Nagkakaisang Kaharian ng Gran Britanya at Hilagang Irlanda. Tinatawag na Eskoses at Eskosesa ang mga taga-Eskosya."
+    },
+    {
+        "id": "0chghy",
+        "description": "Ang Komonwelt ng Australiya o Australiya ay ang ikaanim na pinakamalaking bansa sa mundo, ang kaisa-isang bansa na sumasakop sa isang kontinente, at ang pinakamalaki sa rehiyon ng Australasia\/Oceania. Kabilang din sa teritoryo nito ang ilang mga pulo, ang pinakamalaki dito ay ang Tasmania, na nagsisilbing isang estado ng Australia. Ang Australia ay isang federasyon at pinamamahalaan bilang parliamentary constitutional monarchy.\nKasama sa mga karatig bansa ng Australia ay ang Indonesia, East Timor, at Papua New Guinea sa hilaga, ang Pacific Islands sa hilagang-kanluran, at ang New Zealand sa timog-silangan."
+    },
+    {
+        "id": "035v3",
+        "description": "Ang Groenlandia, Lupanlunti o Grinland ay isang malaking Artikong pulo. Isa itong kasaping bansa ng Kaharian ng Dinamarkang nakalagay sa pagitan ng Dagat Artiko at ng Dagat Atlantiko, sa silangan ng Kapuluan ng Kanadyanong Artiko. Mayroon itong populasyon ng 50,000 mga naninirahan o residente lamang dahil sa malamig na klima. Karamihan sa populasyon ang nakatira sa katimugang bahagi ng pulo, sa mga baybayin. Kabisera ng Lupanglunti ang Nuuk."
+    },
+    {
+        "id": "0jgx",
+        "description": "Ang Republika ng Armenya ay isa sa tatlong bansang sa katimugang Caucasus, sa pagitan ng Dagat Itim at ng Dagat Caspian. Pinalilibutan ito ng Turkey sa kanluran, Georgya sa hilaga, Azerbaijan sa silangan, at ng Iran at Naxichevan, isang bahagi ng Azerbaijan, sa timog. Ang Armenya ay kasapi sa Council of Europe at ng Commonwealth of Independent States- Mga bansa na dating kasapi ng nabulwag na Unyong Sobyet."
+    },
+    {
+        "id": "03_3d",
+        "description": "Ang Hapon o Hapón ay isang bansang matatagpuan sa Silangang Asya. Binubuo ang bansang Hapon ng mga pulo, na ang apat na pinakamalaki ay Honshū, Kyūshū, Shikoku, at Hokkaidō. Isa sa mga pinakamayamang bansa ang Hapon na kilala sa mga produktong pang-transportasyon at elektroniks. Ang kapital nitong Tōkyō ay ang pinakamalaking kalungsuran sa buong mundo. Ang bansa nila ay isa sa mga pinakamraming siponan na tao.\nAng Hapon ay binubuo ng 3,000 mga isla. Karamihan sa mga isla dito ay mabundok, at ang iba ay may mga bulkan, kabilang na ang pinakamataas na bahagi ng bansa, ang Bundok Fuji. Ang Hapon ay pang-sampu sa may pinakamalaking populasyon, na may 128 milyong katao. Ang Kalakhang Tokyo, kasama ang Tokyo at ang iba pang nakapalibot na prepektura, ay ang pinakamalaking metropolitanong lugar, na tinitirahan ng 30 milyong katao.\nMay mga pagsasaliksik na nagsasabi na may mga taong nanirahan na sa mga isla ng Hapon noong panahon pa ng paleolitiko.\nAng bansang Hapon ay ang ikalawang pinamalaking ekonomiya sa buong mundo, at ang ikaanim sa pinakamalaking naangkaat at tagapag-angkat. Ito ay kasapi ng mga Nagkakaisang Bansa, G8, at ng APEC."
+    },
+    {
+        "id": "019rg5",
+        "description": "Ang Republika ng Kenya, ay isang bansa sa Silangang Aprika. Napapalibutan ng Ethiopia sa hilaga, Somalia sa hilaga-silangan, Tanzania sa timog, Uganda sa kanluran, at Sudan sa hilaga-kanluran, kasama ang Karagatang Indyan sa timog-silangan."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Ang Lunes ay isang araw ng linggo sa pagitan ng Linggo at Martes. Ito ay pangalawa sa tradisyonal na linggo at una sa linggong pangnegosyo. Galing sa wikang Kastila ang salitang ito na galing naman sa salitang Lunae dies o \"araw ng buwan\". Ang salin ng Lunes sa wikang Inggles ay \"Monday\" na galing naman sa Mona, ang diyos ng buwan ng mga Saxones."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Ang Martes ay ang araw ng linggo sa pagitan ng Lunes at Miyerkules.\nAng salin ng Martes sa Ingles ay \"Tuesday\" na hanggo sa Ingles na \"Twisday.\" Ito ay na hango rin sa makalumang salin na \"Tiwes dæg\" na ang sinunod naman sa pangalan ng diyos-diyosan ng mga na Nordic na si Tyr. Si Tyr ay katumbas na diyos ng digmaan ng mga Romano na si Marte, at ng mga Griyegong si Ares.\nSa Latin, ang Martes ay hango sa \"Martis dies\" na ang ibig sabihin ay \"Araw ni Marte.\" Sa mga wikang Romanse naman, maliban sa Portuges, ang salitang Martes ay galin din sa kahalintulad na Latinong pangalan na Mardi, Martes, Martedi, Dimarts at Marţi.\nAng mga nabubuhay pang mga lengguwaheng Seltiko ay nagpanatili ng mga Latinong pangalan. Gayumpaman, wala sa mga lengguwaheng ito ang nag-ugat sa Latin. Ang Martes ay dé máirt sa Irish, Meurzh sa Breton, at dydd Mawrth sa Welsh. Pinanatili naman ng mga Scottish Gaelic ang salin na Dimàirt para sa araw ng Martes.\nAng Ingles at Scandinavian na bersyon ng Martes ay hanggo sa pangalan ng diyos-diyosang Nordic na si Týr:\n⁕Lumang Frisian: tîesdei\n⁕Lumang Ingles: tíwesdæg\n⁕Old High German: zîestag"
+    },
+    {
+        "id": "0f7_4",
+        "description": "Ang Miyerkules ay ang araw ng linggo sa pagitan ng Martes at Huwebes.\nLinggo | Lunes | Martes | Miyerkules | Huwebes | Biyernes | Sabado\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Ang Huwebes ay ang araw ng linggo sa pagitan ng Miyerkoles at Biyernes.\nLinggo | Lunes | Martes | Miyerkules | Huwebes | Biyernes | Sabado\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Ang Biyernes ay ang araw ng linggo sa pagitan ng Huwebes at Sabado.\nAng pangalang Biyernes ay mula sa Latin ngalan veneris, o 'araw ni Venus'.\nLinggo | Lunes | Martes | Miyerkules | Huwebes | Biyernes | Sabado\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Ang Sabado ay ang araw ng linggo sa pagitan ng Biyernes at Linggo."
+    },
+    {
+        "id": "0f6ld",
+        "description": "Ang Linggo ay ang unang araw ng linggo. Ito ay nasa pagitan ng Sabado at Lunes. Sa ibang mga kalinangan, ito ay ang ikalawang araw ng weekend. Ito ay itinuturing na holiday sa mga lugar na laganap ang Kristiyanismo, ang araw kung kailan nagsisimba ang mga Kristiyano.\nSa talaarawang Gregorian, walang dantaon ang nagsisimula sa Linggo. Sa Hebrew calendar, walang taon ang nagsisimula sa Linggo. Ang alinmang buwan na nagsisimula sa Linggo ay mayroong Biyernes sa ika-13 araw."
+    },
+    {
+        "id": "06m_p",
+        "description": "Ang araw ay ang tala na nasa gitna ng sangkaarawan. Sa ating sangkaarawan, ang araw ay nag-iisang tala na nasa gitna ng walong buntalang nagsisilibot dito, kasama na sa mga lumilibot ay ang Daigdig. Kasama sa walong buntalang nagsisilibot sa araw ay ang iba pang mga bagay, tulad ng mga makabuntala, kometa, at alikabok.\nHidrohena, hilyum, at mga bakas ng iilang mga bagay tulad ng bakal, nikel, oksiheno, silikon, asupre, magnesiyo, nion, kalsiyon, at kromyo. Ang araw ay mayroong init na 5780K, na nagbibigay rito ng puting kulay, na kadalasang nakikitang dilaw mula sa Daigdig dahil sa paghihiwalay sa himpapawid, na siyang nagbabawas mula sa mga maiigsing liboyhaba ng ilaw, tulad ng bughaw at lila, na nag-iiwan ng mga frequency na nakikita ng mata bilang dilaw. Itong paghihiwalay na ito ang nagbibigay sa kalawakan ng bughaw nitong kulay. Kapag ang araw ay mababa sa kalawakan,tulad na lang tuwing bukangliwayway at takipsilim, mas marami pang ilaw ang napaghihiwalay, kaya ang kalawaka'y nagmumukhang pula o kulay kahel\nAng enerhiyang mula sa araw sa anyong ilaw at init ang siyang nagpapatakbo ng photosynthesis na siyang nagpatatakbo ng buhay sa Daigdig, at siyang nagpapatakbo ng panahon at mga klima sa naturang buntala."
+    },
+    {
+        "id": "09cy8",
+        "description": "Ang Merkuryo ay isang planeta sa sistemang solar. Ito ay ang unang planeta mula sa Araw. Ito ang kasalukuyang pinakamaliit na planeta nang tanggalin ang Pluto sa listahan ng mga planeta noong 2006. Walang atmospera sa Mercury. May pagkakahalintulad ang Mercury sa ating buwan. Marami itong mga craters. Dito matatagpuan ang pinakamalaking crater sa sistemang Solar, ang Caloris Basin. Ang haba ng isang araw doon ay katumbas ng 56.8 na araw sa mundo. Ang planetang ito ay umiikot ng 1 rebolusyon sa loob ng 88 mundong araw."
+    },
+    {
+        "id": "09bcm",
+        "description": "Ang Venus ay ang pangalawang planeta na malapit sa araw. Pinangalanan mula sa diyosa ng pag-ibig at kagandahan ng mga Romano, ito ay pang-anim na pinakamalaking planeta sa sistemang solar. Binabansagang itong Lusiper kapag lumilitaw ang planetang ito bilang \"bituin ng umaga\"."
+    },
+    {
+        "id": "02j71",
+        "description": "Ang planetang Daigdig ay ang pangatlong planeta mula sa Araw. Ito ang pinakamalaking planetang terestriyal ng sistemang solar. Kumpirmado ng makabagong agham na ang Daigdig lamang ang katawang pamplaneta kung saan maaaring tumira ang mga buhay na organismo tulad ng mga hayop at halaman."
+    },
+    {
+        "id": "09cws",
+        "description": "Ang Marte o Mars ay ang ika-apat na planeta mula sa Araw sa ating sistemang solar. Ipinangalan ito sa Romanong diyos ng digmaan. Kilala din ang Marte bilang \"Ang Pulang Planeta\" hinggil sa mamulang anyo nito kapag nakikita mula sa Daigdig sa gabi. May dalawang buwan ang Marte, ang Phobos at Deimos, na maliliit at kakaiba ang hugis at posibleng nakuhang mga asteroyd katulad ng 5261 Eureka. Makikita ang Marte mula sa Daigdig sa pamamagitan ng hubad na mata na may kaliwanagan ng hanggang -2.9 magnitud, nilalagpasan lamang ng Venus, Buwan at Araw.\nTumutukoy ang unlaping areo- sa Marte katulad sa pagtukoy ng geo- sa Daigdig — halimbawa, ang areolohiya laban sa heolohiya. Ginagamit din ang areolohiya bilang pangtukoy sa pag-aaral sa Marte sa isang kabuuan sa halip sa mga prosesong heolohikal ng planeta. Ang simbolong astronomikal ng Marte ay ♂, isang bilog na may palaso na tumuro sa hilaga-silangan. Kinakatawan ng simbolong ito ang kalasag at sibat ng diyos na Marte, at sa biyolohiya, ginagamit ito bilang tanda para sa kasariang lalaki.\nTumutukoy sa Intsik, Hapon, Koryano at Vietnames na mga kultura ang planeta bilang 火星, or bituing apoy, isang pagpapangalan na nakabatay sa lumang mitolohikal na Intsik ng sirkulo ng Limang Elemento."
+    },
+    {
+        "id": "09q84",
+        "description": "Ang Hupiter o Jupiter ay ang ika-limang planeta mula sa Araw at ang pinakamalaki sa loob ng Sistemang Solar. Isa itong higanteng gas na may masa na mas kaunti lamang sa ika-isang libong bahagdan ng bigat ng Araw. Subalit ang bigat nito ay dalawa at kalahating mas mabigat kaysa sa pinagsamang bigat ng lahat ng ibang planeta ng Sistemang Solar. Ang Hupiter ay inuuri bilang higanteng gas gaya ng Saturn, Uranus at Neptune. Tinatawag ring planetang Jovian ang apat na planetang ito."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Ang Saturno ay ang pang-anim na planeta mula sa Araw at ang pangalawang pinakamalaking planeta sa sistemang solar, pangalawa sa Jupiter. Nagmula sa isang sinaunang bathalang Romano ang pangalan ng planetang ito."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Ang Uranus ang ikapitong planeta mula sa araw at ikaatlo sa pinakamalaking planeta sa buong sistemang solar. Isinunod ang pangalan nito Griyegong diyos ng kalangitan, ama ni Kronos at lolo ni Zeus. Kahit kaya itong makita sa pamamagitan lamang ng mata ng tao katulad ng lima pang klasikal na planeta hindi ito na nakilalang planeta ng mga naunang mga nagmamatyag dahil sa madilim nitong kalangitan at mabagal na pag-ikot sa orbit.\nIbinalita ni Ginoong William Herschel ang pagkakatuklas dito noong ika-13 ng Marso, 1781 na nagpalawig sa hangganan ng sistemang solar sa unang pagkakataon sa makabagong kasaysayan. Ito rin ang unang pagkakataon na makatuklas ng planeta gamit ang teleskopyo."
+    },
+    {
+        "id": "0c31h",
+        "description": "Ang Neptuno ay ang ika-8 planeta mula sa Araw sa Sistemang Solar. Ipinangalan ito sa Romanong diyos ng karagatan. Ito ay ang ika-4 sa pinakamalaking planeta ayon sa diametro at ikatlo naman ayon sa masa. Ang Neptuno ay mas mabigat ng 17 beses kaysa sa mundo at mas mabigat ng kaunti sa halos kakambal nitong planeta ng Urano na katumbas ng 15 na Daigdig at hindi ganoon ka dense. Ang orbit ng Neptuno ay kalimitang nasa distansiya na 30.1 AU mula sa Araw, mga halos 30 beses ng layo ng Daigdid sa Araw. Ang astronomikal na simbolo nito ay ang, isang bersyon ng trident ng diyos na si Neptuno.\nNadiskubre ito noong Setyembre 23, 1846, ang Neptuno ay ang tanging planeta na nahanap gamit ang prediksyong matematikal kaysa empirikal na obserbasyon. Ang mga hindi inaasahang pagbabago sa orbit ng Urano ang tumulong sa mga astronomer na malaman na naapektuhan ito ng perturbasyong grabitasyonal ng isang di kilalang planeta. Ang Neptuno ay nahanap sa loob ng isang degree ng inaasahan nitong posisyon, at ang pinakamalaki nitong buwan, ang Triton, ay natuklasan pagtapos. Sulbalit hindi kaagad natuklasan ang 12 pang mga buwan sa pamamagitan ng teleskopiya hanggang sa ika-20 na siglo. Isang sasakyang pangkalawakan pa lamang ang nakabisita sa Neptuno, ang Voyager 2, na lumipadng malapit sa planeta noong Agosto 25, 1989."
+    },
+    {
+        "id": "02vx4",
+        "description": "Ang futbol ay isang uri ng sipaang bola o isports na nilalaro ng dalawang koponan, na may 11 manlalaro gamit ang isang bilog na bola. Ito ay nilaro na mahigit 250 milyong manlalaro sa 200 bansa, ito ay isang napakasikat na palakasan sa buong mundo. Ang laro ay tinatanghal sa isang hugis-parihabang batawan na may gol sa bawat dulo nito. Ang layunin ng laro ay maka-puntos gamit ang lahat ng parte ng katawan maliban sa kamay at braso, upang mapunta ang bola sa tunghuhin ng kalaban.\nBawat koponan o pangkat ng mga manlalaro ay binubuo ng 11 mga tagapaglaro. Isa sa mga manlalarong ito ang tinatawag na goalkeeper o manlalaro na nagbabantay ng pithaya o tunguhin, siya lang ang pwedeng humawak ng bola kung nasa loob ng kanilang penalty area, kilala din bilang mga \"outfield player\" ang natitirang sampu, ginagamit nila ang paa upang ipasa o hampasin ang bola, pero pwede din nila gamitin ang kanilang ulo at katawan para maka-iskor. Ang koponan na may pinakamaraming gol pagkatapos ng laro ay tatanghaling panalo. Kung ang dalawang pangkat ay pareho ang lamang pagkatapos ng laro, maaaring tabla, o ang laro ay pupunta sa labis na oras at\/o isang penalty shootout depende sa mga panuntunan ng paligsahan. Ang Laws of the Game ay orihinal na sistema sa Inglatera ng The Football Association noong 1863. Ang futbol ay pandaigdigang nasasaklaw ng Pandaigdigang Pederasyon ng Sipaan ng Bola na nagtatatag ng World Cup ng Futbol bawat apat na taon."
+    },
+    {
+        "id": "0jm_",
+        "description": "Ang Amerikanong sipaang-bola o Amerikanong putbol ay isang pampalakasanng laro na may pangkat na nilalaro ng dalawang mga pangkat ng mga tao na may 11 mga manlalaro sa bawat gilid. Nilalaro ito ng isang bola may tulis ang dalawang dulo. Nagkakaroon ng puntos o iskor ang isang pangkat na nakapagdadala ng bola sa sona ng wakas ng kabilang pangkat.\n\n Ang lathalaing ito na tungkol sa Palakasan at Estados Unidos ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "018w8",
+        "description": "Ang basketbol ay isang larong pampalakasan na binubuo ng dalawang koponan ng limang manlalaro bawat isa na sinusubukan makapuntos sa pamamagitan ng paghagis ng isang bola sa isang net sa ilalim ng mga organisang mga patakaran.\nSimula naimbento ang laro sa Springfield, Massachusetts sa Estados Unidos noong 1891, sumulong ito bilang isang tunay na pandaigdigang palakasan. Nagsimula ang mga organisadong paliga sa YMCA; nabuo ang mga naunang liga sa mga kolehiyo. Sa kalaunan, naging palakasang propesyunal ang basketbol. Kahit na isang pampalakasang Amerikano sa una, mabilis na kumalat sa mundo at makikita ang mga kilalang manlalaro at koponan sa ngayon sa buong mundo.\n\n Ang lathalaing ito na tungkol sa Palakasan ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "018jz",
+        "description": "Ang beysbol o baseball ay larong koponan na ginagamitan ng maliit at matigas na bola na pinapalo ng pamalo o bat sa Ingles. Popular ito sa Estados Unidos, Kanada,Hapon, Portoriko, Kuba, Taywan, Panama, Beneswela, at Timog Korea. Itinuturing din ito sa Estados Unidos bilang di-opisyal na pambansang libangan."
+    },
+    {
+        "id": "01cgz",
+        "description": "Ang suntukan o boksing ay isang laro sa larangan ng palakasan kung saan dalawang magkatunggali na may parehong timbang ang naglalaban sa pamamagitan ng kanilang mga kamao o buntalan."
+    },
+    {
+        "id": "07_53",
+        "description": "Ang bolibol o balibol ay isang larong pampalakasan. Kailangan dito ng talino, diskarte, timing, lakas, tiyaga, puso, tibay ng loob sa paglalaro at pagtutulungan."
+    },
+    {
+        "id": "037hz",
+        "description": "Ang golp ay isang katumpakang laro na ginagamitan ng pamalo at bola, kung saan ang mga manalalaro ay gumagamit ng maraming uri ng pamalo upang maibuslo ang bola sa butas. Ang manlalaro na may pinaka-kaunting bilang ng pagpalo ay siyang panalo."
+    },
+    {
+        "id": "03_8r",
+        "description": "Ang Hudo o Judo, nangangahulugang \"malumanay na paraan\", ay isang makabagong Hapones na sining pandigma at labanang palakasan, na nagmula sa bansang Hapon sa huling bahagi ng ika-19 na siglo. Ang pinaka namamayani nitong tanghal ang kompetitibong elemento, kung saan hinahagis ang kalaban sa lupa, pinapawalang-kilos o kung hindi man, pinapasuko ang kalaban sa isang manyobrang nangbubuno, o puwersahin ang kalaban na sumuko sa pamamagitan ng magkasamang pagkandado ng siko o pagsimula ng pagkabulon.\n\n Ang lathalaing ito na tungkol sa Palakasan ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0194d",
+        "description": "Ang badminton ay isang uri ng palakasan na ginagamitan ng raketa. Ito ay maaaring laruin ng dalawang magkalabang manlalaro o kaya ng dalawang magkalabang pares, kung saan sakop ng isang manlalaro o pares ng manlalaro ang kalahati ng isang parisukat na palaruan. Ito ay paghihiwalayin ng isang lambat. Ang isang panig ay makakapagkamit ng puntos sa pamamagitan ng paghataw ng shuttlecock gamit ang raketa, patawirin sa ibabaw ng net at pabagsakin ito sa sahig ng kalabang panig. Ang isang rally ay natatapos kapag ang shuttlecock ay bumagsak sa sahig, at ito ay kailangang paluin ng isang beses lamang ng bawat panig bago ito lumagpas sa net.\nAng shuttlecock ay uri ng bola na nagtataglay ng kakaibang katangian na erodinamiko. Ito ay dahil sa labing-anim na balahibong maayos na nakasuksok sa paligid nito na nagbibigay ng mataas na hila ng hangin kung saan ito ay mabilis na bumabagal kumpara sa ibang bola. May kakayanan din ito na umabot sa pinakasukdulang bilis nito kumpara sa ibang palakasan sa parehas na kategorya. Dahil ang lipad ng shuttle ay lubusang naaapektuhan ng hangin, ang badminton ay kadalasang ginaganap sa isang saradong palaruan. Maaari din itong laruin sa labas katulad ng isang hardin o sa aplaya, ngunit ito ay hindi opisyal bagkus pangkasiyahan o pampamilya lamang."
+    },
+    {
+        "id": "07jbh",
+        "description": "Ang pingpong ay isang uri ng tennis na pang-mesa. Katulad ng regular na tennis, ginagamitan din ito ng mga raketang panghataw ng bola habang hawak ito ng kamay. Dalawang tao ang naglalaban dito na nakatakda sa dalawang dulo ng laruang mesa na nahahati sa gitna ng isang lambat."
+    },
+    {
+        "id": "087zy",
+        "description": "Ang yoga ay isang paniniwala at gawain ng pagdidisiplina sa katawan at isipan. Isa itong matanda o isinaunang disiplinang nagmula pa sa Indya na gumagamit ng mga teknik o pamamaraan sa paghinga, ehersisyo, at meditasyon, at pinaniniwalaang nakapagpapainam ng kalusugan at nakapagbibigay ng kasiyahan. Isang salitang Sanskrito ang yoga na may ibig sabihing unyon o pag-iisa. Si Patanjali ang tagapanimula ng klasikong yoga, na nagbigay kahulugan sa yoga bilang ang pagtatanggal, pagtatapos, o paghinto ng pagbabago sa isipan o kaisipan.\nSa pangkalahatan, tinatawag na yogi ang isang taong nagyoyoga, bagaman maaari rin itong tumukoy sa isang lalaking nagsasanay o nagsasagawa ng sari-saring mga anyo ng daan ng yoga. Bukod sa yogi, tinatawag ding yogin ang lalaking nagyoyoga. Yogini ang katuringan sa isang babaeng nagyoyoga. Nagpapanatili ang yogi ng matatag o hindi nagbabagong isipan, ang proseso ng pagaangat ng mababang sarili. Sa karamihan ng mga pagkakataon, nilalaan ang ganitong mga katawagan para sa mga nasa mas masulong na mga tagapagsagawa ng yoga o mga taong araw-araw na nagyoyoga. Nilalarawan din ng mga pantawag na ito ang mga Budistang monghe o sinumang pangkaraniwang tao o may-tahanang nakatuon o deboto sa meditasyon."
+    },
+    {
+        "id": "036vg6",
+        "description": "Ang buno, suong, pagbuno, pagbubuno, o pakikipagbuno ay isang uri ng labanan ng pakikipagsunggaban. Ilan sa mga halimbawa nito ang sumo, pang-Olimpiko, propesyunal, at bunong braso. Mayroon ding panlalaki at pambabae."
+    },
+    {
+        "id": "04xsv",
+        "description": "Ang mga sining panlaban ay ang anumang uri o anyo ng pakikipaglabang may pangkat ng mga paraan ng pagsasagawa. Maraming uri ng mga sining marsiyal na nagmumula sa partikular na mga bansa. Isinasagawa ang mga ito ayon sa maraming mga kadahilanan: pakikipagtunggali, pagtatanggol ng sarili, palakasan o palaro, meditasyon, pagpapahinahon ng sarili, at pagpapanatili ng kalusugan. Sa pangkaraniwang paggamit ng pariralang ito, sakop nito ang mga sistema ng pakikipaglabang pinaunlad sa buong mundo. Tinatawag na artistang marsiyal o alagad ng sining panlaban ang isang taong nagsasagawa ng sining panglaban."
+    },
+    {
+        "id": "03_ly",
+        "description": "Enero ay ang unang buwan ng taon sa kalendaryong Gregorian at ng Kalendaryong Julian. Ito ay may tatlumpu't isang araw. Ang Enero ay hiram na salitang Kastila.\nAng pangalan nito sa Ingles na January ay mula naman sa pangalan ni Janus, ang diyos sa Romano ng mga pintuan."
+    },
+    {
+        "id": "02xx5",
+        "description": "Ang Pebrero ang ikalawang buwan ng taon sa Kalendaryong Gregorian at ng Kalendaryong Julian. May 28 o 29 na araw ito depende kung ang taon ay leap year ba o hindi. Kung ang taon ay leap year, 29 ang araw ng Pebrero. Tatlong beses lamang sa kasaysayan nagkaroon ng ika-30 ng Pebrero. Ang Enero at Pebrero ang pinakahuling buwan na dinagdag sa kalendaryo, dahil para sa mga Romano, ang tag-lamig ay panahon na walang buwan.\nSa Ingles, February ang tawag sa buwang ito. Ang salitang Pebrero ay galing sa Kastilang salita na Febrero. Ang buwan ay ipinangalan kay Februus, and diyos ng kadalisayan ng mga sinaunang Romano."
+    },
+    {
+        "id": "04wzr",
+        "description": "Ang Marso ang ikatlong buwan ng taon sa Kalendaryong Gregoriano at ng Kalendaryong Juliano. Ito ay may 31 araw. Nanggaling ang salitang Marso mula sa Kastilang Marzo. Sa Ingles, itong buwan ay tinatawag na March. Lahat ng ito ay nanggaling sa pangalan na Mars, ang diyos ng digmaan ayon sa mitolohiyang Romano."
+    },
+    {
+        "id": "0lkm",
+        "description": "Ang Abril ay ang pang-apat na buwan sa Gregorian calendar. Mayroon itong tatlumpung araw.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "04w_7",
+        "description": "Ang Mayo ang ika-5 na buwan ng taon sa kalendaryong Gregorian, at ayon sa kalendaryong ito, isa sa mga buwan na may 31 araw.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "040fb",
+        "description": "Ang Hunyo ang ika-6 na buwan ng taon sa kalendaryong Gregorian, at ayon sa kalendaryong ito, isa sa mga buwan na may 30 araw.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "040fv",
+        "description": "Ang Hulyo ang ika-7 na buwan ng taon sa kalendaryong Gregorian, at ayon sa kalendaryong ito, isa sa mga buwan na may 31 araw. Quintilis ang dati nitong pangalan hanggang ipinangalan ito kay Julius Caesar, na ipinanganak sa buwan na ito.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0ll3",
+        "description": "Agosto ang ikawalong buwan sa kalendaryong Gregoryan. Mayroon itong tatlumpung araw ayon sa pagkatakda ni Caesar Augustus kung kanino ipinangalan ang buwan na ito."
+    },
+    {
+        "id": "06vkl",
+        "description": "Ang Setyembre o Septyembre ang ikasiyam na buwan sa Talaaraw na Gregorian. May 30 araw ang naturang buwan.\nNahango ang pangalang ng buwan na ito mula sa salitang Lating septem, na nangangahulugang pito. Samakatuwid sa Talaaraw na Roman, ang Setyembre nga ang ika-pitong buwan ng taon, nguni't tumagal lang ito bilang ika-pito hanggang 153 BK, nang binago ng mga Romano ang kanilang talaaraw upang ang unang buwan ay maging ang Kalens mula sa Kinsesas ng Marso.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "05lf_",
+        "description": "Ang Oktubre ay ang ikasampung buwan sa kalendaryong Gregorian. Naglalaman ito ng tatlumpu't isang araw."
+    },
+    {
+        "id": "05cw8",
+        "description": "Ang Nobyembre ang ika-11 na buwan ng taon sa kalendaryong Gregorian, at ayon sa kalendaryong ito, isa sa mga buwan na may 30 araw.\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "028kb",
+        "description": "Ang Disyembre ang ika-12 at huling buwan ng taon sa kalendaryong Gregoriano, at ayon sa kalendaryong ito, isa sa mga buwan na may 31 araw.\nkaututan\n⁕Disyembre 31 - Vicente Lim, Pilipinong heneral ng Sandatahang Lakas ng Pilipinas\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0j0k",
+        "description": "Asya\n\nAng Asya ay ang isa sa mga lupalop ng mundo. Ang Asya ang may pinakamalaking bahagdan ng populasyon at sa lawak, sapagkat sakop nito ang 1\/3 ng mundo. Sa kanluran ng Asya matatagpuan ang lupalop ng Europa; sa timog-silangan at silangan ang Australia at Oceania; sa timog-kanluran naman banda ang Aprika."
+    },
+    {
+        "id": "059g4",
+        "description": "North America\nHilagang Amerika\n\nAng Hilagang Amerika ay isang kontinente sa hilagang hemisperyo ng Daigdig at halos na nasa kanlurang hemisperyo. Napapaligiran ito ng Karagatang Artiko sa hilaga, Hilagang Karagatang Atlantiko sa silangan, Dagat Caribbean sa timog-silangan, at Hilagang Karagatang Pasipiko sa timog at kanluran. Nasa 24,500,000 km² ang sakop nito, o nasa 4.8% ng ibabaw na bahagi ng planeta. Noong Hulyo 2002, tinatayang mahigit sa 514,600,000 ang populasyon nito. Ang Hilagang Amerika ang ikatlo sa pinakamalaking kontinente ayon sa sakop, pagkatapos ng Asya at Aprika, at ika-apat na pinakamalaki ayon sa populasyon, pagkatapos ng Asya, Aprika at Europa."
+    },
+    {
+        "id": "06n3y",
+        "description": "Ang Timog Amerika ay isang kontinente na matatagpuan sa Kanlurang Hemispero sa pagitan ng mga karagatang Pasipiko at Atlantiko.\nKadalasang tinutukoy na kabilang sa Amerika, katulad ng Hilagang Amerika, pinangalan ang Timog Amerika kay Amerigo Vespucci, na ang unang Europeo na nagmungkahi na ang Amerika ay hindi ang Silangang Kaindiyahan, ngunit isang hindi pa natutuklasang Bagong Mundo.\nMay laki ang Timog Amerika ng of 17,840,000 kilometro kuadrado, o nasa 3.5% ng ibabaw ng Daigdig. Noong 2005, tinatayang nasa 371,000,000 ang populasyon nito. Pang-apat ang Timog Amerika sa laki at panglima sa populasyon."
+    },
+    {
+        "id": "02j9z",
+        "description": "Ang Europa ay isa sa mga pitong kontinente ng mundo. Matatagpuan sa silangan ng Europa ang mga Bulubunduking Ural at Kawkaso, ang Ilog Ural, ang Dagat Caspian, ang Dagat Itim, ng mga daluyan ng tubig na nag-uugnay sa Dagat Itim at Dagat Egeo. Sa hilaga naman, katabi ng Europa ang Karagatang Artiko at ng iba pang mga anyong-tubig. Ang Karagatang Atlantiko ay nasa kanluran naman ng Europa at ang Dagat Mediteraneo ay nasa timog ng kontinente na ito samantalang ang iba pang mga parte ng Dagat na Itim ay matatagpuan sa timog-silangan at ang iba pang daluyan ng tubig. Subalit, ang mga hangganan ng Europa ay na impluwensiyahan ng mga sanhing may kinalaman sa pulitika at kultura ng rehiyon.\nAng Europa, base ng laki at lawak ng lupain, ay ang pangalawang pinakamaliit na kontinente sa mundo na mayroong 10,180,000 kilometrong kuwadrado. Ang mga lupain ng Europa ay ang mga bumubuo ng mahigit 2% ng mundo at mahigit 6.8% ng mga lupain ng mundo. Ang Rusya ay ang pinamalaking bansa sa Europa kung pagbabasehan sa lawak at laki ng lupain at ang Banal na Lungsod ng Batikano ay ang pinakamaliit.\nAng Europa ay isa ring kontinente ng kasaysayan sapagkat ito ang itinuturing na ang lugar na kapangnangakan ng kulturang Kanluranin at dito rin lumaki at lumago ang mga makalumang sibilisasyon ng Sinaunang Roma at ng Sinaunang Gresya. May malaking ginanap na papel ang kontinente ng Europa sa kasaysayan na mapapatunayan sa mga pangyayari at mga naganap rito noong mga iba't ibang panahon na nakalipas. Mapapatunayan ito sa mga ika-14 at ika-16 na siglo na ang Europa ay may malaking ginanap sa kolonyalismo ng mga iba't ibang parte ng mundo. Ang Unang Digmaang Pandaigdig at ang Ikalawang Digmaang Pandaigdig ay nakasentro rin sa Europa. Sa Digmaang Malamig naman, ang Europa ay hinati sa dalawang parte, ang isa na panig sa NATO at isa sa Unyong Sobyet. Sa taong 1991 naman nagawa ang organisasyong Unyong Europeo na naglalayong pagkaisahin ang buong kontinente."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Africa\nAprika\n\nAng Aprika, ang pangalawang pinakamalaking kontinente sa daigdig at pangalawa sa pinakamataong populasyon pagkatapos ng Asya. May sukat na mga 30,244,050 km² kasama ang mga karatig na mga pulo. Sa pangkalahatan, tinatawag na mga Aprikano at Aprikana ang mga naninirahan sa kontinente ng Aprika."
+    },
+    {
+        "id": "0jfx",
+        "description": "Ang Antartiko ay isang kontinente na pinapalibutan ng Katimugang Dulo ng Daigdig. Ito ang pinakamalamig na lugar sa daigdig at halos natatakluban ng yelo ang kabuuan nito. Hindi dapat ipagkamali sa Artiko, na matatagpuan sa salungat na bahagi ng planeta na malapit sa Hilagang Dulo ng Mundo.\nBagaman mababakas noong unang panahon ang mga alamat at hinala tungkol sa isang Terra Australis, naganap noong 1820 ang unang karaniwang tinatanggap na pagkita ng kontinente at noong 1821 ang unang napatunayang paglapag ng isang Rusong ekspedisyon nina Mikhail Lazarev at Fabian Gottlieb von Bellingshausen. Gayon man, isang mapa ni Admiral Piri Reis noong 1513 ang naglalaman ng isang katimugang kontinente na mayroong posibleng pagkahawig sa pampang ng Antarctica.\nSa lawak na 13,200,000 km², panglimang pinakamalaking kontinente ang Antartiko, pagkatapos ng Eurasya, Aprika, Hilagang Amerika, at Timog Amerika. Gayon man, ito ang may pinakamaliit na populasyon: tunay nga, wala itong pampalagiang populasyon. Ito rin ang kontinente na may pinakamataas na karaniwang altitud, at ang may pinakamababang humedad sa mga kontinente ng Daigdig, gayon din ang pinakamababang karaniwang temperatura."
+    },
+    {
+        "id": "05p553",
+        "description": "Ang Komedya ay isang termino mapa-pelikula man o entablado. Ito ay ginagamit kung saan ang mga nagsisiganap ay nagsasaad ng kasiyahan o lihitimong pagpapatawa sa bawat salitang mamumutawi sa kanyang bibig.\nAng Komedya ay maaari ding walang salita na nauso noong panahon ng Silent Movies na makikita di sa pagsalita ng bibig kundi sa pagkilos ng katawan.\n\n Ang lathalaing ito na tungkol sa Pelikula ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "03npn",
+        "description": "Ang pelikula ng katatakutan o palabas ng katatakutan ay isang uri ng pelikula kung saan dito tinatalakay ang mga maligno, tiyanak, duwende, white lady, kapre o mga masamang espirito, kung kaya't nakapagdurulot ng takot ang pelikula habang pinapanood. Ito ay malimit gamitin sa mga palabas na pelikula at sa telebisyon.\n\n Ang lathalaing ito na tungkol sa Pelikula ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0hcr",
+        "description": "Ang Animasyon ay isang mabilisang paglabas ng mga sunod-sunod na larawan ng gawang 2-D o 3-D o posisyong modelo para makagawa ng ilusyon ng paggalaw. Ang epekto ay isang ilusyong optikal ng mosyon dahil sa penomenon ng persistensiya ng bisyon, at maaaring makagawa at maipakita sa maraming paraan. Ang larawang mosyon ang pinakakilalang metodo ng pagpapakita ng animasyon o programang bidyo, kahit na meong ibang metodo.\nAng animasyon ay popular sa paglikha ng mga sine at palabas sa telebisyon. Ang mga adbertayser rin ay gumagamit rin ng teknik ng animasyon upang ipakilala ang kanilang produkto sa telebisyon. At idagdag pa rito ang mga palabas na impormatibo dahil gumagamit rin sila ng animasyon kung nahihirapan silang gumawa ng ilustrasyon ng kanilang ideya o ideyang hindi maaaring magawa sa totoong buhay.\nAng paggawa ng Animasyon\nAng animasyon ay maaaring magawa kahit hindi gumagamit ng kahit na anong teknolohiya. Isang simpleng halimbawa ng animasyong ito ay ang flip-book. Isang grupo ng larawan na may pagkakasunod-sunod na nakapatong sa bawat isa. Kung mabilis ang pagpitik ng mga papel, ang larawan na sa papel ay nagmumukhang gumagalaw. Ang unang hakbang sa paggawa ng isang animasyon ay ang buo ng kuwento para sa palabas. Pagkatapos mabuo ang istroya, ang isang writer at artista ay magsisimulang bumuo ng storyboard, na nagsisilbing ikript. Ang storyboard ay ay nagsisilbing isang malaking komik strip. Ito ay naglalaman ng paunang mga guhit upang makita lamang ang takbo ng istorya kasama ang diyalogo na nakasulat bawat drowing. Pagkatapos ng direktor at iba pang kasama sa grupo aprubahan ang storyboard, ang susunod naman na gagawin ay ang paglalagay ng musika at diyalogo na irerekord. Ang komposer ay masusing sinusundan ang takbo ng storyboard upang makita kung amaayon ang musika sa galaw ng mga karakter sa storyboard."
+    },
+    {
+        "id": "06n90",
+        "description": "Ang mga kathang-isip na salaysaying pang-agham, salaysaying maka-agham, o science fiction [Ingles] ay isang malawakang anyo ng panitikan at ibang media na karaniwang kinabibilangan ng mga pagmumuni-muning batay sa pangkasalukuyan o panghinaharap na kalagayan ng agham o teknolohiya. Nakikita ang paksang ito sa mga aklat, sining, telebisyon, pelikula, laro, tanghalan, at marami pang iba. Nahahalo rin ang ganitong uri ng pagsasalaysay sa mga kathang may kababalaghan o pantasya, at maging sa mga kuwento ng pag-ibig, digmaan, katarungan, at iba pang mga kaugnay na anyo. Subalit, ang salaysaying maka-agham ay hindi kuwento ng mga kababalaghan o katatakutan. At kaiba rin ito mula sa pantasya."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Ang aksiyon ay ginagamit bilang termino sa pelikula o ibang anyong pang-sining. Nagpapahayag ito ng labanan, sagupaan, tapatan at maging ang ilang mga aksiyon sa pelikula ay nilalapatan din ng katatawanan."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Ang Pantasya ay isang genre na gumagamit ng mahika at iba pang supernatural na penomena bilang punong elemento ng plota, thema, at\/o ganapan. Maraming gawa na sakop ng genre ang ginaganap sa piksyonal na mundo na kung saan ang mahika ay kilala. Makikilala kaagad ang pantasya mula sa science fiction na kung saan ay hindi nagpapakita ng lohikal na pagdadahilan para sa mga imposibleng mga kaganapan batay sa Agham."
+    },
+    {
+        "id": "04t36",
+        "description": "Ang musikal ay isang uri ng pelikula kung saan ang mga bidang lalake at babae ay nagsisipag-awitan. Ang isang musikal na pelikula ay matatawag din kung ang mga bida ay nagsisipagsayawan sa makaklasikong kaugalian man o makabagong panahon sa tunog at indak ng musika.\n\n Ang lathalaing ito na tungkol sa Pelikula at Musika ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "06by7",
+        "description": "Ang musikang rock ay maluwag na binibigyang kahulagan bilang isang uri ng musikang popular na pumasok sa prinsipal na tagapakanig noong kalagitnaan ng dekada 1950. Nag-ugat ito sa ilang uri ng musika noong dekada 1940 hanggang 1950 na rhythm and blues, musikang country at iba pang mga impluwensiya. Karagdagan pa dito, kumuha din ang musikang rock ng iba pang impluwensiyang pang-musika, kabilang ang musikang pambayan, jazz, at klasikong musika.\nKadalasang umiikot ang tunog ng rock sa gitarang de-kuryente o gitarang akustika, at gumagamit ng malakas na backbeat na binabalangkas sa pamamagitan ng isang ritmong seksyon ng elektrikong gitarang baho, tambol, at mga instrumentong de-tiklado katulad ng organo, piyano, o, simula noong dekada 1970, sintetisador. Kasama ng gitara at mga instrumentong de-tiklado, ginagamit din ang saksopon at istilong-blues na silindro bilang pang-isahang mga instrumento. Sa kaniyang \"pinakadalisay na anyo\", mayroon itong \"tatlong sayusay, isang matapang, mapilit na kumpas na pantay, at nakakahalinang himig.\"\nNoong huling bahagi ng dekada 1960 at unang bahagi ng dekada 1970, umunlad ang musikang rock sa iba't ibang mga uri sa ilalim nito. Nang humalo sa musikang pambayan, naging rock na pambayan o folk rock, sa blues nagkaroon ng blues-rock at sa jazz, nakalihka ng jazz fusion. Noong dekada 1970, sinama ang rock mula sa impluwensiya ng soul, funk, at musikang latin. Gayon din noong dekada 1970, nagkaroon ng ilang uri ang rock sa ilalim nito, katulad ng soft rock, glam rock, heavy metal, hard rock, progressive rock, at punk rock. Noong dekada 1980, namayagpag ang mga ilang uri na rock na kabilang ang New Wave, hardcore punk at alternative rock. Noong dekada 1990 naman, kabilang sa mga uri ng rock na lumitaw ang grunge, Britpop, indie rock, at nu metal."
+    },
+    {
+        "id": "064t9",
+        "description": "Ang musikang pop ay isang uri ng musika na nasimula noong kalagitnaan ng dekada 1950 bilang isang malambot na alternatibo sa rock 'n' roll at musikang rock sa kalaunan. Nakatuon ito sa komersyal na pagrekord, kadalasang nakikibagay patungo sa kabataang merkado, kadalasang sa pamamagitan ng maikli at payak na awiting para sa pag-ibig. Habang nanatiling hindi nagbabago ang pangunahing mga elemento ng uri ito, kinuha ang mga impluwensiya ng musikang pop mula sa karamihan ng ibang anyo ng popular na musika, partikular ang pahiram ng pagsulong ng musikang rock, at ginagamit ang mamahalagang pang-teknolohiyang pagbabago upang makalikha ng bagong mga baryasyon sa mga mayroon ng mga tema."
+    },
+    {
+        "id": "03_d0",
+        "description": "Ang Jazz ay isang uri ng tugtugin o musikang naimbento sa Estados Unidos. Pinagsasama ng musikang Jazz ang Aprikano-Amerikanong musika at musikang Europeo. Nagsimula ang Jazz sa Estados Unidos noong kaagahan ng ika-20 daangtaon. Nagkaroon ito ng impluwensiyang pangtugtugin ng mga aliping Aprikano na dinala mula sa Aprika upang maghanapbuhay sa mga taniman ng katimugang Estados Unidos, katulad ng mga awiting \"pagtawag at pagtugon\" at mga notang bughaw, kilala sa Ingles bilang mga blue note. Mayroon din mga estilong Europeo ang musikang Jazz.\n\n Ang lathalaing ito na tungkol sa Musika ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "01lyv",
+        "description": "Ang country ay isang uri ng tugtugin mula sa Estados Unidos, partikular na tradisyunal na nailunsad mula sa Katimugang Estados Unidos at Maritimang Kanada noong dekada ng 1920. Kabilang sa mga tanyag na mga manganganta mula sa ganitong uri ng musika sina Johnny Cash, Patsy Cline, ang mga Judd, Dolly Parton, Glen Campbell, George Jones at Tammy Wynette, Kenny Rogers, Loretta Lynn, Randy Travis, Tanya Tucker, Willie Nelson, Reba McEntire, Garth Brooks, at Toby Keith.\nPinakamalakas ang naaakit ng ganitong musika ang mga populasyon ng taong nasa mga rural at maliliit na bayan ng Amerika, subalit mayroon ding mga tagalungsod na tagapagtangkilik. May mga tagapakinig din ang tugtugin sa Kanada, sa Liverpool, Inglatera, at iba pang mga lugar sa buong mundo."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Ang tugtuging klasiko ay isang napaka pangkalahatang kataga na pantukoy sa pamantayang tugtugin ng mga bansa sa Kanluraning mundo. Isa itong musikang nilikha o kinumposisyon ng mga musikero na sinanay sa sining ng pagsusulat ng musika at isinulat sa notasyong pangtugtugin upang matugtog ng iba pang mga manunugtog. Maaari ring ilarawan ang musikang klasiko bilang isang musika ng sining o tugtugin ng sining dahil ang dakilang sining ay talagang kailangan upang malikha ito at matugtog ito ng mabuti. Kaiba ang klasikong musika mula sa musikang popular dahil hindi lang ito basta ginawa upang maging tanyag sa loob ng maikling panahon o maging isang tagumpay na pangkomersiyo. Naiiba ito mula sa tugtuging bayan na pangkalahatang ginagawa ng pangkaraniwang mga kasapi ng lipunan at natutunan ng panghinaharap na mga salinlahi sa pamamagitan ng pakikinig at paggaya.\nAng musikang klasiko ay isang musikang pangsining na ginawa sa loob, o naka-ugat sa loob, ng mga tradisyon o kaugalian ng Kanluraning musikang liturhikal at sekular, na sumasaklaw sa malawak na panahon magmula tinatayang ika-9 daang taon magpahanggang sa kasalukuyang panahon. Ang panggitnang mga gawi ng tradisyong ito ay naging panuntunan sa pagitan ng 1550 at 1900, na kilala bilang \"panahon ng pangkaraniwang pagsasagawa\"."
+    },
+    {
+        "id": "02w4v",
+        "description": "Ang mga awiting-bayan ay mga awit ng mga Pilipinong ninuno at hanggang ngayon ay kinakanta o inaawit pa rin. Halimbawa ng mga awiting ito ay Leron, Leron Sinta, Dalagang Pilipina, Bahay Kubo, Atin Cu Pung Singsing, at Paruparong Bukid."
+    },
+    {
+        "id": "0rfgh6w",
+        "description": "Ang eroplano ay isang uri ng sasakyang panghimpapawid ngunit mas mabigat kaysa hangin). May pakpak ang lahat ng mga salipawpaw. Glayder -- palutang, patangay, salimbay, o salibad -- ang tawag sa mga eroplanong walang makina o motor, sapagkat sumasabay at nagpapatangay lamang sa ihip ng hangin. Bagaman isang uri ng salimpapaw ang salipawpaw, minsang tinatawag din itong salipapaw o salimpapaw sa mapangkamalawakang diwa ng salita."
+    },
+    {
+        "id": "0199g",
+        "description": "Ang bisikleta ay isang sasakyang pinapaandar ng lakas ng tao sa pamamagitan ng mga pedal. Mayroon itong dalawang gulong na nakakabit sa balangkas, isa sa likod ng kasama niya. Ang isang gumagamit ng bisikleta ay maaring tawaging bisiklista.\nNagmula ang paggawa ng bisikleta noong ika-19 na siglo at ngayon ay halos 1 bilyon na ang dami nito sa buong daigdig. Ito ay isang pangunahing transportasyon sa iba't ibang rehiyon. Ito rin ay isang kilalang anyo ng paglilibang, at ginagamit bilang laruan ng mga bata, pagpapalakas ng mga matatanda, sa mga gawain ng militar at pulisya, serbisyong padala at palakasan.\nAng anyo ng bisikleta ay hindi gaanong nagbabago mula sa mga unang modelo de kadena ang pagpapaandar na lumabas noong mga 1885. Maraming mga detalye na ang pinainam lalo na sa paglabas ng mga makabagong kagamitan at pagdidisenyong tinutulungan ng kompyuter. Ang mga pagbabagong ito ang nagsagawa ng mga iba't ibang disenyo para sa iba't ibang uri ng pagbibisikleta."
+    },
+    {
+        "id": "019jd",
+        "description": "Ang bangka ay isang sasakyang ginagamit sa paglalakbay sa tubig. Mas maliit ito kaysa isang lantsa, yate, barko o bapor. Ilang mga bangka ang may mga layag, ngunit may ilang ginagamit ng mga sagwan upang umusad, at may ilan pa ring ginagamitan ng mga motor. Karamihan sa mga karaniwang bangka ang yari sa kahoy, subalit may ilang mga bahagi gawa sa metal tulad ng bakal at aluminyo. May mga mamahaling mga bangkang may bahaging yari sa salaming pibra o kaya kompositong materyal. Kabilang sa ibang tawag o halimbawa ng bangka ang lunday, batel, para, baroto, binta, biniray, kumpit, kasko, kalalos, o palwa bangkilas. Natatawag ding bangka ang lalagyan ng pagkaing kahugis ng bangka, katulad ng ginagamit para sa sorbetes na may saging."
+    },
+    {
+        "id": "01bjv",
+        "description": "Ang bus, na kilala rin bilang omnibus, multibus, autobus, o otobus, ay isang malaking sasakyang panlupa at pangkalsada na may mga gulong na may layuning maglulan ng mga maraming iba't ibang mga tao na kasama ang isang tagapagmaneho o tsuper. May kakayahang maglulan ang bus na maaaring umabot sa 300 mga pasahero. Malawakang ginagamit ang mga bus sa operasyon ng palingkuran o serbisyong pangtransportasyon na may iskedyul o talatakdaan ng pag-alis at pagdating sa hintuan ng bus o sakayan ng bus na nasa bangketa o lakaran ng tao sa gilid ng kalye. Ang isang gusali kung saan naghihintay ang mga tao ng mga bus na pangmalayuang-biyahe o kung saan nagtitipon ang maraming mga bus ay tinatawag na estasyon ng bus o himpilan ng bus. Maraming mga uri ng bus sa buong mundo."
+    },
+    {
+        "id": "0k4j",
+        "description": "Ang awtomobil o kotse ay isang sasakyang may motor at gulong para sa paglilipat ng mga pasahero, na nagkakarga rin ng sarili nitong makina o motor. Tumutukoy ang karamihan ng mga kahulugan ng katawagan sa mga awtomobil na pangunahin dinisenyo para tumakbo sa mga lansangan, mayroong upuan para sa isa hanggang walong katao, may apat na gulong, at ginawa upang ibiyahe ang mga tao sa halip na mga paninda. Gayon pa man, mas tumpak ang katawagang awtomobil, dahil may maraming uri ng mga sasakyan na ginagawa ang katulad na gawain."
+    },
+    {
+        "id": "09ct_",
+        "description": "Ang helikopter ay isang uri ng salipapaw o sasakyang lumilipad. Pangunahing pagkakaiba sa pagitan ng helikopter at ng eruplano ang kung ano ang nagpapaangat sa kanila mula sa lupa patungo sa himpapawid. Sa eruplano, nakakakuha ito ng puwersang pang-angat mula sa kanyang mga pakpak at pasulong na galaw, na nagmumula sa propeler o turbina ng makina ng dyet. Sa helikopter, nanggagaling ito sa pahalang na mga rotor o ilang mga umiikot na mga talim na tila parang maliliit na mga pakpak. Dahil dito, minsang tinatawag silang salipapaw na may mga pakpak na rotaryo o mga pakpak na umiikot. Hinango ang salitang helicopter mula sa Pranses na hélicoptère, na nilikha ni Gustave de Ponton d'Amecourt noong 1861, na nagbuhat sa Griyegong helix\/helik- = \"espiral\", \"pumapalupot\", o \"umiikot\", at pteron = \"pakpak\"."
+    },
+    {
+        "id": "07jdr",
+        "description": "Ang tren ay isang sunud-sunod o serye ng mga sasakyan o \"kotse\" ng dumaraan sa ibabaw ng isang riles. Maaaring gamitin ito para sa pagdadala ng mga tao at mga bagay o mabubuting mga daladalahin. Tinatawag na estasyon ng tren ang lugar na pinaghihintuan ng tren upang makasakay o makababa ang mga tao. Hinahatak ng lokomotibo ang mga kotse ng tren habang nasa kahabaan ng riles."
+    },
+    {
+        "id": "07kfm",
+        "description": "Ang trambiya ay isang sasakyang panriles na - sa bahagi man o buong ruta nito - gumagamit ng riles na nasa gitna ng daan. Ang mga trambiya ay nilikha para magdala ng mga pasahero, hindi kalakal. Ang mga sinaunang trambiya ay hinihila ng kabayo; sa mga sumunod na panahon ang mga ito ay pinatatakbo sa pamamagitan ng singaw, kable, kuryente at ng gasolina.\nSa Maynila, ang mga trambiya na laganap noong simula ng ika-20 siglo ay napalitan na ngayon ng mga dyipni, bus at ng makabagong sistema ng magaan na riles."
+    },
+    {
+        "id": "0342h",
+        "description": "Ang gitara ay isang instrumentong pang-musika na may mga kuwerdas. Tinutugtog ito sa pamamagitan ng mga daliri o kung minsan ay may gamit na pick. Ang tunog ay nanggagaling sa paggalaw ng mga kwerdas."
+    },
+    {
+        "id": "0319l",
+        "description": "Ang tambuling Pranses o trompang Pranses ay isang uri ng hinihipang instrumentong pangtugtog. Tinatawag din itong malatandak na Pranses, kornetang Pranses, tambuyok na Pranses, o trumpetang Pranses."
+    },
+    {
+        "id": "013y1f",
+        "description": "Ang organo ay isang uri ng de-kuryenteng instrumentong tinutugtog na kahawig ang anyo sa isang piyano."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Ang bansi ay isang uri ng hinihipang instrumentong pangtugtog. Kilala rin ito bilang bangsi, kulating, kanutilyo, basyada, o plauta."
+    },
+    {
+        "id": "05r5c",
+        "description": "Ang piyano ay isang instrumentong pang-musika na tinutugtog sa pamamagitan ng tiklado. Malawak na ginagamit sa musikang Kanluranin para sa pagtugtog ng isahan o grupo, musikang kamara at saliw, tanyag din ang piyano bilang pantulong sa paglikha at pagsasanay sa musika. Bagaman hindi madaling dalhin at kadalasang mahal, ang pagkamaraming gamit at matatagpuan kahit saan ng piyano ang nagdulot dito upang maging isa sa mga pamilyar na instrumentong pang-musika.\nAng pagpindot sa isang tipa sa tiklado ng piyano ay nagdudulot sa nakatakip sa piyeltrong martilyo na tamaan ang mga aserong kuwerdas. Bumubuwelta ang mga martilyo, na pinapahintulot ang mga kuwerdas na magpatuloy manginig sa kanilang matunog na kadalasan."
+    },
+    {
+        "id": "04gc2",
+        "description": "Ang abogado, abugado, manananggol o tagapagsanggalang ay isang taong pinagkalooban ng lisensiya upang makapagbigay ng payong legal, at para kumatawan sa isang kliyente sa loob ng hukuman o korte. Isa itong taong maalam at nag-aral ng batas, kinatawan o taong kumakatawan sa batas, tagapagtanggol o tagapayo, o solisitor, at isang taong may lisensya upang magkasakatuparan ng batas. Ang batas ay isang sistema ng mga panuntunan ng kaasalang inilunsdad ng namumunong pamahalaan ng isang lipunan upang magwasto ng mga kamalian, magpanatili ng katatagan, at magdala ng katarungan. Kasama sa hanapbuhay ng pagiging isang manananggol ang kapaki-pakinabang na paggamit at pagpapairal ng abstraktong mga teoriyang legal at kaalaman upang matugunan ang isang tinutukoy na mga suliraning pang-isang tao, o pasulungin ang mga kanaisan ng nagpapanatili o umuupa ng mga abugado upang magsakatuparan ng mga tungkulin o serbisyong pambatas o nasa batas.\nSa ilang partikular na mga bansa, katulad ng sa Hapon, Sri Lanka, at sa Estados Unidos, opisyal na pangalan, katawagan, o pamagat sa wikang Ingles para sa isang manananggol ang attorney at law o attorney-at-law, na karaniwang pinaiiksi bilang attorney. Sa Inglatera at sa Gales, dating ginamit din ang ganitong katawagan para sa mga manananggol na nagsasagawa ng hukumang na para sa pangkaraniwang batas. Subalit noong 1873, binigyan ng bagong pamagat ang ganitong mga abugado bilang mga solisitor, isang pamagat na palagian nang pamagat para sa mga manananggol na may gampanin sa mga hukuman ng ekwidad o makatarungang karapatan at paghahabol. Pangkalahatang hindi talaga lumilitaw ang ganitong mga tagapagtanggol bilang kakatig sa matataas na mga hukuman, sapagkat ang ganitong pagharap ay nakalaan, kahit pangkalahatang magpahanggang sa ngayon, para sa mga baristero."
+    },
+    {
+        "id": "01d30f",
+        "description": "Ang isang guro o titser ay isang tao na nagbibigay ng edukasyon para sa mga mag-aaral. Ang gampanin ng guro ay kadalasang pormal at umiiral, na isinasagawa sa isang paaralan o ibang lugar ng edukasyong pormal. Sa maraming mga bansa, ang isang tao na nais maging isang guro ay dapat na makakamit muna ng tinukoy na mga kuwalipikasyong pamprupesyon o mga kredensiyal magmula sa isang pamantasan o dalubhasaan. Ang mga kuwalipikasyong pamprupesyon ay maaaring magbilang ng pag-aaral ng pedagohiya, ang agham ng pagtuturo. Ang mga guro, katulad ng iba pang mga prupesyunal, ay maaaring magpatuloy ng kanilang edukasyon pagkaraan makamit nila ang kuwalipikasyon, isang prosesong nakikilala bilang nagpapatuloy na kaunlarang pamprupesyon. Ang mga guro ay maaaring gumamit ng isang planong panleksiyon upang makapagbigay ng pagkatuto ng mga estudyante, na nakapagbibigay ng isang kurso ng pag-aaral na tinatawag na kurikulum.\nAng gampanin ng isang guro ay maaaring magkaiba-iba sa mga kultura. Ang mga guro ay maaaring magturo ng [[edukasyong pangliterasya] at numerasya, kasanayan o kagalingan sa isang larangan o pagsasanay na bukasyunal, sining, relihiyon, sibika, mga gampaning pampamayanan, o kasanayang pampamumuhay. Ang isang guro na nagbibigay ng edukasyon para sa isang indibiduwal ay maaari ring ilarawan bilang isang personal o pansariling tutor o isang gobernesa o tagaiwi."
+    },
+    {
+        "id": "01hbsc",
+        "description": "Ang beterinaryo ay isang manggagamot ng mga hayop at dalubhasa sa larangang ng panggagamot ng mga hayop o beterinarya. Nagbuhat ang salitang beterinaryo mula sa Ingles na veterinarian at Kastilang veterinario na kapwa kinuha naman mula sa Lating veterinae, na may ibig sabihing \"mga hayop na humihila ng kargada.\" Sa Pranses, kilala ito bilang mga vétérinaire. Unang ginamit ni Thomas Browne sa palimbag na paraan ang salitang veterinarian noong 1646."
+    },
+    {
+        "id": "01c72t",
+        "description": "Ang kompositor o kumpositor ay isang tao na nagbuboud o nagsasalaysay ng kanta o gumagawa ng kanta, siya ang nag bibigay ng mga salita ng kanta nang ito'y madaling maintindihan ang kanta o maunawaan ang ibig sabihin.\n\n Ang lathalaing ito na tungkol sa Tao at Musika ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "05wgy",
+        "description": "Ang pediyatriko ay isang sangay ng panggagamot na tumatalakay at nagsasagawa ng mga pag-aaral hinggil sa pangangalaga ng mga sanggol at bata, at maging sa mga sakit ng mga ito."
+    },
+    {
+        "id": "099md",
+        "description": "Ang kawal, sundalo, o suldado ay tumutukoy sa isang kasapi o miyembro ng panglupang kumponente o bahagi ng pambansang sandatahang lakas o puwersa. Ngunit tinatawag na mersenaryo ang isang kawal na hinirang at binabayaran para sa paglilingkod sa loob ng isang dayuhang hukbong pangkatihan. Sa karamihan ng mga wika, kabilang sa mga kawal ang komisyonado at hindi komisyonadong mga opisyal na nasa loob ng pambansang puwersang panglupa."
+    },
+    {
+        "id": "01d380",
+        "description": "Ang barena o balibol ay isang uri ng kagamitang pambutas ng mga materyales, at nilalagyan o kinakabitan ng talim ng barena. Karaniwang ginagamit ang kasangkapang ito sa mga gawaing pangkahoy, pangbakal, sa konstruksyon o pagtatayo ng mga gusali, sa medisina, at iba pa. Mayroon mga barenang kinakamay at may barenang may motor ngunit hinahawakan o sinusuportahan pa rin ng kamay."
+    },
+    {
+        "id": "03l9g",
+        "description": "Ang martilyo o pamukpok o binalalak ay isang uri ng kasangkapang pangkarpintero na ginagamit sa pagpupukpok at pagtatanggal ng pako. Tinatawag ding martilyo ang isang bahagi ng baril."
+    },
+    {
+        "id": "02bbbj",
+        "description": "Ang katam ay isang kagamitang ginagamit sa paghuhugis ng kahoy. Ginagamit ito sa pagpapatag, pagbabawas ng kapal, at nagpapakinis ng kalatagan ng tabla. Isang halimbawa nito ang katam na pangutab."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Ang gunting isang aparato na ginagamit panggupit ng mga bagay tulad ng papel, sinulid, tela o buhok."
+    },
+    {
+        "id": "07ln6l",
+        "description": "Ang isang gato ay isang aparatong mekanikal na ginagamit na panghawak o pang-ipit ng isang ginagawang piraso upang mapahintulutang maisakatuparan ang isang gawain sa bagay na iyon habang ginagamitan ng mga lagari, katam, panggiling, pang-isis o papel de liha, distilyador, at iba pa. Karaniwang mayroong mga nakapirming mga \"panga\" ang mga gato, at isang pang kahanay na pangang gumagalaw patungo o palayo sa nakapirming panga sa pamamagitan ng isang turnilyo."
+    },
+    {
+        "id": "01j5ks",
+        "description": "Ang isang liyabe o birador ay isang kasangkapang ginagamit sa pagpihit ng mga tuwerka at barang panagka, o iba pang bagay na maiuugnay sa isang liyabe. Kabilang dito ang liyabe-tubo. Nagkaroon ng patente ang unang tubo noong 1835, isang kagamitang ginawa ni Solymon Merrick."
+    },
+    {
+        "id": "06qrr",
+        "description": "Ang sopdrink ay mga inuming karbonado o may karbon, na gawa mula sa mga konsentrado at asukal. May ilang may mga lasa o pampalasa. Ilan sa mga uri ng sopdrink ang Sprite, 7 up, Pepsi at Coca-Cola."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Ang tinidor ay isang uri ng kubyertos, na binubuo ng isang hawakan na may maliliit na ngipin sa kabilang dulo. Ang tinidor ay pangunahing tampok sa kanluran bilang isang gamit pangkain, kung saan sa Silangang Asya naman ang chopsticks ang mas madalas gamitin. Ang kagamitan na ito na kadalasan ay gawa sa metal ay ginagamit upang ibuhat ang pagkain sa bibig o kaya ay ipanghawak sa pagkain habang nagluluto o habang hinihiwa ito. Karaniwan itong itinatambal sa kutsara."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Ang hamburger o hamburgesa ay ang kinapal o makapal, ngunit maaari ring manipis, na giniling ng karneng niluto at ipinalaman sa loob ng dalawang hati ng tinapay. Ito rin ang tawag sa mismong kabuoan ng tinapay na may palamang burger, pinaikling hamburger, na maaaring may payat na keso at iba pang sahog."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Ang kape ay isang inumin madalas na inahain na mainit, hinahanda mula sa mga nilutong buto ng halamang kape. Ang kape ang pangalawang pinakakaraniwang kinakalakal na komodidad sa buong mundo, petrolyo ang nangununa. Isang kabuuang 6.7 milyon tonelada ng kape ang ginagawa bawat taon noong 1998-2000, tinatayang tataas ito sa 7 milyong tonelada bawat taon sa 2010. Ang kape ang pangunahing pinagkukunan ng caffeine, isang stimulant. Patuloy na inaaral at pinag-uusapan ng malawakan ang kanyang potensyal na pakinabang at hadlang."
+    },
+    {
+        "id": "09jc2n",
+        "description": "Ang likod ng tao o likuran ng tao ay ang malaking panglikurang lugar ng katawan ng tao, na nagmumula sa itaas ng puwitan magpahanggang sa likod ng leeg at ng mga balikat. Ito ang kapatagang nasa kabila ng dibdib, na ang taas ay ayon sa haliging panggulugod o kolumnang bertebral, at ang lapad ay sinusuportahan ng kulungan ng tadyang at ng mga balikat. Lumalagos ang kanal na panggulugod sa gulugod at nagbibigay ng mga ugat-pandama o mga nerbyo sa ibang mga bahagi ng katawan.\n\n Ang lathalaing ito na tungkol sa Anatomiya at Tao ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "09cx8",
+        "description": "Ang daliri sa kamay ay isa sa mga bahagi ng katawan ng tao o isang organo ng manipulasyon at pandama na matatagpuan sa mga kamay ng mga tao at mga unggoy tulad ng matsing na tsimpansi. Karaniwang ang mga tao ay may limang daliri sa bawat kamay, maliban na lamang kung may mga abnormalidad na tinatawag na polydactyly, hypodactyly o pagkaputol ng daliri. Ang unang daliri ay ang hinlalaki, na sinundan ng hintuturo, hinlalato, palasinsingan, at hinliliit."
+    },
+    {
+        "id": "0hz0h",
+        "description": "Ang mga ngipin ay ang mga istruktura o kayariang nakikita sa loob ng panga o ng bibig ng maraming mga bertebrado at ginagamit sa pagkagat, pagngasab at pagnguya ng pagkain. Ginagamit din ang mga ngipin para sa panananggalang at pangangaso ng ilang mga hayop, lalo na ang mga kumakain ng karne. Natatakpan ng mga gilagid ang mga ngipin.\nAng mga ngipin ang ilan sa mga pinakanatatangi at pangmatagalang bahagi ng mga espesyeng mamalya. Ginagamit ng mga paleontologo ang mga ngipin para makilala ang mga espesye batay sa mga kusilba at malaman ang kanilang mga kaugnayan. May kauganayan ang hugis ng mga ngipin ng isang hayop sa kaniyang mga kinakain. Bilang halimba, mahirap tunawin ang mga halaman, kaya maraming mga molar na pangnguya ang mga hayop na kumakain ng halaman lamang. Samantalang kailangan ng mga canine ang mga hayop na kumakain ng karne para makapaslang at makapunit ng laman.\nMga dipiyodonta ang mga tao, na nangangahulugang nagkakaroon sila ng dalawang uri ng mga ngipin. Ang unang uri ay ang kumpol ng mga ngiping-pangbata o pangunahing kumpol ng ngipin na karaniwang nagsisimulang lumitaw sa gulang na anim na buwan, bagaman mayroong isa o higit pang nakikitang mga ngipin ang ibang mga sanggol at kilala bilang ngipin na pangbagong-silang. Mahapdi para sa isang sanggol ang normal na pagtubo ng mga ngipin sa mahigit-kumulang na anim na buwang gulang."
+    },
+    {
+        "id": "037p5b",
+        "description": "Ang pisngi ay ang bahagi ng mukha na kinabibilangan ng ilalim ng mga mata at sa gitna ng ilong at sa kaliwa o kanang tainga. Malaman sa mga tao ang pisngi, na nakabitin ang balat sa pamamagitan ng baba at ng panga, na bumubuo sa panggilid na harang ng bibig ng tao, at kung saan makikitang nakadikit sa butong pang-pisngi sa ilalim ng mata. Sa mga vertebrate, nagsisilbing mga mahahalagang nakapagpapakilanlang mga pananda sa gitna ng mga espesye o indibidwal ang mga marka sa ibabaw ng lugar ng pisngi.\nSa mga tao, ang rehiyon ng pisngi ay nakararamdam sa pamamagitan ng ugat-pandamang buccal o buccal nerve. Nagmula sa wikang Latin ang salitang buccal."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Ang mga labi, at tinatawag na nguso kapag nasa diwang \"dalawang mga labi\", ay ang nakikitang organo sa bibig ng mga tao at maraming mga hayop. Malambot ang kapwa labi, nakaungos, naigagalaw at pangunahing nagsisilibing daanan ng pagkain, bilang organong pandama, at gamit sa pagsasalita."
+    },
+    {
+        "id": "0mhy4",
+        "description": "Sa anatomiya, ang lalamunan ay isang bahagi ng leeg at nasa harap ng gulugod. Binubuo ito ng parinks at larinks. Isang mahalagang katangian ng lalamunan ang pagkakaroon ng epiglottis, isang pilag o pilas ng laman na naghihiwalay sa esopago mula sa trakeya at iniiwasan ang paghigop sa mga pagkain o inumin.\nNasa loob ng lalamunan ang iba't ibang mga sisidlang daluyan ng dugo, iba't ibang masel na paringheyal, ang trakeya at ang esopago. Ang mga mamalya lamang ang mayroong butong hiyoyd at balagat sa loob ng lalamunan.\n\n Ang lathalaing ito na tungkol sa Anatomiya ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0dzdr",
+        "description": "Ang dibdib ay isang bahagi ng anatomiya ng mga tao at ibang mga hayop. Nasa harapan ito ng torso. Tinatawag din itong busto, partikular na ang pang-itaas na bahagi sa katawan ng isang babae kasama ang kinalalagyan ng mga suso. Ang salitang pektoral o pektoralis ay may kahulugang \"nauukol sa dibdib\". na may kaugnayan din sa pariralang Latin na in pectore o \"nasa loob ng dibdib\"."
+    },
+    {
+        "id": "025kyy",
+        "description": "Sa anatomyang pantao, ang noo ay ang unang bahagi ng ulo. Ito ay isang lugar ng ulo na may tatlong tampok na hangganan, dalawa sa bungo at isa sa anit. Ang itaas ng noo ay nagmumula sa linya ng buhok kung saan ang buhok sa anit ay tumutubo. Ang ibaba ng noo ay nagtatapos sa galugod, ang tampok na buto ng bungo sa itaas ng mga mata. Ang dalawang panig ng noo ay humahanggan sa galugod, ang tampok na butong nag-uugnay sa galugod sa linya ng at mga karatig."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Ang bibig o bunganga ay ang daanan ng pagkain at hangin sa tao at hayop. Ginagamit din ito ng tao sa pagsasalita, samantalang sa paggawa ng mga tunog naman sa hayop."
+    },
+    {
+        "id": "01d_ff",
+        "description": "Ang mga daliri sa paa o mga daliri ng paa ay mga bahagi ng katawan ng mga hayop na tinatawag na tetrapod, na kabilang ang tao. Ang mga espesye ng hayop na katulad ng mga pusa na naglalakad sa pamamagitan ng kanilang mga daliri sa paa ay inilalarawan bilang dihitigrado. Ang mga tao, at iba pang mga hayop, na naglalakad sa pamamagitan ng mga talampakan ng kanilang mga paa, ay inilalarawan bilang mga plantigrado. Ang mga ungguligrado naman ay ang mga hayop na naglalakad sa pamamagitan ng kanilang mga kuko, partikular na ang sa mga dulo ng kanilang mga hinlalaking pampaa. Ang mga hinlalaki ng paa, magmula sa midyal papuntang lateral, ay ang mga sumusunod:\n⁕Hallux, ang pinaka panloob na daliri ng paa at ang pinaka malapit sa mga daliri ng kabilang paa\n⁕Pangalawang daliri ng paa o ang \"mahabang daliri ng paa\"\n⁕Pangatlong daliri ng paa, o \"panggitnang daliri ng paa\"\n⁕Pang-apat na daliri ng paa, or \"palansinsingang daliri ng paa\"\n⁕Panlimang daliri ng paa, ang pinaka panlabas at pinaka malayong daliri ng paa"
+    },
+    {
+        "id": "0f9swq",
+        "description": "Sa anatomiya ng tao, ang baba ay ang pinakaibabang bahagi ng mukha. Binubuo ito ng pang-ibabang harapan ng panga."
+    },
+    {
+        "id": "03q69",
+        "description": "Ang buhok ay mga mahahabang hibla ng balahibo na matatagpuan sa ibabaw ng ulo ng tao at maging sa balat ng mga ito. Mayroon ding buhok ang mga hayop katulad ng ibon, baboy at unggoy ngunit kadalasang balahibo ang tawag dito sa halip na buhok. Balbon, mabuhok o mabalahibo ang tawag sa isang taong maraming balahibo o buhok sa katawan. Bigote ang tawag sa buhok sa ibabaw ng pang-itaas na labi, maging sa piltrum, ng tao, samantalang balbas naman ang tumutukoy sa mga buhok na tumutubo sa paligid ng bibig kabilang na ang bigote. Tinatawag ding misay ang bigote o balbas. Balbasarado ang tawag sa isang taong may balbas, samantalang bigotilyo naman ang may bigote. Bulbol naman ang karaniwang tawag sa buhok sa may kili-kili at iyong nakapalibot sa kasangkapang pangkasarian ng tao o hayop."
+    },
+    {
+        "id": "0dzd8",
+        "description": "Ang leeg o liig ay ang bahagi ng katawan ng tao o hayop na nagdurugtong sa ulo at punungkatawan. Ilan sa mga bahaging nasa harap ng leeg ang lalagukan at lalamunan. Matatagpuan naman sa likod nito ang batok."
+    },
+    {
+        "id": "039xj_",
+        "description": "Ang tenga o tainga ang organong pandama na ginagamit sa pagdinig ng mga tunog. May pagkakapareho sa kanilang biolohiya ang mga bertebrado, mula sa mga isda hanggang sa mga tao, na may pagkakaiba lamang sa istraktura ng tenga ayon sa sari at uri. Gumaganap lamang na tagatanggap ng tunog ang tenga, subalit mayroon ding ginagampanan sa pandamang panimbang at posisyon ng katawan. Bahagi sistemang auditoryo ang tainga. Tumutukoy ang pang-uring aural sa lahat ng bagay na may kaugnayan sa tainga.\nSa halos lahat ng mga hayop, ang nakikitang tenga ay isang pilas ng laman na karaniwan ding tinatawag na pinna sa larangan ng anatomiya. Sa anatomiya ng tao, kilala ang pinna bilang aurikulo. May isang pares ng mga tenga ang mga bertebrado, na nakalagay sa magkapantay na lugar sa magkabilang gilid ng ulo. Nakatutulong ang pagkakaayos na ito sa kakayahang tumuon sa pinanggagalingan at kinaroroonan ng mga tunog."
+    },
+    {
+        "id": "0k65p",
+        "description": "Ang kamay ay ang mga bahagi ng katawan ng tao at hayop, katulad ng matsing, na kapwa binubuo ng mga palad at mga daliri. Tinatawag ding mga kamay ang mga bahagi ng orasan na nagsasabi ng oras."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Sa larangan ng anatomiya, ang ilong ay isang tubo o bukol sa katawan ng mga vertebrate na bumabahay sa butas ng ilong, na tumatanggap at naglalabas ng hangin para sa paghinga habang katuwang ang bibig.\nSa karamihan ng mga tao, ibinabahay din nito ang mga buhok sa ilong, na humuhuli sa mga alikabok mula sa hangin at sinasala upang hindi makarating sa mga baga. Nasa loob at likod ng ilong ang mukosang olpaktoryo at ang mga sinus. Dumaraan sa likod ng puwang na pang-ilong ang hangin sa pamamagitan ng pharynx, na kasalo ang sistemang panunaw, at matapos ay ang natitirang bahagi ng sistemang pang-respiratoryo. Sa mga tao, nakalagak ang ilong sa gitna ng mukha; sa ibang mga mamalya, nakalagay ito sa pang-itaas na dulo ng matulis at matangos na bibig.\nBilang tulay-ugnayan sa pagitan ng katawan at ng panlabas na mundo, ang ilong at ang mga mga kaugnay na istruktura ay madalas na nagsasagawa ng mga karagdagang tungkuling ukol sa paglilinis ng pumapasok na hangin at pinaka ang tungkol sa muling panunubig mula sa hangin bago ito ilabas."
+    },
+    {
+        "id": "027n3_",
+        "description": "Ang kilay ay isang lugar ng makapal na buhok sa ibabaw ng balat sa ibabaw ng mata na sumusunod sa hugis ng supraorbital foramen o mga nakaumbok na gilid ng kilay."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Sa larangan ng anatomiya, ang ulo o kukote ng isang hayop ay ang bahagi ng katawan na karaniwang binubuo ng utak, mga mata, mga tainga, ilong, at bibig. Mayroon namang ibang payak na mga hayop na walang ulo subalit mayroong mga hayop na simetriko o pantay ang hugis sa magkabilang panig ng katawan."
+    },
+    {
+        "id": "031974",
+        "description": "Ang baywang o bewang ay ang bahagi ng puson ng tao o hayop na nasa pagitan ng bodega, kaha, o kulungang tadyang at balakang. Kung minsan natatawag ding \"baywang\" ang pigi, bagaman may kamalian."
+    },
+    {
+        "id": "014sv8",
+        "description": "Ang mga mata, busilig, o buliga ang organo ng paningin na nakadarama ng liwanag. Iba't ibang uri ng mga madaling-makaramdam na mga organo ang matatagpuan sa mga magkakaiba't ibang mga organismo. Walang ginagawa ang mga pinakapayak ng mga mata kundi ang dumama ng liwanag at kadiliman sa kapaligiran, habang nakakapansin naman ng mga hugis at kulay ang mga mas masalimuot na uri ng mga mata. Malawakang nagkakasanib-sanib ang mga nasasakop ng pananaw ng ilan sa mga ganitong uri ng mga masalimuot na mga mata: katulad ng pagpapahintulot ng mas mainam na pagpuna sa antas ng kalaliman sa mga tao; at nakaposisyon naman ang ibang mata upang mabawasan ang pagkakapatung-patong ng mga nasasakop ng pananaw, katulad ng sa mga kuneho at sa mga kamelyon. Karaniwang tumutukoy ang buliga sa kabuoan ng bilog ng mata; samantalang sa harap ng mata o sa buong bilog din ng mata ang busilig."
+    },
+    {
+        "id": "06rrc",
+        "description": "Ang sapatos ay isang kasuotan o sapin sa paa. Kabilang sa mga ito ang degoma o kaya yung mga may takong. Para sa mga babae, karaniwan na ang mayroon mga mataas o mababang mga takong. Yari naman sa katad ang mga pormal na sapatos.\n\n Ang lathalaing ito na tungkol sa Tao at Kultura ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "02wv6h6",
+        "description": "Ang saya, palda o babong ay isang kasuotang hugis tubo o apa na nakabitin pababa mula sa balakang at tumatakip sa lahat o bahagi ng mga hita at binti. Sari-saring mga palda ang isinusuot sa iba-ibang mga kultura sa loob ng maraming mga panahon. Mayroong mga pambabae at may mga panlalaki o kapwa para sa dalawa. Halimbawa ng mga panlalaking palda ang kilt at ang pustanela."
+    },
+    {
+        "id": "0fly7",
+        "description": "Ang jeans ay isang pantalon na gawa sa maong.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "01rkbr",
+        "description": "A kurbata ay isang bahagi ng damit na isinusuot ng mga lalaki. Bahagi ito ng pangkat ng magkakaugnay na mga kasuotang tinatawag na terno, partikular na ang Amerikana. Karaniwang isinusuot ito ng mga kalalakihan sa mga bansang Kanluranin para sa kanilang mga propesyunal na hanapbuhay katulad ng negosyo, batas, at pulitika. Malimit na gawa sa sutla o polyester ang kurbata, o iba pang mga uri ng tela, at kadalasang mayroong kulay o padron ng disenyo. Nakadaragdag sa pagiging pormal ng kasuotan terno o Amerikana ang pagsusuot ng kurbata. Bilang pamugong o \"laso\" na pangleeg ng lalaki, ipinapaligid ito sa kuwelyo ng polong panglalaki at ibinubuhol sa may harapan."
+    },
+    {
+        "id": "01767_",
+        "description": "Ang pambabaeng medyas, kalsetin, o balindang ay isang piraso ng damit na pambabaeng isinusuot na katulad ng pangkaraniwang medyas ngunit mas mahaba. Gawa ito mula sa nababanat na mga materyales. Karaniwang isinusuot ito sa halip na medyas o damit na pitis o hakab sa katawan. Pitis o hakab sa nasasaklawang pang-ibabang bahagi ng katawan ang kasuotang ito. Mayroong mga uri rin nito na ginagamit sa mga unipormeng pampalakasan o isports. Bagaman karaniwang pambabae ito, mayroon ding mga kalsetin na sadyang ginawa para sa mga lalaki at nagsisilbing panlalaking damit-panloob na pitis o mahigpit din ang pagkakalapat sa nasasakupang pang-ibabang bahagi ng katawan."
+    },
+    {
+        "id": "01m2v",
+        "description": "Ang tipaan ng kompyuter, tipaang pangkompyuter, teklado ng kompyuter, o tekladong pangkompyuter ay isang mahalagang aparatong nagpapahintulot sa tagagamit ng kompyuter na makapagpasok o makapagtipa ng mga panitik o karakter papunta sa loob ng isang kompyuter. Ito ang pangunahing aparatong pamasok para sa karamihan ng mga kompyuter. Sa larangan ng paggamit ng mga kompyuter, bahaging iminodelo ito sa tipaan ng makinilya, na gumagamit ng pagkakaayos ng mga pindutan o buton o \"susi\" upang gumanap bilang mga leber o dalawit na mekanikal o \"pamihit\", \"pamalit\", o pindutang butong elektroniko. Karaniwang mayroong mga karakter ang mga pindutang ito na nakaimpreta o nakalimbag sa ibabawa at bawat isa ay tumutugma sa isang nasusulat na simbolo. Subalit, upang makalikha ng ilang mga simbolo, nangangailangan ito ng pagpindot at ng sabayang pagdiin din sa ilang mga pindutan o \"susi\" o kaya magkasunod na pinipindot o diniriinan. Habang lumilikha ang karamihan sa mga susi o buton ng mga titik ng alpabeto, mga bilang, o tatak, may ibang mga susi o pindutang lumilikha ng mga galaw o nagsasagawa ng mga utos na pangkompyuter kapag diniinan o pinindot."
+    },
+    {
+        "id": "020lf",
+        "description": "Ang mouse ay ang karaniwang ginagamit na panturong kasangkapan para sa mga kompyuter."
+    },
+    {
+        "id": "02bc6",
+        "description": "Ang database o talaan ay kalipunan ng mga dato o datos na nakaayos upang madaling makuha, masuri at madagdagan. Depende sa uri ng database ang uri ng dato na kaya nitong iimbak."
+    },
+    {
+        "id": "02nf_",
+        "description": "Ang elektronikong liham, maari ring paiksihin na e-liham, ay isang paraan ng paggawa, pagpadala at pagtanggap ng mga mensahe sa pamamagitan ng mga elektronikong sistemang pangkomunikasyon. Sa ngayon, karamihan ng mga sitemang e-liham ay gumagamit ng World Wide Web.\nAng kaunaunahang e-mail ay ipinadala ni Ray Tomlimson ng ARPANET nuon 1971. Ang e-mail na ito ay nagsimula sa maliit na program lamang na ginagamit lang sa isang maliit na network. Ang unang e-mail na ipinadala ni Tomlinson ay sa sarili lamang niya bilang isang eksperimento.\nMaaari ring maglaman ang mga e-liham ng mga attachment na naglalaman ng mga larawan at dokumento."
+    },
+    {
+        "id": "03rlt",
+        "description": "Ang Internet ay ang mga magkakabit na mga computer network na maaaring gamitin ng mga tao sa buong mundo. Naipapadala ang mga datos sa pamamagitan ng packet switching na gamit ang inayunang pamantayan na Internet Protocol. Binubuo ito ng milyon-milyong pampribado, pampubliko, pampaaralan at pampamahalaan ng mga network na may lokal hanggang malawakang saklaw at pinagka-kaugnay sa pamamagitan ng mga kawad na tanso, kawad na fiber-optic, wireless na kuneksyon at iba pang teknolohiya. Dinadala nito ang mga iba't ibang impormasyon at serbisyo, katulad ng electronic mail, online chat, at magka-kaugnay na mga pahina ng web ng World Wide Web. Dahil ito ang pinakamalaki at pinakamalawak na internet sa buong mundo, tinawag ito na ang Internet."
+    },
+    {
+        "id": "07wcf",
+        "description": "Ang Universal Serial Bus o USB ay isang tekonolohiyang binuo noong kalagitnaan ng dekada '90 na nagpapahintulot sa mga kable, konektor at mga sa paglilipat ng impormasyon\/bytes sa pagitan ng isang kagamitang elektroniko patungo sa kompyuter. Sa kasalukuyan, marami nang mga ibang teknolohiya na naikakabit sa kompyuter gamit ang USB katulad ng mga kamerang digital, flash drive, maws, tipaan at palimbagan.Ito rin ay maaring gamitin sa pangmalawakang pamamaraan."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Ang Facebook ay isang social networking website na libre ang pagsali at pinapatakbo at pag-aari ng Facebook, Inc. na isang pampublikong kompanya. Maaaring sumali ang mga tagagamit dito nakaayos ayon sa lungsod, pinagtratrabahuan, paaralan at rehiyon upang makakonekta at makihalubilo sa ibang mga tao. Maaaring magdagdag rin ng mga kaibigan at magpadala ng mensahe sa kanila, at baguhin ang kanilang sariling sanaysay upang ipagbigay-alam sa kanilang mga kaibigan ang tungkol sa kanilang sarili. Tumutukoy ang pangalan ng website na ito sa mga mukhang nasa aklat na papel na sinasalarawan ang mga kasapi ng isang kampus na pamayanan na binibigay ng ilang kolehiyo at preliminaryong paaaralan sa Estados Unidos sa mga papasok na mga mag-aaral, guro o propesor, at mga trabahador bilang isang paraan na makilala ang ibang tao sa kampus.\nItinatag ni Mark Zuckerberg ang Facebook kasama ang kaklase niya sa agham pangkompyuter at kasama sa kuwartong sina Dustin Moskovitz, Ar-Ar Mendoza at Chris Hughes habang mag-aaral pa siya ng Pamantasan ng Harvard. Noong una, limitado ang pagsapi sa website na ito sa mga mag-aaral ng Harvard, ngunit lumawak ito sa ibang mga kolehiyo sa Boston, ang Ligang Ivy at Pamantasan ng Standford. Nang kalaunan, lumawak pa ito at napabilang ang kahit sinong mag-aaral ng isang pamantasan, pagkatapos mataas na paaralan at, nang tumagal pa, kahit sinong nasa gulang na 13 pataas. Sa kasalukuyan, mayroon na ang Facebook ng higit sa 200 milyong aktibong tagagamit sa buong mundo."
+    },
+    {
+        "id": "0508p",
+        "description": "Ang motherboard ay isang nilimbagang tabla ng sirkito na matatagpuan sa maraming makabagong mga kompyuter, na humahawak sa maraming mga mahahalagang mga bahagi ng sistema na ginagamit sa pagpapatakbo ng isang kompyuter. Ang motherboard ang pinagkakabitan ng CPU na tinuturing na utak ng kompyuter. Kung minsan, tinatawag din itong main board o system board, o kaya logic board sa mga kompyuter ng Apple. Kaswal na pinaiikli ito kung minsan bilang mobo."
+    },
+    {
+        "id": "07g0_",
+        "description": "Ang Haya ay ang pangatlong pinakamalaking lungsod sa Olanda, kasunod ng Amsterdam at Rotterdam, na may populasyong 485,818, at may sukat na kulang-kulang 100 km². Ito ay matatagpuan sa kanlurang bahagi ng bansa, sa lalawigan ng Timog Olanda, at siya ring kabisera nito. Kasama ng Amsterdam, Rotterdam, Utrecht at Almere, Ang Haya ay bahagi Kalakhang Randstad na umaabot sa populasyong 6.6 milyong katao.\nAng Haya ay ang himpilan ng pamahalaang Olandes at ng hukumang pangkaharian. Si Reynang Beatiz ng Olanda ay nakatira at naghahanapbuhay sa Haya. Lahat ng mga dayuhang embahada at mga sangay ng pamahalaan ay matatagpuan sa lungsod na ito, pati na rin sa Hoge Raad der Nederlanden, Raad van State atbp.\nAng Haya rin ang de facto na kabisera ng Mga Nagkakaisang Bansa, at sa gayon dito matatagpuan ang Pandaigdigang Hukuman ng Katarungan."
+    },
+    {
+        "id": "02_286",
+        "description": "Ang Lungsod ng New York ay isa sa pinakamataong lugar sa mundo at nasa sentro ng media, pananalapi, komunikasyon, musika, fashion, at kulturang internasyonal. Isa ang lungsod sa mga pinakamahahalagang lungsod pandaigdig sa mundo na kung saan matatagpuan ang malawak at halos walang karibal-ribal na koleksyon ng mga museo, galeriya, at venyung pantanghalan na uring pandaigdig o world class. Matatagpuan din dito ang karami-raming awtlets pammidiya, mga korporasyong internasyonal, at ang ilan sa mga pinakamahahalagang bolsa o stock exchange. Dahil tahanan nito ng United Nations, ang lungsod ay importante sa mga internasyonal na mga relasyon.\nAng lunsod ay ng New York ay naglalaman ng limang mga Boro: The Bronx, Brooklyn, Manhattan, Queens at Pulo ng Staten. Ang populasyon ng lungsod noong 2008 ay 8.3 milyon na katao at ang lugar ay may sukat na 305 Square Miles, ang Lungsod ay ang pinakamataong lugar sa Estados Unidos.\nNoong Setyembre 11, 2001, inatake ng mga terorista ang Lungsod ng New York gamit ang apat na na-high jack na eroplano. 3000 tao ang napatay sa atake sa World Trade Center kasama ang mga taga-New York na nagtatrabaho sa mga gusali at daan-daang mga bombero, pulis, at rescue worker na nakitulong sa kanila. Isang makapal at maaskad na usok ang bumuga mula sa wásak nito nang iilang buwan pagkaraan ng malaimpyernong pagguho ng Twin Towers. Nakaahon na muli ang lungsod mula non at natapos nang maaga ang pisikal na pagsasalinis ng ground zero. Ipapatayo ang Freedom Tower, na hinahangad na magkaroon ng taas ng eksaktong 1776 talampakan, sa kinatatayuan at yayariin ng mga 2006 hanggang 2010."
+    },
+    {
+        "id": "0430_",
+        "description": "Ang Herusalem o Herusalen ay isang lungsod sa Israel na pinahahalagahan ng mga relihiyon ng mga Hudyo at mga Kristiyano. May iilang mga pook din sa lungsod ang itinuturing na mahalaga sa relihiyon ng mga Muslim. Naging pangunahing layunin ng mga Krusada na masakop ang Herusalem at mabawi ito sa mga Muslim. Ang mga Krusada ay nagsimula noong 1095.\nAng Herusalem ang opisyal na kabisera ng Israel at ang kinaroroonan ng residensyang pampangulo, mga tanggapan ng pamahalaan, at ng Kneset. Hindi ito kinikilala ng mga bansang Arabo at dahil dito itinatayo ng mararaming bansa ang kanilang mga embahada sa mga suburbyo o sa iba pang pangunahing lungsod tulad ng Tel Aviv, Ramat-Gan, Herzliya, at kung saan pa upang maiwasan ang mga alitang pampolitika.\nInaangkin din ng mga Palestino ang bahagi o ang buong lungsod bilang kabisera ng isang magiging estadong Palestino. Gayumpaman, argumento ng mga Hudyo at ng mga iba pa na ang ganitong klaseng panukala ay baligho sapagkat, di-tulad ng Hudaismo na itinuturing na banal ang lungsod mismo, ikinikilala lamang ng Islam na banal ang iilang mga pook sa lungsod at hindi nagkaroon ng tunay na kahalagahan ang lungsod sa kasaysayan ng relihyong ito."
+    },
+    {
+        "id": "01w2v",
+        "description": "Ang Cairo ay isang lungsod at kabisera ng Ehipto. Tinataya ang populasyon ng areang metropolitano nito na 15.2 milyon katao. Ito ang ika-13 pinakamataong metropolitanong area sa mundo.\n Ang lathalaing ito na tungkol sa Ehipto ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Ang Seoul o Seyol ay ang kabisera at ang pinakamalaking lungsod sa Timog Korea. Ito ay matatagpuan sa gitnang bahagi ng Timog Korea, at nahahati rin ng Ilog Han. Ito ang pinakahilagang bahagi ng Timog Korea.\nIto ang sentro ng pulitika, ekonomiya, kultura, transportasyon, at ng edukasyon para sa mga taga-Timog Korea. Ito rin ang pinakamatandang lungsod sa bansa, at ang kanyang kasaysayan ay nagsimula pa noong 18 BC. ang Dinastiyang Goryeo ay nagtayo ng palasyo sa Seoul, na tinatawag noong \"Kabisera ng Katimugan\". Hindi lumaon, ginawa rin ng Dinastiyang Joseon ang Seoul bilang kanilang kabisera. Ito pa rin ang naging kabisera kahit noong panahon ng panahong sinakop ng mga Hapon ang Korea noong 1910 hanggang 1945."
+    },
+    {
+        "id": "031y2",
+        "description": "Ang Firenze, Florencia, o Florence ang kabisera ng lalawigan ng Firenze sa rehiyon ng Toscana, sa Italya.\n\n Ang lathalaing ito na tungkol sa Italya ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0156q",
+        "description": "Ang Berlin ang kabisera at isang lalawigan ng Alemanya. Ito ang pinakamalaking lungsod sa bansa, at ang pumapangalawang pinakamalaking lungsod ayon sa populasyon sa Kaisahang Yuropeo.\nUnang nabanggit noong ika-13 dantaon, ang Berlin ay naging kabisera ng Kaharian ng Prusya noong 1701 at ng Imperyong Aleman noong 1871. Ganito rin ang kaniyang naging katayuan noong mga panahon ng Republika ng Weimar at ng Ikatlong Reich hanggang 1945. Matapos ang Ikalawang Digmaang Pandaigdig, inangkin ng Demokratikong Republikang Aleman o Silangang Alemanya ang Silangang Berlin bilang kabisera nito, habang ang Kanlurang Berlin naman ay isang enclave ng Kanlurang Alemanyang pinaliligiran ng Silangang Alemanya. Kasunod ng muling pagsasaisa ng Alemanya noong 1990, ang Berlin muli ang naging kabisera ng Alemanya.\n\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "05qtj",
+        "description": "Ang Paris ay ang kabisera at pinakamalaking lungsod ng Pransya, na matatagpuan sa pampang ng Ilog Sena, sa hilagang Pransya, sa kalagitnaan ng rehiyong Pulo ng Pransya. Ang lungsod ng Paris, na ang mga hangganang panlungsod nito ay hindi nagbago simula noon taong 1860, ay may tinatayang populasyon na 2,193,031, ngunit ang Kalakhang Paris ay may populasyon na 11,836,970, at ito isa sa mga pinakamataong kalakhan sa Europa.\nNoong mga taong 2009 at 2010, ang Paris ay hinalal bilang isa sa tatlong mga mahahalaga at maiimpluwensyang lungsod sa daigdig, isa sa tatlong unang \"mga Europeong lungsod ng hinanarap,\" - ayon sa pananaliksik na inilathala ng Financial Times - at bilang kasama sa sampung pinakamagandang tirhang lungsod sa daigdig, ayon sa Britanikong magasinang Monocle. Isang mahalagang kabayanan sa mahigit na dalawa nang milenyo, ang Paris ngayon ay isa sa mga pangunahing sentrong pinansyal at pangkultura ng daigdig, at ang impluwensya nito sa pulitika, edukasyon, aliwan, midya, pananamit, agham at mga sining ay lahat nag-aambag sa kalagayan nito bilang isa sa mga pangunahing lungsod pandaigdig. Ang Paris ay hinahalal ding kabilang sa 10 mga luntiang lungsod sa Europa sa taong 2010."
+    },
+    {
+        "id": "0k3p",
+        "description": "Ang Amsterdam ay ang kabisera at pinakamalaking lungsod sa Olanda. Ang kasalukuyang tungkulin ng Amsterdam bilang kabisera ng Kaharian ng Olanda ay pinangangasiwaan ng saligang-batas ng Agosto 24, 1815 at mga kasunod nito. Ang Amsterdam ay may populasyon na 780,152 sa loob ng pinaka-lungsod, 1.2 milyon kung kasama ang mga karatig-pook at 2.1 milyon naman sa buong kalakhan. Ang lungsod ay nasa lalawigan ng Hilagang Olanda sa bandang kanluran ng bansa. Kinalalagyan nito ang hilagang bahagi ng Randstad, and ika-anim na pinakamataong kalakhan sa Europa, na may populasyon na 8.1 milyon ayon sa ilang mga pagtataya.\nAng pangalan nito ay kinuha mula sa Amstelredamme, na nagsasabi ng pinagmulan ng lungsod: isang dam sa Ilog Amstel. Tinirahan habang isang maliit na bayang palaisdaan noong kahulihan ng ika-12 siglo, ang Amsterdam ay naging isa sa pinakamahalagang daungan sa daigdig noong Ginintuang Panahon ng mga Olandes, na dala ng pag-unlad sa kalakalan. Noong mga panahong iyon, ang lungsod ay nangunguna pagdating sa pinansya at mga dyamantes. Noong ika-19 at ika-20 siglo, lalong lumawak ang lungsod, at maraming bagong mga pamayanan at karatig-pook ang naitaguyod. Ang mga daang-tubig na ginawa noong ika-17 siglo ay idinagdag sa UNESCO World Heritage List noong Julyo 2010."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Ang Dakar ay ang kabisera ng bansang Senegal."
+    },
+    {
+        "id": "06gmr",
+        "description": "Ang Rio de Janeiro ay ang panglawang pangunahing lungsod sa Brasil, pagkatapos ng São Paulo. Kabisera ang lungsod ng estado ng Rio de Janeiro. Naging kabisera ito ng Brazil a Imperyong Portuges. Karaniwang kilala bilang Rio lamang, palayaw din ng lungsod ang bansag na A Cidade Maravilhosa - \"Ang Kamangha-manghang Lungsod\".\nSikat ang lungsod na ito sa likas na tanawin, mga pagdiriwang Karnabal, samba at ibang musika, mga pang-turistang dalampasigan na may mga otel, katulad ng Copacabana at Ipanema, na nakalatag sa itim at kremang nakatirintas na huwarang mosaiko."
+    },
+    {
+        "id": "06zdj",
+        "description": "Ang paaralan ay isang pook kung saan nag-aaral ang isang mag-aaral. Halimbawa nito ang elementarya at sekundarya.\n\n Ang lathalaing ito na tungkol sa Edukasyon at Arkitektura ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "06zdj",
+        "description": "Ang paaralan ay isang pook kung saan nag-aaral ang isang mag-aaral. Halimbawa nito ang elementarya at sekundarya.\n\n Ang lathalaing ito na tungkol sa Edukasyon at Arkitektura ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "09cmq",
+        "description": "Ang museo ay isang lugar na bukas sa publiko kung saan inilalagay ang mga mahahalagang bagay ukol sa sining kasaysayan ng isang bansa.\nGaling ito sa salitang Latin na museum, na galing sa salitang Pranses na mouseion, na tumutukoy sa isang templo ng mga Musa, mga babaeng patron ng sining sa mitolohiyang Griyego."
+    },
+    {
+        "id": "017ql",
+        "description": "Ang bangko ay isang institusyong pampananalapi na tumatanggap ng mga deposito at ginagamit ang mga ito sa mga pagpapautang; na maaaring tuwirang pagpapautang o hindi tuwirang pagpapautang gaya ng sa merkado ng mga kapital. Ang bangko ang nag-uugnay sa mga kliyente o mga namumuhunan na may kakulangang sa puhunan o kapital, at mga kliyente na may labis na puhunan.\nDahil sa impluwensiya ng mga bangko sa isang sistemang pananalapi at sa ekonomiya, ang mga bangko ay mahigpit na pinamamahalaan sa karamihan ng mga bansa. Karamihan sa mga bangko ay pinapatakbo sa ilalim ng sistemang tinatawag na fractional reserve banking kung saan ay humahawalak lang sila nang maliit na reserba ng pondong deposito at ipinauutang ang lahat para sa tubo. Halos lahat ng bangko ay kailangan makamit ang pinakamababang pangangailangang puhunan o kapital na nakabatay sa pandaigdigang pamantayan ng kapital upang kilalanin bilang isang lehitimong bangko, na kilala ngayon bilang Bassel Accords.\nGinagamit din ng mga bangko ang salapi mula sa mga deposito upang mamuhunan sa mga negosyo at magkaroon na mas maraming pang salapi.\nSa karamihan sa makabagong mundo, tinutuos ng pamahalaan ang isang bangko ngunit malaya sa administratibong pagpipigil ng estado sa kung gaano kadaming salapi ang ilalabas sa tinakdang panahon. Tinatawag na pambansang bangko o bangko sentral ang mga ganoong uri ng bangko. Nagpapalabas ang pambansang bangko ng mga karaniwang mga salaping papel at\/o mga barya. Sa ibang mga bansa, gawain ng pamahalaan ang pagpapalabas ng salapi."
+    },
+    {
+        "id": "02p0qmm",
+        "description": "Ang dalubhasaan o kolehiyo ay isang institusyon ng kaalaman."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Ang pamihilan o merkado ay isang pook kung saan pumupunta ang mga tao. Kapag may mga bagay na ibebenta ang mga tao, nagtatatag sila ng isang pook pamilihan o pook pakyawan, katulad ng palengke, tiyangge, talipapa, baraka, tindahan, kabyawan, paryan, perya, at emporyum. Ang pamilihan ay isang mabuting paraan ng pagbabalanse ng dami ng bagay na maaaring ipagbili at ng mga pangangailangan sa bagay na iyon, dahil mabilis na nagbabago ang mga halaga upang magbigay ng tanda kung anong mga bagay na maipagbibili ang mababa o mataas ang dami, o kung gaano kataas o kababa ang pangangailangan sa bagay na iyon.\nSa usapin ng ekonomika ay gumagalaw sa isang pamilihan o market ang kompetisyon. Ang pamilihan ay grupo ng mga mamimili at magtitindi ng isang partikular na produkto o serbisyo. Isang simpleng halimbawa nito ay ang pamilihan ng isaw sa loob ng Unibersidad ng Pilipinas. Alam ng isang mamimili na maraming nagbebenta ng isaw sa lugar kaya’t marami siyang mapagpipiliang nagbebenta nito. Marami rin ang bumibili ng isaw, kaya hindi nadidiktahan isang mamimili o ng isang nagbebenta ang presyo o dami ng produktong ito. Ang tawag dito ay competitive market. Hindi kayang diktahan ng isang mamimili ang presyo ng produkto dahil kakaunti lamang ang binibili niya. Hindi rin kayang diktahan ng magtitinda ang presyo ng isang produkto dahil alam niya na marami ring nangtitindi ng parehong produkto. Kung tinaasan niya ang presyo ay pwedeng lumipat nalang ang mamimili sa ibang nagtitinda ng sa mas mababang presyo. Kung binabaan naman niya ay may posibilidad na malugi siya."
+    },
+    {
+        "id": "09cjl",
+        "description": "Ang isang paliparan ay isang lugar na kung saan ang sasakyang panghimpapawid tulad ng mga eroplano, helikopter, at blimp ay lumilipad paalis sa lupa. Ang mga sasakyang panghimpapawid ay maari rin na naka-imbak o pinananatili sa paliparan. Ang isang paliparan ay binubuo ng hindi bababa sa isang ibabaw tulad ng isang daanan, isang helipad, o tubig para sa pagtaas at landing, at maaari madalas kasama ang mga gusali tulad ng garahe ng eroplano at terminal building.\nAng mga mas malaking paliparan ay maaaring may taning na ang operator ng batayang serbisyo, eroplanong pantubig docks at ramps, air traffic control, mga pasilidad pang pasahero tulad ng mga restoran at lounges, at emergency na serbisyo. Ang militar na paliparan ay kilala bilang isang airbase o air istasyon. Ang mga kataga airfield, airstrip, at aerodrome ay maaari ding magamit upang sumangguni sa mga paliparan, at ang mga tuntunin heliport, eruplanong pantubig base, at STOLport sumangguni sa airports dedikado eksklusibo sa helicopters, seaplanes, o maikling pagtaas at landing sasakyang panghimpapawid. Sa ilang mga hurisdiksyon, ang mga kataga ng paliparan ay ginagamit kung saan ang mga pasilidad na ito ay lisensiyado bilang tulad ng mga may government organization. Sa ibang lugar sa pagkakaiba lamang ay ang isa sa mga pangkalahatang hitsura. Ngunit ang iba pang mga lugar na itakda ang isang paliparan nito sa pamamagitan ng pagkakaroon ng mga kinakailangang customs opisina atbp inaasahan ng isang port, lang ang mas pangkalahatang kataga ay paliparan ng entry.\n Ang lathalaing ito ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "053rd",
+        "description": "Ang pagmimina ay isang proseso ng paghuhukay at pagkuha ng mga bagay mula sa lupa. Ang anumang materyal na hindi malilikha at mapapalago ay kailangang minahin. Ang pagmimina ng mga bagay mula sa lupa ay tinatawag na ekstraksyon, paghango, o paghugot. Maaaring maging kabilang sa pagmimina ang paghango ng mga metal at mga mineral, na katulad ng uling, ginto, pilak, platinum, tanso, at bakal. Maaari rin namang iba pang mga bagay, katulad ng langis at likas na gas. Ang taong nagmimina ay tinatawag na tagapagmina, tagamina, mangmimina, o minero.\nIlang uri ng pagmimina ay ginagawa sa pamamagitan ng pagkayod ng lupa o dumi mula sa ibabaw ng lupa. Tinatawag itong pagmiminang patalop o strip mining sa Ingles. Ang ilang pagmimina ay isinasagawa sa pamamagitan ng malalim na pagpunta sa ilalim ng lupa upang marating ang isang poso ng mina. Tinatawag ang ganitong pagmimina bilang pagmimina sa ilalim ng lupa o undergound mining. Ang ilang pagmimina, katulad ng pagmimina ng ginto, ay isinasagawa sa ibang mga paraan. Ang ginto ay maaaring mamina sa pamamagitan ng paghahanap sa loob ng himlayan ng isang ilog o ibang agusan o bugsuan ng tubig upang maalis ang mga maliliit na piraso ng ginto. Tinatawag itong pananala ng ginto."
+    },
+    {
+        "id": "029g_vk",
+        "description": "Ang telekomunikasyon ay ang ekstensiyon o dugtong na pangkomunikasyon sa ibabaw ng malayong distansiya. Sa pagsasanay, kinikilala nito na maaaring may mawala sa proseso; dahil dito sinsakop ng katagang 'telekomunikasyon' ang lahat ng anyo ng distansiya at\/o pagbabago ng orihinal na mga komunikasyon, kabilang ang radyo, telegrapiya, telebisyon, telepono, komunikasyong pangdatos at pagnenetwork ng kompyuter.\nAng elemento ng isang sistema ng telekomunikasyon ay ang tagapagdala, tagapagpadala, o transmiter, isang tagapamagitan o midyum at marahil isang kanal na nakapataw sa tagapamagitan, at tagatanggap o receiver. Isang kagamitan ang tagapadala na pinapalitan ang anyo o ini-encode ang isang mensahe sa isang pangyayaring pisikal; ang signal. Pinapalitan o pinapababa ng tagapamagitan, sa pamamagitan ng kaniyang pisikal na kalikasan, ang signal sa kanyang dinadaanan mula sa taga-padala hanggang sa taga-tanggap. May mekanismong pang-decode ang taga-tanggap na may kakayahang makuhang muli ang mensahe sa loob ng mga tiyak na hangganan sa pagbaba ng signal. Sa ibang mga kaso, ang mata o tenga ng tao ang huling \"tagatanggap\" at ginawa ng utak ang pagkuha muli ng mensahe"
+    },
+    {
+        "id": "01mf0",
+        "description": "Ang software na pangkompyuter o software o sopwer ay katagang tumutukoy sa kalipunan ng mga panuto, pamamaraan at dokumentasyon na may mga layuning isinasagawa sa isang sistemang pang-kompyuter. Unang ginamit ang katagang ito sa ganitong kaisipan ni John W. Tukey noong 1958.\nIlan sa kabilang rito ay:\n⁕Ang Application software, tulad ng mga word processor, na nag-gagawad ng mga gawaing kapakipakinabang sa mga gumagamit nito.\n⁕Ang Firmware na isang uri ng sopwer na itinatalaga sa mga kasangkapang tumatanggap ng panutos sa pamamaraang elektrikal. Naiiba ito sa ibang sopwer dahil hindi ito nabubura o nagbabago kahit na walang dumadaloy na kuryente sa kasangkapang kinapagpapalooban nito.\n⁕Ang middleware na siyang namamahala at nagpapakilos ng mga kalat-kalat na sistemang pang-kompyuter.\n⁕Ang mga websayt na nagbibigay kaalaman at kakayahan sa mga taga-gamit sa pamamagitan ng internet o intranet.\nGinagamit din paminsan ang katagang \"sopwer\" sa malawakang pagtukoy sa anumang bagay na ginagamit ng hardwer ngunit hindi nananatili rito gaya ng mga pilm, tape at mga record."
+    },
+    {
+        "id": "011s0",
+        "description": "Ang pagpapatalastas o pag-aanunsiyo ay isang uri o anyo ng komunikasyon o pakikipagtalastasan para sa pagmemerkado o pagmamarket at ginagamit upang mahikayat o mahimok ang mga madla na magpatuloy o gumawa ng ilang bagong kilos. Sa pinaka karaniwan, ang inadhikang resulta ay ang maimpluwensiyahan ang ugali ng tagakonsumo o mamimili alinsunod sa isang alok na komersiyal o kalakal, bagaman karaniwan din ang pagpapatalastas na pampulitika at pang-ideyolohiya. Sa wikang Latin, ang pariralang ad vertere, na pinaghanguan ng salitang Ingles na advertising, ay may kahulugang \"ibaling ang isipan papunta sa [isang bagay]\". Maaaring maging layunin din ng pagpapatalastas ang paasahin ang mga empleyado at mga \"kasalo\" na matatag o matagumpay ang isang kumpanya. Ang mga mensaheng pampatalastas ay karaniwang binabayaran ng mga isponsor at nakikita sa pamamagitan ng samu't saring midyang tradisyunal; kabilang na ang midyang pangmasa na katulad ng pahayagan, magasin, komersiyal na pangtelebisyon, patalastas sa radyo, patalastas na nasa labas ng gusali o panlasangan, o tuwirang pagpapadala sa pamamagitan ng koreo; o kaya sa pamamagitan ng bagong midya na katulad ng mga blog, mga websayt, o mga mensaheng teksto."
+    },
+    {
+        "id": "01ftz",
+        "description": "Ang biyoteknolohiya ay isang teknolohiya o agham na nakabatay sa biyolohiya, natatangi na kapag ginamit sa agrikultura, agham pangpagkain, at medisina.\n\n Ang lathalaing ito na tungkol sa Biyolohiya at Teknolohiya ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito."
+    },
+    {
+        "id": "0h61",
+        "description": "Troll Ang arkeolohiya ay ang pag-aaral sa mga kalinangán ng tao sa pamamagitan ng pagbawi, pagdukumento at pagsusuri ng mga materyal na labi, kabilang ang arkitektura, mga artifact, mga biofact, labi ng mga tao, at mga tanawin. Ang pagbibigay linaw sa kasaysayan, bago pa ang kasaysayan, pag-aasal at ebolusyong kultural ng tao ang layunin ng arkeolohiya. Ito lamang ang disiplina na nagtataglay ng kaparaanan at teoriya para sa pagtipon at pagpapaliwanag ng impormasyon tungkol sa nakaraan ng tao bago pa na may nasusulat na kasaysayan, at maari din gumawa ng isang kritikal na alay sa ating pagkaunawa sa mga nadukumentong lipunan. Napupunan ng ibang larangan sa antropolohiya ang mga natuklasan ng arkeolohiya, lalo na ang antropolohiyang kultural at antropolohiyang pisikal. Pinupunan din ng ibang disiplina ang arkeolohiya, katulad ng paleontolohiya, kabilang ang paleosoolohiya at paleobotanika, heograpiya, heolohiya, kasaysayan, kasaysayan ng sining, at klasiko.\nIsinalarawan ang arkeolohiya bilang isang paglikha na tinatatala ang agham upang liwanagin ang araling pangtao."
+    },
+    {
+        "id": "01mtb",
+        "description": "Ang pagluluto ay ang gawa ng paghahanda ng pagkain para kainin. Pinapaligiran ito malawak na sakop ng mga paraan, kagamitan, at pagkakasama-sama ng mga sangkap upang mapabuti ang lasa at\/o ang madaling pagtunaw ng pagkain sa tiyan. Sa pangkalahatan, kailangan nito ang pagpili, pasukat at pagsama-sama ng mga sangkap sa isang maayos na paraan sa pagsisikap na makamit ang ninanais na resulta. Kabilang sa pagpipigil ng pagkatagumpay ang pagkakaiba-iba ng sangkap, kalagayan ng kapaligiran, kagamitan at ang kasanayan ng taong nagluluto.\nSinsangkot ng madalas ng pagluluto, bagaman hindi palagi. May mga katibayan sa arkeolohiya ng mga nilutong pagkain sa mga tirahan ng mga tao mula pa noong sa pinakamaagang kilala ng paggamit ng apoy."
+    },
+    {
+        "id": "034dj",
+        "description": "Ang salitang sugal ay nagkaroon ng maraming magkakaibang kahulugan depende sa kultura o kasaysayang pinaggagamitan nito. Sa ngayon, sa mga Lipunang Kanluranin, ay mayroon itong kahulugang pang-ekonomika, tumutukoy sa \"paggagamit ng salapi o mga bagay na may halaga sa mga kaganapan na hindi tiyak ang kakahantungan na ang pangunahing intensyon ay manalo na karagdagang salapi o\/at mga materyal na bagay\".\nAng paglalaro sa kontekstong ito na ay kadalasang inilalarawan sa mga sandaling ang mga aktibidad ay ginagawang legal ng mga karampatang batas o ang mga gawain na ito ay hindi kasama sa mga batas kriminal. Ang mga kumpanyang nagpapalaro ay nagbibigay ng mga legal na gawaing sugal sa publiko.\nSa Bibliya, mayroong sugal o pagsusugal na tinatawag na sapalaran o pakikipagsapalaran, na nangangahulugang pagbabakasakali, isang laro ng pagkakataon. Katumbas ito ng alaswerte, pag-ato, huwego o pagtikim. Sinasabi pa rin na ginagawa ang palabunutan upang malaman kung ano ang kagustuhan ng Diyos, kung sino ba ang mauuna o magwawagi."
+    },
+    {
+        "id": "034v_",
+        "description": "Ang paghahardin o paghahalaman ay isang gawain—ang sining ng pagpapalago ng halaman—na kadalasang ginagawa sa labas o loob ng bahay, sa puwang na tinatawag na hardin. Kung malapit ang hardin sa bahay ng mga tao, harding residensyal ang tawag dito. Bagaman madalas na makikita ang mga hardin sa lupa na nasa loob, palibot o katabi sa isang bahay, maaari din matagpuan ito sa ibang lugar katulad sa bubong, biranda, sa mga lalagayang kahon ng mga halaman, atrium at patio.\nMaaari din na makita ang pagtatanim ng halaman sa ibang lugar na di residensyal katulad ng mga liwasan o parke, publiko at kalahating-publiko na hardin, aliwan at mga liwasang may paksa, kasama ang mga pasilyo ng transportasyon, mga panghalina ng turismo at bahay tuluyan. Sa mga ibang katayuan, pinapanatili ng mga hardinero ang mga hardin.\nKalimitang ginagamit na gabay sa paghahalaman ang isang talaarawang panghalamanan."
+    },
+    {
+        "id": "05wkw",
+        "description": "Ang potograpiya ay isang paraan o proseso ng paggawa o paglikha ng isang larawan sa pamamagitan ng paggamit ng kamera. Tinatawag na potrograpo o litratista ang isang taong kumukuha ng mga litrato o larawan. Sa ibang kahulugan, tumutukoy din ang potograpiya sa isang kalipunan ng mga litrato, ang album ng mga larawan."
+    },
+    {
+        "id": "09nyy",
+        "description": "Ang salamangka at paulit-ulit sa ere. Tinatawag na salamangkero, katumbas ng juggler sa Ingles, ang may talento ng ganitong uri ng pagsasalamangka. Pagsasalamangka (Ingles: juggling) ang tawag sa mismong gawain o talentong ito, na maaaring gawin ng isahan, may kapareha, o higit pa."
+    }
+]

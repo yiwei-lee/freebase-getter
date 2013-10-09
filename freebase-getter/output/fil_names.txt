@@ -1,0 +1,1046 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Langgam"
+    },
+    {
+        "id": "01dws",
+        "name": "Oso"
+    },
+    {
+        "id": "01h3n",
+        "name": "Bubuyog"
+    },
+    {
+        "id": "015p6",
+        "name": "Ibon"
+    },
+    {
+        "id": "01x_v",
+        "name": "Kamelyo"
+    },
+    {
+        "id": "01yrx",
+        "name": "Pusa"
+    },
+    {
+        "id": "09b5t",
+        "name": "Manok"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Baka"
+    },
+    {
+        "id": "09ddx",
+        "name": "Bibi"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Elepante"
+    },
+    {
+        "id": "03k3r",
+        "name": "Kabayo"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Unggoy"
+    },
+    {
+        "id": "07bgp",
+        "name": "Tupa"
+    },
+    {
+        "id": "047v4b",
+        "name": "Artichoke"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Esparago"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokoli"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Repolyo"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Karot"
+    },
+    {
+        "id": "015w7p",
+        "name": "Koliplor"
+    },
+    {
+        "id": "01xj_",
+        "name": "Apyo"
+    },
+    {
+        "id": "02nm75",
+        "name": "Bersa"
+    },
+    {
+        "id": "053wn",
+        "name": "Mais"
+    },
+    {
+        "id": "015x4r",
+        "name": "Pipino"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Talong"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Bawang"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Upo"
+    },
+    {
+        "id": "025s18p",
+        "name": "Okra"
+    },
+    {
+        "id": "0dj75",
+        "name": "Sibuyas"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Pastinaca sativa"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Tsitsaro"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Mani"
+    },
+    {
+        "id": "05vtc",
+        "name": "Patatas"
+    },
+    {
+        "id": "05zsy",
+        "name": "Kalabasa"
+    },
+    {
+        "id": "015x5n",
+        "name": "Labanos"
+    },
+    {
+        "id": "0cl46",
+        "name": "Pulang singkamas"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Achillea millefolium"
+    },
+    {
+        "id": "015fr",
+        "name": "Brasil"
+    },
+    {
+        "id": "0d060g",
+        "name": "Canada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Republikang Popular ng Tsina"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Kuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turkiya"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Sweden"
+    },
+    {
+        "id": "06mkj",
+        "name": "Espanya"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Unggarya"
+    },
+    {
+        "id": "0345h",
+        "name": "Alemanya"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polonya"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latbiya"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irlanda"
+    },
+    {
+        "id": "03_r3",
+        "name": "Hamayka"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgarya"
+    },
+    {
+        "id": "04w8f",
+        "name": "Monggolya"
+    },
+    {
+        "id": "06q1r",
+        "name": "Eskosya"
+    },
+    {
+        "id": "0chghy",
+        "name": "Australya"
+    },
+    {
+        "id": "035v3",
+        "name": "Lupanlunti"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenya"
+    },
+    {
+        "id": "03_3d",
+        "name": "Hapon"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Lunes"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Martes"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Miyerkules"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Huwebes"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Biyernes"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sabado"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Linggo"
+    },
+    {
+        "id": "06m_p",
+        "name": "Araw"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkuryo"
+    },
+    {
+        "id": "09bcm",
+        "name": "Benus"
+    },
+    {
+        "id": "02j71",
+        "name": "Daigdig"
+    },
+    {
+        "id": "09cws",
+        "name": "Marte"
+    },
+    {
+        "id": "09q84",
+        "name": "Hupiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturno"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Urano"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptuno"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbol"
+    },
+    {
+        "id": "0jm_",
+        "name": "Amerikanong putbol"
+    },
+    {
+        "id": "018w8",
+        "name": "Basketbol"
+    },
+    {
+        "id": "018jz",
+        "name": "Beysbol"
+    },
+    {
+        "id": "01cgz",
+        "name": "Suntukan"
+    },
+    {
+        "id": "07_53",
+        "name": "Balibol"
+    },
+    {
+        "id": "037hz",
+        "name": "Golp"
+    },
+    {
+        "id": "03_8r",
+        "name": "Hudo"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Pingpong"
+    },
+    {
+        "id": "087zy",
+        "name": "Yoga"
+    },
+    {
+        "id": "036vg6",
+        "name": "Buno"
+    },
+    {
+        "id": "04xsv",
+        "name": "Sining panlaban"
+    },
+    {
+        "id": "03_ly",
+        "name": "Enero"
+    },
+    {
+        "id": "02xx5",
+        "name": "Pebrero"
+    },
+    {
+        "id": "04wzr",
+        "name": "Marso"
+    },
+    {
+        "id": "0lkm",
+        "name": "Abril"
+    },
+    {
+        "id": "04w_7",
+        "name": "Mayo"
+    },
+    {
+        "id": "040fb",
+        "name": "Hunyo"
+    },
+    {
+        "id": "040fv",
+        "name": "Hulyo"
+    },
+    {
+        "id": "0ll3",
+        "name": "Agosto"
+    },
+    {
+        "id": "06vkl",
+        "name": "Setyembre"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktubre"
+    },
+    {
+        "id": "05cw8",
+        "name": "Nobyembre"
+    },
+    {
+        "id": "028kb",
+        "name": "Disyembre"
+    },
+    {
+        "id": "0j0k",
+        "name": "Asya"
+    },
+    {
+        "id": "059g4",
+        "name": "Hilagang Amerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Timog Amerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Aprika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antartiko"
+    },
+    {
+        "id": "05p553",
+        "name": "Komedya"
+    },
+    {
+        "id": "03npn",
+        "name": "Pelikula ng katatakutan"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Drama"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animasyon"
+    },
+    {
+        "id": "06n90",
+        "name": "Kathang-isip na salaysaying pang-agham"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Aksiyon"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Pantasya"
+    },
+    {
+        "id": "04t36",
+        "name": "Musikal"
+    },
+    {
+        "id": "06by7",
+        "name": "Musikang rock"
+    },
+    {
+        "id": "064t9",
+        "name": "Musikang pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Musikang klasiko"
+    },
+    {
+        "id": "02w4v",
+        "name": "Awiting-bayan sa Pilipinas"
+    },
+    {
+        "id": "0rfgh6w",
+        "name": "Eroplano"
+    },
+    {
+        "id": "0199g",
+        "name": "Bisikleta"
+    },
+    {
+        "id": "019jd",
+        "name": "Bangka"
+    },
+    {
+        "id": "01bjv",
+        "name": "Bus"
+    },
+    {
+        "id": "0k4j",
+        "name": "Kotse"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikopter"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taxi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Tren"
+    },
+    {
+        "id": "07kfm",
+        "name": "Trambiya"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Keso"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Pagawaan ng beer \/ Tatak ng beer"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Beer"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Tsaa"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Inumin"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Candy bar"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Uri ng pagkain"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Sangkap"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurant"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Chef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Cuisine"
+    },
+    {
+        "id": "046cz33",
+        "name": "Distillery"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Appellation"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vineyard"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Alak"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Diyeta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recipe"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Pagkain"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Sustansiya"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitara"
+    },
+    {
+        "id": "0319l",
+        "name": "Tambuling Pranses"
+    },
+    {
+        "id": "02hnl",
+        "name": "drumset"
+    },
+    {
+        "id": "013y1f",
+        "name": "Organo"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Bansi"
+    },
+    {
+        "id": "05r5c",
+        "name": "Piyano"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Quotation"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Pag-angkop"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Dedicatee"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedicator"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publication"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Pagsusuri"
+    },
+    {
+        "id": "01xryvt",
+        "name": "May-akda"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Panayam"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Pag-translate"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Kapanayam"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Nag-i-interview"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Taga-translate"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Halaw"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Tagaguhit"
+    },
+    {
+        "id": "04gc2",
+        "name": "Abugado"
+    },
+    {
+        "id": "05t4q",
+        "name": "Doktor"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arkitekto"
+    },
+    {
+        "id": "09jwl",
+        "name": "Musikero"
+    },
+    {
+        "id": "01d30f",
+        "name": "Guro"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Modelo"
+    },
+    {
+        "id": "01pxg",
+        "name": "Chemist"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Beterinaryo"
+    },
+    {
+        "id": "01c72t",
+        "name": "Kompositor"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Tagaluto"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Pulis"
+    },
+    {
+        "id": "05xls",
+        "name": "Programmer"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentista"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediyatriko"
+    },
+    {
+        "id": "099md",
+        "name": "Sundalo"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Driver ng truck"
+    },
+    {
+        "id": "01d380",
+        "name": "Barena"
+    },
+    {
+        "id": "03l9g",
+        "name": "Martilyo"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Katam"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Gunting"
+    },
+    {
+        "id": "07ln6l",
+        "name": "Gato"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Liyabe"
+    },
+    {
+        "id": "06qrr",
+        "name": "Sopdrink"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Tinidor"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kape"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Likod ng tao"
+    },
+    {
+        "id": "09cx8",
+        "name": "Daliri sa kamay"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Ngipin"
+    },
+    {
+        "id": "037p5b",
+        "name": "Pisngi"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Labi"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Lalamunan"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Dibdib"
+    },
+    {
+        "id": "025kyy",
+        "name": "Noo"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Bibig"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Daliri sa paa"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Baba"
+    },
+    {
+        "id": "03q69",
+        "name": "Buhok"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Leeg"
+    },
+    {
+        "id": "039xj_",
+        "name": "Tainga"
+    },
+    {
+        "id": "0k65p",
+        "name": "Kamay"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Ilong"
+    },
+    {
+        "id": "027n3_",
+        "name": "Kilay"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Ulo"
+    },
+    {
+        "id": "031974",
+        "name": "Baywang"
+    },
+    {
+        "id": "014sv8",
+        "name": "Mata"
+    },
+    {
+        "id": "06rrc",
+        "name": "Sapatos"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Saya"
+    },
+    {
+        "id": "0fly7",
+        "name": "Jeans"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Kurbata"
+    },
+    {
+        "id": "01767_",
+        "name": "Balindang"
+    },
+    {
+        "id": "01m2v",
+        "name": "Tipaan"
+    },
+    {
+        "id": "020lf",
+        "name": "Mouse ng kompyuter"
+    },
+    {
+        "id": "02bc6",
+        "name": "Database"
+    },
+    {
+        "id": "02nf_",
+        "name": "Elektronikong liham"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "07wcf",
+        "name": "Universal Serial Bus"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Motherboard"
+    },
+    {
+        "id": "07g0_",
+        "name": "The Hague"
+    },
+    {
+        "id": "02_286",
+        "name": "Lungsod ng New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Herusalem"
+    },
+    {
+        "id": "01w2v",
+        "name": "Cairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seoul"
+    },
+    {
+        "id": "031y2",
+        "name": "Lungsod ng Florencia"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "06zdj",
+        "name": "Paaralan"
+    },
+    {
+        "id": "06zdj",
+        "name": "Paaralan"
+    },
+    {
+        "id": "09cmq",
+        "name": "Museo"
+    },
+    {
+        "id": "017ql",
+        "name": "Bangko"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "Dalubhasaan"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Pamilihan"
+    },
+    {
+        "id": "09cjl",
+        "name": "Paliparan"
+    },
+    {
+        "id": "053rd",
+        "name": "Pagmimina"
+    },
+    {
+        "id": "023907r",
+        "name": "Real Estate"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekomunikasyon"
+    },
+    {
+        "id": "01mf0",
+        "name": "Software"
+    },
+    {
+        "id": "011s0",
+        "name": "Advertising"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biyoteknolohiya"
+    },
+    {
+        "id": "0hz28",
+        "name": "Publishing"
+    },
+    {
+        "id": "0191_7",
+        "name": "Tingi"
+    },
+    {
+        "id": "0h61",
+        "name": "Arkeolohiya"
+    },
+    {
+        "id": "01mtb",
+        "name": "Pagluluto"
+    },
+    {
+        "id": "034dj",
+        "name": "Sugal"
+    },
+    {
+        "id": "034v_",
+        "name": "Paghahalaman"
+    },
+    {
+        "id": "05wkw",
+        "name": "Potograpiya"
+    },
+    {
+        "id": "09nyy",
+        "name": "Salamangka"
+    }
+]

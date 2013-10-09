@@ -1,0 +1,1138 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Semut"
+    },
+    {
+        "id": "01dws",
+        "name": "Beruang"
+    },
+    {
+        "id": "01h3n",
+        "name": "Lebah"
+    },
+    {
+        "id": "015p6",
+        "name": "Burung"
+    },
+    {
+        "id": "01x_v",
+        "name": "Unta"
+    },
+    {
+        "id": "01yrx",
+        "name": "Kucing"
+    },
+    {
+        "id": "09b5t",
+        "name": "Ayam"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Lembu"
+    },
+    {
+        "id": "09ddx",
+        "name": "Itik"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Gajah"
+    },
+    {
+        "id": "03k3r",
+        "name": "Kuda"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Monyet"
+    },
+    {
+        "id": "07bgp",
+        "name": "Biri-biri"
+    },
+    {
+        "id": "0qqk",
+        "name": "Bayam"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokoli"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Kubis Bulat"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Lobak merah"
+    },
+    {
+        "id": "01xj_",
+        "name": "Daun Saderi"
+    },
+    {
+        "id": "053wn",
+        "name": "Jagung"
+    },
+    {
+        "id": "015x4r",
+        "name": "Timun"
+    },
+    {
+        "id": "017dqv",
+        "name": "Pokok Adas"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Bawang putih"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Pokok Labu Parang"
+    },
+    {
+        "id": "013__5",
+        "name": "Bawang perai"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Salad"
+    },
+    {
+        "id": "025s18p",
+        "name": "Bendi"
+    },
+    {
+        "id": "0dj75",
+        "name": "Bawang"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Kacang Tanah"
+    },
+    {
+        "id": "05vtc",
+        "name": "Kentang"
+    },
+    {
+        "id": "05zsy",
+        "name": "Labu"
+    },
+    {
+        "id": "016rh7",
+        "name": "Bayam"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazil"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Republik Rakyat China"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Cuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turki"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Sweden"
+    },
+    {
+        "id": "06mkj",
+        "name": "Sepanyol"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Hungary"
+    },
+    {
+        "id": "0345h",
+        "name": "Jerman"
+    },
+    {
+        "id": "05qhw",
+        "name": "Poland"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latvia"
+    },
+    {
+        "id": "012wgb",
+        "name": "Ireland"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgaria"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolia"
+    },
+    {
+        "id": "06q1r",
+        "name": "Scotland"
+    },
+    {
+        "id": "0chghy",
+        "name": "Australia"
+    },
+    {
+        "id": "035v3",
+        "name": "Greenland"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Jepun"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Isnin"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Selasa"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Rabu"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Khamis"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Jumaat"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sabtu"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Ahad"
+    },
+    {
+        "id": "06m_p",
+        "name": "Matahari"
+    },
+    {
+        "id": "09cy8",
+        "name": "Utarid"
+    },
+    {
+        "id": "09bcm",
+        "name": "Zuhrah"
+    },
+    {
+        "id": "02j71",
+        "name": "Bumi"
+    },
+    {
+        "id": "09cws",
+        "name": "Marikh"
+    },
+    {
+        "id": "09q84",
+        "name": "Musytari"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Zuhal"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uranus"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptun"
+    },
+    {
+        "id": "02vx4",
+        "name": "Bola sepak"
+    },
+    {
+        "id": "0jm_",
+        "name": "Bola sepak Amerika"
+    },
+    {
+        "id": "018w8",
+        "name": "Bola keranjang"
+    },
+    {
+        "id": "018jz",
+        "name": "Besbol"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Tinju"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hoki ais"
+    },
+    {
+        "id": "07_53",
+        "name": "Bola tampar"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maraton"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Ping pong"
+    },
+    {
+        "id": "087zy",
+        "name": "Yoga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnastik"
+    },
+    {
+        "id": "036vg6",
+        "name": "Gusti"
+    },
+    {
+        "id": "04xsv",
+        "name": "Seni bela diri"
+    },
+    {
+        "id": "03_ly",
+        "name": "Januari"
+    },
+    {
+        "id": "02xx5",
+        "name": "Februari"
+    },
+    {
+        "id": "04wzr",
+        "name": "Mac"
+    },
+    {
+        "id": "0lkm",
+        "name": "April"
+    },
+    {
+        "id": "04w_7",
+        "name": "Mei"
+    },
+    {
+        "id": "040fb",
+        "name": "Jun"
+    },
+    {
+        "id": "040fv",
+        "name": "Julai"
+    },
+    {
+        "id": "0ll3",
+        "name": "Ogos"
+    },
+    {
+        "id": "06vkl",
+        "name": "September"
+    },
+    {
+        "id": "05lf_",
+        "name": "Oktober"
+    },
+    {
+        "id": "05cw8",
+        "name": "November"
+    },
+    {
+        "id": "028kb",
+        "name": "Disember"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Utara"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Selatan"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Timur"
+    },
+    {
+        "id": "0j0k",
+        "name": "Asia"
+    },
+    {
+        "id": "059g4",
+        "name": "Amerika Utara"
+    },
+    {
+        "id": "06n3y",
+        "name": "Amerika Selatan"
+    },
+    {
+        "id": "02j9z",
+        "name": "Eropah"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antartika"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Australia"
+    },
+    {
+        "id": "05p553",
+        "name": "Filem komedi"
+    },
+    {
+        "id": "03npn",
+        "name": "Filem seram"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animasi"
+    },
+    {
+        "id": "06n90",
+        "name": "Cereka sains"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Genre aksi"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasi"
+    },
+    {
+        "id": "04t36",
+        "name": "Filem muzikal"
+    },
+    {
+        "id": "06by7",
+        "name": "Muzik rock"
+    },
+    {
+        "id": "064t9",
+        "name": "Muzik pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jaz"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Muzik heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Rock punk"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Muzik klasikal"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Rege"
+    },
+    {
+        "id": "02w4v",
+        "name": "Lagu Kedaerahan"
+    },
+    {
+        "id": "0199g",
+        "name": "Basikal"
+    },
+    {
+        "id": "019jd",
+        "name": "Perahu"
+    },
+    {
+        "id": "01bjv",
+        "name": "Bas"
+    },
+    {
+        "id": "0k4j",
+        "name": "Kereta"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikopter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motosikal"
+    },
+    {
+        "id": "06q74",
+        "name": "Kapal"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Keretapi Bawah Tanah New York"
+    },
+    {
+        "id": "0pg52",
+        "name": "Teksi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Kereta api"
+    },
+    {
+        "id": "07r04",
+        "name": "Lori"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Feri"
+    },
+    {
+        "id": "09g5h",
+        "name": "Kapal angkasa lepas"
+    },
+    {
+        "id": "074d1",
+        "name": "Kapal selam"
+    },
+    {
+        "id": "057gn",
+        "name": "Kenderaan Serba Guna"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Keju"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Kilang bir \/ Jenama bir"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Bir"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Teh"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Minuman"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Bar coklat"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Sajian"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ramuan"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restoran"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Tukang Masak"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Masakan"
+    },
+    {
+        "id": "046cz33",
+        "name": "Tempat penyulingan"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Dinamakan"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Ladang Anggur"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Wain"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Diet"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Resipi"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Makanan"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Nutrien"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitar"
+    },
+    {
+        "id": "013y1f",
+        "name": "Organ"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Seruling"
+    },
+    {
+        "id": "05r5c",
+        "name": "Piano"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Petikan"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptasi"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Orang Yang Didedikasikan"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Orang Yang Mendedikasikan"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Penerbitan"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Ulasan"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Pengarang"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Wawancara"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Terjemahan"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Orang yang diwawancara"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Pewawancara"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Penterjemah"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Petikan"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Pelukis Ilustrasi"
+    },
+    {
+        "id": "04gc2",
+        "name": "Peguam"
+    },
+    {
+        "id": "05t4q",
+        "name": "Pakar Perubatan"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arkitek"
+    },
+    {
+        "id": "09jwl",
+        "name": "Ahli Muzik"
+    },
+    {
+        "id": "01d30f",
+        "name": "Guru"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Ahli Kimia"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Doktor haiwan"
+    },
+    {
+        "id": "01c72t",
+        "name": "Komposer"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Tukang masak"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Pegawai polis"
+    },
+    {
+        "id": "05xls",
+        "name": "Pengatur cara"
+    },
+    {
+        "id": "02h661t",
+        "name": "Doktor pergigian"
+    },
+    {
+        "id": "099md",
+        "name": "Askar"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Pemandu trak"
+    },
+    {
+        "id": "03l9g",
+        "name": "Tukul"
+    },
+    {
+        "id": "05b_nc",
+        "name": "Gergaji puting"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Gunting"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Cek"
+    },
+    {
+        "id": "06qrr",
+        "name": "Minuman ringan"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Garpu"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Sudu"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kopi"
+    },
+    {
+        "id": "09cx8",
+        "name": "Jari"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Gigi"
+    },
+    {
+        "id": "037p5b",
+        "name": "Pipi"
+    },
+    {
+        "id": "031n1",
+        "name": "Kaki"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Bibir"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Tekak"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Dada"
+    },
+    {
+        "id": "025kyy",
+        "name": "Dahi"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Mulut"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Jari kaki"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Dagu"
+    },
+    {
+        "id": "03q69",
+        "name": "Rambut"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Leher"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Lidah"
+    },
+    {
+        "id": "039xj_",
+        "name": "Telinga"
+    },
+    {
+        "id": "0k65p",
+        "name": "Tangan"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Hidung"
+    },
+    {
+        "id": "027n3_",
+        "name": "Bulu kening"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Kepala"
+    },
+    {
+        "id": "031974",
+        "name": "Pinggang"
+    },
+    {
+        "id": "014sv8",
+        "name": "Mata"
+    },
+    {
+        "id": "032b3c",
+        "name": "Jaket Biru"
+    },
+    {
+        "id": "06rrc",
+        "name": "Kasut"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pijama"
+    },
+    {
+        "id": "013s93",
+        "name": "Kemeja-T"
+    },
+    {
+        "id": "0fly7",
+        "name": "Jean"
+    },
+    {
+        "id": "0216vm",
+        "name": "Selipar"
+    },
+    {
+        "id": "01v229",
+        "name": "Baju hujan"
+    },
+    {
+        "id": "07mhn",
+        "name": "Seluar"
+    },
+    {
+        "id": "0174n1",
+        "name": "Sarung tangan"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Kemeja"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Papan kekunci"
+    },
+    {
+        "id": "020lf",
+        "name": "Tetikus"
+    },
+    {
+        "id": "02bc6",
+        "name": "Pangkalan data"
+    },
+    {
+        "id": "029kh",
+        "name": "Digital"
+    },
+    {
+        "id": "020s1",
+        "name": "Fail komputer"
+    },
+    {
+        "id": "02nf_",
+        "name": "Mel elektronik"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Pengkomputeran awan"
+    },
+    {
+        "id": "07wcf",
+        "name": "Bas Bersiri Semesta"
+    },
+    {
+        "id": "0mynm",
+        "name": "Webcam"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Papan induk"
+    },
+    {
+        "id": "07g0_",
+        "name": "The Hague"
+    },
+    {
+        "id": "02_286",
+        "name": "Bandar Raya New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Baitulmuqaddis"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kaherah"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seoul"
+    },
+    {
+        "id": "031y2",
+        "name": "Florence"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Menara"
+    },
+    {
+        "id": "06gfj",
+        "name": "Jalan raya"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Hospital"
+    },
+    {
+        "id": "0k05r",
+        "name": "Mahkamah"
+    },
+    {
+        "id": "06zdj",
+        "name": "Sekolah"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadium"
+    },
+    {
+        "id": "06zdj",
+        "name": "Sekolah"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muzium"
+    },
+    {
+        "id": "017ql",
+        "name": "Bank"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "Kolej"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Pasaran"
+    },
+    {
+        "id": "03nybl",
+        "name": "Balai polis"
+    },
+    {
+        "id": "09cjl",
+        "name": "Lapangan terbang"
+    },
+    {
+        "id": "053rd",
+        "name": "Perlombongan"
+    },
+    {
+        "id": "023907r",
+        "name": "Harta Tanah"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekomunikasi"
+    },
+    {
+        "id": "01mf0",
+        "name": "Perisian"
+    },
+    {
+        "id": "011s0",
+        "name": "Pengiklanan"
+    },
+    {
+        "id": "01ftz",
+        "name": "Bioteknologi"
+    },
+    {
+        "id": "0hz28",
+        "name": "Penerbitan"
+    },
+    {
+        "id": "0191_7",
+        "name": "Runcit"
+    },
+    {
+        "id": "0h61",
+        "name": "Arkeologi"
+    },
+    {
+        "id": "034dj",
+        "name": "Judi"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografi"
+    },
+    {
+        "id": "064rk",
+        "name": "Tembikar"
+    }
+]

@@ -1,0 +1,1482 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Karınca"
+    },
+    {
+        "id": "01dws",
+        "name": "Ayıgiller"
+    },
+    {
+        "id": "01h3n",
+        "name": "Arı"
+    },
+    {
+        "id": "015p6",
+        "name": "Kuşlar"
+    },
+    {
+        "id": "01x_v",
+        "name": "Deve"
+    },
+    {
+        "id": "01yrx",
+        "name": "Kedi"
+    },
+    {
+        "id": "09b5t",
+        "name": "Tavuk"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Sığır"
+    },
+    {
+        "id": "09ddx",
+        "name": "Ördek"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Fil"
+    },
+    {
+        "id": "03k3r",
+        "name": "At"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Maymunlar"
+    },
+    {
+        "id": "07bgp",
+        "name": "Evcil koyun"
+    },
+    {
+        "id": "0cnyhnx",
+        "name": "boğa"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Amerika aligatoru"
+    },
+    {
+        "id": "0qqk",
+        "name": "Amaranthus"
+    },
+    {
+        "id": "047v4b",
+        "name": "Enginar"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Kuşkonmaz"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Pancar"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brokoli"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Lahana"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Havuç"
+    },
+    {
+        "id": "015w7p",
+        "name": "Karnabahar"
+    },
+    {
+        "id": "01xj_",
+        "name": "Kereviz"
+    },
+    {
+        "id": "02nm6c",
+        "name": "Pazı"
+    },
+    {
+        "id": "053wn",
+        "name": "Mısır"
+    },
+    {
+        "id": "015x4r",
+        "name": "Hıyar"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Patlıcan"
+    },
+    {
+        "id": "022p79",
+        "name": "Hindiba"
+    },
+    {
+        "id": "017dqv",
+        "name": "Rezene"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Sarımsak"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Su kabağı"
+    },
+    {
+        "id": "02r5_b",
+        "name": "Kara lahana"
+    },
+    {
+        "id": "04bk6",
+        "name": "yer lahanası"
+    },
+    {
+        "id": "0666h8",
+        "name": "KUKA"
+    },
+    {
+        "id": "013__5",
+        "name": "Pırasa"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Marul"
+    },
+    {
+        "id": "025s18p",
+        "name": "Bamya"
+    },
+    {
+        "id": "0dj75",
+        "name": "Soğan"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Yabani havuç"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Bezelye"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Yer fıstığı"
+    },
+    {
+        "id": "05vtc",
+        "name": "Patates"
+    },
+    {
+        "id": "05zsy",
+        "name": "Balkabağı"
+    },
+    {
+        "id": "015x5n",
+        "name": "Turp"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Ravent"
+    },
+    {
+        "id": "016rh7",
+        "name": "Ispanak"
+    },
+    {
+        "id": "0cl46",
+        "name": "Şalgam"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Civanperçemi"
+    },
+    {
+        "id": "015fr",
+        "name": "Brezilya"
+    },
+    {
+        "id": "0d060g",
+        "name": "Kanada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Şili"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Çin"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Küba"
+    },
+    {
+        "id": "03shp",
+        "name": "İran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Türkiye"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "İsveç"
+    },
+    {
+        "id": "06mkj",
+        "name": "İspanya"
+    },
+    {
+        "id": "0h7x",
+        "name": "Avusturya"
+    },
+    {
+        "id": "03gj2",
+        "name": "Macaristan"
+    },
+    {
+        "id": "0345h",
+        "name": "Almanya"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polonya"
+    },
+    {
+        "id": "04g5k",
+        "name": "Letonya"
+    },
+    {
+        "id": "012wgb",
+        "name": "İrlanda"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaika"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgaristan"
+    },
+    {
+        "id": "04w8f",
+        "name": "Moğolistan"
+    },
+    {
+        "id": "06q1r",
+        "name": "İskoçya"
+    },
+    {
+        "id": "0chghy",
+        "name": "Avustralya"
+    },
+    {
+        "id": "035v3",
+        "name": "Grönland"
+    },
+    {
+        "id": "0jgx",
+        "name": "Ermenistan"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japonya"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Pazartesi"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Salı"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Çarşamba (gün)"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Perşembe"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Cuma"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Cumartesi"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Pazar"
+    },
+    {
+        "id": "06m_p",
+        "name": "Güneş"
+    },
+    {
+        "id": "09cy8",
+        "name": "Merkür"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venüs"
+    },
+    {
+        "id": "02j71",
+        "name": "Yer"
+    },
+    {
+        "id": "09cws",
+        "name": "Mars (gezegen)"
+    },
+    {
+        "id": "09q84",
+        "name": "Jüpiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Satürn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uranüs"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptün"
+    },
+    {
+        "id": "0jwy",
+        "name": "Aries"
+    },
+    {
+        "id": "07cqw",
+        "name": "Taurus"
+    },
+    {
+        "id": "077r8d",
+        "name": "Gemini"
+    },
+    {
+        "id": "0qck6",
+        "name": "Cancer"
+    },
+    {
+        "id": "04h2q",
+        "name": "Leo"
+    },
+    {
+        "id": "07yt9",
+        "name": "Virgo (takımyıldız)"
+    },
+    {
+        "id": "04h36",
+        "name": "Libra"
+    },
+    {
+        "id": "06pgz",
+        "name": "Scorpius"
+    },
+    {
+        "id": "06pgg",
+        "name": "Sagittarius"
+    },
+    {
+        "id": "01nk9",
+        "name": "Capricornus"
+    },
+    {
+        "id": "0jxf",
+        "name": "Aquarius"
+    },
+    {
+        "id": "05s7n",
+        "name": "Pisces"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbol"
+    },
+    {
+        "id": "0jm_",
+        "name": "Amerikan futbolu"
+    },
+    {
+        "id": "018w8",
+        "name": "Basketbol"
+    },
+    {
+        "id": "018jz",
+        "name": "Beyzbol"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boks"
+    },
+    {
+        "id": "03tmr",
+        "name": "Buz Hokeyi"
+    },
+    {
+        "id": "07_53",
+        "name": "Voleybol"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletizm"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Bisiklet"
+    },
+    {
+        "id": "06z6r",
+        "name": "Yüzme"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maraton"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Masa tenisi"
+    },
+    {
+        "id": "087zy",
+        "name": "Yoga"
+    },
+    {
+        "id": "0397w",
+        "name": "Jimnastik"
+    },
+    {
+        "id": "036vg6",
+        "name": "Güreş"
+    },
+    {
+        "id": "04xsv",
+        "name": "Dövüş sanatları"
+    },
+    {
+        "id": "03_ly",
+        "name": "Ocak"
+    },
+    {
+        "id": "02xx5",
+        "name": "Şubat"
+    },
+    {
+        "id": "04wzr",
+        "name": "Mart"
+    },
+    {
+        "id": "0lkm",
+        "name": "Nisan"
+    },
+    {
+        "id": "04w_7",
+        "name": "Mayıs"
+    },
+    {
+        "id": "040fb",
+        "name": "Haziran"
+    },
+    {
+        "id": "040fv",
+        "name": "Temmuz"
+    },
+    {
+        "id": "0ll3",
+        "name": "Ağustos"
+    },
+    {
+        "id": "06vkl",
+        "name": "Eylül"
+    },
+    {
+        "id": "05lf_",
+        "name": "Ekim"
+    },
+    {
+        "id": "05cw8",
+        "name": "Kasım"
+    },
+    {
+        "id": "028kb",
+        "name": "Aralık"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Kuzey"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Güney"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Batı"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Doğu"
+    },
+    {
+        "id": "0j0k",
+        "name": "Asya"
+    },
+    {
+        "id": "059g4",
+        "name": "Kuzey Amerika"
+    },
+    {
+        "id": "06n3y",
+        "name": "Güney Amerika"
+    },
+    {
+        "id": "02j9z",
+        "name": "Avrupa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Afrika"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarktika"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Avustralya"
+    },
+    {
+        "id": "05p553",
+        "name": "Komedi filmi"
+    },
+    {
+        "id": "03npn",
+        "name": "Korku filmi"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Belgesel film"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Drama"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animasyon"
+    },
+    {
+        "id": "06n90",
+        "name": "Bilim kurgu"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Aksiyon Filmi"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Gerilim"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Romantik Film"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantezi"
+    },
+    {
+        "id": "0g65_",
+        "name": "Macera oyunu"
+    },
+    {
+        "id": "04t36",
+        "name": "Müzikal film"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock müzik"
+    },
+    {
+        "id": "064t9",
+        "name": "Pop Müzik"
+    },
+    {
+        "id": "03_d0",
+        "name": "Caz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk Rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Klasik müzik"
+    },
+    {
+        "id": "02lkt",
+        "name": "Elektronik müzik"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Halk müziği"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Dans müziği"
+    },
+    {
+        "id": "0199g",
+        "name": "Bisiklet"
+    },
+    {
+        "id": "019jd",
+        "name": "Tekne"
+    },
+    {
+        "id": "01bjv",
+        "name": "Otobüs"
+    },
+    {
+        "id": "0k4j",
+        "name": "Otomobil"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helikopter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motosiklet"
+    },
+    {
+        "id": "06q74",
+        "name": "Gemi"
+    },
+    {
+        "id": "01pz3b",
+        "name": "New York metrosu"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taksi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Tren"
+    },
+    {
+        "id": "07r04",
+        "name": "Kamyon"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramvay"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Feribot"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Troleybüs"
+    },
+    {
+        "id": "09g5h",
+        "name": "Uzay gemisi"
+    },
+    {
+        "id": "013xl3",
+        "name": "Hava yastıklı tekne"
+    },
+    {
+        "id": "074d1",
+        "name": "Denizaltı"
+    },
+    {
+        "id": "057gn",
+        "name": "Minivan"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Peynir"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Bira fabrikası \/ Bira markası"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Bira"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Çay"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Meşrubat"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Çubuk şeker"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Yemek"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Malzeme"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restoran"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Şef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Mutfak"
+    },
+    {
+        "id": "046cz33",
+        "name": "Damıtıcı"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Adlandırma"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Üzüm bağı"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Şarap"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Beslenme biçimi"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Tarif"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Yiyecek"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Besin değeri"
+    },
+    {
+        "id": "0342h",
+        "name": "Gitar"
+    },
+    {
+        "id": "0319l",
+        "name": "Korno"
+    },
+    {
+        "id": "02hnl",
+        "name": "Bateri"
+    },
+    {
+        "id": "013y1f",
+        "name": "Org"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flüt"
+    },
+    {
+        "id": "05r5c",
+        "name": "Piyano"
+    },
+    {
+        "id": "0mkg",
+        "name": "Akordeon"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Alıntı"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Uyarlama"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Adanan Kişi"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Adayan Kişi"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Yayın"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "İnceleme"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Yazar"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Söyleşi"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Çeviri"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Söyleşi yapılan kişi"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Söyleşi yapan"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Çevirmen"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Alıntı"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "İllustratör"
+    },
+    {
+        "id": "04gc2",
+        "name": "Avukat"
+    },
+    {
+        "id": "05t4q",
+        "name": "Doktor"
+    },
+    {
+        "id": "0mn6",
+        "name": "Mimar"
+    },
+    {
+        "id": "09jwl",
+        "name": "Müzisyen"
+    },
+    {
+        "id": "01d30f",
+        "name": "Öğretmen"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Manken"
+    },
+    {
+        "id": "01pxg",
+        "name": "Kimyager"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veteriner"
+    },
+    {
+        "id": "01c72t",
+        "name": "Besteci"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Aşçı"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Polis memuru"
+    },
+    {
+        "id": "05xls",
+        "name": "Programcı"
+    },
+    {
+        "id": "02tx6q",
+        "name": "Ses sinyali"
+    },
+    {
+        "id": "02h661t",
+        "name": "Diş hekimi"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediyatri"
+    },
+    {
+        "id": "099md",
+        "name": "Asker"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Kamyon şöförü"
+    },
+    {
+        "id": "01d380",
+        "name": "matkap"
+    },
+    {
+        "id": "03l9g",
+        "name": "Çekiç"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Makas"
+    },
+    {
+        "id": "07ln6l",
+        "name": "masa mengenesi"
+    },
+    {
+        "id": "01j5ks",
+        "name": "somun anahtarı"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Çek"
+    },
+    {
+        "id": "08gqpm",
+        "name": "kap"
+    },
+    {
+        "id": "06qrr",
+        "name": "Meşrubat"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Çatal"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "024gjb",
+        "name": "mönü"
+    },
+    {
+        "id": "026lrs",
+        "name": "Peçete"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Kaşık"
+    },
+    {
+        "id": "01c6xf",
+        "name": "İçme suyu"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Kahve"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Sırt"
+    },
+    {
+        "id": "09cx8",
+        "name": "Parmak"
+    },
+    {
+        "id": "09w5r",
+        "name": "bacak"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Diş"
+    },
+    {
+        "id": "037p5b",
+        "name": "Yanak"
+    },
+    {
+        "id": "031n1",
+        "name": "Ayak (organ)"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Dudak"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Boğaz"
+    },
+    {
+        "id": "0dzdr",
+        "name": "Göğüs"
+    },
+    {
+        "id": "025kyy",
+        "name": "Alın"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Ağız"
+    },
+    {
+        "id": "01d_ff",
+        "name": "ayak parmağı"
+    },
+    {
+        "id": "0f9swq",
+        "name": "çene"
+    },
+    {
+        "id": "03q69",
+        "name": "Saç"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Boyun"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Dil"
+    },
+    {
+        "id": "039xj_",
+        "name": "Kulak"
+    },
+    {
+        "id": "0k65p",
+        "name": "El"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Burun"
+    },
+    {
+        "id": "027n3_",
+        "name": "Kaş"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Kafa"
+    },
+    {
+        "id": "031974",
+        "name": "bel"
+    },
+    {
+        "id": "014sv8",
+        "name": "Göz"
+    },
+    {
+        "id": "0176mf",
+        "name": "Kemer"
+    },
+    {
+        "id": "032b3c",
+        "name": "ceket"
+    },
+    {
+        "id": "06rrc",
+        "name": "Ayakkabı"
+    },
+    {
+        "id": "019b80",
+        "name": "Kazak"
+    },
+    {
+        "id": "01b638",
+        "name": "Bot"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Etek"
+    },
+    {
+        "id": "02d46y",
+        "name": "Kasket"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pijama"
+    },
+    {
+        "id": "013s93",
+        "name": "Tişört"
+    },
+    {
+        "id": "01xygc",
+        "name": "palto"
+    },
+    {
+        "id": "0fly7",
+        "name": "Kot"
+    },
+    {
+        "id": "0216vm",
+        "name": "Terlik"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Kravat"
+    },
+    {
+        "id": "01d40f",
+        "name": "elbise"
+    },
+    {
+        "id": "01v229",
+        "name": "Yağmurluk"
+    },
+    {
+        "id": "01nq26",
+        "name": "Çorap"
+    },
+    {
+        "id": "07mhn",
+        "name": "Pantolon"
+    },
+    {
+        "id": "0174n1",
+        "name": "Eldiven"
+    },
+    {
+        "id": "02h19r",
+        "name": "Atkı"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Gömlek"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Takım elbise"
+    },
+    {
+        "id": "01767_",
+        "name": "Naylon çorap"
+    },
+    {
+        "id": "0cp1w6l",
+        "name": "boxer"
+    },
+    {
+        "id": "079f77",
+        "name": "atlet"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Klavye"
+    },
+    {
+        "id": "020lf",
+        "name": "Fare"
+    },
+    {
+        "id": "01fk53",
+        "name": "Komut"
+    },
+    {
+        "id": "02bc6",
+        "name": "Veritabanı"
+    },
+    {
+        "id": "01q5jp",
+        "name": "CRUD"
+    },
+    {
+        "id": "029kh",
+        "name": "Sayısal işaret"
+    },
+    {
+        "id": "020s1",
+        "name": "Dosya"
+    },
+    {
+        "id": "02nf_",
+        "name": "Elektronik posta"
+    },
+    {
+        "id": "01zrkr",
+        "name": "İkon"
+    },
+    {
+        "id": "01mfj",
+        "name": "Bilgisayar donanımı"
+    },
+    {
+        "id": "03rsh",
+        "name": "Giriş\/çıkış"
+    },
+    {
+        "id": "02_0t4",
+        "name": "Etkileşimlilik"
+    },
+    {
+        "id": "03rlt",
+        "name": "İnternet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Bulut bilişim"
+    },
+    {
+        "id": "07wcf",
+        "name": "USB"
+    },
+    {
+        "id": "0mynm",
+        "name": "Webcam"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Anakart"
+    },
+    {
+        "id": "07g0_",
+        "name": "Lahey"
+    },
+    {
+        "id": "02_286",
+        "name": "New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Kudüs"
+    },
+    {
+        "id": "01w2v",
+        "name": "Kahire"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seul"
+    },
+    {
+        "id": "031y2",
+        "name": "Floransa"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Kule"
+    },
+    {
+        "id": "06gfj",
+        "name": "Cadde"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Hastane"
+    },
+    {
+        "id": "0k05r",
+        "name": "Mahkeme"
+    },
+    {
+        "id": "06zdj",
+        "name": "Okul"
+    },
+    {
+        "id": "019cfy",
+        "name": "Stadyum"
+    },
+    {
+        "id": "0166ls",
+        "name": "Park"
+    },
+    {
+        "id": "06zdj",
+        "name": "Okul"
+    },
+    {
+        "id": "09cmq",
+        "name": "Müze"
+    },
+    {
+        "id": "017ql",
+        "name": "Banka"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "Kolej"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Pazar"
+    },
+    {
+        "id": "016yx7",
+        "name": "spor salonu"
+    },
+    {
+        "id": "03nybl",
+        "name": "Polis karakolu"
+    },
+    {
+        "id": "09cjl",
+        "name": "Havaalanı"
+    },
+    {
+        "id": "053rd",
+        "name": "Madencilik"
+    },
+    {
+        "id": "023907r",
+        "name": "Emlak"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telekomünikasyon"
+    },
+    {
+        "id": "01mf0",
+        "name": "Yazılım"
+    },
+    {
+        "id": "011s0",
+        "name": "Reklamcılık"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biyoteknoloji"
+    },
+    {
+        "id": "0hz28",
+        "name": "Yayımcılık"
+    },
+    {
+        "id": "0191_7",
+        "name": "Perakende"
+    },
+    {
+        "id": "0h61",
+        "name": "Arkeoloji"
+    },
+    {
+        "id": "01mtb",
+        "name": "Aşçılık"
+    },
+    {
+        "id": "034dj",
+        "name": "Kumar"
+    },
+    {
+        "id": "034v_",
+        "name": "Bahçıvan"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotoğrafçılık"
+    },
+    {
+        "id": "064rk",
+        "name": "Çömlekçilik"
+    },
+    {
+        "id": "06h7j",
+        "name": "Koşu"
+    },
+    {
+        "id": "09nyy",
+        "name": "Jonglör"
+    },
+    {
+        "id": "012v4j",
+        "name": "doğa yürüyüşü"
+    }
+]

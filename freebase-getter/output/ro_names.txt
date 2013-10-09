@@ -1,0 +1,1330 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Furnică"
+    },
+    {
+        "id": "01dws",
+        "name": "Urs"
+    },
+    {
+        "id": "01h3n",
+        "name": "Albină"
+    },
+    {
+        "id": "015p6",
+        "name": "Pasăre"
+    },
+    {
+        "id": "01x_v",
+        "name": "Cămilă"
+    },
+    {
+        "id": "01yrx",
+        "name": "Pisică de casă"
+    },
+    {
+        "id": "09b5t",
+        "name": "Găină"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Vacă"
+    },
+    {
+        "id": "09ddx",
+        "name": "Raţă"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Elefant"
+    },
+    {
+        "id": "03k3r",
+        "name": "Cal"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Maimuță"
+    },
+    {
+        "id": "07bgp",
+        "name": "Oaie domestică"
+    },
+    {
+        "id": "047v4b",
+        "name": "Anghinare"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Sparanghel"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Sfeclă roșie"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Broccoli"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Varză"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Morcov"
+    },
+    {
+        "id": "015w7p",
+        "name": "Conopidă"
+    },
+    {
+        "id": "01xj_",
+        "name": "Țelină"
+    },
+    {
+        "id": "02nm6c",
+        "name": "Mangold"
+    },
+    {
+        "id": "053wn",
+        "name": "Porumb"
+    },
+    {
+        "id": "015x4r",
+        "name": "Castravete"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Vânătă"
+    },
+    {
+        "id": "022p79",
+        "name": "Andivă"
+    },
+    {
+        "id": "017dqv",
+        "name": "Fenicul"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Usturoi"
+    },
+    {
+        "id": "04bk6",
+        "name": "Gulie"
+    },
+    {
+        "id": "013__5",
+        "name": "Praz"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Salată"
+    },
+    {
+        "id": "025s18p",
+        "name": "Bamă"
+    },
+    {
+        "id": "0dj75",
+        "name": "Ceapă"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Păstârnac"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Mazăre"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Alun de pământ"
+    },
+    {
+        "id": "05vtc",
+        "name": "Cartof"
+    },
+    {
+        "id": "015x5n",
+        "name": "Ridiche"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Revent"
+    },
+    {
+        "id": "016rh7",
+        "name": "Spanac"
+    },
+    {
+        "id": "0cl46",
+        "name": "Nap"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Năsturel"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Coada șoricelului"
+    },
+    {
+        "id": "015fr",
+        "name": "Brazilia"
+    },
+    {
+        "id": "0d060g",
+        "name": "Canada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Republica Populară Chineză"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Cuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turcia"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Suedia"
+    },
+    {
+        "id": "06mkj",
+        "name": "Spania"
+    },
+    {
+        "id": "0h7x",
+        "name": "Austria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Ungaria"
+    },
+    {
+        "id": "0345h",
+        "name": "Germania"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polonia"
+    },
+    {
+        "id": "04g5k",
+        "name": "Letonia"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irlanda"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgaria"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongolia"
+    },
+    {
+        "id": "06q1r",
+        "name": "Scoţia"
+    },
+    {
+        "id": "0chghy",
+        "name": "Australia"
+    },
+    {
+        "id": "035v3",
+        "name": "Groenlanda"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japonia"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Luni"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Marţi"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Miercuri"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Joi"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Vineri"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sâmbătă"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Duminică"
+    },
+    {
+        "id": "06m_p",
+        "name": "Soare"
+    },
+    {
+        "id": "09cy8",
+        "name": "Mercur"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venus"
+    },
+    {
+        "id": "02j71",
+        "name": "Pământ"
+    },
+    {
+        "id": "09cws",
+        "name": "Marte"
+    },
+    {
+        "id": "09q84",
+        "name": "Jupiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Uranus"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptun"
+    },
+    {
+        "id": "0jwy",
+        "name": "Berbecul"
+    },
+    {
+        "id": "07cqw",
+        "name": "Taurul"
+    },
+    {
+        "id": "077r8d",
+        "name": "Gemenii"
+    },
+    {
+        "id": "0qck6",
+        "name": "Racul"
+    },
+    {
+        "id": "04h2q",
+        "name": "Leul"
+    },
+    {
+        "id": "07yt9",
+        "name": "Fecioara (constelaţie)"
+    },
+    {
+        "id": "04h36",
+        "name": "Balanța"
+    },
+    {
+        "id": "06pgz",
+        "name": "Scorpionul"
+    },
+    {
+        "id": "06pgg",
+        "name": "Săgetătorul"
+    },
+    {
+        "id": "01nk9",
+        "name": "Capricornul"
+    },
+    {
+        "id": "0jxf",
+        "name": "Vărsătorul"
+    },
+    {
+        "id": "05s7n",
+        "name": "Peștii"
+    },
+    {
+        "id": "02vx4",
+        "name": "Fotbal"
+    },
+    {
+        "id": "0jm_",
+        "name": "Fotbal american"
+    },
+    {
+        "id": "018w8",
+        "name": "Baschet"
+    },
+    {
+        "id": "018jz",
+        "name": "Baseball"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tenis de câmp"
+    },
+    {
+        "id": "01cgz",
+        "name": "Box"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hochei pe gheață"
+    },
+    {
+        "id": "07_53",
+        "name": "Volei"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletism"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Ciclism"
+    },
+    {
+        "id": "06z6r",
+        "name": "Natație"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maraton"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Tenis de masă"
+    },
+    {
+        "id": "087zy",
+        "name": "Yoga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnastică"
+    },
+    {
+        "id": "036vg6",
+        "name": "Lupte"
+    },
+    {
+        "id": "04xsv",
+        "name": "Artă marţială"
+    },
+    {
+        "id": "03_ly",
+        "name": "Ianuarie"
+    },
+    {
+        "id": "02xx5",
+        "name": "Februarie"
+    },
+    {
+        "id": "04wzr",
+        "name": "Martie"
+    },
+    {
+        "id": "0lkm",
+        "name": "Aprilie"
+    },
+    {
+        "id": "04w_7",
+        "name": "Mai"
+    },
+    {
+        "id": "040fb",
+        "name": "Iunie"
+    },
+    {
+        "id": "040fv",
+        "name": "Iulie"
+    },
+    {
+        "id": "0ll3",
+        "name": "August"
+    },
+    {
+        "id": "06vkl",
+        "name": "Septembrie"
+    },
+    {
+        "id": "05lf_",
+        "name": "Octombrie"
+    },
+    {
+        "id": "05cw8",
+        "name": "Noiembrie"
+    },
+    {
+        "id": "028kb",
+        "name": "Decembrie"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Nord"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Sud"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Vest"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Est"
+    },
+    {
+        "id": "0j0k",
+        "name": "Asia"
+    },
+    {
+        "id": "059g4",
+        "name": "America de Nord"
+    },
+    {
+        "id": "06n3y",
+        "name": "America de Sud"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Africa"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antarctida"
+    },
+    {
+        "id": "05p553",
+        "name": "Film de comedie"
+    },
+    {
+        "id": "03npn",
+        "name": "Film de groază"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Film documentar"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Film dramatic"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animaţie"
+    },
+    {
+        "id": "06n90",
+        "name": "Science fiction"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Film de acţiune"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Thriller"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Film de dragoste"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantezie"
+    },
+    {
+        "id": "0g65_",
+        "name": "Joc de aventură"
+    },
+    {
+        "id": "04t36",
+        "name": "Film Musical"
+    },
+    {
+        "id": "06by7",
+        "name": "Muzică rock"
+    },
+    {
+        "id": "064t9",
+        "name": "Muzică pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Muzică hip hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Muzică clasică"
+    },
+    {
+        "id": "02lkt",
+        "name": "Muzică electronică"
+    },
+    {
+        "id": "0155w",
+        "name": "Muzică blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Muzică reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Muzică folk"
+    },
+    {
+        "id": "02x8m",
+        "name": "Muzică funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Muzică dance"
+    },
+    {
+        "id": "0199g",
+        "name": "Bicicletă"
+    },
+    {
+        "id": "019jd",
+        "name": "Barcă"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autobuz"
+    },
+    {
+        "id": "0k4j",
+        "name": "Automobil"
+    },
+    {
+        "id": "09ct_",
+        "name": "Elicopter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocicletă"
+    },
+    {
+        "id": "06q74",
+        "name": "Navă"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Metroul din New York"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taxi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Tren"
+    },
+    {
+        "id": "07r04",
+        "name": "Autocamion"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramvai"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Feribot"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Troleibuz"
+    },
+    {
+        "id": "09g5h",
+        "name": "Navă spațială"
+    },
+    {
+        "id": "013xl3",
+        "name": "Pernopter"
+    },
+    {
+        "id": "074d1",
+        "name": "Submarin"
+    },
+    {
+        "id": "057gn",
+        "name": "Monovolum"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Brânză"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Fabrică de bere\/Marcă de bere"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Bere"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Ceai"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Băutură"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Tabletă de ciocolată"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Fel de mâncare"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingredient"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurant"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Bucătar şef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Bucătărie"
+    },
+    {
+        "id": "046cz33",
+        "name": "Distilerie"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Denumire"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vie"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vin"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dietă"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Reţetă"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Aliment"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Substanţă nutritivă"
+    },
+    {
+        "id": "0342h",
+        "name": "Chitară"
+    },
+    {
+        "id": "0319l",
+        "name": "Corn francez"
+    },
+    {
+        "id": "02hnl",
+        "name": "Baterie (instrument muzical)"
+    },
+    {
+        "id": "013y1f",
+        "name": "Orgă"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flaut"
+    },
+    {
+        "id": "05r5c",
+        "name": "Pian"
+    },
+    {
+        "id": "0mkg",
+        "name": "Acordeon"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citat"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptare"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Persoană căreia i s-au dedicat lucrări"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Persoană care a dedicat o lucrare"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publicaţie"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Recenzie"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Interviu"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Traducere"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Persoană intervievată"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Intervievator"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Traducător"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Fragment"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Avocat"
+    },
+    {
+        "id": "05t4q",
+        "name": "Medic"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arhitect"
+    },
+    {
+        "id": "09jwl",
+        "name": "Muzician"
+    },
+    {
+        "id": "01d30f",
+        "name": "Pedagog"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Chimist"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Medic veterinar"
+    },
+    {
+        "id": "01c72t",
+        "name": "Compozitor"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Bucătar"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Funcţionar poliţie"
+    },
+    {
+        "id": "05xls",
+        "name": "Programator"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentist"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatrie"
+    },
+    {
+        "id": "099md",
+        "name": "Soldat"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Şofer de camion"
+    },
+    {
+        "id": "01d380",
+        "name": "Bormașină"
+    },
+    {
+        "id": "03l9g",
+        "name": "Ciocan"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Foarfece"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Cec"
+    },
+    {
+        "id": "06qrr",
+        "name": "Băutură răcoritoare"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Furculiță"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "024gjb",
+        "name": "Listă meniu"
+    },
+    {
+        "id": "026lrs",
+        "name": "Șervețel"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Lingură"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Apă potabilă"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Cafea"
+    },
+    {
+        "id": "02859d",
+        "name": "Ceai negru"
+    },
+    {
+        "id": "09cx8",
+        "name": "Deget"
+    },
+    {
+        "id": "09w5r",
+        "name": "Membru inferior"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Dinte"
+    },
+    {
+        "id": "031n1",
+        "name": "Picior"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Buză"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Cavitate bucală"
+    },
+    {
+        "id": "03q69",
+        "name": "Păr"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Gât"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Limbă"
+    },
+    {
+        "id": "039xj_",
+        "name": "Ureche"
+    },
+    {
+        "id": "0k65p",
+        "name": "Mână"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nas"
+    },
+    {
+        "id": "027n3_",
+        "name": "Sprânceană"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Cap"
+    },
+    {
+        "id": "014sv8",
+        "name": "Ochi"
+    },
+    {
+        "id": "0176mf",
+        "name": "Curea"
+    },
+    {
+        "id": "032b3c",
+        "name": "Jachetă"
+    },
+    {
+        "id": "06rrc",
+        "name": "Pantof"
+    },
+    {
+        "id": "01b638",
+        "name": "Gheată"
+    },
+    {
+        "id": "013s93",
+        "name": "Tricou"
+    },
+    {
+        "id": "0fly7",
+        "name": "Blugi"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Cravată"
+    },
+    {
+        "id": "01d40f",
+        "name": "Rochie"
+    },
+    {
+        "id": "01nq26",
+        "name": "Ciorap"
+    },
+    {
+        "id": "07mhn",
+        "name": "Pantalon"
+    },
+    {
+        "id": "0174n1",
+        "name": "Mănușă"
+    },
+    {
+        "id": "02h19r",
+        "name": "Eșarfă"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Cămașă"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Costum"
+    },
+    {
+        "id": "01767_",
+        "name": "Șosetă"
+    },
+    {
+        "id": "079f77",
+        "name": "Maiou"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Tastatură"
+    },
+    {
+        "id": "020lf",
+        "name": "Maus"
+    },
+    {
+        "id": "02bc6",
+        "name": "Bază de date"
+    },
+    {
+        "id": "020s1",
+        "name": "Fișier"
+    },
+    {
+        "id": "02nf_",
+        "name": "E-mail"
+    },
+    {
+        "id": "01mfj",
+        "name": "Hardware"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Cloud computing"
+    },
+    {
+        "id": "07wcf",
+        "name": "USB"
+    },
+    {
+        "id": "0mynm",
+        "name": "Cameră web"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Placă de bază"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haga"
+    },
+    {
+        "id": "02_286",
+        "name": "New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Ierusalim"
+    },
+    {
+        "id": "01w2v",
+        "name": "Cairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seul"
+    },
+    {
+        "id": "031y2",
+        "name": "Florenţa"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Turn"
+    },
+    {
+        "id": "06gfj",
+        "name": "Drum"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Spital"
+    },
+    {
+        "id": "06zdj",
+        "name": "Şcoală"
+    },
+    {
+        "id": "0166ls",
+        "name": "Parc"
+    },
+    {
+        "id": "06zdj",
+        "name": "Şcoală"
+    },
+    {
+        "id": "09cmq",
+        "name": "Muzeu"
+    },
+    {
+        "id": "017ql",
+        "name": "Bancă (instituţie financiară)"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Piață"
+    },
+    {
+        "id": "09cjl",
+        "name": "Aeroport"
+    },
+    {
+        "id": "053rd",
+        "name": "Minerit"
+    },
+    {
+        "id": "023907r",
+        "name": "Imobiliare"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telecomunicație"
+    },
+    {
+        "id": "01mf0",
+        "name": "Software"
+    },
+    {
+        "id": "011s0",
+        "name": "Publicitate"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotehnologie"
+    },
+    {
+        "id": "0hz28",
+        "name": "Editare de carte"
+    },
+    {
+        "id": "0191_7",
+        "name": "Vânzare cu amănuntul"
+    },
+    {
+        "id": "0h61",
+        "name": "Arheologie"
+    },
+    {
+        "id": "01mtb",
+        "name": "Bucătărie"
+    },
+    {
+        "id": "034dj",
+        "name": "Joc de noroc"
+    },
+    {
+        "id": "034v_",
+        "name": "Grădinărit"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografie"
+    },
+    {
+        "id": "064rk",
+        "name": "Olărit"
+    },
+    {
+        "id": "06h7j",
+        "name": "Alergare"
+    },
+    {
+        "id": "012v4j",
+        "name": "Drumeție"
+    }
+]

@@ -1,0 +1,1522 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Formiga"
+    },
+    {
+        "id": "01dws",
+        "name": "Urso"
+    },
+    {
+        "id": "01h3n",
+        "name": "Abelha"
+    },
+    {
+        "id": "015p6",
+        "name": "Aves"
+    },
+    {
+        "id": "01x_v",
+        "name": "Camelo"
+    },
+    {
+        "id": "01yrx",
+        "name": "Gato"
+    },
+    {
+        "id": "09b5t",
+        "name": "Gallus gallus domesticus"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Gado bovino"
+    },
+    {
+        "id": "09ddx",
+        "name": "Pato"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Elefante"
+    },
+    {
+        "id": "03k3r",
+        "name": "Cavalo"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Macaco"
+    },
+    {
+        "id": "07bgp",
+        "name": "Ovelha"
+    },
+    {
+        "id": "0cnyhnx",
+        "name": "touro"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Jacaré-americano"
+    },
+    {
+        "id": "0qqk",
+        "name": "Amaranto"
+    },
+    {
+        "id": "047v4b",
+        "name": "Alcachofra"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Asparagus officinalis"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Beterraba"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Brócolis"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Repolho"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Cenoura"
+    },
+    {
+        "id": "015w7p",
+        "name": "Couve-flor"
+    },
+    {
+        "id": "01xj_",
+        "name": "Apium graveolens"
+    },
+    {
+        "id": "02nm6c",
+        "name": "Acelga"
+    },
+    {
+        "id": "02nm75",
+        "name": "Couve-galega"
+    },
+    {
+        "id": "053wn",
+        "name": "Milho"
+    },
+    {
+        "id": "015x4r",
+        "name": "Pepino"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Beringela"
+    },
+    {
+        "id": "022p79",
+        "name": "Escarola"
+    },
+    {
+        "id": "017dqv",
+        "name": "Funcho"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Alho"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Cabaça"
+    },
+    {
+        "id": "02r5_b",
+        "name": "Couve-de-folhas"
+    },
+    {
+        "id": "04bk6",
+        "name": "couve-rábano"
+    },
+    {
+        "id": "0666h8",
+        "name": "KUKA"
+    },
+    {
+        "id": "013__5",
+        "name": "Alho-porro"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Alface"
+    },
+    {
+        "id": "025s18p",
+        "name": "Quiabo"
+    },
+    {
+        "id": "0dj75",
+        "name": "Cebola"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Pastinaca sativa"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Ervilha"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Amendoim"
+    },
+    {
+        "id": "05vtc",
+        "name": "Batata"
+    },
+    {
+        "id": "05zsy",
+        "name": "Abóbora"
+    },
+    {
+        "id": "015x5n",
+        "name": "Rabanete"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Ruibarbo"
+    },
+    {
+        "id": "016rh7",
+        "name": "Espinafre"
+    },
+    {
+        "id": "0cl46",
+        "name": "Nabo (vegetal)"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Rorippa nasturtium-aquaticum"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Milefólio"
+    },
+    {
+        "id": "015fr",
+        "name": "Brasil"
+    },
+    {
+        "id": "0d060g",
+        "name": "Canadá"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "China"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Cuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Irã"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turquia"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Suécia"
+    },
+    {
+        "id": "06mkj",
+        "name": "Espanha"
+    },
+    {
+        "id": "0h7x",
+        "name": "Áustria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Hungria"
+    },
+    {
+        "id": "0345h",
+        "name": "Alemanha"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polônia"
+    },
+    {
+        "id": "04g5k",
+        "name": "Letónia"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irlanda"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietname"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgária"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongólia"
+    },
+    {
+        "id": "06q1r",
+        "name": "Escócia"
+    },
+    {
+        "id": "0chghy",
+        "name": "Austrália"
+    },
+    {
+        "id": "035v3",
+        "name": "Gronelândia"
+    },
+    {
+        "id": "0jgx",
+        "name": "Arménia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japão"
+    },
+    {
+        "id": "019rg5",
+        "name": "Quénia"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Segunda-feira"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Terça-feira"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Quarta-feira"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Quinta-feira"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Sexta-feira"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Sábado"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Domingo"
+    },
+    {
+        "id": "06m_p",
+        "name": "Sol"
+    },
+    {
+        "id": "09cy8",
+        "name": "Mercúrio"
+    },
+    {
+        "id": "09bcm",
+        "name": "Vénus"
+    },
+    {
+        "id": "02j71",
+        "name": "Terra"
+    },
+    {
+        "id": "09cws",
+        "name": "Marte"
+    },
+    {
+        "id": "09q84",
+        "name": "Júpiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturno"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Urano"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptuno"
+    },
+    {
+        "id": "0jwy",
+        "name": "Aries"
+    },
+    {
+        "id": "07cqw",
+        "name": "Taurus"
+    },
+    {
+        "id": "077r8d",
+        "name": "Gemini"
+    },
+    {
+        "id": "0qck6",
+        "name": "Cancer"
+    },
+    {
+        "id": "04h2q",
+        "name": "Leo"
+    },
+    {
+        "id": "07yt9",
+        "name": "Virgo"
+    },
+    {
+        "id": "04h36",
+        "name": "Libra"
+    },
+    {
+        "id": "06pgz",
+        "name": "Scorpius"
+    },
+    {
+        "id": "06pgg",
+        "name": "Sagittarius"
+    },
+    {
+        "id": "01nk9",
+        "name": "Capricornus"
+    },
+    {
+        "id": "0jxf",
+        "name": "Aquarius"
+    },
+    {
+        "id": "05s7n",
+        "name": "Pisces"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futebol"
+    },
+    {
+        "id": "0jm_",
+        "name": "Futebol americano"
+    },
+    {
+        "id": "018w8",
+        "name": "Basquetebol"
+    },
+    {
+        "id": "018jz",
+        "name": "Beisebol"
+    },
+    {
+        "id": "07bs0",
+        "name": "Ténis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boxe"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hóquei no gelo"
+    },
+    {
+        "id": "07_53",
+        "name": "Voleibol"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletismo"
+    },
+    {
+        "id": "037hz",
+        "name": "Golfe"
+    },
+    {
+        "id": "01sgl",
+        "name": "Ciclismo"
+    },
+    {
+        "id": "06z6r",
+        "name": "Natação"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judô"
+    },
+    {
+        "id": "0d38m",
+        "name": "Maratona"
+    },
+    {
+        "id": "0194d",
+        "name": "Badminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Tênis de mesa"
+    },
+    {
+        "id": "087zy",
+        "name": "Ioga"
+    },
+    {
+        "id": "0397w",
+        "name": "Ginástica"
+    },
+    {
+        "id": "036vg6",
+        "name": "Luta"
+    },
+    {
+        "id": "04xsv",
+        "name": "Artes marciais"
+    },
+    {
+        "id": "03_ly",
+        "name": "Janeiro"
+    },
+    {
+        "id": "02xx5",
+        "name": "Fevereiro"
+    },
+    {
+        "id": "04wzr",
+        "name": "Março"
+    },
+    {
+        "id": "0lkm",
+        "name": "Abril"
+    },
+    {
+        "id": "04w_7",
+        "name": "Maio"
+    },
+    {
+        "id": "040fb",
+        "name": "Junho"
+    },
+    {
+        "id": "040fv",
+        "name": "Julho"
+    },
+    {
+        "id": "0ll3",
+        "name": "Agosto"
+    },
+    {
+        "id": "06vkl",
+        "name": "Setembro"
+    },
+    {
+        "id": "05lf_",
+        "name": "Outubro"
+    },
+    {
+        "id": "05cw8",
+        "name": "Novembro"
+    },
+    {
+        "id": "028kb",
+        "name": "Dezembro"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Norte"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Sul"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Oeste"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Leste"
+    },
+    {
+        "id": "0j0k",
+        "name": "Ásia"
+    },
+    {
+        "id": "059g4",
+        "name": "América do Norte"
+    },
+    {
+        "id": "06n3y",
+        "name": "América do Sul"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "África"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antártica"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Austrália"
+    },
+    {
+        "id": "05p553",
+        "name": "Comédia"
+    },
+    {
+        "id": "03npn",
+        "name": "Terror"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Documentário"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Drama"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animação"
+    },
+    {
+        "id": "06n90",
+        "name": "Ficção científica"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Filme de ação"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Thriller"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Romance"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasia"
+    },
+    {
+        "id": "0g65_",
+        "name": "Jogo eletrônico de aventura"
+    },
+    {
+        "id": "04t36",
+        "name": "Filme musical"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock"
+    },
+    {
+        "id": "064t9",
+        "name": "Música pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Música country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Música clássica"
+    },
+    {
+        "id": "02lkt",
+        "name": "Música eletrônica"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Música folclórica"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Dance music"
+    },
+    {
+        "id": "0199g",
+        "name": "Bicicleta"
+    },
+    {
+        "id": "019jd",
+        "name": "Barco"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autocarro"
+    },
+    {
+        "id": "0k4j",
+        "name": "Automóvel"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helicóptero"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocicleta"
+    },
+    {
+        "id": "06q74",
+        "name": "Navio"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Metropolitano de Nova Iorque"
+    },
+    {
+        "id": "0pg52",
+        "name": "Táxi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Trem"
+    },
+    {
+        "id": "07r04",
+        "name": "Camião"
+    },
+    {
+        "id": "07kfm",
+        "name": "Elétrico"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Balsa"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Trólebus"
+    },
+    {
+        "id": "09g5h",
+        "name": "Nave espacial"
+    },
+    {
+        "id": "013xl3",
+        "name": "Hovercraft"
+    },
+    {
+        "id": "074d1",
+        "name": "Submarino"
+    },
+    {
+        "id": "057gn",
+        "name": "Minivan"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Queijo"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Cervejaria\/marca da cerveja"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Cerveja"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Chá"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Bebida"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Barra de chocolate"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Prato"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingrediente"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurante"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Chef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Cozinha"
+    },
+    {
+        "id": "046cz33",
+        "name": "Destilaria"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Apelação"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vinhedo"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vinho"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dieta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Receita"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Comida"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Nutriente"
+    },
+    {
+        "id": "0342h",
+        "name": "Guitarra"
+    },
+    {
+        "id": "0319l",
+        "name": "Trompa"
+    },
+    {
+        "id": "02hnl",
+        "name": "Bateria"
+    },
+    {
+        "id": "013y1f",
+        "name": "Órgão (instrumento)"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flauta"
+    },
+    {
+        "id": "05r5c",
+        "name": "Piano"
+    },
+    {
+        "id": "0mkg",
+        "name": "Acordeão"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citação"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptação"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Dedicado a"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedicador"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publicação"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Resenha"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Entrevista"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Tradução"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Entrevistado"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Entrevistador"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Tradutor"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Excerto"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrador"
+    },
+    {
+        "id": "04gc2",
+        "name": "Advogado"
+    },
+    {
+        "id": "05t4q",
+        "name": "Médico"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arquiteto"
+    },
+    {
+        "id": "09jwl",
+        "name": "Músico"
+    },
+    {
+        "id": "01d30f",
+        "name": "Professor"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Modelo"
+    },
+    {
+        "id": "01pxg",
+        "name": "Químico"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinário"
+    },
+    {
+        "id": "01c72t",
+        "name": "Compositor"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Cozinheiro"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Policial"
+    },
+    {
+        "id": "05xls",
+        "name": "Programador"
+    },
+    {
+        "id": "02tx6q",
+        "name": "Engenheiro de Som"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentista"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatria"
+    },
+    {
+        "id": "099md",
+        "name": "Soldado"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Piloto de caminhão"
+    },
+    {
+        "id": "01d380",
+        "name": "Furadeira"
+    },
+    {
+        "id": "03l9g",
+        "name": "Martelo"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Tesoura"
+    },
+    {
+        "id": "07ln6l",
+        "name": "Morsa"
+    },
+    {
+        "id": "01j5ks",
+        "name": "Chave"
+    },
+    {
+        "id": "02qhwc4",
+        "name": "Ulster fry"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Cheque"
+    },
+    {
+        "id": "08gqpm",
+        "name": "chávena"
+    },
+    {
+        "id": "03m7wd",
+        "name": "Sachertorte"
+    },
+    {
+        "id": "06qrr",
+        "name": "Refrigerante"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Garfo"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hambúrguer"
+    },
+    {
+        "id": "024gjb",
+        "name": "Cardápio"
+    },
+    {
+        "id": "026lrs",
+        "name": "Guardanapo"
+    },
+    {
+        "id": "01_9v",
+        "name": "Caesar salad"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Colher"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Água potável"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Café"
+    },
+    {
+        "id": "02859d",
+        "name": "Chá preto"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Costas"
+    },
+    {
+        "id": "09cx8",
+        "name": "Dedo da mão"
+    },
+    {
+        "id": "09w5r",
+        "name": "Perna humana"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Dente"
+    },
+    {
+        "id": "037p5b",
+        "name": "Bochecha"
+    },
+    {
+        "id": "031n1",
+        "name": "Pé"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Lábio"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Garganta"
+    },
+    {
+        "id": "0dzdr",
+        "name": "peito"
+    },
+    {
+        "id": "025kyy",
+        "name": "Testa"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Boca"
+    },
+    {
+        "id": "01d_ff",
+        "name": "Artelho"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Queixo"
+    },
+    {
+        "id": "03q69",
+        "name": "Pelo"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Pescoço"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Língua"
+    },
+    {
+        "id": "039xj_",
+        "name": "Orelha"
+    },
+    {
+        "id": "0k65p",
+        "name": "Mão"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nariz"
+    },
+    {
+        "id": "027n3_",
+        "name": "Sobrancelha"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Cabeça"
+    },
+    {
+        "id": "031974",
+        "name": "Cintura"
+    },
+    {
+        "id": "014sv8",
+        "name": "Olho"
+    },
+    {
+        "id": "0176mf",
+        "name": "Cinto"
+    },
+    {
+        "id": "032b3c",
+        "name": "Jaqueta"
+    },
+    {
+        "id": "06rrc",
+        "name": "Sapato"
+    },
+    {
+        "id": "019b80",
+        "name": "Suéter"
+    },
+    {
+        "id": "01b638",
+        "name": "Bota"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Saia"
+    },
+    {
+        "id": "02d46y",
+        "name": "Boné"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pijama"
+    },
+    {
+        "id": "013s93",
+        "name": "Camiseta"
+    },
+    {
+        "id": "01xygc",
+        "name": "Casaco"
+    },
+    {
+        "id": "0fly7",
+        "name": "Jeans"
+    },
+    {
+        "id": "0216vm",
+        "name": "Pantufa"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Gravata"
+    },
+    {
+        "id": "01d40f",
+        "name": "Vestido"
+    },
+    {
+        "id": "01v229",
+        "name": "capa de chuva"
+    },
+    {
+        "id": "01nq26",
+        "name": "Meia"
+    },
+    {
+        "id": "07mhn",
+        "name": "Calça"
+    },
+    {
+        "id": "0174n1",
+        "name": "Luva"
+    },
+    {
+        "id": "02h19r",
+        "name": "Cachecol"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Camisa"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Terno"
+    },
+    {
+        "id": "01767_",
+        "name": "meia"
+    },
+    {
+        "id": "0cp1w6l",
+        "name": "Calcinha"
+    },
+    {
+        "id": "079f77",
+        "name": "camisola interior"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Teclado"
+    },
+    {
+        "id": "020lf",
+        "name": "Rato"
+    },
+    {
+        "id": "014n4m",
+        "name": "Cortar, copiar e colar"
+    },
+    {
+        "id": "01fk53",
+        "name": "Instrução"
+    },
+    {
+        "id": "02bc6",
+        "name": "Banco de dados"
+    },
+    {
+        "id": "01q5jp",
+        "name": "CRUD"
+    },
+    {
+        "id": "029kh",
+        "name": "Digital"
+    },
+    {
+        "id": "020s1",
+        "name": "Arquivo de computador"
+    },
+    {
+        "id": "02nf_",
+        "name": "e-mail"
+    },
+    {
+        "id": "01xfp",
+        "name": "Computação gráfica"
+    },
+    {
+        "id": "01zrkr",
+        "name": "Ícone"
+    },
+    {
+        "id": "01mfj",
+        "name": "Hardware"
+    },
+    {
+        "id": "03rsh",
+        "name": "Entrada\/saída"
+    },
+    {
+        "id": "02_0t4",
+        "name": "Interatividade"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Computação em nuvem"
+    },
+    {
+        "id": "07wcf",
+        "name": "Universal Serial Bus"
+    },
+    {
+        "id": "0mynm",
+        "name": "Webcam"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Placa-mãe"
+    },
+    {
+        "id": "07g0_",
+        "name": "Haia"
+    },
+    {
+        "id": "02_286",
+        "name": "Nova Iorque"
+    },
+    {
+        "id": "0430_",
+        "name": "Jerusalém"
+    },
+    {
+        "id": "01w2v",
+        "name": "Cairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seul"
+    },
+    {
+        "id": "031y2",
+        "name": "Florença"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlim"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdã"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Torre"
+    },
+    {
+        "id": "06gfj",
+        "name": "Estrada"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Hospital"
+    },
+    {
+        "id": "0k05r",
+        "name": "Tribunal"
+    },
+    {
+        "id": "06zdj",
+        "name": "Escola"
+    },
+    {
+        "id": "019cfy",
+        "name": "Estádio"
+    },
+    {
+        "id": "0166ls",
+        "name": "Parque"
+    },
+    {
+        "id": "06zdj",
+        "name": "Escola"
+    },
+    {
+        "id": "09cmq",
+        "name": "Museu"
+    },
+    {
+        "id": "017ql",
+        "name": "Banco"
+    },
+    {
+        "id": "02p0qmm",
+        "name": "Colégio"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Mercado"
+    },
+    {
+        "id": "016yx7",
+        "name": "Ginásio"
+    },
+    {
+        "id": "03nybl",
+        "name": "Delegacia"
+    },
+    {
+        "id": "09cjl",
+        "name": "Aeroporto"
+    },
+    {
+        "id": "053rd",
+        "name": "Mineração"
+    },
+    {
+        "id": "023907r",
+        "name": "Imóveis"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telecomunicação"
+    },
+    {
+        "id": "06mbny",
+        "name": "Hospitalidade"
+    },
+    {
+        "id": "01mf0",
+        "name": "Software"
+    },
+    {
+        "id": "011s0",
+        "name": "Publicitário"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotecnologia"
+    },
+    {
+        "id": "0hz28",
+        "name": "Editor"
+    },
+    {
+        "id": "0191_7",
+        "name": "Varejo"
+    },
+    {
+        "id": "0h61",
+        "name": "Arqueologia"
+    },
+    {
+        "id": "01mtb",
+        "name": "Cozedura"
+    },
+    {
+        "id": "034dj",
+        "name": "Jogo de azar"
+    },
+    {
+        "id": "034v_",
+        "name": "Jardinagem"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografia"
+    },
+    {
+        "id": "064rk",
+        "name": "Olaria"
+    },
+    {
+        "id": "06h7j",
+        "name": "correr"
+    },
+    {
+        "id": "09nyy",
+        "name": "Malabarismo"
+    },
+    {
+        "id": "012v4j",
+        "name": "Passeio"
+    },
+    {
+        "id": "017dv8",
+        "name": "Observação de aves"
+    }
+]

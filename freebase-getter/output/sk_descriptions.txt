@@ -1,0 +1,1046 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Mravcovité je čeľaď hmyzu z nadčeľade osy a radu blanokrídlovce. Rody z tejto čeľade, pokiaľ vôbec majú slovenské meno, sa po slovensky nazývajú mravec. O pojme mravce pozri nižšie pod Systematika.\nMravce sú jednou z najúspešnejších skupín hmyzu v živočíšnej ríši, sú preto v mimoriadnom záujme vedcov myrmekológov, ekológov a biosociológov. Ich úspešnosť je pripisovaná ich sociálnemu spôsobu života a ich špecializácii. Vyvinuli sa v období explozívnej diverzifikácie hmyzích druhov, v kriede pred 110 až 130 miliónmi rokov. Sú ľahko identifikovateľné článkovanými tykadlami a charakteristickou stavbou a delením jednotlivých častí štíhleho tela."
+    },
+    {
+        "id": "01dws",
+        "description": "Ursida je veľký taxón mäsožravcov. V mnohých systémoch je úplne alebo takmer zhodný s nadčeľaďou medvede a čeľaďou medveďovité či podčeľaďou medvede. Rody z tohto taxónu sa po slovensky volajú medveď, pokiaľ vôbec majú slovenské meno.\nMedzi medveďmi nájdeme najväčšieho žijúceho mäsožravca vôbec, je nim poddruh medveďa hnedého – kodiak, ktorý vo vztýčenej polohe na zadných nohách dosahuje výšku až 3,5 m."
+    },
+    {
+        "id": "015p6",
+        "description": "Vtáky [v širšom zmysle] sú trieda dvojnohých teplokrvných stavovcov, ktoré sú pokryté perím, predné končatiny majú premenené na krídla, rozmnožujú sa vajcami, pričom dnešné druhy sú vybavené bezzubým zobákom.\nVtáky [v užšom zmysle] môže byť aj synonymum pre skupinu Neornithes, teda len časť triedy vtáky zahŕňajúcu dnes žijúce vtáky."
+    },
+    {
+        "id": "01x_v",
+        "description": "Ťava je rod z čeľade ťavovité.\nRecentné druhy sú:\n⁕ťava dvojhrbá\n⁕ťava jednohrbá, zvaná aj dromedár.\nArabi rozoznávajú viac než 20 plemien tiav."
+    },
+    {
+        "id": "01yrx",
+        "description": "Mačka domáca je už niekoľko storočí domestikovaný poddruh mačky divej.\nPo svojich predkoch zdedila vynikajúci zrak a sluch, k lovu dokonale prispôsobené telo. Ešte prednedávnom bola mačka neodmysliteľnou súčasťou každého vidieckeho domu. S rozvojom civilizácie je ale tohto vidieckeho prostredia čoraz menej a mačka stráca svoje postavenie úžitkového domáceho zvieraťa. V mestách sa pre svoju reprodukčnú schopnosť a pre potenciálne nebezpečenstvo prenosu toxoplazmózy a rozličných parazitov stáva nevítaným problémom. Na druhej strane je vďaka relatívne nenáročnej starostlivosti a schopnosti dodať príbytku teplo domova čoraz obľúbenejším domácim zvieraťom."
+    },
+    {
+        "id": "09b5t",
+        "description": "Kura domáca je domestikovaný druh kurotvarých vtákov. Je jedným z najrozšírenejších domácich zvierat. V roku 2003 žilo v chovoch asi 24 miliárd jedincov tohto druhu. Samec sa volá kohút, samica sliepka a mláďa kurča."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Tur domáci alebo v poľnohospodárstve pomnožne hovädzí dobytok, rožný statok, hovädzí statok či lichva, je druh či poddruh z čeľade turovité, hospodárske zviera chované na mlieko, mäso, kožu alebo používané ako ťažné zviera.\nV niektorých krajinách, napríklad v Indii, je predmetom náboženských obradov a úcty. Odhaduje sa, že týchto zvierat na svete v súčasnosti žije zhruba 1,3 miliardy.\nJe to najvýznamnejšie hospodárske zviera slovenského poľnohospodárstva."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Slonovité je čeľad patriaca do radu chobotnatcov."
+    },
+    {
+        "id": "03k3r",
+        "description": "Kôň je podrod rodu Equus a slovenské rodové meno druhov tohto podrodu. V niektorých starších systémoch má však tento podrod postavenie rodu.\nSamica koňa sa nazýva kobyla, starší samec žrebec a kastrovaný samec valach. Mláďa sa nazýva žriebä, mladý kôň v zácviku je remonta. Gravidita sa odborne nazýva žrebnosť, kobyla sa ožrebí."
+    },
+    {
+        "id": "07bgp",
+        "description": "Ovca domáca je druh či poddruh z rodu ovca. Je to významné hospodárske zviera v svetovom i slovenskom poľnohospodárstve, hlavne v podhorských a horských oblastiach s vysokým zastúpením lúk a pasienkov. Hlavným produktom chovu oviec je mäso a mlieko, vedľajšími produktmi sú vlna, rohovina, koža, vlnotuk, ovčí hnoj."
+    },
+    {
+        "id": "02g2w1",
+        "description": "Aligátor severoamerický je druh krokodíla z čeľade aligátorovité ktorý je zároveň jedným z dvoch žijúcich druhov aligátorov."
+    },
+    {
+        "id": "01cbb3",
+        "description": "Repa obyčajná je druh zeleniny. Existuje veľké množstvo rôznych šľachtených kultivarov, ktoré majú použitie buď ako koreňová zelenina, listová zelenina, kŕmna plodina alebo technická plodina. Patrí medzi ne:\n⁕cvikla\n⁕mangold\n⁕cukrová repa\n⁕kŕmna repa"
+    },
+    {
+        "id": "0hkxq",
+        "description": "Brokolica je druh zeleniny, ktorý obsahuje vitamíny C, B1 a B2. Je zelenej farby.\nno ne ružovej!"
+    },
+    {
+        "id": "0fj52s",
+        "description": "Mrkva obyčajná je rastlina z čeľade mrkvovité. Pestuje sa ako poľnohospodárska kultúrna plodina - koreňová zelenina."
+    },
+    {
+        "id": "015w7p",
+        "description": "Karfiol alebo kapusta karfiolová je taxón patriaci do druhu kapusta obyčajná. Dužinaté súkvetie karfiolu sa používa ako zelenina."
+    },
+    {
+        "id": "01xj_",
+        "description": "Zeler je rod z čeľade zelerovité."
+    },
+    {
+        "id": "053wn",
+        "description": "Kukurica siata je kultúrna plodina z čeľade lipnicovité. Pôvodne ju domestikovali Indiáni na území dnešného Mexika. Názov „kukurica“ je novotvar, ktorý vytvoril český botanik Jan Svatopluk Presl."
+    },
+    {
+        "id": "015x4r",
+        "description": "Uhorka siata je hojne pestovaná rastlina z čeľade tekvicovité. Rastlina má plazivé úpony, ktoré nesú jedlé valcovité plody. Pôvodom pochádza z Indie, pričom sa v súčasnosti pestuje po celom svete a je dostupné veľké množstvo odrôd."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Ľuľok baklažánový je rastlina z čeľade ľuľkovité. Jeho plod nazývaný baklažán sa často používa vo varení. Je blízko príbuzným rajčine a zemiaku, pričom pochádza z Nepálu, Indie, Bangladéšu, Pakistanu, a Srí Lanky.\nJe to trvalá rastlina, pestuje sa celoročne. Rastie do výšky 40 – 150 cm s veľkými a hrubými listami, ktoré sú dlhé 10 – 20 cm a 5 – 10 cm široké. Divé odrody môžu narásť do výšky 225 cm s listami dlhými viac ako 30 cm a viac ako 15 cm širokými. Stonka je často tŕnitá. Kvety majú bielu až fialovú farbu s päťkrídlovým okvetím a žltými tyčinkami. Plod je čierno až fialovej farby, mäsitý a kultivovaný má v priemere cca 10 – 15 cm.\nPlod je z botanického hľadiska klasifikovaný ako bobuľa, obsahuje viaceré malé a jemné semená. Plod je jedlý ale je horký, pretože obsahuje nikotínové alkaloidy. Je blízkym príbuzným aj tabaku."
+    },
+    {
+        "id": "017dqv",
+        "description": "Fenikel obyčajný je rastlina z čeľade zelerovité. Drvené semená sa používajú ako korenina a sú vhodné na prípravu čaju."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Cesnak kuchynský je raslina z čeľade cesnakovité. Niektorí autori ho v širšom pojatí zaraďujú do čeľade ľaliovité.\nCesnak kuchynský pravdepodobne pochádza zo strednej Ázie, kde vznikol z divo rastúceho druhu Allium longicuspis. Používa sa ako zelenina, korenina alebo liečivá rastlina."
+    },
+    {
+        "id": "0dj75",
+        "description": "Cesnak cibuľový, staršie aj cibuľa kuchynská alebo len cibuľa, je dvojročná rastlina z čeľade cesnakovité."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Hrach siaty je strukovina z čeľade bôbovité.\nV gastronómii je pokladaný za zeleninu, ale botanicky patrí medzi ovocie. Rastie v mnohých častiach Zeme obvykle v prechodných mesiacoch, hlavne na jar a začiatkom leta. V kuchyni sa používa na mnoho účelov a ukladá do zásoby zmrazením, zaváraním, konzervovaním atď. Hrach patrí k najrozšírenejšiemu druhu strukovín. Semená hrachu sú dôležitým zdrojom bielkovín pre výživu ľudí a zvierat. Zrelé semená obsahujú 22 – 28 % dusíkatých látok, 46 – 56 % škrobu, 5 – 7 % vlákniny, 3 % tuku a väčšie množstvo enzýmov a vitamínov A1, B1, B2. Hrach je spolu s bôbom obyčajným považovaný za najvýznamnejšiu strukovinu pestovanú v ekologickom poľnohospodárstve."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Podzemnica olejná je rastlina z čeľade bôbovité. Nerastie vo voľnej prírode, jedine umelo. Plodom je struk. Ide o strukovinu. Pestuje sa v tropických a subtropických krajinách. Kultivovaná podzemnica olejná bola pravdepodobne prvýkrát domestikovaná v údoliach Peru."
+    },
+    {
+        "id": "05vtc",
+        "description": "Ľuľok zemiakový je potravina, no nadzemné časti tejto rastliny sú jedovaté. V extrémnych prípadoch môže ich požitie viesť k úmrtiu.\nĽuľok zemiakový, v bežnej reči len zemiak, je viacročná hľuznatá plodina z čeľade ľuľkovité. Zemiaky patria medzi najvýznamnejšie poľnohospodárske plodiny; väčší význam pre ľudskú výživu majú len pšenica, ryža a kukurica. Za svoju obľubu vďačia nenáročnosti na prírodné podmienky a predovšetkým mimoriadne vysokým hektárovým výnosom. Ich široké uplatnenie v európskom poľnohospodárstve na začiatku 19. storočia ochránilo Európu od cyklických hladomorov a „epidémií“ skorbutu. Český botanik a buditeľ Jan Svatopluk Presl ich vo svojom Rostlinopise považuje za „najväčší úžitok, ktorý ľudstvo z objavenia Ameriky malo“ a určite nebol ďaleko od pravdy, aspoň vo svojej dobe."
+    },
+    {
+        "id": "015x5n",
+        "description": "Reďkev siata je rastlina z čeľade kapustovité."
+    },
+    {
+        "id": "02d9p2",
+        "description": "Potočnica lekárska alebo aj žerucha potočná je rastlina z čeľade kapustovité."
+    },
+    {
+        "id": "0jtc5",
+        "description": "Rebríček obyčajný, ľudovo nazývaný myší chvost, stolistník, mačací chvost je liečivá rastlina z čeľade astrovité."
+    },
+    {
+        "id": "015fr",
+        "description": "Brazílska federatívna republika je najväčší a najľudnatejší štát v Južnej Amerike. Na severe susedí s Francúzskou Guyanou, Surinamom, Guyanou, Venezuelou a Kolumbiou; na západe s Peru, Bolíviou a Paraguajom; na juhu s Argentínou a Uruguayom. Na území Brazílie sa rozkladá jeden z najväčších tropických dažďových pralesov na svete - Amazonský prales. Brazília bola v minulosti najväčšou kolóniou Portugalska a portugalčina je v Brazílii úradným jazykom. Metropolou Brazílie je mesto Brazília, plánovane vybudovaná v rokoch 1956 - 1960 v brazílskom vnútrozemí. Najväčším mestom je Sao Paulo s 11,3 miliónmi obyvateľov."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanada je severoamerická krajina, ktorá pozostáva z desiatich provincií a troch teritórií. Kanada sa nachádza v severnej časti kontinentu a je rozšírená od pobrežia Atlantického oceánu na východe až po pobrežie Tichého oceánu na západe a na sever až po Arktický oceán. S rozlohou viac ako 9,9 milióna štvorcových kilometrov je Kanada druhou najväčšou krajinou podľa rozlohy a jej spoločná hranica s USA je najdlhšou krajinnou hranicou na svete.\nKrajina, ktorá je dnes Kanada, bola obývaná po tisícročia rôznymi skupinami pôvodných obyvateľov. Na konci 15. storočia začali britské a francúzske expedície, ktoré neskôr začali obývať región pozdĺž Atlantického oceánu. Francúzsko v roku 1763 prenechalo skoro všetky svoje kolónie v Severnej Amerike po Sedemročnej vojne. V roku 1867 so zjednotením troch kolónií Britskej Severnej Ameriky prostredníctvom Confederation of Canada bola vytvorená Kanada ako federálne domínium štyroch provincií. To začalo pribúdaním provincií a teritórií a rastom autonómií zo Spojeného kráľovstva. Toto rozširovanie autonómie bolo zvýraznené hlavne Balfourskou deklaráciou a opätovne potvrdené Westminsterským štatútom, ktorý deklaroval samoriadené domíniá s presne vyrovnaným Britským impériom. Zákon Canada Act prijatý v roku 1982 konečne oddelil pozostatky legálnej závislosti v parlamente Spojeného kráľovstva."
+    },
+    {
+        "id": "01p1v",
+        "description": "Čile, dlhý tvar Čilská republika je štát v Južnej Amerike. Hlavné mesto je Santiago."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Čína, dlhý tvar Čínska ľudová republika, je rozlohou najväčší štát východnej Ázie a štvrtý najväčší na svete. V krajine žije vyše 1,3 miliardy obyvateľov, čo z nej robí najľudnatejší štát sveta.\nČínska republika bola založená roku 1912 po antimonarchistickom štátnom prevrate namierenom proti poslednému cisárovi vládnucej dynastie Čching. Na nasledujúcu dekádu bola krajina vedená vojenskými pohlavármi a rozpadla sa na drobné nezávislé štátiky. Na začiatku dvadsiatych rokov sa k moci postupne dostala nacionalistická strana Kuo-min-tang, ktorej sa podarilo opätovné zjednotenie krajiny. V roku 1933 Armáda Japonského cisárstva začala s okupáciou hospodársky najvyspelejšej časti vtedajšej Číny - Mandžuska. Po úplnom obsadení tejto severnej provincie nasledovali ďalšie útoky a Japonsko pomaly obsadilo takmer celé územie Číny. Počas druhej svetovej vojny sa situácia skomplikovala aj vo vnútornej politike krajiny - Komunistická strana Číny odolala útokom Kuo-min-tangu a Čína sa dostala do občianskej vojny. Aj vďaka ohromnej podpore chudobného obyvateľstva, ktoré už dávno túžilo po pozemkovej reforme bola strana Kuo-min-tangu v občianskej vojne s Komunistickou stranou porazená. Prvého októbra 1949 založená Čínska ľudová republika, odvtedy v Číne vládne Komunistická strana Číny."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Kuba, dlhý tvar Kubánska republika, je štát v Karibskom mori. Je členom OSN."
+    },
+    {
+        "id": "03shp",
+        "description": "Irán, dlhý tvar Iránska islamská republika, je štát v juhozápadnej Ázii.\nHlavné mesto je Teherán."
+    },
+    {
+        "id": "01znc_",
+        "description": "Turecko, dlhý tvar Turecká republika, je euroázijská krajina, ktorá sa rozprestiera v Malej Ázii a na časti Balkánskeho polostrova.\nPrevažná časť krajiny patrí k Ázii. Turecko obmývajú štyri moria a susedí s viacerými krajinami. V európskej časti sú to Bulharsko a Grécko a v ázijskej časti má spoločné hranice s Gruzínskom, Arménskom, Azerbajdžanom, Iránom, Irakom a Sýriou.\nTurecko je prevažne hornatá krajina. Nížiny sa nachádzajú len v európskej časti. Príjemné pláže sú na pobreží Egejského mora a v južnom Turecku pri Stredozemnom mori.\nObyvateľstvo sa skladá prevažne z Turkov a národnostných menších, z ktorých najväčšie zastúpenie majú Kurdi. Turci vyznávajú islamské náboženstvo."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Švédsko je severská krajina v Škandinávii."
+    },
+    {
+        "id": "06mkj",
+        "description": "Španielsko, dlhý tvar Španielske kráľovstvo, je krajina v juhozápadnej Európe na Pyrenejskom polostrove. Jeho pevnina hraničí na juhu a východe so Stredozemným morom, na severe s Francúzskom, Andorrou, na severozápade s Biskajským zálivom a na západe s Atlantickým oceánom a Portugalskom. K územiu Španielska patria aj Baleárske ostrovy v Stredozemnom mori, Kanárske ostrovy v Atlantickom oceáne pri pobreží Afriky a dve enklávy v severnej Afrike, Ceuta a Melilla pri Maroku. S plochou 504 030 km² je Španielsko druhou najväčšou krajinou západnej Európy a Európskej únie po Francúzsku.\nŠpanielsko je demokracia vo forme parlamentnej vlády v rámci konštitučnej monarchie. Je to krajina s dvanástou najväčšou ekonomikou HDP a vysokou životnou úrovňou. Je členom Organizácie Spojených národov, Európskej únie, NATO, OECD a WTO."
+    },
+    {
+        "id": "0h7x",
+        "description": "Rakúsko, dlhý tvar Rakúska republika, je spolkový štát v strednej Európe s parlamentnou demokraciou. Krajina je od roku 1955, kedy ju opustili vojská víťazných mocností druhej svetovej vojny, členom OSN a od roku 1995 členom Európskej únie."
+    },
+    {
+        "id": "03gj2",
+        "description": "Maďarsko je vnútrozemský štát v Panónskej nížine v Strednej Európe. Má rozlohu 93 030 km² a asi 10 miliónov obyvateľov. Maďarská republika je členom Európskej únie a Schengenského priestoru. Na severe hraničí so Slovenskom, na severovýchode s Ukrajinou, na východe s Rumunskom, na juhovýchode so Srbskom a Chorvátskom, na juhozápade so Slovinskom a na západe s Rakúskom.\nHlavným mestom krajiny je Budapešť. Ďalšie väčšie mestá nad 100 000 obyvateľov sú Debrecín, Miškovec, Segedín, Pécs, Győr, Níreďháza, Kecskemét a Székesfehérvár. Od roku 1996 je krajina členom OECD, v roku 1999 vstúpila do NATO a roku 2004 do Európskej únie. Spolu s okolitými krajinami je členom tzv. Vyšehradskej skupiny."
+    },
+    {
+        "id": "0345h",
+        "description": "Nemecko, dlhý tvar Nemecká spolková republika, skr. NSR, je spolkový štát v strednej Európe. Susedí s Dánskom, Poľskom, Českom, Rakúskom, Švajčiarskom, Francúzskom, Luxemburskom, Belgickom a Holandskom. Na severe tvoria prirodzenú hranicu Severné more a Baltské more.\nHlavným mestom a sídlom vlády je Berlín, niektoré ministerstvá sa nachádzajú aj v Bonne. Politický systém je federálny a organizovaný ako parlamentná demokracia: Podľa definície v ústave je Nemecko demokratický a sociálny spolkový štát. Tento štát pozostáva zo 16, čiastočne suverénnych krajín. Nemecká spolková republika je okrem iného aj členom Spojených národov, Európskej únie, NATO a G8."
+    },
+    {
+        "id": "05qhw",
+        "description": "Poľsko, dlhý tvar Poľská republika je štát ležiaci v Strednej Európe pri Baltskom mori. Na západe hraničí s Nemeckom, na juhu s Českom a Slovenskom, na východe s Ukrajinou a Bieloruskom, na severovýchode s Litvou a na severe s Ruskom. Okrem toho poľská hranica výhradnej ekonomickej zóny na Baltiku hraničí so zónami Dánska a Švédska. Celková dĺžka hraníc je 3 582 km.\nVzhľadom na rozlohu zaberá 69. miesto na svete a deviate v Európe. V počte obyvateľov je 34. najľudnatejšiou krajinou. Štát je rozdelený na 16. vojvodstiev, ktoré sa delia na 373 powiatov a 2 483 gmín.\nZa dohodnutý rok založenia poľského štátu je často prijímaný rok 966, v ktorom vládca Mešek I. prijal kresťanstvo. Poľsko sa stalo kráľovstvom v roku 1025 a v roku 1569 sa stalo súčasťou únie s Litvou. Väčšiu časť svojej histórie bola Poľská republika nezávislým a mnohonárodnostným štátom s mnohými vierovyznaniami.\nŠtát pretrval do roku 1795, kedy bolo územie rozdelené medzi tri subjekty: Pruské kráľovstvo, Ruské impérium a Rakúsko. Poľsko získalo nezávislosť v roku 1918 po prvej svetovej vojne. Počas druhej svetovej vojny bola krajina okupovaná hitlerovským Nemeckom a Sovietskym zväzom. Počet obetí vojny sa odhaduje na vyše 6 miliónov obyvateľov Poľska. Po vojne sa Poľsko stalo socialistickou republikou pod silným vplyvom ZSSR. V roku 1989 nastala zmena politického režimu na parlamentnú demokraciu a hospodárskeho na voľný trh."
+    },
+    {
+        "id": "04g5k",
+        "description": "Lotyšsko, lotyšsky: Latvija, dlhý tvar Lotyšská republika, je štát vo východnej Európe, prostredná z troch pobaltských krajín. Na juhu hraničí s Litvou, na juhovýchode s Bieloruskom, na východe s Ruskom a na severe s Estónskom. Na západe krajinu obmýva na vyše 500 km Baltské more."
+    },
+    {
+        "id": "012wgb",
+        "description": "Írsko je tretí najväčší ostrov v Európe. Na jeho území sa nachádza štát Írsko a časť Spojeného kráľovstva nazývaná Severné Írsko."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamajka je štát v strednej Amerike, ktorý sa nachádza na rovnomennom ostrove s dížkou 234 km a šírkou 80 km vo Veľkých Antilách v Karibskom mori. Leží približne 145 km južne od Kuby a 190 km západne od ostrova Hispaniola, na ktorom sa nachádza Haiti a Dominikánska republika. Jeho pôvodní obyvatelia Taínovia pomenovali ostrov Xaymaca, čo znamená „krajina dreva a vody“ alebo „krajina prameňov“. Predtým španielska dŕžava známa ako Santiago, neskôr sa stala britskou korunnou kolóniou Jamaica. Je to tretia najľudnatejšia anglofónna krajina v Severnej Amerike, hneď po USA a Kanade. Jamajka je súčasťou Commonwealthu. V súčasnosti tento ostrov preslavuje neporaziteľný šprintér Usain Bolt."
+    },
+    {
+        "id": "01crd5",
+        "description": "Vietnam, dlhý tvar Vietnamská socialistická republika, je štát v juhovýchodnej Ázii na polostrove Zadná India, leží na pobreží Juhočínskeho mora, pri Tonkinskom a Thajskom zálive. Jeho susedmi sú Kambodža, Čína a Laos. Hlavné mesto je Hanoj.\nVedný odbor, ktorý sa zaoberá lingvistikou, literatúrou, dejinami a politickým vývojom Vietnamu sa nazýva vietnamistika."
+    },
+    {
+        "id": "015qh",
+        "description": "Bulharsko, dlhý tvar Bulharská republika je štát v juhovýchodnej Európe na Balkánskom polostrove, z ktorého zaberá 22 %.\nNachádza sa v geografickej a geostrategickej zóne, ktorá spája Európu s Áziou a Čiernomorským regiónom. To predurčilo bohatú a rôznorodú históriu krajiny, ktorej územie je jedným z prvých osídlených človekom na európskom kontinente.\nKrajina susedí na severe s Rumunskom, na západe so Srbskom a s Macedónskom, na juhu s Gréckom a na juhovýchode s Tureckom. Východnú hranicu tvorí Čierne more. Riečnu hranicu tvorí 686 km."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongolsko, dlhý tvar Mongolská republika, je vnútrozemský štát v strednej Ázii, hraničiaci na severe s Ruskou federáciou a na juhu s Čínskou ľudovou republikou. Hlavné a najväčšie mesto Ulanbátar je domovom asi 40% populácie. S rozlohou 1 564 116 km² je Mongolsko 19. najväčšou a tiež najredšie osídlenou nezávislou krajinou na svete, s počtom obyvateľov okolo 3,2 milióna obyvateľov. Je to tiež druhý najväčší vnútrozemský štát na svete po Kazachstane.\nOblasť súčasného Mongolska, bola už v minulosti ovládaná mnohými kočovnými ríšami. V roku 1206 Džingischán založil Mongolskú ríšu a podmanil si veľkú časť vtedajšieho sveta. V 16. a 17. storočí sa Mongolsko dostalo pod vplyv tibetského budhizmu. Na konci 17. storočia boli všetky oblasti Mongolska začlenené do oblasti vládnucej dynastie Čching. Po páde dynastie Čching v roku 1911, Mongolsko vyhlásilo nezávislosť, ale muselo bojovať až do roku 1921, v ktorom pevne stanovilo svoju nezávislosť od Čínskej republiky. Krajina sa už v prvých rokoch svojej existencie dostala pod značný vplyv ZSSR, a v roku 1924 bola vyhlásená Mongolská ľudová republika, čím sa stala priamo satelitným štátom ZSSR. Až po zrútení komunistických režimov v Európe koncom roka 1989, keď Mongolsko prešlo svojou vlastnou demokratickou revolúciou na začiatku roku 1990, to viedlo k systému viacerých politických strán, novej ústave z roku 1992 a k prechodu k trhovému hospodárstvu."
+    },
+    {
+        "id": "06q1r",
+        "description": "Škótsko je jedna zo štyroch krajín, ktoré tvoria Spojené kráľovstvo Veľkej Británie a Severného Írska. Rozkladá sa v severnej časti ostrova Veľká Británia a na vyše 790 okolitých ostrovoch. Škótsko na východe ohraničuje Severné more, na severe a západe Atlantický oceán a na juhozápade Severný prieliv a Írske more.\nŠkótsko má vyše 5 miliónov obyvateľov. Úradným jazykom je angličtina a škótska gaelčina a škótčina. Škótsko má svoju samostatnú vlajku, modrú s bielym uhlopriečnym krížom svätého Ondreja, a znak – červeného leva na zlatom podklade s dvojitým červeným ľaliový lemom.\nHlavným a druhým najväčším mestom Škótska je Edinburgh, ktorý je zároveň jedným z najvýznamnejších európskych finančných centier. Najväčšie mesto Škótska je Glasgow, ležiace v srdci aglomerácie Greater Glasgow, kde je sústredených približne 40 % škótskeho obyvateľstva. K škótskemu územiu patrí aj veľká časť severného Atlantiku a Severného mora, kde sa nachádzajú najrozsiahlejšie ropné ložiská Európskej únie."
+    },
+    {
+        "id": "0chghy",
+        "description": "Austrália, dlhý tvar Austrálsky zväz, je štát v Austrálii a Oceánii, šiesta najväčšia krajina na svete a jediná krajina, ktorá sa rozkladá na celom kontinente. Austrálsky zväz zahŕňa aj niekoľko menších ostrovov, z ktorých najväčším je Tasmánia. Austrália je federáciou a formou vlády je konštitučnou monarchiou."
+    },
+    {
+        "id": "035v3",
+        "description": "Grónsko sa nachádza severovýchodne od Kanady, čím je geograficky súčasťou Severnej Ameriky – ale historicky, politicky a ekonomicky ide o krajinu veľmi prepojenú s Európou.\nGrónsko je najväčší ostrov na svete, ale len 15 percent územia je trvale bez ľadu. Zvyšok pokrýva ľad dosahujúci miestami hrúbku až 3 000 m. Tento ľadovec je po Antarktickom ľadovci druhý najväčší na svete.\nOstrov objavil roku 875 vikingský moreplavec Gunnbjorn. V rokoch 982 – 985 preskúmal juhozápadné pobrežie Erik Červený. Neskôr ostrov osídlili prisťahovalci z Islandu. Na ostrove žije iba 56 000 ľudí, z čoho je 48 000 Inuitov. Úradným jazykom je grónčina. Do júna 2009 bola úradným jazykom okrem grónčiny aj dánčina. Grónsko bolo kolóniou od roku 1380 a až keď sa roku 1953 stalo súčasťou Dánska, získalo autonómiu. Aj Grónsko reprezentujú v dánskom parlamente dvaja stáli zástupcovia. Grónsky parlament Landsting sa volí každé štyri roky."
+    },
+    {
+        "id": "0jgx",
+        "description": "Arménsko, dlhý tvar Arménska republika, je horská krajina v juhozápadnej Ázii, kde okolo 90% územia leží vyššie ako 1000 m n. m. Väčšinu územia vypĺňa Arménska vysočina, na severe sú pásma Malého Kaukazu, na juhozápade medzihorská Arakská rovina. Rieky Araks, Arba, Vorotan, jazero Ševan. Podnebie suché, subtropické až chladné, vysokohorské. Pestujú sa obilniny, okopaniny, bavlník, tabak, vinič, ovocie, zelenina; chov dobytka, oviec, kôz a hydiny.\nDoprava železničná, cestná, potrubná, letecká.\nObyvateľstvo: 90 % Arméni, Rusi, Kurdi, väčšina obyvateľov sa hlási ku kresťanstvu."
+    },
+    {
+        "id": "03_3d",
+        "description": "Japonsko je štát ležiaci na východnom okraji ázijského kontinentu, na východ od Číny a Kórey. Rozkladá sa na severe Ochotského mora po Východočínske more na juhu. Skladá sa z viac ako 3000 ostrovov, z ktorých najväčšie sú Hokkaidó, Honšú, Šikoku a Kjúšu. Väčšina japonských ostrovov je hornatých, a mnoho z nich je vulkanických. Najvyšším vrchom je vrch Fudži.\nJaponsko má veľmi vysoké HDP na obyvateľa a je jednou z vedúcich priemyselných veľmocí. Je unitárnou konštitučnou monarchiou s cisárom a voleným parlamentom, jednou z najstarších legislatív v Ázii. Napriek členitému povrchu je jednou z krajín s najvyšším počtom obyvateľov a najvyššou hustotou obyvateľstva. Jeho hlavné mesto Tokio s vyše 30 miliónmi obyvateľov je jednou z najväčších veľkomestských oblastí na svete.\nPočas svojich dejín prevzalo Japonsko od 7. a 8. storočia veľa zvykov a inštitúcií od Číny. Od 12. do polovice 19. storočia bolo feudálnou krajinou, vedenou klanmi bojovníkov. Po procese obnove Meidži v roku 1868 prevzalo veľa európskych a amerických zvykov a inštitúcií. Jeho dnešná kultúra je zmesou týchto vplyvov a tradičnej japonskej kultúry."
+    },
+    {
+        "id": "019rg5",
+        "description": "Keňa, dlhý tvar Kenská republika, je prímorský štát vo východnej Afrike pri brehoch Indického oceánu. Susedí na západe s Ugandou, na severozápade s Južným Sudánom, na severe s Etiópiou, na východe so Somálskom a na juhu s Tanzániou. Keňa je prezidentskou republikou a hlavné mesto je Nairobi. Krajina je pomenovaná po vrchu Mount Kenya, ktorý sa nachádza v centrálnej časti a je najvyšší v Keni."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Pondelok je jeden zo siedmych dní v týždni. Na Slovensku aj podľa štandardu ISO je pondelok prvým dňom týždňa, ale v niektorých oblastiach sveta sa považuje za deň druhý, prípadne tretí. Pondelkom sa taktiež začína pracovný týždeň.\nSlovenský názov dňa pochádza od slova nedeľa, ide o skrátené po nedeli. Stará severčina pondelok pomenovala po bohovi Mesiaca."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Utorok je jeden zo siedmych dní v týždni. Na Slovensku je to druhý deň týždňa, ale v niektorých oblastiach sveta sa ráta ako tretí deň, pretože sa týždeň začína nedeľou."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Streda je jeden zo siedmych dní v týždni. Na Slovensku je to tretí deň v týždni, ale v niektorých oblastiach sveta sa ráta ako štvrtý deň, pretože sa týždeň začína nedeľou."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Štvrtok je jeden zo siedmych dní v týždni. Na Slovensku je to štvrtý deň v týždni, ale v niektorých oblastiach sveta sa ráta ako piaty deň, pretože sa týždeň začína nedeľou."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Piatok je jeden zo siedmych dní v týždni, medzi štvrtkom a sobotou. Na Slovensku je to piaty deň v týždni. V niektorých oblastiach sveta sa ráta ako šiesty deň, pretože sa týždeň začína nedeľou. Vo väčšine krajín s päťdňovým pracovným týždňom je piatok posledný pracovný deň pred víkendom. V niektorých krajinách je piatok prvý deň víkendu a nedeľa je prvý pracovný deň. V Saudskej Arábii a Iráne je piatok posledný deň víkendu. Rovnaká situácia bola v Bahrajne, Spojených arabských emirátoch a Kuvajte."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Sobota je siedmy deň týždňa, napriek tomu, že väčšina Európy považuje za siedmy deň nedeľu. Siedmy deň týždňa sa podľa starozákonného biblického odkazu slávil, keďže Pán Boh to prikázal. Príchodom kresťanstva sa začína sláviť prvý deň týždňa – nedeľa, keďže tento deň vstal Ježiš Kristus zmŕtvych."
+    },
+    {
+        "id": "0f6ld",
+        "description": "Nedeľa je siedmy deň týždňa. V niektorých krajinách je prvým dňom týždňa. Nedeľa je dňom pracovného pokoja."
+    },
+    {
+        "id": "06m_p",
+        "description": "Slnko je hviezda našej planetárnej sústavy. Planéta Zem obieha okolo Slnka. Je to naša najbližšia hviezda a zároveň najjasnejšia hviezda na oblohe. Gravitačné pôsobenie Slnka udržiava na obežných dráhach okolo Slnka všetky objekty slnečnej sústavy. Jeho energia je nevyhnutná pre život na Zemi. Astronomický symbol pre Slnko je kruh s bodom vo vnútri.\nSlnko patrí medzi hviezdy hlavnej postupnosti, čo znamená, že v jeho jadre prebieha premena vodíka na hélium a že vďaka tomu zostáva dlhodobo stabilné. Jeho spektrálny typ je G2, čo znamená, že ide o žltú hviezdu. Hmotnosť Slnka predstavuje 99,87% hmotnosti celej slnečnej sústavy. Na všetky telesá Slnečnej sústavy dopadá elektromagnetické žiarenie zo Slnka, ktoré dosahuje celkový žiarivý výkon 3,826.1026 W. Vďaka tomuto žiareniu je možný život na Zemi. Väčšina telies vrátane všetkých planét obieha Slnko v smere jeho rotácie. Tento smer sa nazýva aj priamy smer a je dedičstvom po rotácii pôvodnej pracho-plynovej hmloviny, z ktorej všetky telesá slnečnej sústavy vznikli. Všetky ostatné telesá v slnečnej sústave sú viditeľné len vďaka tomu, že odrážajú slnečné svetlo, alebo žiaria preto, lebo boli k žiareniu vybudené slnečnou energiou."
+    },
+    {
+        "id": "09cy8",
+        "description": "Merkúr je najbližšia planéta slnečnej sústavy k Slnku a najmenšia planéta slnečnej sústavy.\nMerkúr je malá kamenná planéta s povrchom posiatym impaktnými krátermi. Nemá hustú atmosféru, ktorá by dokázala regulovať povrchovú teplotu. Z toho dôvodu jej rozdiel kolíše v rozmedzí +440 °C počas dňa a −180 °C v noci. Napriek tomu, že je Merkúr najbližšie k Slnku, nedrží teplotný rekord medzi planétami slnečnej sústavy. Ten patrí Venuši, ktorá je od Slnka síce ďalej, ale panuje na nej silný skleníkový efekt.\nJeho priemer je 38 % priemeru Zeme, čo je 1,4-krát viac ako priemer Mesiaca. Merkúr má vysokú hustotu a slabé, no predsa prítomné magnetické pole. Vytvára ho masívne kovové jadro vo vnútri planéty. Merkúr obieha okolo Slnka najrýchlejšie zo všetkých planét, no jeho rotácia je, naopak, veľmi pomalá. Nemá žiadny mesiac.\nPre svoj najrýchlejší pohyb po oblohe zo všetkých planét bol Rimanmi pomenovaný podľa posla bohov Merkúra. Planéta je známa už od staroveku, hoci sa voľným okom ťažšie pozoruje. Keďže sa jeho dráha nachádza vo vnútri dráhy Zeme, nikdy sa na oblohe nevzdiali od Slnka o viac ako 28°, a preto ho možno pozorovať len ráno, krátko pred východom, alebo večer, krátko po západe Slnka. Aj tak môže byť niekedy pomerne nápadným objektom na večernej alebo rannej oblohe."
+    },
+    {
+        "id": "09bcm",
+        "description": "Venuša je druhá planéta slnečnej sústavy, po Slnku a po Mesiaci najjasnejší objekt viditeľný zo Zeme. Pomenovaná je po starorímskej bohyni lásky. Jej dráha sa nachádza vo vnútri dráhy Zeme, to znamená, že nikdy sa na oblohe nevzdiali ďaleko od Slnka. Maximálna uhlová vzdialenosť Venuše od Slnka môže byť až 48°. So Slnkom a Mesiacom patrí medzi jediné tri nebeské telesá, ktorých svetlo vrhá na Zem tiene viditeľné voľným okom. Je pomenovaná po rímskej bohyni Venuši. Je to terestriálna planéta, čo do veľkosti a skladby veľmi podobná Zemi; niekedy ju preto nazývame „sesterskou planétou“ Zeme. Aj keď orbity všetkých ostatných planét sú elipsovité, orbita Venuše je jediná takmer kružnica, so stredom Slnka iba o 0,7 % mimo skutočný stred Venušinej obežnej dráhy.\nPretože je Venuša k Slnku bližšie ako Zem, nájdeme ju na oblohe takmer vždy blízko pri Slnku, takže ju je možné zo Zeme vidieť iba krátko pred svitaním alebo krátko po zotmení. Preto je niekedy označovaná ako „Zornička“ alebo „Večernica“, a keď sa objaví, ide o zďaleka najsilnejší bodový zdroj svetla na oblohe. Výnimočne možno Venušu voľným okom uvidieť aj vo dne.\nVenuša bola známa už starým Babylončanom okolo 1600 pred Kr. a pravdepodobne bola známa dlho predtým v prehistorických dobách kvôli svojej jasnej viditeľnosti. Jej symbolom je štylizované znázornenie bohyne Venuša držiaca zrkadlo: kruh s malým krížom pod ním. Tento symbol sa používa v biológii na označenie jedincov ženského pohlavia."
+    },
+    {
+        "id": "02j71",
+        "description": "Zem je v poradí tretia planéta slnečnej sústavy. Je to zároveň jediná planéta, na ktorej je podľa súčasných vedeckých poznatkov voda v kvapalnom skupenstve a život. Zem je predmetom skúmania napríklad kozmogónie, geológie, paleontológie či geografie.\nV strede Zeme sa nachádza horúce husté jadro, ktoré obklopuje chladnejší plášť z roztavených hornín. Na povrchu je kôra, ktorá dosahuje rôznu hrúbku v závislosti od miesta. Vďaka pevnému povrchu a vnútornému zloženiu Zem zaraďujeme medzi terestriálne planéty. Zem je najväčšia spomedzi terestriálnych planét slnečnej sústavy a tiež jediná známa planéta, na ktorej sa nachádza voda vo všetkých troch skupenstvách. Väčšina jej povrchu je pokrytá kvapalným oceánom, čo jej pri pohľade zo vzdialeného vesmíru dáva charakteristickú modrú farbu. V blízkosti rotačných pólov je oceán, resp. pevný povrch trvale zamrznutý a vytvára biele polárne čiapky. Zem je obklopená atmosférou, ktorá vo veľkých vzdialenostiach od povrchu pozvoľna prechádza do medziplanetárneho prostredia. Po prvýkrát Zem ako celok na vlastné oči videla posádka kozmickej lode Apollo 8, ktorá ako prvá opustila obežnú dráhu Zeme a vzdialila sa od nej natoľko, že sa zmestila do zorného poľa ľudského oka."
+    },
+    {
+        "id": "09cws",
+        "description": "Mars je štvrtá planéta slnečnej sústavy v poradí od Slnka. Je to druhá najmenšia planéta. Pomenovaná je po Marsovi, starorímskom bohovi vojny. Jeho dráha sa nachádza až za dráhou Zeme. Ide o planétu terestrického typu, to znamená, že má pevný horninový povrch pokrytý impaktnými krátermi, vysokými sopkami, hlbokými kaňonmi a ďalšími útvarmi. Obiehajú ho dva mesiace nepravidelného tvaru pomenované Fobos a Deimos.\nV období, keď je Mars v opozícii, je viditeľný na oblohe po celú noc. Prvé písomné záznamy o planéte a jej pozorovaní pochádzajú z obdobia prvých civilizácií. Všetky veľké staroveké civilizácie, Egypťania, Babylončania a Gréci, vedeli o tejto „putujúcej hviezde“ a dávali jej svoje pomenovania. Považovali ju za symbol ohňa a krvi, pretože horniny, pôda a obloha na planéte majú červený, alebo ružový odtieň. Nazývali ju „Červený objekt“, „Nebeský oheň“, „Hviezda smrti“ alebo „Boh vojny“.\nTakmer 20 úspešných kozmických sond od 60. rokov 20. storočia umožnilo detailné skúmanie planéty. V súčasnosti sú na obežnej dráhe Marsu tri funkčné sondy a na povrchu planéty sa pohybujú dve vozidlá misie Mars Exploration Rover a Curiosity, ktoré poskytli údaje, umožňujúce zmapovať väčšiu časť povrchu, definovať základné historické obdobia, či porozumieť základným javom odohrávajúcim sa na planéte."
+    },
+    {
+        "id": "09q84",
+        "description": "Jupiter je piata planéta v poradí od Slnka, najväčšia a najhmotnejšia planéta našej slnečnej sústavy. Je pomenovaný po rímskom bohovi Jupiterovi. Symbolom planéty je štylizované znázornenie Jupiterovho božského blesku.\nJupiter má chemické zloženie podobné Slnku a ďalším hviezdam. Líši sa od nich najmä nízkou hmotnosťou, ktorá nestačí na vytvorenie podmienok pre termojadrové reakcie prebiehajúce vo všetkých hviezdach. Neexistuje presná definícia odlišujúca veľké hmotné planéty ako Jupiter od hnedých trpaslíkov, v každom prípade by Jupiter potreboval byť aspoň 80× hmotnejší, aby sa mohol stať hviezdou. Planéty podobné hmotnosťou, rozmermi a zložením Jupiteru sa nazývajú joviálne.\nJupiter je prvou planétou od Slnka, ktorá nemá pevný povrch. Jeho búrlivá atmosféra plynule prechádza do plášťa a vo väčších hĺbkach do horúceho jadra. Rotácia planéty spôsobila, že sa v jej atmosfére utvorili gigantické, farebne jasne odlíšené štruktúry nazývané pásy a zóny. Okrem nich možno už malým ďalekohľadom pozorovať na Jupiteri ďalšie búrkové štruktúry, napríklad známu Veľkú červenú škvrnu, ktorá je z nich najväčšia.\nJupiter sa okolo svojej osi otočí najrýchlejšie zo všetkých planét slnečnej sústavy. Planéta má doteraz najväčšiu sústavu mesiacov. Zo 65 jeho doteraz objavených družíc sú najznámejšie 4 najväčšie, nazývané tiež Galileove mesiace, pretože prvý písomný záznam o ich pozorovaní urobil Galileo Galilei v roku 1610. Najväčší Galileiho mesiac, Ganymedes, je zároveň najväčším mesiacom v slnečnej sústave. Ďalšie známe mesiace sú Európa, ktorá je pokrytá ľadovou kôrou a Io, ktorý prejavuje mohutnú sopečnú aktivitu."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Saturn je šiesta planéta Slnečnej sústavy v poradí od Slnka, po Jupiteri druhá najväčšia z planét. Je známa i z prehistorického obdobia. Pomenovaný bol podľa rímskeho boha Saturna, ktorý je obdobou gréckeho Krona. Astronomický symbol pre Saturn je ♄.\nSaturn patrí medzi joviálne planéty, to znamená, že nemá pevný povrch, ale len hustú atmosféru, ktorá postupne prechádza do plášťa. Atmosféra je tvorená prevažne vodíkom, ktorý tvorí 96,3 % jej objemu. Viditeľný povrch planéty tvorí svetložltá vrstva mrakov s nejasnými pásmi rôznych odtieňov, ktoré sú rovnobežné s rovníkom. Teplota v hornej oblačnej vrstve dosahuje −140 °C. Objem planéty je približne 95-krát väčší ako objem Zeme, má však zo všetkých planét najmenšiu hustotu: len 0,6873 g\/cm³ a ako jediná planéta v slnečnej sústave je ľahší než voda. Saturn je známy najmohutnejšou sústavou prstencov zo všetkých planét slnečnej sústavy. Jeho hlavné prstence, ktoré sú označené veľkými písmenami možno pozorovať zo Zeme už aj malým ďalekohľadom. Okolo planéty obieha tiež početná rodina mesiacov, z ktorých najväčší je Titan, jediný mesiac v slnečnej sústave s hustou atmosférou.\nJeden obeh Saturna okolo Slnka trvá 29,46 pozemského roka. Je ľahko pozorovateľný voľným okom ako žltý neblikajúci objekt jasnosťou porovnateľný s najjasnejšími hviezdami. Od ekliptiky sa nikdy nevzdiali na väčšiu uhlovú vzdialenosť ako 2,5°. Prechod jedným zvieratníkovým znamením mu trvá viac než dva roky."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Urán je siedma planéta od Slnka, tretia najväčšia a štvrtá najhmotnejšia planéta v slnečnej sústave. Patrí medzi plynné obry a spolu s Neptúnom aj medzi tzv. ľadové obry. Meno má po gréckom bohovi nebies Uranovi, čo je ojedinelé – ostatné planéty sú pomenované po rímskych bohoch. Symboly planéty Urán sú znak ♅ alebo . Je to najbližšia planéta k Zemi, ktorá nebola ľuďom známa už od staroveku. Aj napriek tomu, že Urán je možné za priaznivých podmienok pozorovať voľným okom na nočnej oblohe, antickí astronómovia ho kvôli pomalej rýchlosti a nízkej jasnosti nepovažovali za planétu, ale za hviezdu. Objav Urána ohlásil William Herschel 13. marca 1781, čím prvýkrát v modernej dobe posunul známe hranice slnečnej sústavy.\nChemickým zložením sa Urán podobá Neptúnu. Obe planéty majú rozdielne celkové zastúpenie prvkov oproti Jupiteru či Saturnu. Urán má podobné zloženie atmosféry ako Jupiter či Saturn. Tvoria ju prevažne plynné formy vodíka a hélia, ale obsahuje aj výrazný podiel vody, amoniaku a metánu so stopami ďalších uhľovodíkov. Atmosféra Urána je najchladnejšou v slnečnej sústave, minimálne teploty sa pohybujú okolo 49 K. Jej štruktúra je vrstevnatá: v najnižších poschodiach sa nachádzajú mraky vody, vo vrchných poschodiach mraky tvorené hlavne metánom. Vnútro planéty je pravdepodobne zložené predovšetkým z ľadu a kamenia."
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptún je ôsma a najvzdialenejšia planéta slnečnej sústavy. Rozhodlo o tom hlasovanie na 26. kongrese Medzinárodnej astronomickej únie v Prahe 24. augusta 2006. Dovtedy bolo poslednou planétou slnečnej sústavy Pluto.\nSo svojim rovníkovým priemerom 49 528 km je štvrtou najväčšou planétou, jeho hmotnosť však z neho robí tretiu najhmotnejšiu planétu slnečnej sústavy. Neptún je 17-krát ťažší ako Zem a iba o niečo prekonáva svoju susednú planétu Urán. Planéta je pomenovaná podľa starorímskeho boha mora Neptúna. Svojou stavbou, hmotnosťou a chemickým zložením sa zaraďuje k plynným obrom.. Jeho astronomický symbol je trojzubec.\nAtmosféra Neptúna sa skladá najmä z vodíka a hélia, so stopami metánu, ktorý spôsobuje modrú farbu planéty. Toto zafarbenie je omnoho výraznejšie ako pri Uráne, ktorý má tiež podobné množstvo metánu, ale v atmosfére Neptúna sa nachádza pravdepodobne ešte neznáma zložka ktorá toto zafarbenie zosilňuje. V atmosfére Neptúna tiež dujú najsilnejšie vetry z planét slnečnej sústavy, rýchlosťami približne 2 500 km\/h.\nAko všetky plynné obry v slnečnej sústave, aj Neptún má prstence, ktoré sú však omnoho menej výrazné ako pri Saturne. Boli objavené tímom Edvarda Guinana, pričom predpokladali že prstence nie sú kompletné. Toto však vyvrátila sonda Voyager 2 pri prelete okolo planéty. Neptún má tiež rodinu mesiacov, potvrdených ich je zatiaľ 13. Známy je najmä Triton, kvôli svojej retrográdnej obežnej dráhe, veľmi nízkej teplote na povrchu a extrémne jemnej atmosfére, zloženej z dusíka a metánu."
+    },
+    {
+        "id": "0jwy",
+        "description": "Baran je jedno zo zvieratníkových súhvezdí. Nachádza sa západne od súhvezdia Ryby a východne od súhvezdia Býk. Predstavuje na oblohe zlatého barana z gréckej mytológie, ktorý niesol na chrbte Frixa a Hellé. Slnko ním prechádza od 18. apríla do 12. mája. Jarný bod, označovaný znakom B. xcx je v súčasnosti vplyvom precesie v súhvezdí Ryby. Baran je na večernej oblohe viditeľný u nás od augusta do apríla. Vrcholí o polnoci v poslednej tretine októbra asi 65° nad južným obzorom. Na oblohe zaberá 0,134 sr. Obsahuje 50 hviezd zdanlivej jasnosti do 6m, najjasnejšia hviezda Hamal.\nBaran je jedným z menších súhvezdí zvieratníka, v ktorom tvar barana videli už dávno pred Grékmi Babylončania, Egypťania a Peržania. Predstavuje na oblohe zlatého barana z gréckej mytológie, ktorý niesol na chrbte Frixa a Hellé, deti bohyne oblakov Nefelé a thébskeho kráľa Athamasa, syna bohov búrok a vetra. Vyslal ho boh Hermes, aby odniesol kráľovské deti do bezpečia, pred ich zavraždením nevlastnou matkou Inó. Tá ich nemala rada, zle s nimi zaobchádzala a nakoniec sa rozhodla, že ich pripraví o život. Baran vedel lietať a keď prechádzal vysoko nad Dardanelami, dievča Hellé stratilo rovnováhu a spadlo do mora v úžine nazývanej Hellespont. Chlapec Frix sa zachránil a bezpečne sa dostal do Kolchidy, do mesta na východnom pobreží Čierneho mora, kde ho priateľsky prijal miestny kráľ. Barana neskôr obetovali Diovi, ktorý následne z vďačnosti daroval jeho zlaté rúno kolchidskému kráľovi. Kráľ si vzácny dar veľmi vážil, preto zlaté rúno uložil v posvätnom hájiku, kde ho strážil nikdy nespiaci drak. Neskôr sa zlaté rúno stalo cieľom dobrodružnej výpravy Iasóna a Argonautov."
+    },
+    {
+        "id": "07cqw",
+        "description": "Býk je jedno zo zvieratníkových súhvezdí, ktorým prechádza Slnko od 13. mája do 20. júna. Predstavuje hlavu býka, jednu z podôb Dia z gr. mytológie. Je to výrazné súhvezdie zimnej oblohy medzi súhvezdiami Baran na západe a Blíženci na východe. Na severe sa nachádza Perzeus a Povozník, na juhozápade Orión a na juhovýchode Eridanus a Veľryba.\nSúhvezdie Býk je viditeľné u nás na večernej oblohe od októbra do apríla. Vrcholí o polnoci koncom novembra vo výške asi 60° nad južným obzorom. Je to typické zimné súhvezdie, ktoré vidieť na predĺženej spojnici Kasiopeje s Perzeom. Na oblohe zaberá 0,243 sr. Obsahuje 90 hviezd zdanlivej jasnosti do 6m; najjasnejšia hviezda Aldebaran. V Býkovi sú Hyády a Plejády, najjasnejšie otvorené hviezdokopy. Roku 1801 v ňom G. Piazzi objavil prvú planétku 1 Ceres. Býk je známy aj Krabou hmlovinou. LP 357-186 je jednou z najmenších hviezd s priemerom 1 700 km a s priemernou hustotou 200 t. cm-3. Radiant meteorického roja Tauríd leží južne od Plejád."
+    },
+    {
+        "id": "077r8d",
+        "description": "Blíženci sú jedno zo zvieratníkových súhvezdí. Sú súčasťou zimnej oblohy, ležia medzi súhvezdím Býk na západe a nevýrazným súhvezdím Rak na východe.\nJe to zvieratníkové súhvezdie severnej oblohy, ktorým Slnko prechádza od 21. júna do 19. júla. Predstavuje dórskych hrdinov z gréckej mytológie Kastora a Polydeukésa. Jasné hviezdy Blížencov utvárajú nepravidelný obdĺžnik medzi Rakom a Býkom. Na večernej oblohe sú Blíženci viditeľní u nás od novembra do začiatku júna. Vrcholia o polnoci začiatkom januára vo výške asi 65° nad južným obzorom. Na oblohe zaberajú 0,157 sr. Obsahujú 70 hviezd zdanlivej jasnosti do 6m; Najjasnejšou hviezdou súhvezdia je Pollux. V Blížencoch objavil roku 1781 W. Herschel Urán, prvú planétu novoveku. Mekbuda je jednou z najjasnejších cefeíd na oblohe. V Blížencoch je aj jedna z najznámejších otvorených hviezdokôp, M 35, kopa galaxií pozostávajúca asi z 200 galaxií, vzdialená od nás asi 340 Mpc, a radiant najmladšieho meteorického roja Geminíd."
+    },
+    {
+        "id": "0qck6",
+        "description": "Rak je malé a nevýrazné súhvezdie a súčasne jedno zo zvieratníkových súhvezdí. Nachádza sa medzi súhvezdiami Blíženci na západe, Lev na východe, Rys na severe a Malý pes a Hydra na juhu.\nRak je zvieratníkové súhvezdie. Slnko ním prechádza od 21. júla do 9. augusta Prechádzajú ním Mesiac aj planéty. Kedysi býval Rak najsevernejším súhvezdím zvieratníka, takže ním prechádzalo Slnko v čase letného slnovratu. Najsevernejšia rovnobežka na Zemi, kde je Slnko v zenite raz do roka sa preto nazýva Obratník Raka. Dôsledkom precesie sa však letný slnovratový bod posunul do súhvezdia Blížencov."
+    },
+    {
+        "id": "04h2q",
+        "description": "Lev je jedno zo zvieratníkových súhvezdí. Leží medzi súhvezdiami Rak na západe a Panna na východe.\nLev je zvieratníkové súhvezdie. Slnko ním prechádza od 10. augusta do 15. septembra Je to veľké súhvezdie a prechádza ním časť ekliptiky. Z toho vyplýva, že v ňom príležitostne môžeme nájsť planéty a Mesiac. Pred 4 000 až 5 000 rokmi bol v Levovi bod letného slnovratu. Odvtedy sa dôsledkom precesie posunul cez Raka do Blížencov."
+    },
+    {
+        "id": "07yt9",
+        "description": "Panna je jedným zo súhvezdí zverokruhu. Nachádza sa na západ od súhvezdia Váhy a na východ od súhvezdia Lev. Je jedným z najväčších na oblohe. Možno ho ľahko zbadať vďaka jeho jasnej hviezde α Spika."
+    },
+    {
+        "id": "04h36",
+        "description": "Váhy sú nevýrazné zvieratníkové súhvezdie, pretože neobsahujú žiadnu hviezdu ani prvej hviezdnej veľkosti. Ležia západne od súhvezdia Panna a východne od súhvezdia Škorpión.\nVáhy sú zvieratníkové súhvezdie. Slnko ním prechádza od 31. októbra do 22. novembra. Pretína ho ekliptika, čiže v ňom môžeme vo vhodnom čase nájsť aj planéty a Mesiac. Ešte pred 2000 rokmi bol vo Váhach jesenný bod, čiže bod, v ktorom sa Slnko nachádza v čase jesennej rovnodennosti. Roľníci vedeli, že vtedy treba siať oziminy. Dnes sa tam už jesenný bod nenachádza – dôsledkom precesie sa presunul do Panny. Dodnes sa však jesenný bod označuje astrologickým symbolom súhvezdia Váhy."
+    },
+    {
+        "id": "06pgz",
+        "description": "Škorpión je zvieratníkové súhvezdie ležiace medzi súhvezdiami Váhy smerom na západ a Strelec smerom na východ. Je to veľké súhvezdie južnej pologule v blízkosti stredu Mliečnej cesty.\nSlnko ním prechádza veľmi krátko, ako sa hovorí aj v gréckej báji. Je to len 6 dní, od 23. novembra do 29. novembra. Zo všetkých súhvezdí, ktorými prechádza ekliptika, má Škorpión najkratší úsek. Je dlhý len približne 6°. V dávnych časoch, keď toto súhvezdie ešte ležalo v znamení, ktorému dalo meno, ho toto 30° široké znamenie, oveľa presahovalo. Vďaka ekliptike v ňom môžeme nájsť planéty aj Mesiac, i keď sa, rovnako ako Slnko, zdržiavajú v tomto súhvezdí len pomerne krátko."
+    },
+    {
+        "id": "06pgg",
+        "description": "Strelec je zvieratníkové súhvezdie ležiace medzi súhvezdiami Škorpión smerom na západ a súhvezdím Kozorožec smerom na východ. Jeho najjasnejšie hviezdy vytvárajú ľahko rozoznateľný tvar čajníka.\nStrelec je zvieratníkové súhvezdie. Prechádza ním časť ekliptiky a preto v ňom môžeme za vhodných podmienok nájsť planéty a Mesiac. Slnko ním prechádza v období od 18. decembra do 18. januára Tri dni po tom, ako do neho Slnko vstúpi, dosiahne na oblohe svoju najnižšiu deklináciu a tým pádom aj najnižšiu výšku na oblohe vôbec. Tento bod so súradnicami rektascenzia = 18h, deklinácia = -23,5° sa nazýva zimný slnovratový bod. Nastáva deň zimného slnovratu – začiatok astronomickej zimy. Slnko vtedy napoludnie kulminuje nad rovnobežkou 23° 30´ južnej zemepisnej šírky. Táto rovnobežka sa nazýva Obratník Kozorožca, pretože pred tisíckami rokov sa zimný slnovratový bod nachádzal v súhvezdí Kozorožca. Súhvezdie Strelec má medzi zvieratníkovými súhvezdiami ešte jednu zvláštnosť: je to jedno z dvoch zvieratníkových súhvezdí, ktoré v našich zemepisných šírkach nikdy nevychádza celé nad obzor. Strelca možno bezpochyby označiť za najzaujímavejšie súhvezdie oblohy, čo sa týka objektov pozorovateľných hoci aj malým ďalekohľadom. Aj keď neobsahuje nijaké zvlášť jasné hviezdy, na jeho ploche sa nachádza obrovský počet hviezdokôp a hmlovín a v neposlednom rade sa smerom do súhvezdia Strelec nachádza jadro našej Galaxie."
+    },
+    {
+        "id": "01nk9",
+        "description": "Kozorožec je jedným zo zvieratníkových súhvezdí, pričom patrí tak medzi 88 moderných súhvezdí, ako aj medzi 48 Ptolemaiových súhvezdí.\nKozorožec je stredne veľké zvieratníkové súhvezdie. Prechádza ním časť ekliptiky, čiže v ňom môžeme nájsť planéty, Mesiac a, prirodzene, Slnko. Slnko do neho vstupuje 19. januára a vystupuje z neho 15. februára. Pred asi 2 000 rokmi bol Kozorožec najjužnejším zvieratníkovým súhvezdím a Slnko cez neho prechádzalo v deň zimného slnovratu. Kozorožec sa nachádzal najnižšie pod svetovým rovníkom. Vďaka precesii sa však poloha svetového rovníka posúva a v dnešných časoch sa v deň zimného slnovratu Slnko nachádza v súhvezdí Strelec. Ale dodnes sa najjužnejšia rovnobežka na zemskom povrchu, kde Slnko v priebehu roka kulminuje v zenite nazýva Obratník Kozorožca. V blízkosti sú ďalšie vodné súhvezdia: Vodnár, Ryba, Veľryba a Južná ryba – prechod Slnka touto oblasťou totiž znamenal vo východnom Stredomorí a na Blízkom východe obdobie daždivého počasia."
+    },
+    {
+        "id": "0jxf",
+        "description": "Vodnár je jedno z najstarších pozorovaných súhvezdí vo zvieratníku, teda ceste Slnka po oblohe. Poznali ho už Babylončania. Na starých babylonských kameňoch bol Vodnár zobrazovaný ako kľačiaci muž, ktorý vylieva vodu z vedra na ramene. Všetky dávne civilizácie si toto súhvezdie spájali v rôznych formách s vodou, s dažďom, záplavami, morom, dokonca aj s vínom. V roku 1846 objavil berlínsky hvezdár Galle pri hviezde iota Aquarii ďalšiu planétu Slnečnej sústavy, Neptún.\nVodnár je pomerne rozsiahle zvieratníkové súhvezdie. Prechádza ním časť ekliptiky a za vhodných podmienok v ňom môžeme nájsť planéty a Mesiac. Slnko každoročne prechádza Vodnárom od 16. februára do 11. marca. Vodnár je zároveň jedno zo skupiny tzv. vodných súhvezdí, čo je skupina súhvezdí jesennej oblohy, ktoré majú nejaký vzťah k vode. Okrem Vodnára tam patria aj Ryby, Veľryba, Južná ryba, Kozorožec, Eridanus a Delfín."
+    },
+    {
+        "id": "05s7n",
+        "description": "Ryby sú zvieratníkové súhvezdie ležiace medzi súhvezdiami Vodnár na západe a Baran na východe.\nRyby sú zvieratníkové súhvezdie, čo znamená, že ním prechádza časť ekliptiky. Za vhodných podmienok v Rybách môžeme nájsť planéty a Mesiac. Slnko cez toto súhvezdie prechádza od 12. marca do 18. apríla. Cez Ryby prechádza veľký kus ekliptiky a samotné súhvezdie je pomerne rozľahlé. Po Panne je to druhé najväčšie zvieratníkové súhvezdie na oblohe. Cez Ryby však prechádza aj svetový rovník a dôležitejšie je, že v západnej časti súhvezdia tento svetový rovník križuje ekliptiku. Ich priesečník leží kolmo pod hviezdou omega a približne naň ukazuje spojnica hviezd gama a lambda tvoriace časť tela západnej ryby. Tento priesečník ekliptiky a svetového rovníka sa nazýva jarný bod. Tento bod patrí medzi najdôležitejšie body na oblohe. Slnko ním prechádza v okamihu jarnej rovnodennosti. Jarným bodom sa začína tiež sústava zvieratníkových súhvezdí. Preto sa za prvé súhvezdie zvieratníka považujú Ryby. V dôsledku precesie sa však jarný bod pohybuje oproti zdanlivému pohybu Slnka rýchlosťou 50,26“ za rok. Čas, ktorý prejde medzi dvoma po sebe nasledujúcimi prechodmi Slnka jarným bodom sa nazýva tropický rok a je o málo kratší ako siderický rok. Jarný bod teda veľmi pomaly prechádza zvieratníkovými súhvezdiami. V súčasnosti je v Rybách, ale pred tisíckami rokov bol v súhvezdí Barana. V tom čase boli zavedené znamenia zvieratníka. Vzhľadom na to, že znamenia sa na rozdiel od súhvezdí pohybujú po oblohe spolu s jarným bodom, nachádza sa jarný bod stále v znamení Barana, ktorému dnes prislúcha súhvezdie Ryby. Preto sa jarný bod označuje astrologickým symbolom Barana a preto znamenia zvieratníka dodnes začínajú Baranom, hoci súhvezdia zvieratníka majú svoj začiatok v Rybách. Ani v Rybách však nebude jarný bod navždy. Už za niekoľko málo storočí sa presunie do západnejšieho súhvezdia, do Vodnára, a Vodnár sa stane prvým súhvezdím zvieratníka."
+    },
+    {
+        "id": "02vx4",
+        "description": "Futbal je kolektívna loptová hra, ktorá je považovaná za najpopulárnejší šport na svete.\nPodľa prieskumu, medzinárodnou futbalovou federáciou FIFA, hrá pravidelne futbal najmenej 240 miliónov ľudí vo viac ako 220 krajinách sveta. Dôvodom jeho popularity sú jednoduché pravidlá a minimálna náročnosť na vybavenie.\nOkrem futbalu existuje aj jeho mutácie ako: futsal, sálový futbal, minifutbal a iné."
+    },
+    {
+        "id": "0jm_",
+        "description": "Americký futbal alebo americké ragby je kolektívny šport, ktorého cieľom je dopraviť loptu do súperovho skórovacieho územia zvaného endzone."
+    },
+    {
+        "id": "018w8",
+        "description": "Basketbal je kolektívny, halový a loptový šport, v ktorom sa dva tímy súperiace s piatimi hráčmi na ihrisku snažia vhodiť loptu do súperovho koša a zabrániť súperovi, aby dosiahol kôš, pričom musia dodržiavať určité pravidla basketbalu. To družstvo, ktoré dosiahne vyšší počet bodov na konci hracieho času, sa stáva víťazom stretnutia. Slovo basketbal sa skladá z dvoch anglických slovíčok: basket a ball. Hracia plocha má tvar obdĺžnika s rovným tvrdým povrchom bez prekážok. Musí mať dĺžku dvadsať osem m a šírku pätnásť m, meranú od vnútorného okraja hraničnej čiary. Družstvo tvorí maximálne 12 hráčov, vrátané kapitána, tréner družstva, asistent družstva a max. 5 osôb doprevadzujúce družstvo lekár, vedúci družstva, masér, manažér, štatistík, tlmočník. Basketbalové stretnutie riadia 2 rozhodcovia a pomocní rozhodcovia, ktorí sú súčasťou hry a dbajú na dodržiavaní všetkých pravidiel basketbalu. Zápas basketbalu pozostáva zo štyroch štvrtín po 10 minút. Medzi 1. a 2. a 3. a 4. štvrtinou je prestávka 2 minút, polčasová prestávka trvá 15 minút. Členovia družstva majú jednotné oblečenie pozostávajúce z tričiek rovnakej prevládajúcej farby na prednej i zadnej strane a musí mať tričko očíslované na prednej i zadnej strane zreteľnými číslami stálej farby, výrazne odlišnými od farby trička."
+    },
+    {
+        "id": "018jz",
+        "description": "Bejzbal je tímový šport, populárny najmä v Amerike a východnej Ázii. V Japonsku, Portoriku, Dominikánskej republike, Kube, Paname, Kórejskej republike a Taiwane je to najpopulárnejší šport.\nDružstvo tvorí 9 hráčov. Každý z nich má určenú pozíciu na ihrisku.\nZápas hrajú proti sebe dve družstvá. Má dve časti: obrana a útok. Družstvá sa počas zápasu v týchto činnostiach striedajú, teda keď jedno družstvo bráni, druhé útočí. Jedna výmena sa volá zmena, znamená, že obe družstvá boli raz v útoku a raz v obrane. 9 takýchto zmien tvorí zápas - nehrá sa na čas."
+    },
+    {
+        "id": "07bs0",
+        "description": "Tenis označovaný aj ako biely šport, je loptová hra pre 2 alebo 4 hráčov.\nVariant s 2 hráčmi je dvojhra, variant so 4 hráčmi štvorhra. Existuje klasická a zmiešaná štvorhra, pri klasickej proti sebe hrajú dva páry mužov alebo žien, pri zmiešanej je v každom páre jeden muž a jedna žena.\nSúperi stoja proti sebe na sieťou rozdelenom hráčskom poli a pokúšajú sa odraziť tenisovú loptičku tenisovou raketou tak, aby súperi neboli schopní ju v rámci pravidiel vrátiť."
+    },
+    {
+        "id": "01cgz",
+        "description": "Box alebo boxing alebo pästiarstvo je olympijská športová disciplína. Bola súčasťou aj starých olympijských hier. V boxe proti sebe stoja dvaja súperi v ringu ohraničenom lanami. Pri zápase používajú údery pästí, ktoré sú chránené rukavicami. Existujú 3 základné údery: direkt, hák a zdvihák. Súperi sa snažia zasiahnuť súpera tak, aby získali za každý úder bod, prípadne aby dosiahli KO - ukončenie zápasu tým, že súper nie je ďalej schopný zápasiť."
+    },
+    {
+        "id": "03tmr",
+        "description": "Ľadový hokej je kolektívny šport. Je tiež súčasťou zimnej olympiády. Hrá ho 6 hráčov na každej strane - brankár, pravý obranca, ľavý obranca, pravý krídelník, ľavý krídelník a center. Vyhráva družstvo, ktoré dá v určenom čase viac gólov. V zápase môže nastúpiť 20 hráčov a dvaja brankári.\nNajvyšší úrad, ktorý združuje národné hokejové federácie a organizuje hokejové turnaje je Medzinárodná hokejová federácia. Jej súčasťou je 66 hokejových federácií.\nĽadový hokej je populárny najmä v štátoch severnej Ameriky, v Kanade a Spojených štátoch, v severnej Európe a v bývalom východnom bloku. V rámci ľadového hokeja sa ustálil pojem \"silná sedmička\", ktorý predstavuje sedem najväčších hokejových štátov, ktoré získavajú najčastejšie medaile na svetovom šampionáte v ľadovom hokeji. Do silnej sedmičky patria hokejové výbery tímov Kanady, Spojených štátov, Švédska, Fínska, Slovenska, Ruska a Česka"
+    },
+    {
+        "id": "07_53",
+        "description": "Volejbal je olympijský šport, v ktorom dve družstvá oddelené vysokou sieťou pomocou svojich rúk, ramien a aj iných častí trupu udierajú do lopty a snažia sa ju premiestniť na opačnú stranu siete."
+    },
+    {
+        "id": "037hz",
+        "description": "Golf je outdoorový šport, v ktorom samotný hráč alebo malá skupinka hrá malou golfovou loptičkou do jamky a používa pri tom rôzne palice. Pravidlá golfu definujú, že „hra spočíva v hraní loptičkou z odpaliska do jamky úderom alebo postupnými údermi v súlade s pravidlami.“\nGolf pochádza zo Škótska a bol hraný na Britských ostrovoch niekoľko storočí. Napriek tomu bol považovaný za hru pre elitu, v súčasnosti získava širokú popularitu a počet hráčov po celom svete stále rastie."
+    },
+    {
+        "id": "01sgl",
+        "description": "Cyklistika je jazda na bicykli s rekreačným, športovým, turistickým alebo dopravným zameraním. Osoby, ktoré jazdia na bicykli sa označujú cyklisti. Cyklistika sa rozšírila po skonštruovaní bicykla v 19. storočí. Dnes je na Zemi asi miliarda bicyklov, ktoré sú v niektorých oblastiach dôležitým druhom dopravy. Športová cyklistika sa delí na dve odvetvia. Rýchlostnú cyklistiku a technické disciplíny. Do rýchlostnej cyklistiky patria: cestná, dráhová, BMX, cyklokros, horská cyklistika a cykloturistika.\nDo technických disciplín: sálová cyklistika, cyklotrial a BMX Freestyle. Prvý bicykel podobajúci sa tomu dnešnému nakreslil geniálny vynálezca a maliar Leonardo da Vinci. Jeho bicykel však nebol nikdy vyrobený. V roku 1800 vyrobil ruský nevoľník Artamov železný bicykel s pedálmi na prednom kolese. Tento samohyb mal však k dnešnému bicyklu dosť ďaleko. Hromadnú výrobu bicyklov začal až nemecký barón Karl Friedrich Drais, ktorý je nazývaný praotcom bicyklu. V súčasnosti udávajú tempo a smer vývoja bicyklov dve veľké firmy - firma Campagnolo, vyrábajúca komponenty pre cestné bicykle a firma Shimano, jeden z najväčších výrobcov komponentov pre horské bicykle.\nPrvé organizované cyklistické preteky sa konali 31. mája 1868 v Paríži, v parku St. Cloude na vzdialenosť 1 200 m. O rok neskôr sa vo Veľkej Británii konali prvé medzimestské preteky na trase Londýn - Bristol. Nešlo však o cestné preteky preto, že v tom čase ešte bicykel nebol v Británii oficiálne uznaný ako cestný dopravný prostriedok. Skutočné prvé cestné preteky sa uskutočnili v tom istom roku vo Francúzsku na trati medzi Parížom a mestom Rouen, pričom dĺžka pretekov bola 126 km. Pretekov sa zúčastnilo 198 pretekárov."
+    },
+    {
+        "id": "03_8r",
+        "description": "Džudo je bojové umenie, spôsob sebaobrany ale najmä olympijský šport, ktorý všestranne rozvíja telesnú zdatnosť ako aj psychickú odolnosť cvičenca.\nFilozofia džuda kladie veľký dôraz na techniku a psychické schopnosti, prostredníctvom ktorých dokáže džudista v prípade potreby eliminovať aj podstatne silnejšieho protivníka. Nezanedbateľnou súčasťou cvičenia džudo je aj jeho etika, ktorá prispieva k harmonickému rozvoju osobnosti cvičiaceho. Hoci je pôvod džuda v ďalekom Japonsku, za posledné polstoročie získal však tento šport vďaka príťažlivosti svojich tréningových metód takmer masové rozšírenie vo všetkých krajinách sveta. Samotný zakladateľ džuda, Džigoró Kanó, charakterizoval džudo nasledovne:\nDžudo je typickým športovým zápasom, v ktorom pri vlastnom výkone - stretnutí ide o prekonanie súpera fyzickou, technickou a taktickou prevahou. Pri riešení úlohy vlastného výkonu sa v džude uplatňuje veľké množstvo pohybových zručností prevažne veľmi zložitej štruktúry. Kontakt medzi oboma súpermi nastáva prostredníctvom úchopu za športový úbor - kimono. Pravidlá dovoľujú obmeňovať úchop a využívať prakticky všetky časti tela v kontakte so súperom v priebehu boja. Vlastný zápas prebieha na rovnom, pevnom, dostatočne pružnom zápasisku, ktoré umožňuje rýchle pohyby a pritom poskytuje dostatočnú ochranu pri pádoch.Charakter hlavných vonkajších faktorov, t. j. športového úboru, zápasiska a pravidiel, predurčuje veľkú premenlivosť pohybového obsahu džuda. Náplň techniky džuda tvoria predovšetkým chvaty, ktoré majú pomerne stabilnú štruktúru, vďaka tradičnému rozdeleniu a metodike nácviku, ktoré sa od vzniku džuda v podstate zachovali dodnes."
+    },
+    {
+        "id": "0d38m",
+        "description": "Maratón alebo maratónsky beh je beh na dlhú vzdialenosť, ktorého trať meria 42,195 km. Jeho vznik bol inšpirovaný legendou o gréckom vojakovi Feidippidovi, ktorého v roku 490 pred Kr. vyslali z mesta Maratón do Atén, aby oznámil, že Peržania boli zázračne porazení v bitke pri Maratóne. Podľa legendy zabehol celú vzdialenosť bez zastavenia sa, ale krátko po tom, ako odovzdal odkaz o víťazstve skolaboval od vyčerpania a umrel."
+    },
+    {
+        "id": "0194d",
+        "description": "Bedminton je športová hra pre dvoch alebo štyroch hráčov, ktorí sa pohybujú na opačných poloviciach obdĺžnikového ihriska rozdeleného sieťou. Hráči v rukách držia rakety a striedavo odbíjajú košík."
+    },
+    {
+        "id": "07jbh",
+        "description": "Stolný tenis alebo ping pong je druh športu, pri ktorom je snahou hráča zahrať loptičku ponad sieťku na špeciálnom stole tak, aby jej vrátenie spôsobovalo ťažkosti súperovi, prípadne ju nemohol vrátiť.\nStolný tenis patrí medzi najrýchlejšie športové hry na svete, učí mať rýchly odhad hernej situácie a jej okamžité riešenie najvhodnejším herným spôsobom. Stolný tenis je individuálny šport hraný v halách špeciálne na to určených, ale aj v klasických krytých halách, kde sa dajú rozmiestniť stoly na hru."
+    },
+    {
+        "id": "087zy",
+        "description": "Joga je filozoficko-náboženský smer a meditačná prax a teória, pochádzajúca zo starovekej a stredovekej Indie. Je to jedna zo šiestich ortodoxných indických filozofických škôl. Hlavné poučky sú sformulované v spise Jóga-sútry.\nPraktiky jogy používa aj budhizmus a džinizmus. Na západe mnohí ľudia pod pojmom joga chápu len telesné cviky, tzv. ásany, vedúce okrem iného k prečisteniu tela a mysle.\nOsoba vyznávajúca\/praktikujúca jogu sa nazýva jogín alebo jog."
+    },
+    {
+        "id": "0397w",
+        "description": "Gymnastika je všestranný súbor telesných cvičení. Rozlišujeme športovú a modernú gymnastiku."
+    },
+    {
+        "id": "036vg6",
+        "description": "Zápasenie alebo zápas je individuálny úpolový šport, v ktorom proti sebe zápasia 2 zápasníci rovnakej vekovej a váhovej kategórie na kruhovom zápasisku s priemerom 9 metrov."
+    },
+    {
+        "id": "04xsv",
+        "description": "Bojové umenie je každý systém, ktorý formalizuje zručnosti a techniky telesného konfliktu s protivníkom. Bojové umenie nie je celkom to isté, čo bojový šport.\nBojové umenie je staré ako samotné ľudstvo. Vznikali vtedy, keď sa človek potreboval pred niečim brániť alebo niečo dosiahnuť. Napríklad:\n⁕lukostreľba vznikla, aby trénovaný strelec dokázal rýchlejšie a bezpečnejšie skoliť zver alebo aby bol vo vojnách účinnejším bojovníkom.\n⁕box, zápasenie a orientálne bojové umenia vznikli preto, aby sa človek mohol lepšie ubrániť útokom iného človeka.\nV podstate je bojové umenie to, čo nám pomáha zlepšiť sa v nejakej činnosti, ktorá súvisí s bojom, lovom, silou, alebo prežitím."
+    },
+    {
+        "id": "03_ly",
+        "description": "Január je prvý mesiac roka v Gregoriánskom kalendári a jeden zo siedmich mesiacov s dĺžkou 31 dní.\nAstrologicky začína január so slnkom v znamení Kozorožca a končí v znamení Vodnára. V astronomických termínoch začína v súhvezdí Strelca a končí v znamení Kozorožca.\nJanuár je pomenovaný podľa Jana, rímskeho boha dverí a brán, začiatku a konca, preto býval zobrazovaný s dvomi tvárami – jednou hľadel do minulosti, druhou do budúcnosti. Pôvodný rímsky kalendár sa skladal z desiatich mesiacov. Rimania pôvodne považovali zimu za nemesačné obdobie. Okolo roku 700 pred Kr. Romulov nástupca kráľ Numa Pompilius pridal mesiace január a február, čím zosúladil kalendár so štandardným lunárnym rokom. Rímska poverčivosť ohľadom párnych čísel vyústila do stanovenia dĺžky roka 355 dní. Hoci marec bol pôvodne prvým mesiacom, pre túto pozíciu určili január, pretože vtedy boli zvyčajne volení konzuli.\nPrvý deň roka sa nazýva Nový rok.\nExistujú tiež v nárečiách názvy ľaden a veľký sečeň alebo sečeň."
+    },
+    {
+        "id": "02xx5",
+        "description": "Február je podľa gregoriánskeho kalendára druhým mesiacom v roku. Má 28 dní, v priestupnom roku 29 dní. Trikrát v histórii mal február 30 dní.\nV rímskom kalendári bol február zaradený až neskôr spolu s januárom do pôvodne desaťmesačného rímskeho kalendára. V tento mesiac sa konali rôzne očistné slávnosti od rôznych chorôb a nešťastí, preto mu pridelili najmenší počet dní. Bol zaradený pred marec, ktorý bol pôvodne prvým rímskym mesiacom. Preto má tento mesiac premenlivý počet dní a práve k nemu sa pridával v prestupnom roku jeden deň. Pri prechode z juliánskeho na gregoriánsky kalendár sa tento zavedený postup nemenil. Variant pôvodne rímskeho názvu Februarius obsahuje väčšina európskych jazykov.\nFebruár začína vždy rovnakým dňom v týždni ako marec a november, s výnimkou prestupného roku. Vtedy začína vo rovnaký deň ako august. Február začína vždy rovnakým dňom v týždni ako minuloročný jún.\nPri výpočte úrokov sa podľa niektorých metód február berie ako ostatné mesiace, tzn. že má 30 dní.\nExistujú tiež v nárečiach názvy malý sečeň, luteň a snežeň."
+    },
+    {
+        "id": "04wzr",
+        "description": "Marec je podľa gregoriánskeho kalendára tretí mesiac v roku. Má 31 dní. V období okolo 21. marca nastáva jarná rovnodennosť. Slnko pri svojom zdanlivom ročnom pohybe pretína svetový rovník – prechádza z južnej pologule na severnú.\nV rímskom kalendári bol marec zasvätený bohovi Martovi, pretože v tento mesiac sa obyčajne začínali vojenské výpravy. Bol to prvý mesiac v roku, preto niektoré mesiace na konci roka mali v názve číslovku, pretože sa počítali práve od marca. V marci nastupovali rímski úradníci do svojich úradov, až od polovice 2. storočia pred Kr. sa začiatok roka a nástup úradníkov presunul na január.\nMarec začína vždy rovnakým dňom v týždni ako november a v nepriestupnom roku ako február."
+    },
+    {
+        "id": "0lkm",
+        "description": "Apríl je štvrtý mesiac v roku Gregoriánskeho kalendára, má 30 dní.\nPomenovanie apríl pochádza pravdepodobne z lat. Aprilis."
+    },
+    {
+        "id": "04w_7",
+        "description": "Máj je piaty mesiac gregoriánskeho kalendára v roku. Má 31 dní.\nV starom rímskom kalendári bol tento mesiac zasvätený bohyni Maji, preto sa v tento mesiac oslavoval aj jeden z veľkých rímskych sviatkov – floralie."
+    },
+    {
+        "id": "040fb",
+        "description": "Jún je šiesty mesiac v gregoriánskom kalendári a má 30 dní.\nV pôvodnom rímskom kalendári bol zasvätený bohyni Junone, podľa inej interpretácie mladým ľuďom a mladosti vôbec."
+    },
+    {
+        "id": "040fv",
+        "description": "Júl je siedmy mesiac gregoriánskeho kalendára. Má 31 dní.\nV pôvodnom rímskom kalendári bol jeho názov Quintilis, teda „Piaty“. V roku 44 pred Kr. bol Július Caesar zavraždený a potom rímsky senát na návrh Marka Antónia zmenil na jeho počesť názov mesiaca, v ktorom sa Július Caesar narodil, Quintilis na Julius.\nExistuje tiež v nárečiach názov lipeň."
+    },
+    {
+        "id": "0ll3",
+        "description": "August je ôsmy mesiac roka gregoriánskeho kalendára.\nV pôvodnom rímskom kalendári bol názov tohto mesiaca sextilis a mal 29 dní. Pri reforme kalendára Gaiom Iuliom Caesarom roku 46 pred Kr. získal mesiac sextilis navyše jeden deň, takže mal tridsať dní.\nPri Augustovej oprave tohto kalendára roku 8 pred Kr., keď bola upravená určitá nepresnosť v počítani juliánského kalendára, navrhol senát, aby bol mesiac sextilis premenovaný na augustus na počesť reformátora kalendára. Traduje sa, že sa nepovažovalo za dostatočne úctivé, aby mesiac pomenovaný po súčasnom cisárovi mal menej dní než mesiac pomenovaný po Iuliovi Caesarovi, dostal i mesiac augustus navyše jeden deň, ktorý bol následne ubraný z mesiaca februára, ktorý od tej doby má len 28 dní. Ale sú isté indície napovedajúce, že august mal 31 dní už po juliánskej reforme.\nAby nemali tri mesiace za sebou po 31 dní, bol zároveň prevedený jeden deň zo septembra do októbra a jeden deň z novembra do decembra a tak bolo narušené Sósigenove pravidelné striedanie dlhých a krátkých mesiacov."
+    },
+    {
+        "id": "06vkl",
+        "description": "September je deviaty mesiac v roku. Má 30 dní.\nV rímskom kalendári to bol pôvodne siedmy mesiac a mal 31 dní.\nV nárečiach existujú pre september názvy ako hrudeň a jaseň.\nNa Slovensku je v septembri jeden štátny sviatok, jeden deň pracovného pokoja a dva pamätné dni:"
+    },
+    {
+        "id": "05lf_",
+        "description": "Október je desiaty mesiac roka v gregoriánskom kalendári a má 31 dní.\nV pôvodnom rímskom kalendári ôsmy mesiac v roku, kým ešte neboli zaradené do kalendára január a február. Bol to mesiac, v ktorom obyčajne končievali vojenské výpravy, preto jedným z hlavných sviatkom bolo tzv. armilustrium – čistenie zbraní a ich ukladanie do chrámu. Názov mesiaca už zostal, hoci po zaradení ďalších dvoch mesiacov na začiatok roka už nesúhlasilo s poradovým číslom.\n⁕mesiac zdravých zubov\n⁕mesiac úcty k starším\nExistuje tiež v nárečiach názov seveň."
+    },
+    {
+        "id": "05cw8",
+        "description": "November je jedenásty mesiac v gregoriánskom kalendári. Jeho pôvod pochádza zo starého rímskeho kalendára, a pôvodne to bol deviaty mesiac v desaťmesačnom kalendári.\nPôvodný rímsky kalendár mal desať mesiacov, v ktorom najmä druhá polovica mesiacov bola označená jednoduchou číslovkou: september = siedmy mesiac, október – ôsmy mesiac, november – deviaty mesiac, december – desiaty mesiac. Druhý rímsky kráľ Numa Pompilius údajne zaradil do kalendára ešte dva mesiace – január, a február. Tieto dva mesiace zaradil na začiatok kalendára, takže sa ostatné mesiace posunuli, ale ich pôvodný názov zostal.\nExistujú tiež poetický názov listopád a v nárečiach názov studeň."
+    },
+    {
+        "id": "028kb",
+        "description": "December je dvanásty mesiac v roku, má 31 dní.\nExistuje tiež v nárečiách názov prosinec."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Sever je jedna zo svetových strán."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Juh je jedna zo svetových strán."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Západ je jedna zo svetových strán.\nVýrazom Západ sa označuje aj západná polovica Starého sveta alebo priestor, ktorý obývajú tie národy, ktoré si osvojili západnú kultúru; krajiny a\/alebo kraje ležiace západným smerom; pozri západná filozofia.\nZápad a Východ tvoria vedno oba polkruhy orbis terrarum."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Východ je jedna zo svetových strán. V čase jarnej a jesennej rovnodennosti, čiže v dátumoch 21. marca a 23. septembra Slnko vychádza presne na tejto svetovej strane. V čase od 21. 3. do 23. 9. vychádza Slnko o niečo severnejšie ako je východ, v čase od 23. 9. do 21. 3. vychádza o niečo južnejšie. Na kompase býva východ označený písmenom E.\nVýrazom Východ sa označujú aj východné krajiny, ako Čína, India, Japonsko, Kórea atď. Kultúru, jazyk, dejiny týchto krajín skúma okrem iných aj orientalistika."
+    },
+    {
+        "id": "0j0k",
+        "description": "██ Severná Ázia\n██ Stredná Ázia\n██ Juhozápadná Ázia\n██ Južná Ázia\n██ Východná Ázia\n██ Juhovýchodná Ázia\nÁzia je súčasť Starého sveta, východná časť euroázijského dvojkontinentu na severnej pologuli, 43,82 mil. km², asi tretina celej súše, medzi Severným ľadovým oceánom, Tichým oceánom a Indickým oceánom.\nHranica s Európou a Áziou prebieha po východnom úpätí pohoria Ural, po rieke Emba, severným pobrežím Kaspického mora, Kumsko-Manyčskou zníženinou, Azovským morom, Kerčským prielivom, Čiernym morom, Bosporom, Marmarským morom, Dardanelami, Egejským morom, východnou Suezskou šijou, Červeným morom a prielivom Bab-al-Mandab. V Ázii, ktorá je značne členitá, sa vyvíjala spoločenská organizácia síce nerovnomerne, ale - v porovnaní s inými kontinentami sveta - omnoho rýchlejšie. Najmä v oblastiach Prednej Ázie, Strednej Ázie a na Ďalekom východe. V 3. tisícročí pred Kr. vznikali prvé civilizácie na Strednom východe, v 20. storočí pred Kr. sa vytvárala civilizácia v Číne a Indii.\nÁzia predstavuje jednu z hlavných kolísok ľudstva vôbec a mongoloidnej rasy zvlášť.\n⁕Rozloha: 44 413 000 km²\n⁕Najväčšia vzdialenosť sever-juh: 6 440 km"
+    },
+    {
+        "id": "059g4",
+        "description": "Severná Amerika je kontinent, ktorý spolu s Južnou Amerikou tvorí svetadiel Amerika. Nachádza sa na severnej a západnej pologuli. Zo severu ho obmýva Severný ľadový oceán, z východu Atlantický oceán, z juhovýchodu Karibské more, zo západu Tichý oceán. Na juhu susedí s Južnou Amerikou. Rozlohou má asi 24 490 000 km², čo je asi 4,8 % povrchu planéty. Je po Ázii a Afrike tretí najväčší kontinent a počtom obyvateľov, ktorý bol v roku 2006 asi 514 600 000, je po Ázii, Afrike a Európe štvrtý najväčší."
+    },
+    {
+        "id": "06n3y",
+        "description": "Južná Amerika je kontinent, ktorý je súčasťou svetadielu Amerika a nachádza sa v jeho južnej polovici. Južná Amerika je od Severnej Ameriky oddelená pevninskou úžinou nazývanou Stredná Amerika. K prepojeniu kontinentov prišlo z geologického hľadiska nedávno.\nPo celej dĺžke západného pobrežia Južnej Ameriky sa vypína pohorie Andy. Na východ od Ánd, smerom do vnútrozemia, sú rozľahlé oblasti tropického dažďového pralesu. Väčšina juhoamerickej pevniny východne od Ánd patrí do povodia Amazonky.\nK prvému osídleniu Južnej Ameriky došlo zrejme prechodom ľudí cez pevninský most v mieste dnešného Beringovho prielivu. Existujú však aj náznaky migrácie z južného Tichého oceánu."
+    },
+    {
+        "id": "02j9z",
+        "description": "Európa je svetadiel tvorený západnou časťou euroázijského kontinentu. Nachádza sa na severnej pologuli. Je súčasťou takzvaného Starého sveta.\nPojem Európy závisí od toho, aké významové útvary intervenujú pri jeho tvorbe, napr. historický pojem Európy mieni Európu s jej zložitým, často rozporným významom pre svet. Nie teda len renesancia, ale aj antika; nie len reformácia, ale aj židovstvo a kresťanstvo. Z etnografického hľadiska sa do Európy ráta aj Kaukaz a Zakaukazsko, z hľadiska politického a vojenského ostrovy Cyprus, Malta a iné.\nHranicu medzi Európou a Áziou predstavuje myslená čiara prechádzajúca cez hrebeň pohoria Ural, Kaspické more, Kumsko-manyčskú zníženinu, Marmarské, Egejské a Stredozemné more. Okrem východu obklopujú Európu oceány a moria. Na severe ju ohraničuje Severný ľadový oceán, na západe Atlantický oceán a na juhu Stredozemné, Marmarské a Čierne more. Európou prechádza nultý poludník."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Afrika je druhý najväčší a druhý najľudnatejší svetadiel – v oboch prípadoch po Ázii. S približne 30 570 000 km² zaberá 6,0% zemského povrchu a 20,4% zemskej súše. 1 miliarda obyvateľov v 61 štátoch a závislých územiach tvorí viac ako 12 % svetovej populácie."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antarktída alebo zastarano Antarktis je najjužnejší svetadiel nachádzajúci sa okolo južného pólu Zeme. Je takmer celá trvalo zaľadnená a zaberá plochu 13,2 mil. km². Obklopujú ju okrajové moria Atlantického oceánu, Tichého oceánu a Indického oceánu. Je to najchladnejší svetadiel, má spomedzi všetkých svetadielov najväčšiu priemernú nadmorskú výšku a najnižšiu priemernú vlhkosť vzduchu. Nemá žiadne stále obyvateľstvo. Antarktída je medzinárodnou oblasťou, iba na ostrovoch majú niektoré štáty meteorologické alebo rybárske základne."
+    },
+    {
+        "id": "09pkq0",
+        "description": "Austrália je najmenší svetadiel, medzi Tichým oceánom a Indickým oceánom. Ráta sa k nemu pevnina, obvykle s Tasmániou, prípadne aj Novú Guineu. Niekedy zahŕňa aj Oceániu, potom ale správne hovoríme o Austrálii a Oceánii.\nK osídleniu austrálskej pevniny černošským obyvateľstvom došlo asi pred 10 000 rokmi. V podstate až do 20. storočia žili jednotlivé kmene pôvodného obyvateľstva na úrovni prvobytnej spoločnosti. K styku s Európanmi došlo v 2. polovici 18. storočia. Austrália sa stala britskou kolóniou, kam boli deportovaní prevažne trestanci z materskej krajiny. Kolonizáciou boli domorodci zatlačovaní do púštnych oblastí vnútrozemia, najmä po roku 1851, keď bolo v Austrálii objavené zlato."
+    },
+    {
+        "id": "05p553",
+        "description": "Komédia je jedným z divadelným žánrov.\nNa rozdiel od tragédie, postavy komédie sú zo skromných pomerov, komédia má šťastné rozuzlenie a jej zámerom je rozosmiať divákov. Venuje sa každodennej realite ľudí."
+    },
+    {
+        "id": "03npn",
+        "description": "Horor je označenie pre prozaické literárne, filmové dielo, ktoré má za účel vyvolať v divákovi či čitateľovi najrôznejšie pocity strachu.\nTermín „horor“ je pomerne nový, ale žáner vznikol už v Anglicku v 18. storočí vo forme rozprávaní o stredovekej minulosti opradenej strašidlami, duchmi a podobne. Priamym predchodcom moderného hororu je Edgar Allan Poe."
+    },
+    {
+        "id": "0jtdp",
+        "description": "Dokumentárny film je druh filmu, ktorého hlavným cieľom je sprostredkovanie a dokumentácia skutočnosti. Snímaním reality sa vymedzuje oproti filmu hranému. Používa špecifické techniky natáčania – snímanie voľnou kamerou z ruky, skrytou kamerou, kontaktného snímania zvuku, improvizované reakcie na prebiehajúcu udalosť – ktoré niekedy preberajú aj iné filmové žánre ako fiktívny dokument\/paradokument či napodobňujú dokumentárny spôsob snímania, aby zvýšili dojem autenticity.\nDokumenty sa niekedy stávajú nástrojom propagandy či manipulácie, niekedy sú naopak svedectvom, manifestom či druhom investigatívnej práce."
+    },
+    {
+        "id": "0hcr",
+        "description": "Animácia je zdanlivé oživovanie kreslených postavičiek alebo bábok.\nPrincíp animácie je zaznamenanie sekvencie snímok, ktoré sú samy o sebe statické a zobrazujú pohyb po malých krokoch. Pri rýchlom zobrazovaní týchto snímok za sebou vďaka zotrvačnosti ľudského oka splynú do pohyblivého obrazu. Snímky sa však musia prehrávať takou rýchlosťou, ktorú ľudské oko nepostrehne."
+    },
+    {
+        "id": "06n90",
+        "description": "Vedecká fantastika alebo science fiction [vyslov: sajensfikšn alebo sájnsfikšn] alebo sci-fi [vyslov: scifi alebo sájfaj] je žáner prozaických alebo audiovizuálnych diel, v ktorých sa obraz sveta, spravidla premietnutý do budúcnosti, opiera o znalosti súčasnej vedy a techniky a o predpoklady jej vývoja."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Akčný film je filmový príbeh, v ktorom je jeho hlavnou zložkou napätie a s ním súvisiace akčné deje. Predovšetkým ide o napätie okorenené o osobné súboje, prestrelky, automobilové naháňačky, poprípade, vojnové boje, deje odohrávajúce sa vo vesmíre a pod. V akčných filmoch účinkovalo množstvo významných hercov ako Sylvester Stallone, Steven Seagal, Chuck Norris, Jean-Claude van Damme, Mel Gibson, Bruce Willis, Dolph Lundgren, Arnold Schwarzenegger a iní. Niektoré prvky bežne používané v akčnom filme sa môžu vyskytovať aj v iných filmových žánroch s dobrodružnou alebo sci-fi tématikou ako je vojnový film, historický film, western, sci-fi film, kriminálny film, akčná komédia a pod."
+    },
+    {
+        "id": "01jfsb",
+        "description": "Triler je žáner filmu, knihy alebo televízneho seriálu, ktorý má u čitateľa alebo diváka vyvolať silné napätie a emócie. Na rozdiel od hororu je zdroj napätia reálny, nie je vyvolaný fiktívnymi, nadprirodzenými javmi. Žáner zahŕňa početné, často sa prekrývajúce podžánre, napríklad diela miešajúce prvky hororu a trileru.\nTrilery sú charakterizované rýchlym sledom udalostí, častou akciou a nápaditými hrdinami, ktorí musia prekaziť plány silnejším a lepšie vybaveným podliakov. Často sa používajú nástroje ako napätie, falošné stopy a cliffhanger.\nTriler sa často koná v nezvyčajnom prostredí ako cudzie krajiny, púšte, polárne oblasti alebo šíre more. V niektorých trileroch sú hrdinovia \"tvrďáci\", ktorí si navykli na nebezpečenstvo: strážcovia zákona, špióni, vojaci, námorníci alebo piloti. Môžu to byť ale aj obyčajní občania, ktorí do nebezpečenstva spadli náhodou. Tradične boli hrdinovia muži, ale teraz začína pribúdať hrdiniek.\nV trileri musí hrdina radšej skrížiť plány nepriateľovi, ako odkrývať zločin, ktorý sa už stal. Zločiny, ktorým sa má predísť bývajú sériové alebo masové vraždy, atentáty, zvrhnutie vlády alebo terorizmus. Trilery sa môžu definovať hlavne náladou, ktorú vyvolávajú, a to vzrušenie."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Fantasy je umelecký žáner založený na fiktívnom príbehu, v ktorom môžu mať charaktery magické schopnosti, alebo nedosiahnuteľné\/prehnané vlastnosti. Fantasy mieša fantastické s reálnosťou. Téma, alebo hlavná myšlienka je často vážna, zahŕňajúca sociálne a politické problémy, alebo môže byť téma univerzálnejšia a zaoberá sa ľudskými hodnotami, emóciami.\nOd science fiction a hororu sa odlišuje na prvý pohľad dejom zasadeným do fiktívnej doby bez,high-tech,. Postavy často bývajú mnohých rás prevzatých z mytológie, iných fantasy románov, alebo autor vytvára svoje vlastné rasy napr. elf, trpaslík, škriatok, drak, urgal, hobit, gnóm a mnoho iných. Taktiež je možné pozorovať množstvo historických a mýtických motívov použitých na dokreslenie deja. Využíva sa najmä v literatúre a vo filme. Za fantasy v jej začiatkoch by sme mohli považovať aj Legendu o kráľovi Artušovi a podobné diela, no najvýznamnejšie prispel k jej rozmachu J.R.R. Tolkien Dnes sa týmto žánrom zaoberá množstvo autorov ako napríklad Patrick Rothfuss,David Gemmel G.R.R Martin Tim Powers, Terry Pratchett, Jiří Kulhánek, Garth Nix a mnoho, mnoho ďalších. Asi najznámejšie sú fantasy série Pán prsteňov, Harry Potter, Odkaz dračích jazdcov a Súmrak. Avšak iba Pán prsteňov sa môže uvádzať ako žáner definujúci. Fantasy literatúra má mnoho subžánrov a je veľmi pestrá. Väčšina fantasy býva zasadená do čias ranného stredoveku, kde autor vytvára vlastný svet, postavy, rasy, faunu a flóru, zápletku, mágiu... Vlastne je všetko založené len na autorovej fantázii. Dobrá fantasy má ale vždy vytvorené svoje pravidlá ktoré dávajú zmysel a neporušujú sa, čo pomáha udržať knihu vo vierohodnej rovine."
+    },
+    {
+        "id": "0g65_",
+        "description": "Adventure alebo po slovensky slangovo adventúra je počítačová hra založená hlavne na príbehu. Cieľ hry je veľmi rôznorodý, jej základom je obyčajne nejaká záhada, ktorá je počas hry postupne odhalená. Charakteristickým znakom adventúr je potreba získania určitých predmetov, ktoré sa majú použiť v správnom čase a na správnom mieste. Adventúry sa delia na textové a grafické."
+    },
+    {
+        "id": "06by7",
+        "description": "Rock alebo rok je druh populárnej hudby s výraznými vokálmi, ktoré sú sprevádzané gitarami, bicími a basgitarami. Niektoré rockové štýly často využívajú aj klávesové nástroje ako klavír, organ, a syntetizátor. Medzi ďalšie nástroje využívané v rockovej hudbe patria harmonika, husle, bendžo, tympany a flauta. V rocku sa využíva elektrická, ale aj akustická gitara.\nRock má korene na konci 40. a na začiatku 50. rokov v USA. Vyvinul sa z blues, R&B a country. Vplyv na vývoj rocku mali aj pop, jazz a folk. Skupina hudobníkov špecializujúcich sa na rockovú hudbu sa nazýva „rocková skupina“. Skladá sa z hlavného speváka, gitaristu, basgitaristu a bubeníka."
+    },
+    {
+        "id": "064t9",
+        "description": "Pop alebo pop music je hudobný žáner. Popové skladby sa spravidla skladajú zo slôh a refrénov s predvídateľnou štruktúrou. Texty sú nenáročné, opakujúce sa témy. Popové skladby bývajú komponované, nahrávané a vydávané obyčajne s cieľom komerčného úspechu. Osobitnou časťou ľudí býva pop niekedy odmietaný ako \"neumelecký hudobný žáner\".\nPop ako hudobný štýl vznikol na začiatku 60. rokov 20. storočia po ústupe štýlu rock and roll. Za prvých priekopníkov je možné považovať Beach Boys, The Four Seasons a Everly Brothers.\nPríbuznými odnožami sú poprock a europop."
+    },
+    {
+        "id": "03_d0",
+        "description": "Džez je hudobný žáner, ktorý vznikol začiatkom 20. storočia v USA, v meste New Orleans, ktoré sa nachádza v štáte Louisiana. Vznikol postupným zlúčením afroamerického folklóru s európskymi hudobnými tradíciami.\nŠtýl sa vyznačuje improvizáciou, zvláštnym spôsobom tvorby tónu a stretávaním niekoľkých metrorytmických pásiem. Džez znamenal zásadný prevrat v populárnej hudbe 20. storočia.\nZ tohto štýlu od jeho vzniku vzniklo mnoho iných štýlov ako napríklad Big band swing-style v rokoch 1930 – 1940, Bebop od polovice 1940 roku, rôzne druhy Latin jazz fúzií ako Afro-kubánsky jazz v rokoch 1950 a 1960, jazz-rock fúzia v rokoch 1970 a 1980, alebo acid jazz, ktorý je prímesou jazzu a vplyv na funk a hip-hopu. Ako hudba je známa po celom svete, využíva miestne národy a regionálne hudobné kultúry, pričom jeho estetika prispôsobená jeho rozmanitému prostrediu a vedie k mnohým štýlom."
+    },
+    {
+        "id": "01lyv",
+        "description": "Country alebo country and western je hudobný žáner, ktorý pôvodne vznikol na juhu Spojených štátov. Má korene v tradičnej folkovej hudbe, keltskej hudbe, blues, gospelovej hudbe, humorne ladenom hudobnom žánri nazvanom hokum a starobylej hudbe. K jeho rýchlemu rozvoju došlo v 20. rokoch 20. storočia. Pôvodne sa tento štýl nazýval hillbilly music, názov country music sa začal používať v 40. rokoch 20. storočia. V 70. rokoch 20. storočia sa ustálil názov Country and Western.\nNajznámejšími mestami, ktoré sú spojené s tradíciou country hudby sú Bakersfield v štáte California a na juhvýchode Nashville v štáte Tennessee.\nPrvou hviezdou tohto žánru bol Paul Williams, ktorý pochádzal z Vicksburgu v štáte Tennessee. Medzi interpretov tohto žánru patril napríklad spočiatku aj Elvis Presley, ktorého súčasníkom bola jedna z najväčších hviezd tohto žánru, „muž v čiernom“ Johnny Cash. Zo žien sú to napríklad Dolly Partonová či Shania Twainová.\nPre tento žáner sú typické skôr akustické hudobné nástroje ako husle, bendžo, mandolína, dobro, dulcimer, harmonika, akustická gitara, basa..."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hip-hop je hudobný žáner, ktorý sa vyvíjal ako súčasť hip-hopovej kultúry a je definovaný štyrmi kľúčovými štylistickými prvkami: rep, DJing\/scratching, samplovanie a beatbox. Hip-hop vznikol v Južnom Bronxe v New Yorku v 70-tych rokoch. Termín rap je často používaný ako synonymum k hip-hopu, ale hip-hop označuje prakticky celú subkultúru.\nRapovanie je vokálny štýl, v ktorom umelec hovorí lyricky, v rýmoch a veršoch, obyčajne v inštrumentálnych alebo syntetizovaných beatoch. Beaty sú takmer vždy v 4\/4 takte, a môžu byť vyrobené buď samplovaním a\/alebo sekvenčnými časťami iných skladieb producentom. Takisto sú tvorené syntetizátormi, bicími automatmi a živými skupinami. Rapperi môžu písať, učiť sa naspamäť alebo improvizovať svoje slová a vykonávať svoje práce a cappella alebo beatmi."
+    },
+    {
+        "id": "03lty",
+        "description": "Heavy metal alebo metal je druh rockovej hudby, ktorý sa ako vymedzený hudobný štýl objavil na prelome 60. a 70. rokov v Spojenom kráľovstve a Spojených štátoch. Korene má v hardrockových kapelách, ktoré kombinovaním blues a rocku vytvorili nový hudobný štýl, charakteristický používaním elektrických gitár a bicích, a takisto hlasitým a skresleným zvukom. Podľa servera Allmusic.com, „zo všetkých nespočetných foriem rock and rollu, heavy metal je najextrémnejší, či už z hľadiska hlasitosti, mužnosti alebo teatrálnosti.“ Existuje množstvo variácií heavy metalu, no všetky sa opierajú o hlučné, skreslené gitary, opakujúce sa riffy a jednoduché, rytmické tempo.\nPriekopníci heavy metalu ako Led Zeppelin, Black Sabbath a Deep Purple si vybudovali rozsiahlu poslucháčsku základňu, a to i napriek nepriazni kritiky, ako sa to už v histórii žánru nezriedka stáva. V polovici 70. rokov britská kapela Judas Priest pomohla vycibriť žáner pominutím väčšiny bluesových prvkov. Kapely Novej vlny britského heavy metalu, napr. Iron Maiden a Motörhead, držiac sa tejto cesty, vniesli do žánru útlocitnosť punk rocku a kládli dôraz na zvyšovanie rýchlosti. Už od svojich počiatkov mal heavy metal veľkú základňu fanúšikov, ktorí sú známi ako metalisti či metláci."
+    },
+    {
+        "id": "05r6t",
+        "description": "Punk rock je žáner rockovej hudby, ktorý sa vyvinul medzi rokmi 1974 a 1976 v Spojených štátoch amerických, Veľkej Británii a Austrálii. Korene má v garážovom rocku a iných hudobných formách dnes známych pod názvom protopunk. Punkrockové skupiny sa vyhýbali tomu, čo chápali ako výstrelky komerčného rocku 70. rokov 20. storočia. Punkové kapely vytvorili rýchlu, náročnú hudbu, obyčajne s krátkymi piesňami, jednoduchou inštrumentáciou a nezriedka s politickými textami vystupujúcimi proti establishmentu. Punk rock si osvojil prístup DIY; mnohé kapely si samy produkujú nahrávky a distribuujú ich pomocou neformálnych ciest.\nKoncom roku 1976 boli kapely ako Ramones z New Yorku, a Sex Pistols a The Clash z Londýna rešpektované ako predvoj nového hudobného hnutia. Rok nato znamenal pre punk rock rozšírenie do celého sveta a v Spojenom kráľovstve sa stal najvýznamnejším kultúrnym fenoménom. Punk rock bol väčšinou spätý z miestnymi scénami, ktoré mali sklon odmietať hlavný prúd. Objavila sa s tým spojená punková subkultúra, vyjadrujúca mladícky odpor, s čím bol spojený charakteristický štýl odievania a ozdôb a rôzne antiautoritatívne ideológie.\nZačiatkom 80. rokov začali prevládať v punk rocku rýchlejšie a agresívnejšie štýly ako hardcore a Oi!. Hudobníci, ktorí sa stotožňovali s punkom, alebo ktorých punk ovplyvnil, pomohli vytvoriť široké spektrum rozličných variácií, čím podnietili vznik post-punkového a alt-rockového hnutia. Koncom storočia začal byť v komerčnom strednom prúde obľúbený pop punk, zastupovaný kapelami ako Green Day a The Offspring, ktoré vydobyli žánru rozsiahlu obľubu"
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Klasická hudba je veľmi zaužívané označenie pre vrcholnú formu obvykle orchestrálnej hudby hranej v histórii, za ktorú je v tomto ohľade považované najmä obdobie renesancie, baroka, klasicizmu a romantizmu, podľa mnohých názorov sa sem však zaraďujú i neskoršie zložitejšie členené slohy ako impresionizmus, expresionizmus a niektoré obrodenia starých štýlov ako napr. neoklasicizmus. Pojem klasická hudba sa pôvodne začal používať v 19. storočí, na označenie \"vrcholného obdobia hudby\" od J. S. Bacha po Beethovena. Teoreticky by sem bolo možné zaradiť aj dnešnú orchestrálnu hudbu, celkove je však označenie klasická hudba kontroverzné.\nPod pojmom klasická hudba sa väčšinou myslí Európska klasická hudba, typická svojou notáciou, ktorá vznikla v 16. storočí. Typické pre klasickú hudbu sú aj rôzne druhy sláčikových nástrojov, ktoré dominujú najmä v orchestrálnej a komornej hudbe. Dôležitým nástrojom klasickej hudby je však aj piano a organ."
+    },
+    {
+        "id": "02lkt",
+        "description": "Elektronická hudba je voľný termín pre hudbu vytváranú elektronickými nástrojmi, teda zdrojmi zvuku, ktoré disponujú elektronickými súčasťami, napr. Theremin, Syntetizátor, Sampler, Sekvencer,počítač a pod.\nElektromechanické nástroje teda do tejto skupiny podľa definície IEEE nepatria."
+    },
+    {
+        "id": "0155w",
+        "description": "Blues je vokálno- inštrumentálna forma hudby ktorá vznikla v afroamerických komunitách na juhu USA zo spirituálov, náboženských songov, pokrikov čiernych otrokov pracujúcich na poliach, rýmovaných anglických a škótskych národných balád a chválospevov. Blues má korene v spevoch kmeňov západoafrických krajín. Na rozdiel od spirituálov bol v pôvodnom blues dávaný hlavný dôraz na sólový spev. Najčastejšie bol používaný model zvolanie – odpoveď. Sólový hlas bol neskôr sprevádzaný hudobným nástrojom, veľmi často gitarou a harmonikou.\nBlues je na vrchole rodokmeňa vývoja americkej a západnej populárnej hudby. Je základom pre vznik moderných žánrov ako sú ragtime, džez, bluegrass, R&B, rock, hip hop a populárne piesne.\n„I’m blue“ by mohlo v angličtine znamenať „Som modrý“, skutočný význam tohto slovného spojenia ale znamená „smútim“. Slovo „blues“ odkazuje na to, že človek je pod vplyvom démonov smútku, teda je bez nálady a v depresii. Prvá zmienka o démonoch smútku sa objavila v divadelnej fraške Georga Colmana Blue Devils z roku 1798. V afroamerickej hudbe je prvýkrát slovo blues oficiálne registrované roku 1912 v skladbe „Dallas Blues“ od Harta Wanda. V texte tejto piesne sa týmto slovom opisuje depresívny stav."
+    },
+    {
+        "id": "06cqb",
+        "description": "Reggae je hudobný žáner ktorý vznikol na Jamajke v 60. rokoch minulého storočia. Napriek tomu, že sa niekedy používa na označenie širšieho spektra jamajskej hudby, slovo reggae pôvodne označovalo jasne vyhranený hudobný štýl, ktorý vznikol ako následovnik ska a najmä rocksteady.\nZ rytmického hľadiska je reggae charakteristické prízvukom na neprízvučné doby – druhá a štvrtá doba každého taktu, pričom rytmická gitara zdôrazňuje aj tretiu dobu, prípadne drží akord z druhej doby až do štvrtej. Reggae býva pomalšie ako ska, no rýchlejšie ako rocksteady a ako oba tieto žánre používa gitarovú techniku skanking. Práve tempo a špecificky hraná tretia doba tvoria, spolu s odlišným spôsobom hrania basov, hlavný rozdiel medzi reggae a rocksteady."
+    },
+    {
+        "id": "02w4v",
+        "description": "Folk je hudobný žáner, ktorý má svoje korene v anglosasských krajinách. Samotné slovo folk pochádza z angličtiny a znamená ľud\/národ. Spojenie folk music znamená ľudovú hudbu aj tzv. folkovú hudbu. Aby sa odlíšila moderná folková hudba od etnickej, vžil sa v anglo-amerických krajinách názov súčasný či moderný folk. V slovenčine sa pre ľudovú etnickú hudbu vžil skôr termín folklór a pojmom folk sa označuje moderný folk v zmysle ďalšieho textu.\nŽáner českej a slovenskej folkovej piesne vznikol koncom šesťdesiatych rokov a vyvíjal sa v 60. - 80. rokoch 20. storočia v danej spoločensko-politickej situácii. Folkovú pieseň teda charakterizujeme ako typ modernej spevnej piesne, ktorá spontánne vznikala prevažne v amatérskych podmienkach ako protiklad proti konvenčnému a skomercionalizovanému popu. Folk kladie dôraz na myšlienku obsiahnutú v texte. Podstatou folkovej piesne a jej najcharakteristickejším rysom je schopnosť aktuálne, adresne a obsahovo konkrétne reagovať na najrôznejšie stránky spoločenského diania. Obvykle boli piesne najprv interpretované priamo ich autormi.\nSlovenskí folkoví speváci:\n⁕[Luky Lukáč]]\n⁕Peter \"Petiar\" Lachký\n⁕Miloš Janoušek\n⁕Dušan Valúch"
+    },
+    {
+        "id": "02x8m",
+        "description": "Funk je hudobný žáner vytvorený afroameričanmi. Najznámejšími predstaviteľmi sú James Brown, The Isley Brothers, George Clinton, Earth, Wind & Fire a Kool & The Gang. Najväčšej popularite sa tešil v 70. rokoch 20. storočia, dodnes sú funkové motívy a sample využívané v iných hudobných žánroch, predovšetkým v hip hope."
+    },
+    {
+        "id": "0ggx5q",
+        "description": "Dance Music alebo len Dance v súčasnosti, všeobecne označuje hudobné štýly elektronického hudobného žánru - Electronica. Hrávajú sa v tanečných kluboch, vo vysielaní FM\/Web rádií alebo na rôznych akciách s elektronickou hudbou - často označované ako Dance Event's, ktoré sú zamerané na určitý alebo viaceré podobné štýly elektronickej hudby.\nMedzi, v súčasnosti najznámejšie, podujatia patrí napr.: Sensation White alebo Qlimax.\nPod pojem dance music tak spadajú hudobné štýly ako napr. Techno, House, Trance, hardcore techno a mnoho ďalších. Na Slovensku sa najčastejšie za Dance Music považujú komerčné štýly modernej hudby, ako je napr. Pop Rap alebo Rhythm & Blues, ktoré však už nepatria pod žáner elektronickej hudby.\nDance music je obyčajne tvorená pomocou počítačov a syntezátorov a zriedkavo je zložená z viac ako 3 fyzických nástrojov. Nástroje sú obyčajne nahradené digitálnymi alebo elektronickými zvukmi v 4\/4 takte väčšinou od 120 do 200 BPM pri štýloch ako House, Trance alebo najtvrdšom Gabber.\nExistujú aj ďalšie Elektronické hudobné štýly ktorých BPM sa rovná niekoľko násobku bežnej dance music a všeobecne sa už za tanečnú hudbu nepovažujú, ako napr. 300 – 600 BPM Speedcore, približne 600 BPM Splittercore, alebo 1000+ BPM Extratone. Posledné dva štýly však neboli nikdy oficiálne uznané."
+    },
+    {
+        "id": "0199g",
+        "description": "Bicykel je pozemný pedálmi poháňaný dopravný prostriedok s dvomi za sebou umiestnenými kolesami pripevnenými na kostru. Prvýkrát bol predstavený v 19. storočí v Európe a rýchlo sa vyvinul do dnešnej podoby. Bicykel je v mnohých regiónoch jeden zo základných dopravných prostriedkov. Inde je zas jazda na bicykli obľúbenou formou oddychu."
+    },
+    {
+        "id": "01bjv",
+        "description": "Autobus je motorový dvojstopý dopravný prostriedok určený na prevoz minimálne deviatich osôb, vrátane miesta pre šoféra. Najznámejším dodávateľom autobusov na Slovensko je český podnik Karosa Vysoké Mýto, najčastejším autobusom na našich cestách je Karosa B732 z rokov 1981 - 1993. Vo väčších mestách bol pomerne častý i maďarský Ikarus, najmä typ Ikarus 280."
+    },
+    {
+        "id": "0k4j",
+        "description": "██ 601+\n██ 501-600\n██ 301-500\n██ 151-300\n██ 101-150\n██ 61-100\n██ 41-60\n██ 21-40\n██ 11-20\n██ 0-10\nAutomobil je motorový dopravný prostriedok používaný na prepravu osôb alebo tovaru, pohybujúci sa na niekoľkých kolesách."
+    },
+    {
+        "id": "09ct_",
+        "description": "Vrtuľník alebo helikoptéra je motorové rotorové lietadlo s otáčavými nosnými plochami, schopné zvisle vzlietnuť a pristáť, vznášať sa na mieste a lietať dozadu i nabok.\nVeľkou výhodou vrtuľníkov je schopnosť štartovať a pristávať kolmo, čiže nepotrebujú vzletové a pristávacie dráhy. Preto sa používajú napríklad pri záchrane ľudí v horách, pristávajú na vrtných plošinách ropných polí, na mori alebo i na strechách mrakodrapov. Vrtuľníky majú zvyčajne jeden alebo dva rotory."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motocykel je dvojkolesový bezkoľajový dopravný prostriedok poháňaný motorom na dopravu jednej alebo dvoch za sebou sediacich osôb s motorom s obsahom viac ako 50 cm³. Kolesá sú umiestnené za sebou a pohonná jednotka najčastejšie medzi nimi. Vodič sedí na motocykli obkročmo a smer určuje riadidlami.\nMotocykel je na svete veľmi obľúbený dopravný prostriedok, ktorému sa teší široké vekové zastúpenie. Ľudia, riadiaci jednostopové vozidlo vidia zmysel ani nie v tom, že to je dopravný prostriedok, ale ako forma zábavy a relaxu. Motorkári vidia jazdu na motorke ako vyjadrenie slobody, pocit voľnosti, radosti a samotnú jazdu označujú ako ciel. V mašinách sa neraz vidia, majú k ním silný emocionálny vzťah. Existuje niekoľko typov motocyklistov a každý si môže vybrať stroj podľa jemu obľúbenému životnému štýlu, alebo zábavy, ktorej inklinuje. Preto výrobcovia robia niekoľko rôznych typov motocyklov. Jazdec si môže vybrať motocykel podľa toho či je vyznávačom dlhých nekonečných ciest, alebo jazde na krásnej chrómovej mašine s výrazným zvukom, jazde v náročnom terénne, skokov cez vysoké prekážky, jazde v preplnenom meste, alebo sa ide rád vyšantiť na uzatvorený okruh. Každý štýl ponúka svoje čaro, pre nezabudnuteľný zážitok na nekrytom a jedinečnom stroji, ako je motocykel."
+    },
+    {
+        "id": "06q74",
+        "description": "Loď je duté plavidlo s riaditeľným pohybom. Podľa niektorých definícií je to navyše väčšie plavidlo a pohyb musí byť bezpečne riaditeľný. Pojem zahŕňa aj ponorku."
+    },
+    {
+        "id": "01pz3b",
+        "description": "Newyorské metro, v origináli nazývané New York City Subway, je veľký prepravný systém metra nachádzajúci sa v New Yorku. Je to jeden z najväčších systémov verejnej dopravy v USA a rovnako aj na svete. Má 27 liniek, od 416 do 475 staníc a dosahuje dĺžku 1056 km, pričom celková dĺžka tratí je 1 355 km a používa sa vyše 6 000 vozňov.\nDenne metro prepraví vyše 6 miliónov cestujúcich. Ako jeden z mála systémov slúži newyorská podzemná dráha cestujúcim bez prestávky, 24 hodín denne, 7 dní v týždni, 365 dní v roku."
+    },
+    {
+        "id": "0pg52",
+        "description": "Taxislužba je služba spočívajúca v preprave taxíkom. Taxík je operatívne alebo kvázioperatívne prenajímaný automobil, často s taxametrom, ktorý zákazníka\/predmet odvezie po trase určovanej zákazníkom.\nPrepravu je možné začať kdekoľvek, prípadne na označených alebo na neoznačených stanovištiach, prípadne je možné využiť možnosť dohodnúť si telefonicky individuálne miesto nástupu. Taxislužba patrí medzi najrýchlejšie spôsoby osobnej dopravy. Jej nevýhodou je však spravidla vyššia cena oproti iným druhom dopravy."
+    },
+    {
+        "id": "07jdr",
+        "description": "Vlak je skupina železničných vozidiel, doprevádzaná aspoň jedným hnacím vozidlom, alebo samostatné hnacie vozidlo, alebo traťový stroj, označený predpísanými návesťami pre vlak, obsadený vlakovým personálom a idúci podľa časového poriadku."
+    },
+    {
+        "id": "07r04",
+        "description": "Kamión je jazdná súprava nákladného automobilu s návesom alebo prívesom s celkovou hmotnosťou nad 12 ton."
+    },
+    {
+        "id": "07kfm",
+        "description": "Električka je koľajový dopravný prostriedok prevádzkovaný v mestskej a prímestskej hromadnej doprave. Električky disponujú oveľa väčšou prepravnou kapacitou ako autobusy či trolejbusy. Pohyb po koľajniciach umožňuje rýchlu a plynulú prepravu cestujúcich alebo nákladu v mestách a ich okolí."
+    },
+    {
+        "id": "0f6pl",
+        "description": "Trolejbus je hromadný dopravný prostriedok určený na prepravu osôb. Je poháňaný trakčným elektromotorom. Elektrickú energiu získava pomocou elektrickej trakcie - vodičov upevnených pomocou prevesov nad vozovkou. Elektrická trakcia je napájaná jednosmerným elektrickým napätím 600V, 750V alebo 1000V, v závislosti od miesta, kde sa trolejbusová prevádzka nachádza a od typu vozidiel používaných v danej prevádzke. Na prívod prúdu sa používajú tzv. zberače. Sú ukončené uhlíkovými kontaktnými prvkami, tzv. „botkami“."
+    },
+    {
+        "id": "09g5h",
+        "description": "Kozmická loď je dopravný prostriedok určený na cestovanie vo vesmíre, t. j. mimo zemskej atmosféry alebo v jej horných vrstvách. Kozmické lode zahŕňajú pilotované lode, ako aj automatické nepilotované zariadenia. Častejšie sa však o kozmickej lodi hovorí v súvislosti s telesami s ľudskou posádkou. Termín kozmická loď sa niekedy používa aj na označenie umelej družice, ktorá spĺňa podobné kritériá.\nSúčasné kozmické lode sú schopné štartovať len pomocou nosnej rakety. S výnimkou lunárneho modulu vesmírnej lode Apollo sú tieto lode schopné odštartovať len z odpaľovacej rampy. Všetky súčasné kozmické lode využívajú na pohon raketový pohon, pracuje sa však aj na vývoji lodí na solárny alebo iónový pohon."
+    },
+    {
+        "id": "013xl3",
+        "description": "Vznášadlo je dopravný prostriedok pohybujúci sa na pretlakovanej vrstve vzduchu tesne nad povrchom.\nVzduchový pretlak je vytváraný prúdom vzduchu vháňaným pod vznášadlo ventilátormi cez otvory na dne trupu. Väčšina vznášadiel má po celom obvode pružnú manžetu, ktorá sa naplní vzduchom, bráni rýchlemu unikaniu vzduchu vháňaného pod vznášadlo a zabezpečuje jeho rovnomerné rozvádzanie pod dnom stroja. Vďaka tomu vzniká pod vznášadlom trvalý pretlak, ktorý udržiava celý stroj nad povrchom. Pohyb vznášadla zabezpečujú vrtule, ktoré sú inštalované v zadnej časti stroja. Stroj sa teda nedotýka povrchu. Riadenie smeru zatáčanie je zabezpečené zmenou smeru ťahu pohonných vrtúľ.\nVäčšiemu rozšíreniu vznášadiel v minulosti bránili ich vysoké prevádzkové náklady a vysoká spotreba paliva a tým obmedzený dosah. Vývoj moderných pohonných jednotiek s vysokým výkonom pri nižšej spotrebe paliva, a rozsiahle použitie nových ľahkých materiálov, hlavne kompozitov, pri výrobe vznášadiel umožnilo ich nový rozmach.\nHlavnou výhodou vznášadla je schopnosť presunu po akomkoľvek povrchu, vrátane vody, ľadu, trávy, miernych terénnych vyvýšenín a pod. bez akejkoľvek zmeny konštrukcie. Vznášadlo teda dokáže plynule prechádzať rôznorodými povrchmi."
+    },
+    {
+        "id": "074d1",
+        "description": "Ponorka je plavidlo schopné plavby pod vodnou hladinou, často v pomerne veľkých hĺbkach, kde je vylúčený pohyb potápačov. Vojenské ponorky sa po prvý krát začali širšie používať počas prvej svetovej vojny. Civilné ponorky sa používajú hlavne na vedecké výskumy v hĺbkach príliš veľkých pre potápačov.\nVojenská ponorka má zväčša cigarovitý tvar, pri plavbe na hladine má vynorenú iba úzku palubu a vežu. Ponorenie a vynorenie umožňujú zabudované nádrže, ktoré sa pri ponáraní napĺňajú vodou, dokým sa hmotnosť ponorky nedostane do rovnovážneho vzťahu s hmotnosťou vody ponorkou vytláčanej, následne sa hĺbka ponoru určuje nastavením hĺbkových kormidiel. Nad hladinu sa môže opäť vynoriť po odčerpaní vody z nádrží. V špeciálnych prípadoch, keď potrebuje ponorka klesnúť bez dopredného pohybu je do nádrží načerpané také množstvo vody, aby celková hmotnoť ponorky presahovala hmotnosť vody ponorkou vytláčanej, pre zastavenie klesania je potrebné vytlačiť časť vody, aby sa dosiahol rovnovážny stav a rovnako pre stúpanie sa vytlačí dostatok vody, aby ponorka bola ľahšia ako voda ňou vytláčaná. Oba pripady, ako aj prečerpávanie vody a hĺbkové kormidlá je možné kombinovať. Ponorka môže zostúpiť do hĺbky niekoľko sto až tisíc metrov. Pri plavbe na hladine sa napriek tomu, že plocha na ktorú pôsobí odpor vody je menšia pohybuje pomalšie, je to spôsobene menším odporom plne ponorenej ponorky ktorú lepšie obteká kvapalina. V miernej hĺbke sa naviguje pomocou periskopu a rádiokompasu. Vo väčších hĺbkach sa používajú gyroskopy a sonary. Pohyb je ovládaný výškovým a smerovým kormidlom. Vojenské ponorky sú vyzbrojené širokým arzenálom zbraní, hlavne torpédami a raketami. Veľký pokrok pre ponorky znamenalo zavedenie atómového pohonu, pretože podstatne zväčšuje ich akčný rádius a zbavuje ich nutnosti pravidelného a častého vynorovania. Atómový pohon je však drahý a náročný na obsluhu a používa sa preto len na vojenských ponorkách."
+    },
+    {
+        "id": "057gn",
+        "description": "Viacúčelové vozidlo, v Severnej Amerike označované ako minivan je vozidlo podobné dodávke, je však určené na prevážanie osôb. Viacúčelové vozidlá sú spravidla vyššie ako sedan, hatchback alebo kombi, sú navrhnuté tak, aby cestujúcim poskytovali maximálny priestor a pohodlie.\nPríkladom MPV môže byť napríklad VW Sharan,Renault Scenic, Renault Grandmodus, Citroën Xsara Picasso, Opel Meriva, Opel Zafira, Opel Sintra, Hyundai Matrix, Fiat Multipla, Fiat Idea, Ford C-MAX, Ford S-MAX a Ford Galaxy atď. Je to druh vozidla,"
+    },
+    {
+        "id": "0342h",
+        "description": "Gitara je brnkací strunový hudobný nástroj, ktorý má vypasované telo s bokmi prehnutými dovnútra v páse gitary. Pretože ako primárny žiarič je struna, gitaru zaraďujeme podľa Hornbostel–Sachsovej systematiky do skupiny „Chordeophony“. Gitara ako brnkací strunový nástroj s bokmi prehnutými dovnútra, vznikol podľa znalcov dejín gitary až niekedy v 15. storočí. Samotná gitara teda prešla svojským vývojom. Pôvod gitary je zaznamenaný v Prednej Ázii, kde prvý hudobný nástroj podobný gitare tzv. kinor bol pozorovaný u Sumerov. Gitara sa dá zhotoviť z hocičoho, otázka je, akú kvalitu dosiahneme. Gitary sa robia prevažne na báze dreva, ako to bolo odjakživa. Existujú však gitary na báze syntetických materiálov alebo sa využíva kov – oceľ na stavbu tela gitary. Bola skonštruovaná dokonca aj gitara s mramorovým telom.\nRozoznávame viacero druhov a typov gitár, najčastejšie sa stretávame s týmto rozdelením:\n⁕Akustická gitara - je tvorená rezonančnou skrinkou v podobe korpusu, ktorý má za úlohu zvuk zosilniť a vyžiariť do prostredia s adekvátnym zafarbením tónu. Podľa názoru niektorých historikov vznikla gitara v stredovekom Španielsku prestavbou starej fiduly na brnkací nástroj. Akustické gitary sa delia na klasické, inak prezývané aj \"španielky\" a gitary s kovovými strunami."
+    },
+    {
+        "id": "0319l",
+        "description": "Lesný roh je plechový hudobný nástroj. Je predchodcom moderných trubiek. Zvuk sa tvorí v nátrubku a záklopkovom mechanizme. Vyvinul sa z európskych rohov v 17. storočí. Lesný roh sa často používa na vykreslenie zvukov prírody alebo poľovačky v lese.\nV symfonickom orchestri je zvyčajne ladený v F."
+    },
+    {
+        "id": "013y1f",
+        "description": "Organ je klávesový hudobný nástroj. Pokladá sa za kráľa hudobných nástrojov. Hráč na organe sa nazýva organista, organistka.Prvé zmienky o organe pochádzajú z antických čias. Organ je zo stavebnej stránky najväčší a najzložitejší hudobný nástroj. Skladá sa z píšťal, registrov, vzdušníc, mechov, čerpadla vzduchu, organovej skrine, prospektu, hracieho stola a traktúry.\nPíšťaly sú hlavným zdrojom zvuku a podľa materiálu ich delíme na kovové a drevené. Kovové majú kruhový prierez a vyrábajú sa z cínu, zinku, medi alebo z tzv. organového kovu, ktorý sa vytvára zmiešaním cínu a olova. Drevené píšťaly majú štvorboký tzv. prizmatický tvar a vyrábajú sa z rôznych druhov rezonančného dreva. Podľa spôsobu tvorenia tónu delíme píšťaly na perné a jazýčkové.\nRegister je rad znejúcich píšťal, ktorých zvuk, vytvára vzostupnú tónovú radu s rovnakým zvukovým charakterom. Rozmery píšťal registra sú určené menzúrou. Konštrukcia a materiál píšťal sú obvykle v celom rozsahu píšťalového radu rovnaké. V rámci píšťalovej rady sa môžu využiť aj rôzne materiály a konštrukcie píšťal pri dodržaní náväznosti zvukovej charkteristiky. Tónový rozsah registra určuje počet tónov klávesnice a vybudované spojky pohybuje sa od 4 1\/2 do 6 oktáv, 54 až 72 tónov v manuáli a 27 až 32 tónov v pedáli."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Flauta je drevený dychový nástroj. Podľa Sachsovej-Hornbostelovej klasifikácie hudobných nástrojov je flauta uzavretý aerofón. Hudobník hrajúci na flaute je flautista.\nPrvé flauty boli pravdepodobne vyrobené zo zvieracích kostí. V nemeckom blízko mesta Ulm sa v jaskyni našla flauta z kosti supa stará 35 000 rokov."
+    },
+    {
+        "id": "05r5c",
+        "description": "Klavír alebo hovorovo piano je rozmerný strunový hudobný nástroj. Jeho zvuk vzniká chvením strún, rozkmitaných úderom drevených kladiviek. Klavír môže byť používaný ako sólový i sprievodný nástroj, či ako súčasť orchestra. Slovo klavír znamená pôvodne rad klávesov čiže klaviatúru. V tomto význame sa používa napríklad ako synonymum pre označenie manuálu u organov a iné. V širšom slova zmysle sa tento termín začal v minulosti používať pre všetky klávesové nástroje, akými sú napr. čembalo, spinet, apod., pretože hudobný skladateľ dedikoval svoju skladbu pre \"klavír\", bez toho, aby bližšie špecifikoval, o aký nástroj ide. V súčasnej dobe sa týmto termínom myslí väčšinou fortepiano. Slová piano a pianoforte pochádzajú z talianskych slov piano a forte a vyjadrovala prednosť tohto nástroja meniť intenzitu produkovaného zvuku v závislosti na sile úderu prsta na kláves.\nHráč na klavír sa nazýva klavirista, klaviristka.\nPo baroku nasledovali ďalšie hudobné obdobia a klavíru sa začala venovať čoraz väčšia pozornosť.Jeho rýchly rozvoj nastal v 30. rokoch 19. storočia, keď získal podobu, akú si zachoval dodnes."
+    },
+    {
+        "id": "0mkg",
+        "description": "Akordeón je hudobný nástroj, pri ktorom sú zdrojom zvuku kovové jazýčky, rozochvievané prúdom vzduchu. Ten je získavaný pohybom mechu. Pre ovládanie nástroja slúžia dve skupiny kláves. Akordeón patrí medzi aerofóny."
+    },
+    {
+        "id": "04gc2",
+        "description": "Advokát je právnicky vzdelaná osoba, ktorá sa zaoberá poskytovaním právnych služieb iným fyzickým, alebo právnickým osobám, a to spravidla za úplatu."
+    },
+    {
+        "id": "05t4q",
+        "description": "Lekár je zdravotnícky pracovník, ktorý samostatne vykonáva odborné pracovné činnosti preventívnej a liečebnej zdravotnej starostlivosti. Zvyčajne ide o absolventa lekárskej fakulty, ktorý získal vysokoškolské vzdelanie 2. stupňa v doktorskom študijnom programe. Má titul doktor medicíny – MUDr. Doktorský študijný program trvá na Slovensku v dennej forme štúdia šesť rokov, zahŕňa najmenej 5 500 hodín teoretickej výučby. Absolvovaním špecializačného štúdia má lekár právo používať profesionálne označenie lekára špecialistu spojené s názvom príslušného špecializačného odboru. Súčasťou udelenia doktorského titulu lekára je spravidla zloženie prísahy dodržiavania lekárskej etiky vrátane výhradnej oddanosti životu pri výkone povolania – tzv. Hippokratovej prísahy."
+    },
+    {
+        "id": "0mn6",
+        "description": "Architekt je povolanie, ktoré poskytuje všetky architektonické činností ako je návrh, design a konštrukcia budovy. Práca architekta zvyčajne spája možnosti využitia a cenu stavby pre investora, ako aj funkčnosť a estetické hodnoty pre užívateľa. Architektom je vysokoškolský vzdelaný človek s licenciou.\nProces tvorby architekta neprešiel modernizáciou do neskorého 19. storočia. Pred tým architekti mali ateliéry a rôznorodý spôsob vzdelávania od konvenčnej formy výučby ako na École des Beaux-Arts vo Francúzsku, ktorá bola založená v polovici 17. storočia po nekonvenčnú, kedy študenti pracovali v architektonických ateliéroch pokým nedosiahli profesnú nezávislosť. Vytvorila sa aj skupina architektov s vlastnými finančnými zdrojmi najmä vo Veľkej Británii v 18. storočí ako napríklad Lord Burlington.\nNiektorí architekti prešli k tomuto povolaniu z iných umeleckých disciplín ako napríklad sochár Gian Lorenzo Bernini, scénograf Filippo Juvarra a John Vanbrugh, sochár Michelangelo Buonarroti.\nV roku 1440 Florentský architekt Leone Battista Alberti napísal knihu De Re Aedificatoria, vydaná v roku 1485, rok pred vydaním prvého zväzku Vitrúvia. Alberti ako prvý definoval postavenie architekta, ktorý by sa mal v prvom rade zaoberať konštrukčným systémom so zreteľom na vlastnosťami prostredia, materiálov a stavebných princípov, v druhom rade s artikuláciou diela vzhľadom na využitie a potreby jeho užívateľa a v treťom rade by sa mal architekt zaoberať proporciou a výzdobou budovy. Základom povolania architekta je neustále vytváranie životných priestor pre jednotlivé okruhy ľudskej činnosti, jeho schopnosť a vedomosti potrebné k vytvoreniu návrhu a dohliadnutie na ich využitie vo všetkých stupňoch návrhu a realizácie, architekt musí prejsť neustálym procesom vzdelávania podporeným skúsenosťami z praxe."
+    },
+    {
+        "id": "09jwl",
+        "description": "Hudobník je človek venujúci svoj život hudbe, či už ako spevák, inštrumentalista, skladateľ alebo textár. Ďalšími profesiami patriacimi k tomuto \"odvetviu\" sú napríklad choreografi, dirigenti alebo tanečníci. Aj keď väčšinou sa tak hovorí profesionálnym hudobníkom, môžeme tak nazvať aj človeka, ktorý sa hudbe venuje len vo svojom voľnom čase. Spolu s touto profesiou prichádza aj sláva, no tá väčšinou nie je meradlom kvality hudobníka."
+    },
+    {
+        "id": "01d30f",
+        "description": "Učiteľ je osoba zaoberajúca sa vyučovaním a vychovávaním žiakov.\nPredpokladom pre povolanie učiteľa sú jeho vlastné vedomosti a schopnosť predávať tieto ďalej žiakom. Niektoré učiteľské smery vyžadujú akreditáciu, podloženú skúškou a potvrdením o dostatočnej vedomostnej a schopnostnej úrovni učiteľa pre daný odbor.\nV súčasnosti sa v povolaní učiteľa jemne rozlišuje medzi:\n⁕trénerom\n⁕lektorom\n⁕facilitátorom\n⁕učiteľom na strednej škole\n⁕doktorom\n⁕docentom\n⁕profesorom"
+    },
+    {
+        "id": "0d1pc",
+        "description": "Modelka je žena, ktorá propaguje módu, robí reklamu rôznym výrobkom a svojou prítomnosťou pomáha propagovať významné spoločenské a podnikové akcie. Niektoré z nich sa stanú široko známymi. Mužský náprotivok sa nazýva model.\nHoci termín modelka a supermodelka získal výraznú popularitu v 80. rokoch, niekoľko prvých modeliek získalo slávu už počas 50. rokov 20. storočia.\nMedzi prvými modelkami, ktorých meno a tvár bolo dôverne známe všetkým ľuďom mimo módneho priemyslu, patrila Suzy Parker a Cheryl Tiegs. Ostatní môžu namietať, že skutočné právo nosiť titul prvej supermodelky má až Janice Dickinson od tej doby, čo ona sama začala rozširovať tento termín v roku 1979. Ako však ukazuje článok vo vplyvnom časopise Glamour z roku 1968, ona sama túto frázu nevytvorila, ale získala širokú povesť tým, že sama seba prehlasovala za „Prvú supermodelku na svete“. Rovnako však modelky - Jean Shrimpton, Colleen Corby a Twiggy môžu tiež uplatňovať svoje právo na titul Supermodelka.\nNajlepším obdobím supermodeliek boli celé 80. a 90. roky minulého storočia, ktorému kraľovala slávna trojica supermodeliek - Linda Evangelista, Naomi Campbell a Christy Turlington. V tejto dobe aj supermodelky ako Paulina Porizkova pripravili cestu na príliv špičkových modeliek z východnej a strednej Európy. V rovnakej dobe tiež výrazne stúpala sláva už dobre známych supermodeliek ako Cindy Crawford."
+    },
+    {
+        "id": "01hbsc",
+        "description": "Veterinár alebo zverolekár je lekár pre zvieratá a praktik veterinárnej medicíny."
+    },
+    {
+        "id": "01c72t",
+        "description": "Skladateľ alebo komponista alebo hudobný skladateľ je umelec, ktorý tvorí nové hudobné skladby a spravidla ich zaznamenáva vo forme hudobných notácii. Podľa notácii jeho hudbu potom interpretujú výkonní umelci.\nZnalosť hry na nejaký hudobný nástroj síce nie je čisto teoreticky k tejto činnosti vôbec nutná, ale v praxi takmer každý hudobný skladateľ dobre ovládal hru aspoň na jeden hudobný nástroj, komponovanie pre väčší orchester vyžaduje tiež dobrú znalosť príslušného hudobného telesa najmä z hľadiska technických nárokov na jednotlivých hráčov."
+    },
+    {
+        "id": "01t2ln",
+        "description": "Policajt je príslušník polície. Policajti sú zväčša označovaní hodnosťami a funkciami. Staršie pomenovania sú žandár alebo milicionár. Súčasné pomenovanie policajt, ako i polícia je odvodené od latinizovanej podoby gréckeho slova politia, čo označovalo správcu mesta alebo bezpečnostnú hliadku. Prvotnou úlohou policajtov bolo stráženie hradieb, veží a brán mesta, zabezpečovanie verejného poriadku v mestách."
+    },
+    {
+        "id": "05xls",
+        "description": "Programátor je ten, kto postupom zvaným programovanie implementuje výsledky návrhu projektu.\nZa historicky prvého programátora sa považuje uznávaná Ada Lovelace. Vo svojich Poznámkach k Analytickému stroju vyjadrila prvý algoritmus určený pre počítač - Analytický stroj Charlesa Babbaga."
+    },
+    {
+        "id": "02h661t",
+        "description": "Zubný lekár, stomatológ alebo zubár je lekár, ktorý sa zaoberá zubným lekárstvom. Zubný lekár má titul MUDr., v budúcnosti MDDr."
+    },
+    {
+        "id": "05wgy",
+        "description": "Pediatria alebo detské lekárstvo je vedný odbor zaoberajúci sa prevenciou a liečbou chorobných stavov detského veku. Zahrňuje aj celú zdravotnícku problematiku zdravého a chorého a zdravotne oslabeného alebo inak postihnutého dieťaťa v celom rozsahu."
+    },
+    {
+        "id": "099md",
+        "description": "Vojak je všeobecne príslušník armády, ktorý zväčša podstúpil vojenský výcvik, dostal vojenský výstroj a výzbroj a je zaradený podľa hodnosti k mužstvu alebo dôstojníckemu zboru. Pojmom vojak sa však môže označovať aj najnižšia vojenská hodnosť. Príslušník vojska v hodnosti vojaka je súčasťou mužstva, čo je označenie pre najnižšie vojenské hodnosti. Vo väčšine armád môžu byť vojaci vďaka svojim odborným schopnostiam či zásluhám povyšovaní do vyšších hodností a neskôr dosiahnuť poddôstojnícku aj dôstojnícku hodnosť.\nVojaci, ktorí slúžia vo svojej funkcii dlhšiu dobu, sú často nazývaní veteráni, tento termín sa rovnako používa pre označenie skúsených vojakov."
+    },
+    {
+        "id": "01d380",
+        "description": "Vŕtačka je ručné náradie, ktoré sa používa na vŕtanie dier do dreva, kovu či iných materiálov, pomocou vloženého otáčajúceho sa nástroja - vrtáka. Vŕtačka pracuje na princípe súčasného rotačného a prítlačného pohybu. Na upevnenie vrtáka k výstupnému rotoru vŕtačky slúži tzv. skľučovadlo. Ručná vŕtačka je obrábací stroj pre operácie vŕtanie konštruovaný do prenosného kompaktného tvaru, ovládaný rukou."
+    },
+    {
+        "id": "03l9g",
+        "description": "Kladivo je nástroj, ktorým sa ručne vyvodzujú nárazy alebo priamo na opracúvaný predmet, alebo nepriamo pôsobením na iný pracovný nástroj.\nVyrába sa z nástrojovej ocele, dreva, gumy alebo iného materiálu."
+    },
+    {
+        "id": "02bbbj",
+        "description": "Hoblík je truhlársky nástroj na opracovanie dreva. Slúži k zarovnaniu a vyhladeniu povrchu dreva. Táto činnosť sa nazýva hobľovanie.\n⁕Klasický hoblík sa obvykle skladá z dreveného tela v tvare hranola, v ktorom je pod uhlom zapustený nôž. Brit noža vyčnieva niekoľko desatín milimetra pod spodnú rovinu hoblíka. Kĺzavým pohybom hoblíka po povrchu dreva odkrajuje nôž tenkú vrstvu dreva - hoblinu. Na prednej časti hoblíkov býva rukoväť pre ľahšie uchopenie. Moderné ručné hoblíky sú vyrábané z kovu. Oproti dreveným hoblíkom majú vyššiu presnosť a životnosť. Funkcia je zhodná s hoblíkom dreveným.\n⁕Elektrický hoblík je ručný nástroj podobný hobľovačke. Má viacero britov umiestnených na valcovom rotore. Rotáciou britov hoblík obrába povrch dreva."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Nožnice sú nástroj alebo aj stroj určený na oddeľovanie materiálov, ako je papier, látka, plastická hmota, vlasy, nechty, ale aj plechov či mäsa a pod.\nZ fyzikálneho hľadiska vlastne pracujú na princípe obojstrannej páky, rozdeľovanie materiálu sa deje strihom, činnosť sa nazýva strihanie.\nNožnice boli pravdepodobne vynájdené okolo roku 1500 pred Kr. v starovekom Egypte, ale prvé dá sa povedať moderné nožnice vyrobili okolo roku 100 Rimania. Prvé nožnice z liatej ocele vyrobil Robert Hinchliffe."
+    },
+    {
+        "id": "01j5ks",
+        "description": "Kľúč je nástroj primárne určený pre doťahovanie a povoľovanie skrutiek a matíc. Základným princípom každého kľúča je páka. Tvar kľúča účelovo závisí od tvaru hlavy skrutky.\nZákladným tvarom používaným v technickej praxi je šesťhran vnútorný a vonkajší. Menej často sa používa trojhran, štvorhran, osemhran a dvanásťhran.\nPodľa konštrukcie rozoznávame niekoľko druhov kľúčov. Základné delenie je na vonkaší a vnútorný n-hran. Niektoré kľúče sa skladajú z viacerých vymeniteľných častí - používajú základnú páku a nástrčnú hlavicu patričného rozmeru. Ku hlaviciam je často dodávané aj prídavné príslušenstvo. Najčastejšie sa používa 12 mm Gola."
+    },
+    {
+        "id": "04nmy9",
+        "description": "Šek je abstraktný cenný papier spĺňajúci isté náležitosti, ktorým osoba, ktorá ho vystavila, prikazuje inej osobe, aby zaplatila nejakú sumu v prospech ďalšej osoby.\nV Európe má šek rovnaké právne úpravy, pretože existuje Ženevská konvencia o šekoch z roku 1931."
+    },
+    {
+        "id": "03m7wd",
+        "description": "Sacherova torta alebo sacher je druh čokoládovej torty s marhuľovou marmeládou a čokoládovou polevou.\nTúto koláčovú zmes s čokoládou vytvoril v roku 1832 vtedy šestnásťročný Franz Sacher v druhom učňovskom ročníku na dvore kniežaťa Metternicha. Metternich vydal príkaz šéfkuchárovi, aby pripravil niečo špeciálne pre výnimočných hostí. Šéfkuchár bol však práve chorý, a tak sa rozkaz dostal až k Franzovi Sacherovi a ten si vymyslel túto tortu. Až jeho syn vylepšil túto znamenitú pochúťku čokoládovou polevou a marhuľovou marmeládou počas svojich učňovských rokov u cisárskeho a kráľovského dvorného cukrára Demela. Odvtedy je táto torta jedna z najznámejších kulinárskych špecialít Viedne. V roku 1876 vystúpil Eduard Sacher aj ako zakladateľ reštaurácie a Hotela Sacher.\nOznačenie Originálna Sacherova torta bolo registrované viedenským Hotelom Sacher ako firemné označenie, receptúra torty je držaná v tajnosti.\nDo roku 1965 pretrvávala dlhoročná hádka o toto meno s cisárskym a kráľovským cukrárom Demelom, pretože už od jej vynájdenia existovala jedna „Original Sacher-Torte“. Medzičasom sa Demelova torta volá Demel’s Sachertorte a zhotovuje sa stále ručne. Navonok sa odlišuje od Original Sacher-Torte tým, že sa vrstva marmelády nachádza v strede torty a nie pod čokoládovou polevou."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Vidlička resp. jedálna vidlička je súčasť jedálenskeho príboru.\nSkladá sa z rukoväte a časti, na ktorej je niekoľko rovnobežných hrotov. Používa sa aj pri varení a pri stolovaní na napichovanie a premiestňovanie potravy. Jej použitie pri jedle zabraňuje prenosu nečistôt z rúk na jedlo."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Hamburger je americký sendvič, ktorý je vyrobený z vyprážanej mletej mäsovej placky, najčastejšie z hovädzieho mäsa, ale môže byť aj kuracie, bravčové alebo z ryby, vloženej medzi dve polovice veľkej rozkrojenej žemle. Na mäso pod hornú polovicu žemle sa pridávajú rôzne prísady a ďalšie potraviny, ako je napríklad syr, kečup, horčica, majonéza, zemiakové hranolčeky rôzne šaláty, cibuľa, paradajkový pretlak či iné špeciality.\nNa Slovensku sa predáva hlavne v stánkoch rýchleho občerstvenia podobne ako kebab, richman alebo gyros a predovšetkým v reťazcoch rýchleho občerstvenia ako napríklad McDonald’s."
+    },
+    {
+        "id": "01c6xf",
+        "description": "Pitná voda je sladká voda, nevyhnutná zložka ľudskej potravy. Jej zdrojom je zrážková voda, podzemná voda a s určitým obmedzením voda riek a jazier. Voda je obsiahnutá aj v ľudskom organizme.\n⁕Na účely pitného režimu byť na Slovensku využívaná voda, ktorá vyhovuje podmienkam Nariadenia vlády SR č. 354\/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.\nKontrolu vody vo verejných vodovodoch vykonávajú prevádzkovatelia vodovodných systémov a úrady verejného zdravotníctva."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Káva je nápoj pripravený z rozomletých pražených semien kávovníka. Ako káva sa označuje aj prášok, ktorý sa na výrobu tohto nápoja používa a získava sa mletím pražených semien kávovníka, označovaných aj ako kávové bôby. Káva je mierne kyslá a kofeín, ktorý obsahuje, môže mať stimulačný efekt na ľudský organizmus. Po čaji je káva druhým najkonzumovanejším nápojom na svete."
+    },
+    {
+        "id": "09cx8",
+        "description": "Prst je jeden z piatich pohyblivých útvarov ukončujúcich dlaň ruky, napr. ukazovák, prstenník atď."
+    },
+    {
+        "id": "0hz0h",
+        "description": "Zub je tvrdá anatomická štruktúra, ktorá sa nachádza v ústnej dutine väčšiny stavovcov. Funkcia zubov je spracovanie potravy, tvorba reči a zvukov a formovanie tváre."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Pery sú viditeľný orgán okolo ústa. Vo väčšine prípadov je horná pera menšia. Perami sa vyjadrujú emócie."
+    },
+    {
+        "id": "0dzdr",
+        "description": "Hrudník alebo tórax je časť tela stavovcov. U cicavcov spolu s bruchom a panvou tvoria trup. Predná časť hrudníka sa u stavovcov označuje ako hruď."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Ústna dutina je tvorená dvoma priestormi – ústnou predsieňou a vlastnou ústnou dutinou. Hranicu medzi oboma tvoria spojené horný a dolný zubný oblúk."
+    },
+    {
+        "id": "03q69",
+        "description": "Chlp alebo vlas je dlhé, tenké, zrohovatené valcovité vlákno, ktoré prerastá nad povrch kože cicavcov.\nDelí sa niekoľko druhov, napríklad vlas, obočie, mihalnica."
+    },
+    {
+        "id": "0dzd8",
+        "description": "Krk je časť tela spájajúca hlavu s trupom. Zadná časť krku sa u ľudí a iných stavovcov nazýva väz. Hrdlo je predná časť krku. Krkom prechádza veľa ciev a nervov. Obsahuje lymfatické uzliny, hltan, hrtan, priedušnicu, štítnu žliazu a pažerák"
+    },
+    {
+        "id": "0fjkt",
+        "description": "Jazyk je svalový orgán nachádzajúci sa v ústnej dutine, ktorý pokrýva sliznica. Nachádza sa na spodine úst. Slúži na príjem a spracovanie potravy, pomáha pri cicaní, príjma taktilné a termické podnety, je nosičom orgánu chuti. U živočíchov pomáha vytvárať zvuky, u ľudí reč. Jazyk je husto inervovaný a je veľmi citlivým hmatovým orgánom. Dokáže zistiť veľmi presne poškodenie zubov a prítomnosť cudzích telies v ústach."
+    },
+    {
+        "id": "039xj_",
+        "description": "Ucho alebo u stavovcov aj rovnovážny a sluchový orgán\/ústroj alebo predsieňovoslimákový orgán alebo statoakustický aparát alebo polohovosluchový aparát je orgán sluchu a rovnováhy.\nRozdeľujeme ho u človeka anatomicky, vývojovo i funkčne na tri časti:\n⁕vonkajšie ucho\n⁕stredné ucho\n⁕vnútorné ucho"
+    },
+    {
+        "id": "0k65p",
+        "description": "Ruka je koncová časť hornej končatiny opíc a človeka.\nČasti:\n⁕zápästie\n⁕záprstný úsek s dlaňou a chrbátom ruky\n⁕prsty\nKostru ruky tvorí:\n⁕8 zápästných kostí\n⁕5 záprstných kostí\n⁕články prstov"
+    },
+    {
+        "id": "0k0pj",
+        "description": "Nos je vstupom do dýchacích ciest. Má tvar trojbokého ihlanu. Najvyšším bodom, najbližšie k čelu, je koreň nosa. Od neho až po špičku nosa je hrana nazývaná nosný chrbát. O nose sa toho zatiaľ veľa nevie, je to doteraz najmenej preskúmaný a najzáhadnejší orgán. Vedci zistili, že ak stratíte čuch, stratíte aj niektoré chuťové bunky, v niektorých prípadoch stratíte chuť úplne. Ľudia, ktorí stratili čuch, prepadajú častejšie depresiám než inak postihnutí ľudia."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Hlava je predná časť tela živočíchov, zväčša pohyblivo oddelená od ostatného tela, centrum zmyslových orgánov, začína sa v nej tráviaca sústava a dýchacia sústava."
+    },
+    {
+        "id": "014sv8",
+        "description": "Oko je orgán reagujúci na svetlo. V priebehu vývoja živočíchov došlo k výraznému rozvoju od svetlocitlivých orgánov reagujúcích iba na to, či svetlo je alebo nie je, až po „jednoduché“ oko u stavovcov a hlavonožcov a zložené oko u článkonožcov.\nVeľa živočíchov má oči umiestnené na jednej strane hlavy, čo im umožňuje trojrozmerné binokulárne videnie - jednotlivé obrázky z oboch očí sa skladajú do jedného, ktorý vnímame. Oproti tomu existuje monookulárne videnie, kedy živočích vníma súčasne dva rozdielne obrazy, ako napríklad zajac alebo chameleón. Optické chyby, spôsobené ohybom svetla na zrenici príliš malých očí jednoduchého typu, prakticky znemožňujú ich používanie, preto by pre drobné druhy hmyzu boli také oči bezcenné."
+    },
+    {
+        "id": "0fly7",
+        "description": "Džínsy sú nohavice ušité zo silnej bavlnenej látky. Pôvodne to boli pracovné nohavice pre kovbojov, ktoré vyrobili Jacob Davis a Levi Strauss v roku 1873. V priebehu druhej polovice 20. storočia sa tento typ nohavíc stal populárny medzi mládežou."
+    },
+    {
+        "id": "01rkbr",
+        "description": "Kravata alebo zastarávajúco viazanka je odevný doplnok podlhovastého tvaru, ktorý sa nosí uviazaný pod krkom.\nViac ako 350 rokov slúži ako súčasť pánskeho odevu. Nemá žiadnu praktickú funkciu, plní len estetickú funkciu pri obchodovaní alebo pri spoločenských akciách. Jej používanie upravuje etiketa. Kravata sa viaže ku košeliam so širokým golierom."
+    },
+    {
+        "id": "01nq26",
+        "description": "Ponožka je pletený kus odevu určený na krytie luďskej nohy. Jej hlavnou úlohou je:\n⁕Zabrániť odieraniu nôh o obuv pri chôdzi\n⁕Udržiavať nohy v teple\n⁕Absorbovať vlhko\n⁕Predchádzať zhrubnutiu kože nôh\nPriemerná noha má 250 000 potných žliaz a priemerný pár nôh vyprodukuje okolo 250 ml potu denne. Ponožky pomáhajú absorbovať tento pot, čím sa zabráni jeho hromadeniu v obuvi. V chladnom prostredí ponožky pomáhajú absorbovaním potu odstrániť riziko vzniku omrzlín.\nPri kúpe nových ponožiek si volíme ich veľkosť podobne ako pri kúpe topánok. Napríklad pri veľkosti nohy číslo 9, by sme mali skúsiť ponožky medzi číslom 8-10."
+    },
+    {
+        "id": "07mhn",
+        "description": "Nohavice sú časť vrchného oblečenia, ktoré zakrýva nohy a spodnú časť tela. Nohavice zakrývajú každú nohu jednou nohavicou. Druh krátkych nohavíc, ktoré siahajú najviac po kolená, sa označuje šortky.\nV Európe a ďalších krajinách sú nohavice najbežnejším vrchným oblečením, zakrývajúcim spodnú časť tela mužov od 19. storočia. Od 20. storočia sa stali aj bežnou súčasťou ženského odevu. Nohavice, upevnené okolo bokov najčastejšie drží opasok, šnúrky, alebo traky. Legíny sú forma priliehavých nohavíc z priľnavého materiálu, často z bavlny alebo lycry. Populárnym druhom nohavíc sú džínsy."
+    },
+    {
+        "id": "0174n1",
+        "description": "Rukavice sú ochranný odev na ruky, vyrobený z rôznych materiálov, ktorý mal významný symbolický význam a stal sa tiež dekoratívnou súčasťou šatníka.\nPrvé rukavice boli známe už v staroveku. Prvé rukavice mali oddelený len palec a ostatné prsty boli chránené spoločne; neskôr zmenili tvar a poskytovali každému s prstov samostatnú ochranu, čím sa podstatne zvýšila citlivosť rúk a neobmedzovali tak v pohybe prstov. V stredoveku sa stali nenahraditeľnou súčasťou rytierskeho odevu, boli tiež odznakom cirkevných a svetských hodnostárov, ale aj vlády a práva. Ako súčasť šľachtického šatníka sa stali predmetom bohatého zdobenia, ktoré viedlo až k tomu, že cirkev vystúpila proti prepychu tejto časti odevu. Ich význam a obľuba sa však ani po tomto zásahu nijako nezmenšila, a zostali súčasťou bežného odievania až do 20. storočia. V druhej polovici 20. storočia však stratili svoju dekoratívnu funkciu a v súčasnosti sa až na pár výnimiek využívajú najmä ako ochranný prostriedok."
+    },
+    {
+        "id": "01n4qj",
+        "description": "Košeľa je časť oblečenia, ktorá slúži k zakrytiu hornej časti ľudského tela. Názov pochádza z latinského slova casula, označujúceho plášť s kapucňou.\nJe to kus oblečenia vyrobený z látky, ktorý zakrýva celú hornú polovicu tela. Má golier, rukávy a vertikálne zapínanie na gombičky, ktoré sa môžu rozopnúť po celej dlžke."
+    },
+    {
+        "id": "01zzs",
+        "description": "CD-ROM je neprepisovateľné optické záznamové médium fyzicky totožné s Audio CD, pričom formát uložených údajov je prispôsobený na uchovanie a čítanie počítačových dát. Kapacita CD-ROM média je obyčajne 650-700 MB."
+    },
+    {
+        "id": "01m2v",
+        "description": "Klávesnica je základné vstupné zariadenie osobných počítačov.\nPočítačová klávesnica je odvodená od klávesnice písacieho stroja. Je určená na vkladanie znakov a ovládanie počítača. Klávesnice majú bežne na jednotlivých klávesoch vytlačené alebo vyryté znaky alebo funkcie, ktoré reprezentujú. Vo väčšine prípadov stlačenie jednotlivej klávesy korešponduje s vypísaním jedného znaku. Na vytvorenie niektorých symbolov je potrebné stlačiť niekoľko kláves naraz, prípadne v určenom poradí. Niektoré klávesy nevypisujú žiadne znaky, namiesto toho ovplyvňujú beh počítača.\nKlávesnice majú obvykle aj niekoľko indikačných LED, obvykle pre znázornenie stavu „uzamykateľných“ kláves, t. j. tých, ktorých stlačením sa mení stav súvisiacej funkcie zo zapnutej na vypnutú a naopak. Táto funkcia sa vyvinula z uzamykateľnej klávesy shift na písacom stroji, ktorý prepína do stavu, keď sa trvalo píšu veľké písmená."
+    },
+    {
+        "id": "020lf",
+        "description": "Myš alebo počítačová myš je vstupné zariadenie počítača, periféria počítača slúžiace na ovládanie polohy kurzora na obrazovke a vykonávanie operácií tlačením tlačidiel. Počítačová myš je spravidla malý predmet, ktorý sa vojde do dlane a je voľne položený na podložke. V dolnej časti myši je zariadenie, ktoré detekuje pohyb myši vzhľadom k vodorovnej podložke a následne tento pohyb prenáša na obrazovku počítača. Myš dostala svoje meno, pretože staršie modely s káblom vedúcim k počítaču pripomínali tohto hlodavca.\nPrvá myš používaná pri počítačoch bola zhotovená v r. 1965 Dougom Engelbartom zo Stanford Research Institute.\n⁕\nNajstaršia myš - pohľad zhora\n⁕\nNajstaršia myš - pohľad zdola\nPrvá mechanická myš bola vyrobená v roku 1963 a mala jedno tlačidlo. Dnešná moderná myš pracuje na základe optického senzora a má spravidla dve tlačidlá, prípadne je doplnená aj skrolovacím kolieskom. Myši počítačov Apple Macintosh majú jedno tlačidlo. Dnes predávané myši tak mávajú od jedného tlačidla po päť a viac, ktorých funkcie sú konfigurovateľné a využiteľné napr. aj pri hraní počítačových hier.\nPripojenie myši k počítaču je riešené buď káblom, pôvodne napr. cez sériový port, PS\/2, dnes najmä prostredníctvom USB, alebo bezdrôtovo, dnes najmä prostredníctvom bluetooth."
+    },
+    {
+        "id": "02bc6",
+        "description": "Databáza je množina štruktúrovaných dát alebo informácií uložených v počítačovom systéme, takým spôsobom, že počítačový program alebo človek môže použiť dopytovací jazyk na získavanie týchto informácií. Takto získané informácie môžu byť použité pri rozhodovacom procese. Počítačový program používaný na správu dát a tvorbu dopytov sa označuje DBMS. Vlastnosťami a návrhom DBMS sa zaoberá informatika.\nTypický dopyt odpovedá na otázky typu \"Koľko párov topánok vyrobených Baťom sa predalo v marci v Bratislave a Košiciach?\" Na to, aby databáza bola schopná zodpovedať takúto otázku, je potrebné, aby mala informácie, koľko akých topánok sa predalo vrátane dátumu a miesta predaja. Termín databáza vznikol v prostredí výpočtovej techniky. Hoci jeho význam sa rozšíril a môže označovať aj neelektronické databázy, tento článok sa zaoberá počítačovými databázami. Kolekcie dát podobné databázam existovali už pred priemyselnou revolúciou napríklad vo forme účtovníckych záznamov a kníh a neskôr kartoték.\nZákladným konceptom databáza je kolekcia záznamov, alebo čiastkových informácií. Typicky v každej databáze existuje opis štruktúry dát a typu dát, ktoré sú v databáze: tento opis sa nazýva logická schéma. Táto schéma popisuje objekty, ktoré sú v databáze a vzťahy medzi nimi. Existuje viacero rôznych spôsobov tvorby schém t. j. modelovania databázovej štruktúry: tieto sa nazývajú databázovými modelmi. V súčasnosti je najviac používaným relačný model. Relačný model sa dá vysvetliť tak, že kompletný súhrn dát je uchovávaný v tabuľkách pozostávajúcich z riadkov a stĺpcov. Tento model reprezentuje vzťahy použitím tých istých hodnôt vo viacerých tabuľkách. Iné modely, napríklad hierarchický model alebo sieťový model používajú explicitnejšiu reprezentáciu vzťahov."
+    },
+    {
+        "id": "029kh",
+        "description": "Číslicovosť alebo digitálnosť je schopnosť nadobúdať iba diskrétne, t. j. nespojité hodnoty. Ako číslicový alebo digitálny sa spravidla všeobecne označujú prostriedky pracujúce s číslicovými signálmi, ktorých hodnota môže nadobúdať iba obmedzený počet diskrétnych hodnôt.\nDáta sa v číslicových počítačoch reprezentujú diskrétnymi stavmi logických súčiastok a prepájajú počítaním.\nVýraz číslicový sa používa ako protiklad výrazu analógový. Číslicový znak patrí do konečného súboru znakov s dobre rozlíšiteľnými prvkami. Prechod od jedného číslicového znaku k druhému sa uskutočňuje skokovite. Na rozdiel od tohto, analógové signály môžu prechádzať jeden do druhého plynule."
+    },
+    {
+        "id": "020s1",
+        "description": "Súbor je v osobných počítačoch logické zoskupenie údajov - súbor údajov.\nSúbory sa ukladajú na pevný disk alebo do pamäte počítača. Sú usporiadané v stromovej štruktúre v adresároch. Adresár môže obsahovať súbory a adresáre, ktoré môžu obsahovať znova ďalšie adresáre a súbory. Súbor nemôže obsahovať adresáre ani ďalšie súbory, obsahuje údaje v dvojkovej, resp. šestnástkovej číselnej sústave."
+    },
+    {
+        "id": "045hfw",
+        "description": "Termín font má niekoľko podobných definícií:\n⁕súprava obrázkov glyfu, ktoré majú ten istý základný \"dizajn\", napr. Courier Bold Oblique\n⁕určitá jednotná, digitálne zaznamenaná \"sada\" znakov; písmový font je nižšie v texte v tom istom zdroji definovaný ako súbor písmen..., interpunkčných a diakritických znamienok, číslic, aritmetických a iných znakov a symbolov rovnakého druhu a rovnakého tvarového variantu\n⁕digitalizovaná, charakteristická zostava písmen, číslic a eventuálne aj zvláštnych znakov, ktoré počítač spravuje v jednom spoločnom súbore fontu\n⁕digitálna \"sada\" znakov obrazovkového, pixelového alebo tlačového písma\n⁕\"sada\" písmenových znakov jedného typu písma a veľkosti; ; podobne: rodina alebo zostava znakov danej veľkosti a štýlu; podobne: na účely ODA \"sada\" znakov obrazu normálne s rovnakou podobou a rovnakým štýlom"
+    },
+    {
+        "id": "02nf_",
+        "description": "E-mail je skratka pre „elektronickú poštu“. Je to spôsob písania, posielania a prijímania správ v elektronických komunikačných systémoch. Väčšina dnešných emailových systémov používa internet, a email je jedným z najobľúbenejších použití Internetu."
+    },
+    {
+        "id": "01zrkr",
+        "description": "Počítačová ikona je malý piktogram, obyčajne s rozmermi od 16x16 do 128x128 pixelov reprezentujúci objekty operačného systému alebo aplikácie. Ikony boli pôvodne vyvinuté ako pomôcka na uľahčenie práce s počítačom pre menej skúsených používateľov v 70-tych rokoch 20. storočia v laboratóriách Xerox v Palo Alto. Ikonovo založené používateľské rozhrania boli neskôr spopularizované firmou Apple Macintosh a neskôr Microsoft Corporation."
+    },
+    {
+        "id": "03rlt",
+        "description": "Internet, hovorovo net alebo sieť je verejne dostupný celosvetový systém vzájomne prepojených počítačových sietí, ktoré prenášajú dáta pomocou prepínania paketov za použitia štandardizovaného Internet Protocolu a mnohých ďalších protokolov. Pozostáva z tisícok menších komerčných, akademických, vládnych a vojenských sietí. Slúži ako prenosové médium pre rôzne informácie a služby ako napr. elektronická pošta, chat a systém vzájomne prepojených webstránok a dokumentov World Wide Webu.\nSlovo internet je skratkou z anglického výrazu interconnected networks - prepojené siete."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "Klaud kompjúting je na Internete založený model vývoja a používania počítačových technológií.\nMožno ho charakterizovať aj ako poskytovanie služieb alebo programov uložených na serveroch na Internete s tým, že používatelia k nim môžu pristupovať napríklad pomocou webového prehliadača alebo klienta danej aplikácie a používať prakticky odkiaľkoľvek. Používatelia neplatia za vlastný softvér, ale za jeho použitie. Ponuka aplikácií sa pohybuje od kancelárskych aplikácií, cez systémy pre distribuované výpočty, až po operačné systémy prevádzkované v prehliadačoch, ako je napríklad eyeOS, Cloud alebo iCloud."
+    },
+    {
+        "id": "07wcf",
+        "description": "Univerzálna sériová zbernica je štandard sériovej zbernice určenej najmä na pripojenie periférií k počítaču.\nNahrádza skôr používané spôsoby pripojenia pre bežné druhy periférií – tlačiarne, myši, klávesnice, joysticky, fotoaparáty, modemy atď., ale aj pre prenos dát z videokamier a pamäťových kariet, MP3 prehrávačov, externých diskov a externých napaľovacích mechaník.\nPôvodne bol USB navrhnutý pre počítače, ale jeho popularita spôsobila, že dnes je tiež bežnou súčasťou video hracích konzol, PDA zariadení, prenosných DVD a média prehrávačov, mobilných telefónov, ale dokonca aj zariadení ako sú televízory, domáce stereo zariadenia, autorádiá či prenosné pamäťové zariadenia."
+    },
+    {
+        "id": "0mynm",
+        "description": "Webkamera alebo webová kamera je vstupné zariadenie počítača slúžiace na snímanie pohyblivého obrazu alebo statických obrázkov, a ich prenos do počítača pre ďalšie spracovanie. Predstavujú konštrukčne jednoduchý spôsob digitalizácie obrazu pre počítačové spracovanie.\nIch hlavným využitím je internet - online zobrazenie účastníkov videokonferencie, snímanie priestoru a prenos informácii na internetovú stránku, fotografovanie a pod. Ich využitie je všestrannejšie - umožňujú napr. sledovať priestor ako bezpečnostná kamera, na stráženie detí, na prenos obrazu zo známych miest či turistických destinácií, na cestách a diaľniciach pre zobrazenie dopravnej situácie a pod. Záleží len od aplikačného softvéru, ktorý webkameru obsluhuje."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook je rozsiahly komunitný webový systém, ktorý založil 4. februára 2004 Mark Zuckerberg počas štúdia na Harvardovej univerzite. Spoluzakladateľmi systému boli Chris Hughes, Dustin Moskovitz a Eduardo Saverin."
+    },
+    {
+        "id": "0508p",
+        "description": "Základná doska je doska obsahujúca elektronické súčiastky tvoriace základné prvky osobného počítača alebo iného elektronického zariadenia založeného na procesoroch. Matičná doska je zjednocujúcim prvkom v počítači, všetky ostatné moduly, súčasti, diely a periférie sa priamo, alebo nepriamu vkladajú, alebo pripájajú k matičnej doske."
+    },
+    {
+        "id": "07g0_",
+        "description": "Haag je tretie najväčšie mesto v Holandsku. Haag je sídlo holandského parlamentu, vlády i monarchu; nie je to však oficiálne hlavné mesto Holandska. Tým je Amsterdam. Haag leží na západe krajiny, v provincii Južný Holland. Má 475 580 obyvateľov. Sídli tu aj Medzinárodný súdny dvor - orgán OSN."
+    },
+    {
+        "id": "02_286",
+        "description": "New York je najľudnatejšie mesto USA a jeho metropolitná oblasť patrí medzi najľudnatejšie na svete. Mesto bolo založené Holanďanmi v roku 1624 ako obchodné stredisko New Amsterdam a od roku 1790 je najväčším mestom Spojených štátov. New York bol tiež prvým hlavným mestom Spojených štátov po prijatí ústavy. V súčasnosti je jedným zo svetových centier obchodu a finančníctva. Samé má ročný hrubý domáci produkt približne 500 miliárd USD, čo by z neho pri pomyselnom porovnaní so štátmi sveta činilo šestnástu najväčšiu ekonomiku planéty. New York má aj globálny vplyv v oblasti médií, politiky, vzdelania, zábavy, umenia, módy a reklamy. Je aj ohniskom medzinárodných vzťahov a diplomacie, pretože sa tu nachádza sídlo OSN.\nMesto sa nachádza na východe USA v južnom cípe pri ústí rieky Hudson do Atlantického oceánu. Nachádza sa v strede megalopolisu Boswash, 350 km od Bostonu a 353 km od Washingtonu D.C.. New York tvorí päť štvrtí: Bronx, Brooklyn, Manhattan, Queens a Staten Island. Z nich iba Bronx je spojený s pevninou, ostatné obvody ležia na ostrovoch. S viac ako 8,3 miliónmi obyvateľov žijúcimi na ploche 789 km² je New York zároveň najhustejšie zaľudneným mestom Spojených štátov."
+    },
+    {
+        "id": "0430_",
+        "description": "Jeruzalem je hlavné mesto Izraela. Pre židov, kresťanov a moslimov je to posvätné mesto. Dnes v Jeruzaleme žije okolo 700 000 obyvateľov.\nMesto vzniklo na dvoch výšinách. Na východnej stál chrámový okrsok a v jej južnej časti vŕšok Ophel, na západnej výšine stál Sión. Dnes je Sión posvätný pahorok v meste. Mesto má rozlohu 125 km², je teda najväčším izraelským mestom.\nJeruzalem má štyri štvrte: židovskú, moslimskú, kresťanskú a arménsku. V srdci Jeruzalema sa nachádza hradbami ohradené Staré mesto ležiace vo výške 800 metrov nad morom."
+    },
+    {
+        "id": "01w2v",
+        "description": "Káhira je hlavné a najväčšie mesto Egypta hlavné mesto guvernorátu Káhira. Egypťania volajú Káhiru aj Egypt čo ilustruje jej významné postavenie v krajine. Leží na ploche 214 km² na brehoch a ostrovoch rieky Níl, na severnom konci jej púštneho údolia, v mieste kde sa začína rozvetvovať do svojej delty.\nMesto má asi 6,7 milióna obyvateľov a ďalších asi 10 miliónov obýva širšiu metropolitnú oblasť, takže Káhira je jedenásta najľudnatejšia metropolitná oblasť sveta a súčasne najľudnatejšie mesto Afriky.\nJe významným kultúrnym a duchovným centrom arabského a islamského sveta, ktorým sa stala už v stredoveku. Kozmopolitný charakter dodáva mestu aj prítomnosť početnej koptskej kresťanskej menšiny, keďže Káhira je aj centrom koptskej ortodoxnej cirkvi v Egypte."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Soul je hlavné mesto Kórejskej republiky. S rozlohou 605 km² a vyše 10 miliónmi obyvateľov patrí medzi najväčšie mestá na svete. V súčasnosti je centrom politického, ekonomického, kultúrneho a spoločenského života. Je sídlom prezidenta, vlády, rôznych inštitúcií, organizácií a veľkých nadnárodných spoločností. Je tiež jedným z centier svetového obchodu. Mesto je významnou dopravnou križovatkou v krajine."
+    },
+    {
+        "id": "031y2",
+        "description": "Florencia je mesto v centre Toskánska v strednom Taliansku. Leží na rieke Arnoa má približne 360 000 obyvateľov. Je hlavným mestom regiónu Toskánsko a krátky čas bolo hlavným mestom Talianskeho kráľovstva. Florencii dlho vládla rodina Medici.\nOkrem centra obchodu a financií stredovekej Európy je kolískou renesancie a talianskych klasikov ako sú Dante, Petrarca a Boccaccio. Je známa svojím bohatstvom umenia a architektúry. Z tohto dôvodu je už od 19. storočia prezývaná „talianské Atény“\nDnes možno vo Florencii navštíviť a obdivovať majstrovské kúsky umelcov ako Botticelli, Michelangelo a Leonardo da Vinci v svetovo preslávených múzeách, v nádherných kostoloch, alebo dokonca pri prechádzkach mestom. Dnešná Florencia láka turistov z celého sveta, ktorí tu okrem histórie majú možnosť ochutnať vynikajúcu taliansku kuchyňu a najlepšie talianske vína. Podľa Euromonitor International bola 72. najnavštevovanejším mestom v roku 2009 s 1 685 000 návštevníkmi\nOd roku 1982 je historické centrum Florencie zapísané do Zoznamu kultúrneho dedičstva UNESCO. Magazín Forbes mesto zaradil medzi najkrajšie mestá sveta.\nFlorenzia je aj významným medzinárodným módnym a talianskym hospodárskym centrom. V roku 2008 mala 17. najvyšší hospodársky zisk v Taliansku."
+    },
+    {
+        "id": "0156q",
+        "description": "Berlín je spolkový mestský štát a krajina Nemecka. Od roku 1991 je Berlín hlavné mesto a sídlo vlády Nemecka. Po zjednotení Nemecka a východnej a západnej časti mesta, patrí k najväčším mestám v Európe. Je druhé najľudnatejšie mesto a ôsme čo sa týka mestského územia v rámci Európskej únie. Ležiace v severovýchodnom Nemecku je centrom európskeho metropolitného regiónu Berlin\/Brandenburg pozostávajúceho z 5 miliónov ľudí z viac ako 190 krajín.\nBerlín je významným centrom kultúry, politiky, médií a vedy v Európe. Základom ekonomiky sú hlavne služby zahŕňajúce oblasť rozličného druhu ako mediálne korporácie, evironmentálne služby, dejiská kongresov atď. Mesto tiež slúži ako kontinentálne centrum pre leteckú a železničnú dopravu, a tiež je najnavštevovanejšou turistickou destináciou v EÚ. Z priemyselného odvetvia sú rozšírené: optoelektronika, informačné technológie, farmaceutický priemysel, biomedicínske inžinierstvo a biotechnológia.\nMetropola je domovom pre svetoznáme univerzity, výskumné inštitúcie, športové podujatia, orchestre, múzeá a osobnosti. Jeho mestská krajina a historické dedičstvo z neho urobili obľúbené miesto pre medzinárodné filmové produkcie. Mesto je tiež známe pre jeho festivaly, rozmanitú architektúru, nočný život, súčasné umenie, rozsiahlu sieť verejnej dopravy a pre jeho vysoký životný štandard. Primátorom Berlína je otvorene homosexuálny politik SPD Klaus Wowereit."
+    },
+    {
+        "id": "05qtj",
+        "description": "Paríž je francúzske hlavné mesto, ktoré sa nachádza v departemente Paríž, v regióne Île-de-France. Mesto je aj centrom regiónu zahŕňajúceho Paríž a jeho predmestia, a súčasne sám tvorí jeden z francúzskych departementov. Heslo mesta je: Fluctuat nec mergitur."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdam je hlavné mesto Holandska. Mesto bolo založené koncom 12. storočia ako malá rybárska dedinka na brehoch rieky Amstel. V súčasnosti je Amsterdam najväčším holandským mestom a je jeho finančným i kultúrnym centrom. Napriek tomu, že je hlavným mestom; centrálna vláda, parlament i holandský monarcha sídlia v Haagu. Hlavným mestom provincie Severné Holandsko, v ktorej sa Amsterdam nachádza, je Haarlem.\nAmsterdam má 742 884 obyvateľov, v aglomerácii má vyše jeden a pol milióna ľudí. Žije v ňom dovedna 177 národností, čo z neho robí najmultikulturálnejšie mesto na svete. Spolu s Rotterdamom, Haagom, Utrechtom a ďalšími menšími mestami je súčasťou rozsiahlej konurbácie nazývanej Randstad. V súčasnosti v nej žije vyše 6 miliónov ľudí.\nAmsterdam má jedno z najväčších historických mestských centier v Európe pochádzajúce zo 17. storočia, z obdobia holandského „Zlatého veku“. V tejto dobe bol postavený systém sústredných polkruhových kanálov, ktorý dodnes určuje tvár mesta. Vďaka nim si Amsterdam vyslúžil prezývku „Benátky severu“.\nTuristov do mesta láka bohatá kultúra, mnohé múzeá a galérie, ale i legalizovaná prostitúcia a predaj marihuany v tzv. coffeeshopoch."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakar je hlavné mesto Senegalu. Je to najzápadnejšie mesto Afriky, výhodným miestom pre trans-atlantický a európsky obchod. Dakar je aj administratívne centrum krajiny.\nMá rozlohu 82,38 km² a žije tu 1 030 594 obyvateľov."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Janeiro, hovorovo aj Rio, je mesto v brazílskom štáte Rio de Janeiro v juhovýchodnej Brazílii. V rokoch 1763 až 1960 bolo hlavným mestom Brazílie a Portugalskej ríše. Mesto má rozlohu 1 260 km² a jeho metropolitná oblasť má približne 11,9 milióna obyvateľov, čo je dvakrát viac ako počet obyvateľov Slovenska.\nJe administratívnym centrom štátu Rio de Janeiro. Počtom obyvateľov je druhé najväčšie mesto v Brazílii a tretia najväčšia metropolitná oblasť a aglomerácia v Južnej Amerike. Je 6. najväčšie mesto na americkom svetadieli a hlavná turistická destinácia na Južnej pologuli."
+    },
+    {
+        "id": "01fdzj",
+        "description": "Veža je hranolovitý alebo valcovitý stavebný objekt, ktorého výška značne prevyšuje jeho pôdorysné rozmery. Veža je často súčasťou inej budovy a často sa zužuje smerom k vrcholu.\nNiekedy, najmä v oblasti telekomunikácií, sa definícia veže obmedzuje navyše tak, že nejde o stožiar, čo je vežovitá konštrukcia, ktorá je ukotvená lanami a podobne, teda sa nenesie sama. Existujú ale aj kombinácie stožiara a veže, tzv. hybridné veže."
+    },
+    {
+        "id": "06gfj",
+        "description": "Cesta je v širšom zmysle akýkoľvek upravený pás územia určený na premávku, v užšom zmysle – podľa 135\/1961 Z.z. – pozemná komunikácia zaradená do cestnej siete, pričom do cestnej siete patria aj pozemné komunikácie mimo územia zastavaného alebo určeného na súvislé zastavanie, ktoré spájajú železničné stanice, terminály kombinovanej dopravy, letiská pre pravidelnú verejnú dopravu a verejné prístavy s diaľnicami a cestami, ak neslúžia ako účelové komunikácie prevažne na prevádzku alebo na správu týchto zariadení.\nPodľa vyhlášky 35\/1984 Z.z. sa cesty na Slovensku delia na:\n⁕a) diaľnica\n⁕b) rýchlostná cesta\n⁕c) privádzač, ktorý umožňuje prepojenie diaľnice alebo rýchlostnej cesty s inou cestou,\n⁕a) cesty I. triedy, ktoré majú význam pre medzinárodnú, celoštátnu alebo republikovú dopravu; označujú sa číslami od 1 do 99,\n⁕b) cesty II. triedy, ktoré majú význam pre dopravu medzi krajmi a okresmi; označujú sa číslami od 100 do 999,\n⁕c) cesty III. triedy, ktoré majú miestny význam pre účelné doplnenie cestnej siete; označujú sa štvormiestnymi až päťmiestnymi číslami podľa čísel najbližšej cesty II. triedy, výnimočne aj cesty I. triedy."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Nemocnica je lekárske zariadenie určené na liečenie ľudí. Umiestnenie pacienta v nemocnici sa nazýva hospitalizácia.\nKlasická nemocnica v rozvinutých krajinách sa skladá z niekoľkých častí, a to z lôžkového oddelenia, špecializovaných ambulancií, paraklinického oddelenia, technického zázemia, vedenia a manažmentu."
+    },
+    {
+        "id": "0k05r",
+        "description": "Súd je štátny orgán, ktorý vykonáva súdnu právomoc alebo aj označenie pre niektoré neštátne rozhodcovské orgány, napríklad rozhodcovský súd v medzinárodnej arbitráži. Termínom súd sa označuje aj proces súdneho sporu alebo celok sudcov. Sústava súdov štátu a podobne sa označuje ako súdna sústava, súdny systém, sústava súdov.\nŠtátny súd rozhoduje o záležitostiach týkajúcich sa vzťahov občianskoprávnych, rodinných, pracovných, družstevných a obchodných alebo trestných činov."
+    },
+    {
+        "id": "06zdj",
+        "description": "Škola je vo všeobecnosti akékoľvek výchovno-vzdelávacie zariadenie, organizácia alebo inštitúcia. Niekedy sa týmto pojmom myslí budova alebo sídlo danej inštitúcie.\nNa Slovensku sa školy delia najmä na:\n⁕materské\n⁕základné\n⁕stredné\n⁕vysoké a univerzity\nZvláštnu kategóriu tvoria špeciálne alebo osobitné školy.\nPodľa zriaďovateľa sa rozlišujú najmä:\n⁕štátne školy\n⁕cirkevné školy\n⁕súkromné školy"
+    },
+    {
+        "id": "019cfy",
+        "description": "Štadión je súbor ihrísk a zariadení spojených do jedného celku, ktorý má obyčajne hľadisko, a ktorý je určený na športové súťaže alebo hromadné cvičenia. V širšom zmysle sa ako štadión označuje aj súbor takýchto súborov ihrísk v spoločnom areáli."
+    },
+    {
+        "id": "0166ls",
+        "description": "Park alebo sad je umelo vytvorená a človekom udržiavaná plocha stromov a zelene obsahujúca rôzne architektonické prvky, ktorá tvorí súčasť ľudských sídel."
+    },
+    {
+        "id": "06zdj",
+        "description": "Škola je vo všeobecnosti akékoľvek výchovno-vzdelávacie zariadenie, organizácia alebo inštitúcia. Niekedy sa týmto pojmom myslí budova alebo sídlo danej inštitúcie.\nNa Slovensku sa školy delia najmä na:\n⁕materské\n⁕základné\n⁕stredné\n⁕vysoké a univerzity\nZvláštnu kategóriu tvoria špeciálne alebo osobitné školy.\nPodľa zriaďovateľa sa rozlišujú najmä:\n⁕štátne školy\n⁕cirkevné školy\n⁕súkromné školy"
+    },
+    {
+        "id": "09cmq",
+        "description": "Múzeum je vedecká inštitúcia, ktorá plánovite zhromažďuje, triedi, odborne uchováva a ďalej vedecky spracováva zbierky hmotných dokladov o spoločenskom a kultúrnom vývine človeka a spoločnosti, o vývoji a zmenách prírody a prostredia. Úlohou múzeí je aj osvetová a kultúrna činnosť. Múzeá delíme na vlastivedné – zaoberajú sa materiálom týkajúcim sa územia nášho štátu, a špecializované – zaoberajú sa konkrétnou činnosťou, odborom, osobnosťou. K špecializovaným múzeám patria i galérie."
+    },
+    {
+        "id": "017ql",
+        "description": "Banka je inštitúcia, ktorá sa špecializuje na „obchod peňazí“, čiže na zhromažďovanie voľných finančných prostriedkov, poskytovanie úverov a prípadne sprostredkovanie ďalších bankových operácií, obchodov a transakcií . V širšom zmysle sem patrí aj centrálna banka.\nTieto ďalšie bankové operácie spravidla určujú špecializáciu banky.\nBankový zisk vzniká zjednodušene povedané tak, že sa za vklady vyplácajú úroky a za úvery sa úroky vyberajú – rozdiel je zisk."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Trh je miesto, kde sa stretávajú kupujúci a predávajúci, aby sa dohodli na kúpe a predaji určitého tovaru alebo služby za určitú cenu. Je to priestor, v ktorom si jednotlivé ekonomické subjekty vymieňajú výsledky svojej činnosti. Trh je regulátorom a stabilizátorom ekonomického rozvoja. Je to súhrn rozličných nástrojov, foriem, mechanizmov a sociálno-ekonomických vzťahov.\nNavonok sa trh javí ako miesto, kde sa predávajú a kupujú tovary. Trh je možno charakterizovať ako proces, v ktorom sa realizujú ekonomické vzťahy medzi jednotlivými trhovými subjektami prostredníctvom výmeny tovarov a služieb. Je to súhrn ekonomických procesov a vzťahov, ktoré vznikajú pri kúpe a predaji a majú vplyv na fungovanie trhu, výroby, rozdeľovania a spotreby. Vzniká tu interakcia ponuka – dopyt."
+    },
+    {
+        "id": "09cjl",
+        "description": "Letisko je plocha upravená a vybavená na odlety, pristávanie, pohyb po zemi a údržbu alebo uskladnenie lietadiel.\nPodľa dĺžky svojich dráh sa delí na 5 tried. Najdlhšiu dráhu má vojenské letisko Area 51 v štáte Nevada. Najväčšie letisko na svete je O'Hare International Airport v Chicagu. Najvyšší počet pasažierov má Medzinárodné letisko Hartsfield-Jackson Atlanta v USA. Najväčší počet medzinárodných spojení má letisko Frankfurt nad Mohanom a najviac medzinárodných leteckých pohybov a pasažierov má londýnske London-Heathrow.\nNajväčšie letisko na Slovensku je Letisko Milana Rastislava Štefánika Bratislava- Ivanka. Najviac cestujúcich vybavilo v roku 2008. Celková ročná kapacita zrekonštruovaného terminálového komplexu je 5 miliónov cestujúcich.\nPrvé výhradne civilné letisko bolo otvorené v roku 1922 v nemeckom Königsbergu.\nNa Slovensku je v súčasnosti 6 medzinárodných letísk:\n⁕Letisko M. R. Štefánika Bratislava\n⁕Letisko Košice\n⁕Letisko Žilina\n⁕Letisko Sliač\n⁕Letisko Piešťany\n⁕Letisko Poprad-Tatry"
+    },
+    {
+        "id": "053rd",
+        "description": "Baníctvo tiež banský alebo ťažobný priemysel je ťažba úžitkových nerastov prípadne ďalších nerastných surovín zo Zeme, obyčajne povrchovou ťažbou alebo podzemným spôsobom. Predstavuje komplexný súhrn prác potrebných na vyhľadávanie, dobývanie a čiastočne aj na úpravu úžitkových nerastov. Týmto spôsobom sa dobýva väčšina surovín, ktoré nemôžu byť dopestované poľnohospodárstvom, vytvorené umelo v laboratóriách alebo priemyselne. V širšom zmysle baníctvo zahŕňa dobývanie akýchkoľvek neobnoviteľných zdrojov ako sú rudy, ale aj ropa, zemný plyn a voda.\nŤažbu možno vykonávať:\n⁕hlbinne - vykopaním štôlní, ťaží sa ruda obsahujúca jalovinu v tzv. hlbinných baniach\n⁕ťažbou povrchovým spôsobom v lomoch, tento spôsob je ekonomicky menej náročný a lacnejší"
+    },
+    {
+        "id": "029g_vk",
+        "description": "Telekomunikácie sú:\n⁕odvetvie oznamovacej techniky, ktoré vytvára teoretické a praktické systémové podmienky na realizáciu verejných komunikačných sietí na prenos informácií medzi skupinami alebo dvojicami účastníkov obidvoma smermi dialógovým spôsobom\n⁕zariadenia oznamovacej elektrotechniky\n⁕podniky a inštitúcie poskytujúce telekomunikačné služby\nTelekomunikácie sa zaoberajú spracovaním signálu napr. vo forme reči, údajov a jeho prenosom od vysielača k prijímaču signálu po vedení - metalickom, optickom alebo bezdrôtovom.\nV súčasnosti, kedy aj v tomto odvetví začína prevládať informatika a digitalizácia, sa pojem čiastočne kryje s pojmom informačné a komunikačné technológie."
+    },
+    {
+        "id": "01mf0",
+        "description": "Softvér je označenie pre programové vybavenie počítača alebo súhrn všetkých programov, ktoré sa dajú použiť na výpočtovom zariadení. Má nemateriálnu povahu, hovoríme o vývoji softvéru. Rozlišujeme systémový softvér a aplikačný softvér.\nMedzi softvér zaraďujeme tak operačné systémy a ovládače zariadení, ako aj všetky druhy aplikačných programov, napríklad textové editory a iné kancelárske aplikácie, grafické aplikácie, aplikácie na prehrávanie multimédií, hry a všetky ostatné programy.\nPočítačový softvér vyrábajú programátori, grafici atď v rôznych spoločnostiach, alebo tiež v komunite používateľov. Tu pramení aj hlavné rozdelenie softvéru na softvér bezplatný a platený. Bezplatný softvér je voľne šírený a môže byť jednoducho upraviteľný. Platený softvér môžete používať iba vtedy, ak zaplatíte za licenciu softvéru, a nebudete túto licenciu porušovať. Platený softvér teda nemožno vlastniť, je len možné používať ho po zaplatení a splnení podmienok.\nSoftvér sa dá získať na Internete, lokálnej sieti, na pamäťových médiách, alebo už predinštalovaný na novom počítači.\n⁕Textový editor Aby sa dali navrhovať a tlačiť stránky, na ktorých je text v kombinácií s grafikou, a aby bola čo najlepšia obsahová i estetická úroveň tlačoviny, musí mať program niekoľko špecifických vlastností:Práca s množstvom typov a veľkostí písma na vytváranie nadpisov a zvýrazneného textu. Umožnenie proporcionálneho písma tzn. písmeno \"w\" a \"i\" budú v riadku zaberať nerovnako široké miesto.Vytváranie stĺpcov a rámčekov s textom, orámovanie celej strany a iné efektyVloženie grafických objektov vytvorených externým grafickým editoromMožnosť vloženia špeciálnych znakov, ktoré nie sú priamo na klávesnici počítačaWYSIWYG - What You See Is What You Get. Programy umožňujúce vidieť vytváraný dokument na obrazovke tak, ako bude vyzerať v skutočnosti vytlačený na tlačiarni. Táto vlastnosť vylučuje, aby ste urobili chybu pri formátovaní stránky. Ušetrí vám papier, pretože si vytlačíte stranu presne tak ako ste ju chceli mať upravenú."
+    },
+    {
+        "id": "011s0",
+        "description": "Reklama je publikovanie, podpora a komunikácia informácií alebo názorov o výrobku alebo službe, prípadne organizácii, so zameraním na potenciálny trh. Použité prostriedky môžu mať viacero foriem, napr. formu reklamy v médiách alebo priamej reklamy. Osobitným typom reklamy je internetová reklama."
+    },
+    {
+        "id": "01ftz",
+        "description": "Biotechnológia je technológia založená na využívaní poznatkov z biológie, ktorá sa využíva v poľnohospodárstve, potravinárskom priemysle a v medicíne. Ide najmä o využívanie mikroorganizmov.\nExistuje veľa definícií. Definícia sformulovaná Spojenými národmi v „Dohode o biologickej diverzite“ znie: „Biotechnológia je akákoľvek technológia, ktorá využíva biologické systémy, živé organizmy alebo ich časti k určitej výrobe alebo ich premene, či inému špecifickému použitiu.“\nJedna zo sekcií biotechnológie sa zaoberá produkciou potravín. Niektoré prírodné baktérie sa využívajú aj na ťažbu niektorých prvkov.\nBiotechnológia sa uplatňuje aj pri úprave odpadov a organických materiálov. Používa sa aj na revitalizáciu znečistenej pôdy. Široké uplatnenie má aj v medicíne, napríklad pri výrobe antibiotík, niektorých amínokyselín a pod.\nIntenzívne sa rozvíjajúcim odvetvím biotechnológie sú genetické manipulácie. Pri genetickej manipulácii sa do jedného organizmu cielene vnáša určitý gén, či gény, iného organizmu. Tieto geneticky modifikované organizmy sa dnes vo veľkej miere využívajú v medicíne, v potravinárskom priemysle alebo v poľnohospodárstve."
+    },
+    {
+        "id": "0191_7",
+        "description": "Maloobchod alebo zriedkavo predaj en détail [an detaj] je forma obchodu, pri ktorej sa tovar predáva konečnému spotrebiteľovi, prípadne len jednotlivému konečnému spotrebiteľovi. Osoba venujúca sa maloobchodu je maloobchodník. Cena, za ktorú sa predáva v maloobchode je maloobchodná cena."
+    },
+    {
+        "id": "0h61",
+        "description": "Archeológia je spoločenská veda zaoberajúca sa štúdiom ľudskej minulosti vyhľadávaním, odkrývaním, dokumentáciou, analýzou a interpretáciou artefaktov a ekofaktov, architektúr, ľudských pozostatkov a historického reliéfu.\nCieľom archeológie je dokumentovať a objasňovať pôvod a vývoj ľudskej kultúry, kultúrnej histórie, kultúrnej evolúcie, ľudského správania a skúmať interakciu človeka s jeho prírodným prostredím, ako aj skúmať špecifické sociálne, kultúrne a kultové javy a vzťahy.\nArcheológia je jedinou disciplínou s vypracovanou metodológiou, teóriou a terminológiou na získavanie a interpretáciu ľudskej minulosti cez skúmanie materiálnych pozostatkov. Je tak najvýznamnejšou vedou informujúcou o ľudskej minulosti v obdobiach pred vynájdením písma, pričom v starovekých, stredovekých aj novovekých spoločnostiach disponujúcich písmom výrazne pomáha k dokresleniu širšieho obrazu, prípadne umožňuje sledovať prejavy ľudskej kultúry, ktorým v písomnostiach nie je venovaná pozornosť."
+    },
+    {
+        "id": "01mtb",
+        "description": "Tepelná úprava potravín je technologický postup úpravy potravín teplom.\nIde o celý rad metód prípravy rôznorodých surovín a prísad tak, aby bol dosiahnutý žiadaný chuťový a estetický výsledok. Zvyčajne sa postupuje podľa vopred daného návodu – receptúry. Chuť výsledného pokrmu ovplyvňuje kvalita a druh použitých surovín, spôsob a dĺžka prípravy, použité koreniny a schopnosti kuchára zladiť škálu použitých zložiek do výslednej chuti jedla.\nTechnický pohľad: Pri úprave jedla teplom dochádza ku chemickým a fyzikálnym procesom, ktoré menia vlastnosti surovín. Nastáva zrážanie bielkovín a poškodenie bunkových štruktúr varených surovín. Dostatočne dlhá tepelná úprava v konečnom dôsledku spôsobí zmäknutie varených surovín, čím sa dosiahne konzistencia vhodná na požívanie. Zároveň dochádza k uvoľneniu štiav obsiahnutých v surovinách, Osmotický tlak spôsobí preniknutie soli a iných pochutín cez bunkové steny.\nRôzne spôsoby tepelnej úpravy jedál používané po svete ovplyvňuje dostupnosť surovín, stravovacie zvyky, estetické hľadisko, úroveň poľnohospodárstva a ekonomiky a kultúrne a náboženské zvyky."
+    },
+    {
+        "id": "034dj",
+        "description": "Hazardná hra je hra, v ktorej sa hazarduje s peniazmi, životom, zdravím… Obvykle ide o hazdard s peniazmi.\nHazardné hry môžu byť také, že všetci hráči majú rovnaké šance na výhru, ale šance môžu byť aj asymetrické. V princípe každú hru možno hrať o peniaze, takže každá hra sa môže stať hazardnou hrou. Niekedy sa za hazardné hry považujú iba také hry, v ktorých záleží iba alebo hlavne na náhode a nezáleží alebo iba minimálne záleží na hráčskom umení hráčov.\nObvykle sa za hazardné hry pokladajú také hry, ktorých prvotným cieľom a hlavným princípom je hra o peniaze:\n⁕poker\n⁕blackjack, oko\n⁕kocky\n⁕ruleta\n⁕peňažné hracie automaty\n⁕mariáš\n⁕taroky\nOsobitným druhom hazardných hier sú hry organizované štátom alebo štátom licencovanou inštitúciou:\n⁕bingo\n⁕lotéria\n⁕loto\n⁕keno\n⁕tipovanie športových výsledkov\nV niektorých štátoch sú hazardné hry zakázané, vo väčšine štátov sú pravidlá prevádzkovania hazardných hier upravené zákonom a ich prevádzkovateľ musí mať príslušnú licenciu. Na Slovensku je hranie hazardných hier zakázané do 18 rokov. Všetky hazardné hry prevádzkuje casino alebo *stavkové kancelárie.\nHazardnou hrou, kde sa hazarduje so životom, je napríklad: ruská ruleta"
+    },
+    {
+        "id": "034v_",
+        "description": "Záhradníctvo je odvetvie poľnohospodárskej výroby zamerané na pestovanie ovocia, zeleniny a okrasných rastlín, najmä kvetín."
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotografovanie je spoločenská, umelecká, vedecká i technická disciplína, zaoberajúca sa zhotovovaním trvalých obrazových záznamov pomocou účinku svetla, prípadne praktická činnosť zaoberajúca sa fotografovaním, spracovaním a výrobou fotografií. Fotografia je aj papierová, prípadne iná forma zobrazenia obrazového záznamu."
+    },
+    {
+        "id": "06h7j",
+        "description": "Beh je druh pohybu, pri ktorom sa človek alebo živočích pohybuje pomocou končatín takým spôsobom, že v určitých fázach pohybu sa žiadna z končatín nedotýka povrchu, po ktorom sa pohyb vykonáva.\nTakisto sa ako beh označuje atletická športová disciplína, ktorá sa vykonáva uvedeným spôsobom."
+    },
+    {
+        "id": "09nyy",
+        "description": "Žonglovanie alebo žonglérstvo je športová a artistická aktivita spočívajúca vo veľmi zručnom vyhadzovaní a spätnom chytaní predmetu či predmetov. Prenesene žonglovanie znamená obratné fyzické zachádzanie s niečím.\nZlepšuje nervosvalovú koordináciu, priestorovú orientáciu, sústredenie a rozvíjajúca spoluprácu medzi mozgovými hemisférami. Je to veľmi staré artistické umenie."
+    }
+]

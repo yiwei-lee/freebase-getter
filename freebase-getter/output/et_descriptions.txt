@@ -1,0 +1,1058 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Sipelglased on ühiseluliste putukate sugukond kiletiivaliste seltsist.\nMaailmas on üle 20 000 liigi, Eestis 54 liiki sipelglasi.\nMaailma teadaolevalt kiireima liigutuse teeb lõkslõugne sipelgas Odontomachus bauri – nimelt oma lõugadega. Ta suudab lõuad kokku laksatada 2000 korda silmapilgutusest kiiremini: kiirusega 35 kuni 64 meetrit sekundis. Ta avab oma lõuad kahe suure peas asuva lihasega ja hoiab neid lahti vedrulukustuse taolise elundi abil.\nEnamik sipelgaid elab troopikas. Eesti sipelgaist on tuntuimad punakaspruunid metsasipelgad kuklased, väikesed mustad, pruunid või kollased murelased ja punakad raudsikud. Eesti suurimad sipelgad on hobusipelgad, kes rajavad oma käike haigete või surnud puude tüvedesse. Aedades, niitudel ja põldudel esineb sageli väikeste mustade mullamurelaste pesi.\nEnamik sipelgaid ehitab pesa pinnasesse, kuklased teevad okastest ja muudest taimeosadest suuri kuhilpesi. Mõnd liiki sipelgad elavad parasiitidena teiste pesades.\nEmasid on peres sipelgaliigist olenevalt üks kuni mõnisada, nad elavad ja munevad sügaval pesas. Paljude sipelgate vastsed nukkuvad kookonis. Vähemalt kord aastas kasvatatakse põlvkond tiivulisi isaseid ja emaseid. Pärast lendlust ehk pulmalendu isased hukkuvad, emased murravad oma tiivad ja lähevad pessa tagasi või asutavad uue pere."
+    },
+    {
+        "id": "01dws",
+        "description": "Karulased on kiskjaliste seltsi kuuluv imetajate sugukond. Karulased on segatoidulised.\nSugukonda kuulub 5 perekonda 8 liigiga:\n⁕hiidpanda\n⁕prillkaru\n⁕baribal\n⁕pruunkaru\n⁕jääkaru\n⁕kaeluskaru\n⁕huulkaru\n⁕malaikaru"
+    },
+    {
+        "id": "015p6",
+        "description": "Linnud on keelikloomade klass selgroogsete alamhõimkonnast, kellele on iseloomulik võime aktiivselt lennata, nende keha on kaetud sulgedega ja esijäsemed on moondunud tiibadeks. Lindude ninamik on arenenud nokaks, neil puuduvad hambad, hingamine toimub kopsudega, esineb parempoolne aordikaar ja neljakambriline süda, paljunemine toimub koorega munade abil. Linnud on valdavalt püsisoojased.\nLinde uurivat teadust nimetatakse ornitoloogiaks."
+    },
+    {
+        "id": "01x_v",
+        "description": "Kaamel on sõraliste seltsi kuuluv perekond kõrbeloomi.\nKaamel on Aafrika, Lähis-Ida ja teiste Aasia maade kõrbeelanike jaoks väga tähtis loom. Kaamel kodustati juba 2000 aastat tagasi. Kõige rohkem on neid Gobi kõrbes. Nad on hindamatud koorma- ja sõiduloomad, sest suudavad kanda endaga samas kaalus koormat. Kõrbeelanikud saavad kaamelitest ka muud kasu: joovad nende piima, söövad liha, koovad kaamelivillast riideid.\nKaamelite eluiga ulatub 30–40 aastani.\nNad suudavad olla nädalate viisi joomata. Kaamelid hoiavad end päikese suhtes teatud nurga all, et keha üle ei kuumeneks, nad higistavad vähem kui teised imetajad ning hoiavad seega väga palju vett kehas kokku ning see vähendab nende veetarvet. Küürus on tal rasvavarud, mida ta toidu- ja veepuudusel kasutab. Jõudes veeallika juurde, võib kaamel ära juua kuni 114 liitrit vett."
+    },
+    {
+        "id": "01yrx",
+        "description": "Kass ehk kodukass on kaslaste sugukonda kassi perekonda kuuluv väike kiskja, kaslaste hulgas ainus koduloom."
+    },
+    {
+        "id": "09b5t",
+        "description": "Kana ehk kodukana on faasanlaste sugukonda kuuluv kodulind, kelle eellane on metsik puna-džunglikana ehk bankiva kana.\nSõna \"kana\" käib eelkõige emase kana kohta. Isaseid kanu kutsutakse kukkedeks ja kanapoegi tibudeks.\nKanu kasvatatakse peamiselt toiduks: neilt saadakse kanaliha ning kanamune.\nKanade lennuvõime on piiratud ning nad on suhteliselt väheintelligentsed.\nKana kodustati Kagu-Aasias. Kodustamise eesmärk polnud munade saamine, sest bankiva kana muneb 5–8 muna aastas ja see pole piisav põhjus kedagi kodustada. Kanad kodustati hoopis sportlikel eesmärkidel: kukevõitluse pärast. Alles hiljem hakkasid inimesed kanu munasaagi põhjal valima.\nKanad levisid järjest lääne poole ja jõudsid Kreekasse umbes 5. sajandil eKr. Egiptuses mainiti juba 18. dünastia ja Thutmosis III ajal \"lindu, kes muneb iga päev\". Vanas Roomas olid kanad juba üldlevinud.\n2003. aasta seisuga on maailmas üle 24 miljardi kana. Nad on kõige arvukamad linnud.\nKanad elavad umbes viie kuni kümne aasta vanuseks."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Koduveis on loomaliik või alamliik veise perekonnast; üks levinumaid koduloomi."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Elevant on londiliste seltsi elevantlaste sugukonda kuuluv loom.\nElevantide hulka ei kuulu mastodonid, kes kuuluvad sugukonda Mammutidae, ega sugukonda Gomphotheriidae kuuluvad perekonnad.\n\"Loomade elu\" nimetab elevantideks kõiki londilisi, kuid see seisukoht pole üldtunnustatud. Üleüldse pole väljasurnud londiliste klassifikatsioon veel kindlaks muutunud.\nEristatakse elevandiperekondi Primelephas, Elephas, Loxodonta, Mammuthus, Stegodon, Stegodibelodon, Stegolophonodon ja Stegotetrabelodon. Neist kõik peale kahe on välja surnud.\nTänapäeval elab kolm elevandiliiki. Suurim nendest ja suurim maismaaimetaja üldse on aafrika elevant. Sellest ainult pisut väiksem on india elevant. Kolmandat, kõige väiksemate isenditega liiki Loxodonta cyclotis peeti varem aafrika elevandi metsas elavaks alamliigiks, aga DNA analüüs näitas, et see on eraldi liik.\nTänapäeva elevantide mass on kuni 7,5 tonni ja kasv kuni 3,5 meetrit. Kõige suurem elevant oli pliotseenis elanud 5 m kõrgune lõunaelevant. Loomadel on mitmeti talitlev lont, võhad ja väga hõreda karvkihiga nahk. Ainult mammuti keha oli kaetud pika ja suhteliselt tiheda punakaspruuni karvastikuga.\nElevandid põlvnevad miotseenis ja pliotseenis elanud perekonnast Primelephas, mille nimi tähendabki esimest elevanti. Need loomad olid tänapäevastest elevantidest väiksemad ja neil oli neli võhka, kummaski lõualuus kaks. Ülejäänud elevandiperekonnad tekkisid 4–6 miljonit aastat tagasi."
+    },
+    {
+        "id": "03k3r",
+        "description": "Hobune ehk koduhobune on koduloom hobuslaste sugukonna hobuse perekonnast.\nHobustel on pikad peened jalad ja kiiret liikumist võimaldav sale keha. Hobused magavad püsti, kuna nende luustik ja lihased lubavad neil lõdvestuda ka püsti seistes.\nHobune on taimtoiduline loom. Tema pikk kael hõlbustab tal maast rohtu kätte saada. Taimetoiduga on kohanenud ka tema hammastik ja seedekanal. Lõikehambad asetsevad tihedasti kõrvuti ja on suunatud ettepoole. Nendega rapsib hobune maast rohtu, haarab seda liikuvate mokkadega ja lõikab läbi järsu pealiigutusega. Rohu pureb ta tugevate purihammastega kohe hoolikalt peeneks. Hobuse hammaste järgi saab määrata tema vanust: vanal hobusel on hambad kulunud.\nHobuse peamiseks toiduks on rohi, hein, põhk või söödajuurvili. Ka soola tuleb talle anda. Raske töö ja sõitude korral antakse talle veel jõusööta: kaeru. Hobune sööb ainult puhast toitu ja joob ainult puhast vett. Seda, mis kõlbab süüa, mis mitte, eristab ta haistmise abil."
+    },
+    {
+        "id": "07bgp",
+        "description": "Lammas ehk kodulammas on loomaliik veislaste sugukonna lamba perekonnast, üks levinumaid koduloomi.\nNagu kõik mäletsejad, on ka lammas sõraline. Ta saab suguküpseks kaheaastaselt ja võib elada kuni 12 aastat. Lammas kaalub 60-125 kilo. Emasel lambal on kaks nisa, ta sünnitab korraga 1-3 talle ning tiinus kestab alla viie kuu.\nLamba vähenõudlikkus on aidanud kaasa tema laiale levikule. Teda kasvatatakse nii tasandikel kui ka mägedes, stepis ja poolkõrbetes. Kokku on lambaid maailmas üle ühe miljardi. Lambail võib olla tähtis roll ka ökosüsteemis: Eestis aitavad lambad säilitada puisniite, mis nendeta kalduvad võsastuma.\nTõenäoliselt põlvneb kodulammas Euroopa ja Aasia metsikutest muflonitest. Lammas oli üks esimesi kodustatud loomi, kellest on jälgi juba varases Mesopotaamia kultuuris: sumerikeelseis tekstides tähendas planeetide ehk rändtähtede kohta kasutatav sõna algselt metslammast."
+    },
+    {
+        "id": "0cnyhnx",
+        "description": "Pull on suguküps isane veis.\nSama nimetust kasutatakse ka teiste täiskasvanud isaste sõraliste puhul.\nKohitsetud pulli nimetatakse härjaks."
+    },
+    {
+        "id": "0cjs7",
+        "description": "Harilik aspar on aspariliste sugukonda aspari perekonda kuuluv mitmeaastane rohttaim."
+    },
+    {
+        "id": "0fbw6",
+        "description": "Kapsas on ristõieliste sugukonda kapsasrohu perekonda kuuluv levinud rohttaim."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Porgand ehk aedporgand on sarikaliste sugukonda porgandi perekonda kuuluv rohttaim.\nTeaduslikult kirjeldas porgandit esimesena Linnaeus."
+    },
+    {
+        "id": "015w7p",
+        "description": "Lillkapsas on kapsasrohu perekonda kuuluva kapsa teisend. Lillkapsas on üheaastane rohttaim, mille õisikut kasutatakse köögiviljana."
+    },
+    {
+        "id": "01xj_",
+        "description": "Aedseller ehk seller on sarikaliste sugukonda selleri perekonda kaheaastane rohttaim.\nAedseller on 30–80 cm kõrgune vaoliste vartega tugevalõhnaline maitsetaim. Aianduses on levinud aedselleri kolm teisendit: juurseller, lehtseller ja varsseller.\nLihaka juurega aromaatsest juursellerist valmistatakse sellerisoola. Lehti lisatakse suppidele ja salatitesse.\nRavimtaimena leevendavad sellerilehed seedetrakti ja veresoonkonna haigusi."
+    },
+    {
+        "id": "053wn",
+        "description": "Mais on kõrreliste sugukonda maisi perekonda kuuluv üheaastane teravili.\nEsimesena kirjeldas maisi teaduslikult Linnaeus."
+    },
+    {
+        "id": "015x4r",
+        "description": "Harilik kurk ehk kurk on kõrvitsaliste sugukonda kuuluv üheaastane rohttaim. Samasse sugukonda kuuluvad ka näiteks kõrvits, arbuus ja melon.\nHarilik kurk pärineb arvatavalt India põhjaosast.\nTänapäeval kasvatatakse kurke kõikides maailmajagudes ning köögiviljadest jääb kurkide kasvatamine kogu maailmas populaarsuselt alla vaid tomatitele, sibulatele ja kapsastele."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Harilik baklažaan on maavitsaliste sugukonna maavitsa perekonda kuuluv üheaastane rohttaim."
+    },
+    {
+        "id": "017dqv",
+        "description": "Harilik apteegitill on sarikaliste sugukonda apteegitilli perekonda kuuluv mitmeaastane rohttaim.\nHarilik apteegitill on tuntud varsköögivili ja ürt."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Küüslauk on õistaimede hõimkonda lauguliste sugukonda, laugu perekonda kuuluv mitmeaastane rohttaim-geofüüt."
+    },
+    {
+        "id": "0fqlj",
+        "description": "Aedsalat on korvõieliste sugukonda, salati perekonda, kuuluv tuntud köögivili.\nAedsalat ja tema teisendid on üheaastased taimed, mille lehti kasutatakse toorelt toiduks."
+    },
+    {
+        "id": "0dj75",
+        "description": "Harilik sibul ehk söögisibul on lauguliste sugukonda laugu perekonda kuuluv mitmeaastane rohttaim."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Harilik hernes on liblikõieliste sugukonda herne perekonda kuuluv üheaastane rohttaim.\nVarem oli see tähtis valguallikas. Tänapäeval kasutatakse seda eeskätt köögivilja ja loomasöödana.\nHarilik hernes pärineb Väike-Aasiast ja on aastatuhandeid olnud kultuurtaim. Herneste kõige varasemad arheoloogilised leiud pärinevad noorema kiviaja Süüriast, Türgist ja Jordaaniast. Ajavahemikus 4800–4400 eKr levis hernes Niiluse deltasse ja 3800–3600 eKr Ülem-Egiptusesse. Gruusia esimesed leiud pärinevad 5. aastatuhandest eKr. Ida pool on leiud nooremad. Afganistani jõudis hernes umbes 2000 eKr ning Harappasse, Pakistani ja Loode-Indiasse 2250–1750 eKr. Aastaks 1000 eKr oli hernes jõudnud ka Gangese valglasse ja Lõuna-Indiasse.\nHerneid võib külvata siis, kui pinnase temperatuur on tõusnud +10 °C-ni. Kõige paremini kasvab hernes temperatuuril +13...+18 °C. Sooja kliimaga paikades ta suvekuumust hästi ei talu. Kõige paremini kasvavad herned sõmeratel kergelt happelistel muldadel."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Maapähkel ehk arahhis on hariliku maapähkli seeme.\nMaapähkel on kaunvili, mis valmib mullas ja sarnaneb välimuselt oaga."
+    },
+    {
+        "id": "05vtc",
+        "description": "Harilik kartul on maavitsaliste sugukonna maavitsa perekonda kuuluv üheaastane rohttaim.\nHariliku kartuli söögiks tarvitatavat mugulat nimetatakse samuti kartuliks. Kartul kui kultuurtaim on pärit Lõuna-Ameerika läänerannikult. Suuremad kartulitootjad maailmas on Hiina, India, Venemaa, Ukraina ja USA, kogutoodang 330 mln tonni.\nMaavitsa perekonda kuulub ligikaudu 200 kartuliliiki. Nende hulgas vähemalt 26 kultuurliiki. Kultuurliikidest kõige tuntum on harilik kartul. Mõningaid teisi kartuliliike kasutatakse aretatavate kartulisortide saagikuse, tärklisesisalduse, külmakindluse ning haigustele ja kahjuritele vastupidavuse tõstmiseks."
+    },
+    {
+        "id": "0cl46",
+        "description": "Naeris on Vahemeremaadelt pärinev ristõieliste sugukonda kuuluv kaheaastane rohttaim."
+    },
+    {
+        "id": "02d9p2",
+        "description": "Ürt-allikkerss on ristõieliste sugukonda allikkersi perekonda kuuluv mitmeaastane rohttaimeliik."
+    },
+    {
+        "id": "0jtc5",
+        "description": "Harilik raudrohi on korvõieliste sugukonna raudrohu perekonda kuuluv mitmeaastane rohttaim. Ta on kasutatav kui ilu- ja ravimtaim."
+    },
+    {
+        "id": "015fr",
+        "description": "Brasiilia on riik Lõuna-Ameerikas. Brasiilia on pindalalt 5. riik maailmas, hõlmates ligi 47% Lõuna-Ameerika mandrist. Rahvaarvult on Brasiilia samuti 5. kohal.\nBrasiilia on ainus portugalikeelne riik Ameerikas."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanada on riik Põhja-Ameerikas.\nKanada on maailmas pindalalt Venemaa järel teine, samuti maailma kõige pikema rannajoonega riik. Kanadal on pikad rannaalad nii Põhja-Jäämere, Atlandi kui ka Vaikse ookeani ääres, samuti kaks teineteisest lahus paiknevat maismaapiiri USA-ga. Lääneservas piirneb Kanada Alaska osariigiga, peamine piir naabriga aga jookseb 6400 km pikkuselt mööda riigi lõunaosa."
+    },
+    {
+        "id": "01p1v",
+        "description": "Tšiili Vabariik asub Lõuna-Ameerika läänerannikul.\nTšiili piirneb idas Argentina ja Boliiviaga ning põhjas Peruuga.\nTšiilile kuuluvad ka Lihavõttesaar ja Juan Fernándeze saarestik Vaikses ookeanis.\nTšiili pindala on 756 950 km². Riigi ulatus põhja-lõuna suunas on umbes 4630 km, kuid ida-lääne suunas on suurim ulatus vaid 430 km."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Hiina on maa ja muistne tsivilisatsioonipiirkond Kaug-Idas, mis alates 1949. aastast jaguneb Hiina Rahvavabariigi ning Hiina Vabariigi vahel.\nNimetust \"Hiina\" võidakse kasutada kas Päris-Hiina kohta või siis mõeldakse selle all maa-ala, mis lisaks Päris-Hiinale hõlmab ka Mandžuuriat, Sise-Mongooliat, Tiibetit ja Xinjiangi. Ajakirjanduses mõistetakse \"Hiina\" all tavaliselt Hiina Rahvavabariiki ja \"Taiwani\" all Hiina Vabariiki.\nAjaloolised Hiina pealinnad on olnud põhiliselt idas. Kõige tuntumad on Nanjing, Peking, Xi'an ja Luoyang. Poliitiliselt ühendatud ühtse keskvalitsusega Hiinas on eril ajajärkudel ametlike riigikeeltena kasutatud hiina keelt, mongoli keelt ja mandžu keelt.\nSõna \"Hiina\" pärineb tõenäoliselt Qini dünastia nimest. Enne Euroopasse jõudmist käis see sõna Siiditeel läbi mitmest keelest."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Kuuba on riik Ladina-Ameerikas. Ta hõlmab suurema osa Kuuba saarest ja seda ümbritsevad väiksemad saared."
+    },
+    {
+        "id": "03shp",
+        "description": "Iraan on riik Lähis-Idas. Iraan piirneb Aserbaidžaani, Armeenia, Türgi, Iraagi, Türkmenistani, Afganistani ja Pakistaniga. Põhjast on Iraanil ligipääs Kaspia merele, lõunast Pärsia lahele ja India ookeanile."
+    },
+    {
+        "id": "01znc_",
+        "description": "Türgi Vabariik on riik, mille territoorium asub nii Euroopas kui ka Edela-Aasias. Aasia-osa nimetatakse Anatooliaks. Tähtsama osa riigist moodustab Musta mere ja Vahemere vahele jääv Väike-Aasia poolsaar. Türgi piirneb idast Gruusia, Armeenia, Aserbaidžaani ja Iraaniga, lõunast Iraagi ja Süüriaga ning läänest Egeuse mere ning Kreeka ja Bulgaariaga."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Rootsi, ametliku nimega Rootsi Kuningriik, paikneb Euroopas Skandinaavia poolsaare idaosas. Ta piirneb idast Soomega ja läänest Norraga. Maismaapiiri kogupikkus on 2205 km. Idast ja lõunast piirab Rootsit Läänemeri. Rannajoone pikkus on 3218 km. Rootsi on silla abil ühendatud Taaniga."
+    },
+    {
+        "id": "06mkj",
+        "description": "Hispaania Kuningriik on riik Edela-Euroopas Pürenee poolsaarel. Samal poolsaarel asub ka Hispaania läänenaaber Portugal. Põhjapiiri taha jäävad Prantsusmaa ja väikeriik Andorra. Vahemeri jääb idasse ja lõunasse, Atlandi ookean lõunasse, läände ja põhja. Hispaaniat lahutab lõuna poole jäävast Aafrikast kitsas Gibraltari väin, mille ääres Euroopa poolel asub ka Suurbritanniale kuuluv Gibraltar.\nHispaania osad on ka Baleaarid Vahemeres, Kanaari saared Atlandi ookeanis ning Põhja-Aafrika linnad Ceuta ja Melilla.\nHispaania ametlik nimi regionaalsetes ametlikes keeltes on:\n⁕katalaani keeles Regne d'Espanya\n⁕baski keeles Espainiako Erresuma\n⁕galeegi keeles Reino de España"
+    },
+    {
+        "id": "0h7x",
+        "description": "Austria Vabariik on merepiirita riik Kesk-Euroopas, 9 liidumaast koosnev föderatsioon. Austria piirneb läänest Liechtensteini ja Šveitsiga, lõunast Itaalia ja Sloveeniaga, idast Ungari ja Slovakkiaga ning põhjast Saksamaa ja Tšehhi Vabariigiga. Alates 1995. aastast kuulub Austria Euroopa Liitu."
+    },
+    {
+        "id": "03gj2",
+        "description": "Ungari on merepiirita riik Euroopas Doonau keskjooksul. Ungari asub Kesk-Euroopas. Ta piirneb Ukraina, Slovakkia, Austria, Sloveenia, Horvaatia, Rumeenia ning Serbiaga."
+    },
+    {
+        "id": "0345h",
+        "description": "Saksamaa on föderaalne vabariik Kesk-Euroopas. Ta piirneb Taani, Poola, Tšehhi, Austria, Šveitsi, Prantsusmaa, Luksemburgi, Belgia ja Hollandiga. Põhjas moodustavad loodusliku riigipiiri Põhjameri ja Läänemeri.\nPealinn ja valitsuse asukoht on Berliin, mõned üksikud ministeeriumid ja föderaalinstitutsioonid asuvad Bonnis, endise Lääne-Saksamaa pealinnas. Poliitiline ülesehitus on föderaalne ja organiseeritud parlamentaarse demokraatiana. Põhiseaduse järgi määratleb Saksamaa end demokraatliku ja sotsiaalse liitriigi ning õigusriigina. Riik koosneb 16 osaliselt suveräänsest liidumaast. Saksamaa on 82 miljoni elanikuga Venemaa järel elanike arvult teine riik Euroopas ja suurim Euroopa Liidus. Saksamaa on ka ÜRO, Euroopa Liidu, NATO ja G8 liikmesriik."
+    },
+    {
+        "id": "05qhw",
+        "description": "Poola Vabariik on riik Kesk-Euroopas. Poola piirneb läänest Saksamaaga, lõunast Tšehhi ja Slovakkiaga, idast Ukraina ja Valgevenega ning põhjast Leedu ja Venemaaga. Põhja poole jääb ka Läänemeri. Piiri pikkus on 3014 km, rannajoone pikkus 524 km.\nAsukoha ja ligipääsetavuse tõttu on Poolas olnud palju sõdu ja selle piirid on väga suures ulatuses nihkunud."
+    },
+    {
+        "id": "04g5k",
+        "description": "Läti on riik Euroopas, üks kolmest Balti riigist.\nLäti asub Põhja-Euroopas Läänemere idarannikul. Riik asetseb Eestist lõunas, Leedust põhjas. Idas on maapiir Venemaaga ja kagus Valgevenega. Läänes piirab riiki Läänemeri ja loodes Riia laht. Lätile ei kuulu saari ega asumaid. Pindala on 64 589 km².\nLäti on demokraatlik parlamentaarne vabariik ning kuulub alates 17. septembrist 1991 Ühinenud Rahvaste Organisatsiooni, 29. märtsist 2004 Põhja-Atlandi Lepingu Organisatsiooni ja alates 1. maist 2004 Euroopa Liitu."
+    },
+    {
+        "id": "012wgb",
+        "description": "Iirimaa on Briti saarestiku suuruselt teine saar. Suurbritannia saarest lahutab teda Iiri meri.\nSuurem osa saarest kuulub Iirimaale. Saare põhjaosa kuulub Suurbritanniale.\nIirimaa kõrgeim mägi on 1038 meetri kõrgune Carrauntoohil.\nSaare elanike arv on üle 6,4 miljoni."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamaica on riik ja saar Kariibi meres. Ta piirneb põhjast Kuubaga ja idast Haiti saarega, millel asuvad Haiti ja Dominikaani Vabariik."
+    },
+    {
+        "id": "01crd5",
+        "description": "Vietnam on riik Kagu-Aasias Indohiina poolsaare idarannikul. Piirneb Hiina, Laose ja Kambodžaga.\nRohkem kui poole riigi aladest hõlmab tiheda metsaga kaetud Annami mäestik. Tihedama asustusega ja ühtlasi kõige tegusamalt haritavad alad paiknevad Hồng Hà ja Mekongi jõe ääres.\nTeise maailmasõja järel oli Vietnam kaheks jagatud, pärast Vietnami sõda ühendas kommunistlik põhjaosa riigi taas. Tänapäeval on Vietnam üheparteiline riik, mida juhib kommunistlik partei. Alates 1986. aastast on valitsus järginud liberaalset, doi moi nime all tuntud majanduspoliitikat."
+    },
+    {
+        "id": "015qh",
+        "description": "Bulgaaria on riik Kagu-Euroopas Balkani poolsaare idaosas, Musta mere läänerannikul. Tema naabrid on põhjas Rumeenia, läänes Serbia ja Makedoonia ning lõunas Kreeka ja Türgi.\nBulgaaria on 2007. aastast Euroopa Liidu liige."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongoolia on merepiirita riik Sise-Aasias. Piirneb põhjast Venemaa ja lõunast Hiinaga."
+    },
+    {
+        "id": "06q1r",
+        "description": "Šotimaa on Suurbritannia ajalooline omavalitsuslik osa Suurbritannia saare põhjaosas ja seda ümbritsevatel saartel. Šotimaa maapiiri pikkus Inglismaaga on 96 km ja piir kulgeb mööda Tweedi jõge. Peamised saarerühmad on Shetlandi saared, Orkney saared ja Hebriidid."
+    },
+    {
+        "id": "0chghy",
+        "description": "Austraalia on föderatiivne riik Austraalia mandril, Tasmaania saarel ja nende lähisaartel. Austraalia on pindalalt kuues riik maailmas ning asub lõunapoolkeral Uus-Meremaast loodes ja Indoneesiast lõunas. Riigile kuuluvad India ookeanis Ashmore ja Cartier, Jõulusaar ja Kookossaared, Vaikses ookeanis Norfolk ja Korallimere saared ning Heard ja McDonald Antarktikas. Austraalia on Kaug-Lõuna riik."
+    },
+    {
+        "id": "035v3",
+        "description": "Gröönimaa on Taani Kuningriigi koosseisu kuuluv omavalitsuslik ala, mis hõlmab Gröönimaa saare ja mitu väikest saart Ameerikas Põhja-Ameerika mandrist kirdes Põhja-Jäämere ja Atlandi ookeani vahel.\nGröönimaa põhjaosa eraldab Kanadale kuuluvast läände jäävast Ellesmere'i saarest kitsaimas kohas 26 km laiune Narese väin, milles asub Tartupaluki saar. Lõuna pool jäävad Gröönimaa ja Kanada vahele 350 kuni 700 km laiuselt Baffini laht ja Davise väin. Ida pool paiknevast Islandist eraldab Gröönimaad 300 km laiune Taani väin.\nGröönimaa pindala on 2 166 086 või 2 180 000 km². Ta on pindalalt ligikaudu viiskümmend korda suurem kui Eesti. Gröönimaa ulatus põhjast lõunasse on 2670 km. Morris Jesupi neem 730 km kaugusel põhjapoolusest on paljudes teatmikes maailma põhjapoolseim maismaapunkt. Selle neeme läheduses asub mõni veel veidi põhja pool asuv saareke. Lõunapoolseim punkt Farveli neem paikneb ligikaudu Tallinna laiuskraadil.\nElanike arv on 56 615.\nKuigi Gröönimaa asub Ameerikas ja moodustab loodusgeograafiliselt osa Põhja-Ameerikast, on ta ajalooliselt, poliitiliselt ja majanduslikult Euroopaga tihedalt seotud."
+    },
+    {
+        "id": "0jgx",
+        "description": "Armeenia, on merepiirita riik Ees-Aasias Lõuna-Kaukaasias. Armeenia piirneb Gruusia, Aserbaidžaani, Türgi ja Iraaniga, hõlmates ajaloolisest Armeeniast vaid idaosa.\nArmeenia iseseisvus Nõukogude Liidust 1991. aastal. Siiski ei ole üks ÜRO liige, Pakistan, Armeeniat tänini tunnustanud, kuna Pakistan toetab Mägi-Karabahhi konfliktis Aserbaidžaani."
+    },
+    {
+        "id": "03_3d",
+        "description": "Jaapan on saareriik Ida-Aasias, mis ulatub Ohhoota merest põhjas Ida-Hiina mere ja Taiwanini lõunas. Euraasia mandrist eraldab seda Vaikses ookeanis paiknevat maad Jaapani meri.\nJaapani nime kirjutatakse märkidega, mille tähendus on „päikese allikas“, mispärast mõnikord kutsutakse Jaapanit ka tõusva päikese maaks.\nJaapani saarestikku kuulub 6852 saart. Neist neli suuremat on Honshū, Hokkaidō, Kyūshū ja Shikoku, mis kokku moodustavad 97% Jaapani maismaa pindalast. Rahvaarvu poolest on Jaapan oma enam kui 127 miljoni elanikuga maailmas kümnendal kohal. Suur-Tōkyō piirkond, kuhu kuulub de facto pealinn Tōkyō ja mitmed ümbritsevad prefektuurid, on maailma suurim metropol, kus elab üle 30 miljoni inimese.\nJaapan on konstitutsiooniline monarhia, kus formaalseks riigipeaks on keiser, seadusandlikku võimu teostab aga valitav parlament."
+    },
+    {
+        "id": "019rg5",
+        "description": "Keenia on riik Aafrika idaosas. Piirneb Etioopia, Somaalia, Lõuna-Sudaani, Tansaania, Uganda ja India ookeaniga. Riigi põhjapiiril asuv vaidlusalune Ilemi kolmnurk on tegelikult Keenia kontrolli all.\nKeeniat läbib ekvaator.\nKeenia pindala on 580 000 km² ja rahvaarv veidi üle 43 miljoni inimese. Pealinn on Nairobi.\nRiik on saanud nime Kenya mäe järgi, mis on Aafrika mägedest kõrguselt teine."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Esmaspäev on nädala esimene päev Eestis ja paljudes teistes riikides. Paljudes maailma maades ja kirikunädalas on esmaspäev nädala teine päev.\nAstroloogias on esmaspäev Kuu päev."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Teisipäev on nädala teine päev Eestis. Paljudes maailma maades ja kirikunädalas on teisipäev nädala kolmas päev.\nAstroloogias on teisipäev planeet Marsi päev."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Kolmapäev ehk kesknädal on nädalapäev, mis järgneb teisipäevale ja eelneb neljapäevale. Paljudes maailma maades ja kirikunädalas on kolmapäev nädala neljas päev ja ühtlasi nädala keskmine päev. Vana-Roomas oli see nädalapäev pühendatud jumal Mercuriusele, sellest on pärit ka tänapäeva kolmapäeva nimetus romaani keeltes. Põhja-Euroopas vastas Mercuriusele Odin, sellest nimest lähtub ka kolmapäeva nimetus mitmetes germaani keeltes. Eesti, liivi, läti ja leedu keeles nimetatakse seda päeva nädala kolmandaks päevaks.\nAstroloogias nimetatakse kolmapäeva planeet Merkuuri päevaks."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Neljapäev on nädalapäev, millele eelneb kolmapäev ja järgneb reede. Eestis on neljapäev nädala neljas päev. Paljudes maailma maades ja kirikunädalas on neljapäev nädala viies päev.\nAstroloogias on neljapäev planeet Jupiteri päev."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Reede on nädala päev, millele eelneb neljapäev ja järgneb laupäev. Eestis on reede nädala viies päev. Paljudes maailma maades ja kirikunädalas on reede nädala kuues päev.\nAstroloogias on reede planeet Veenuse päev.\nReede on oma eestikeelse nimetuse saanud skandinaavia mütoloogiast pärit jumalanna Freya järgi. Otselaen tuleb arvatasti skandinaavia ühiskeelest, kus sõnakuju oli arvatavasti fredag. Vanapõhja keeles oli selle päeva nimetus tõenäoliselt Freyadag.\nKristluses peetakse reedet nädalapäevaks, mil Jeesus Kristus risti löödi. Õigeusklikel ja katoliiklastel on tavaks selle mälestuseks reedeti paastuda.\nReedet, mis satub 13. kuupäevale, peetakse õnnetuks päevaks."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Laupäev on nädala päev, millele eelneb reede ja järgneb pühapäev. Eestis on laupäev nädala kuues päev. Paljudes maailma maades ja kirikunädalas on laupäev nädala seitsmes ja viimane päev.\nAstroloogias on laupäev planeet Saturni päev.\nJudaismis on see päev püha nii nagu kristluses pühapäev ja islamis reede."
+    },
+    {
+        "id": "0f6ld",
+        "description": "Pühapäev on nädala päev, millele eelneb laupäev ja järgneb esmaspäev. Eestis on pühapäev nädala seitsmes ja viimane päev. Paljudes maailma maades ja kirikunädalas on pühapäev nädala esimene päev.\nAstroloogias on pühapäev Päikese päev."
+    },
+    {
+        "id": "06m_p",
+        "description": "Päike on meie Päikesesüsteemi täht, heledaim Maal nähtav täht.\nKui jutt on mõnest teisest planeedisüsteemist, siis võib üldnimetusena päikesteks nimetada ka selle teise konkreetse planeedisüsteemi tähte. Eesti keeles tehakse vahet suurtähe kasutamisega: kui räägitakse Päikesest, siis on mõeldud meie Päikesesüsteemi tähte, aga kui päikesest, siis mõeldakse üldnimetust.\nPäikese näiv tähesuurus on −26,74 ja absoluutne tähesuurus 4,85. Päikese aktiivsustsükkel kestab umbes 11 aastat, kuid amplituud on vaid umbes 0,001 tähesuurust.\nPäike on Maast keskmiselt 149,6 miljoni kilomeetri kaugusel. Seda kaugust nimetatakse astronoomiliseks ühikuks. Maa kaugus Päikesest ei muutu palju: periheelis ehk kõige lähemas punktis on see 147,1 miljonit km ja afeelis ehk kõige kaugemas punktis 152,1 miljonit km. Päikese näiv nurkläbimõõt on 32'58\",78–31'31\",34. Päikese ekvatoriaalne horisondiline parallaks on 8\",94–8\",65. Päikese solaarkonstant Maa atmosfääri piiril on 1,95 cal\/cm²\/min ehk 1,36 kW\/m².\nPäikese ümber tiirlevad Maa ja teised planeedid, nii Maa-sarnased planeedid, hiidplaneedid kui ka kääbusplaneedid. Lisaks tiirlevad Päikese ümber veel asteroidid, meteoroidid, komeedid, Neptuuni-tagused objektid ja tolm.308182716382641¹¹²³−9−10"
+    },
+    {
+        "id": "09cy8",
+        "description": "Merkuur on Päikesele kõige lähem ning kõige väiksem Päikesesüsteemi planeet. Ta asub Päikesele umbes 3 korda lähemal kui Maa. Merkuur teeb tiiru ümber päikese 88 Maa ööpäeva jooksul.\nMerkuur kuulub Maa-tüüpi planeetide hulka."
+    },
+    {
+        "id": "09bcm",
+        "description": "Veenus on Maaga peaaegu ühesuurune ning meile lähim planeet. See on nii hele, et on taevast kergesti leitav. Hommikutaevas nähtavat Veenust nimetatakse Koidutäheks, õhtutaevas nähtavat Ehatäheks."
+    },
+    {
+        "id": "02j71",
+        "description": "Maa on Päikesesüsteemi kolmas planeet Päikese poolt loetuna ning ainuke teadaolev planeet Universumis, kus leidub elu. Maa tekkis 4,54 miljardit aastat tagasi. Maa biosfäär on oluliselt muutnud Maa atmosfääri ja planeedi teisi abiootilisi omadusi, võimaldades kiiret aeroobsete organismide ning osoonikihi teket, mis koos Maa magnetväljaga blokeerib kahjulikku päikesekiirgust, võimaldades elu maal. Tänu Maa geofüüsilistele omadustele ning selle geoloogilisele ajaloole ja orbiidile on elu sellel planeedil ka säilinud. Arvatakse, et elu planeedil Maa kestab veel vähemalt 500 miljonit aastat.\nMaa välispind jaguneb mitmeks jäigaks \"plaadiks\" ehk laamaks, mis miljonite aastate vältel planeedi pinnal ringi liiguvad. Umbes 71% Maa pinnast on kaetud soolase veega – ookeanidega, ülejäänud osa koosneb kontinentidest ja saartest, mille hüdrosfääri moodustavad järved ja jõed. Elu säilimiseks vajalikku vedelas olekus vett ei leidu teadaolevalt ühelgi teisel planeedil. Maa poolused on suuremalt jaolt kaetud jääga. Maa ainus teadaolev looduslik satelliit on Kuu. Maa ja teised kosmose objektid mõjutavad üksteist vastastikku, eriti Päike ja Kuu. Kuu põhjustab ookeanides loodeid."
+    },
+    {
+        "id": "09cws",
+        "description": "Marss on Päikesesüsteemi neljas planeet. Marss asub Päikesest 1½ korda kaugemal kui Maa ja saab seepärast poole vähem soojust.\nTeleskoobiga on see Maast poole väiksem punakas planeet hästi vaadeldav iga 15–17 aasta tagant suure vastasseisu ajal, kui Marsi ja Maa vaheline kaugus on ainult 55–60 mln km. Sel ajal paistab Marss taevas niisama heledalt kui Veenus.\nMarsi keskmine kaugus Päikesest on 227,9 miljonit km ehk 1,52 aü ja kaugus Maast 55–400 miljonit km.\nMarsi tiirlemisperiood on 686,98 Maa päeva. Marsi ööpäev kestab umbes sama palju kui Maal: 24 tundi ja 37 minutit.\nMarsi läbimõõt on ekvaatori kohal 6974 km, pindala 144,8 miljonit km² ja ruumala 163,18 miljardit km³. Marsi mass on 6,4219*10²³ kg ehk 0,106 Maa massi ja tihedus 3933 kg\/m³.\nMarsil on gravitatsioon 40% Maa omast, esimene kosmiline kiirus 3,6 km\/s ja paokiirus 5,0 km\/s.\nEt Marsi ja Maa pöörlemistelgede kalle on enam-vähem ühesugune"
+    },
+    {
+        "id": "09q84",
+        "description": "Jupiter on Päikesesüsteemi kõige suurem planeet, mis asub Päikesest umbes 5 korda kaugemal kui Maa, tema mass ületab Maa massi 318 korda ja kõigi teiste planeetide kogumassi umbes 3 korda. Päikese massist on Jupiteri mass ligikaudu 1000 korda väiksem.\nJupiteril nagu kõigil hiidplaneetidel puudub tahke pind. Teleskoobis on näha heledad ja tumedad pilvevööndid, mis tiirlevad ümber planeedi eri kiirusega. Diferentsiaalne pöörlemine on hiidplaneetidele ja tähtedele tüüpiline – Jupiteri ekvaatori lähedaste piirkondade pöörlemisperiood on umbes 5 minutit lühem kui pooluste lähedal, vastavalt 9 tundi ja 50.5 minutit ning 9 tundi ja 55.7 minutit. Jupiteri 1000 km paksune atmosfäär koosneb peamiselt vesinikust ja heeliumist, vähe leidub metaani, ammoniaaki, etaani, atsetüleeni, fosfiini ja veeauru. Atmosfääri all on 24 000 km paksune kiht, milles gaas läheb sujuvalt üle vedelaks molekulaarseks vesinikuks, ja 46 000 km paksune nn. metallilise vesiniku tsoon. Maa-taolise tiheda tuuma raadius on umbes 4000 km. Kõrge rõhu tõttu on temperatuur Jupiteri keskmes ligikaudu 20 000 °C ning planeet kiirgab 1,9 korda rohkem soojust kui ta Päikeselt saab; pilvedes on temperatuur −140 °C. Jupiteri sisemuse täpne ehitus ning keemiline koostis ei ole tänapäeval veel selge, selgust peavad tooma tulevikus planeedi juurde saadetavad kosmoseaparaadid."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Saturn on Päikesesüsteemi kuues planeet.\nSaturni tuntakse juba antiikajast, mil ta oli teadaolevatest planeetidest kõige kaugem.\nPlaneedile on antud nimi Vana-Rooma jumala Saturnuse järgi.\nSaturni keskmine kaugus Päikesest on 9,5 astronoomilist ühikut. Saturn on tuntud oma rõngaste poolest ning tal on vähemalt 60 kuud 2007 aasta seisuga. Enamik neist on väga väikesed: 34 on diameetrilt väiksemad kui 10 km ja veel 13 väiksemad kui 50 km. Saturni ööpäev kestab 10 tundi 32 minutit 15 sekundit, täistiiruks ümber Päikese kulub 29,5 Maa aastat.\nSaturni läbimõõt on 120 600 km, mis on 9,4 korda suurem kui Maal. Kuigi Saturn oma läbimõõdult ainult umbes 20% Jupiterist väiksem, moodustab ta mass vaid ligikaudu 1\/3 Jupiteri omast ehk umbes 95 maa massi. Saturni keskmine tihedus ligikaudu 0,687 g\/cm³ tingib ka asjaolu, et ta meie päikesesüsteemi planeetidest kõige lapikum.\nSaturni atmosfääri peamisteks koostisosadeks on vesinik ja väiksemal määral ka heelium. Esindatud on ka metaan, ammoniaak, etaan atsetüleen ja fosfiin.\nSaturni kuud järjestatuna kaugemast lähemale: Phoebe, Iabetus, Hyperion, Titan, Rhea, Helena, Dione, Kalypso, Telesto, Tethys, Enceladus, Mimas, Janus, Epimetheus, Pandora, Prometheus, Atlas, Pan."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Uraan on Päikesesüsteemi seitsmes planeet.\nUraan kuulub hiidplaneetide hulka. Tema raadius on Päikesesüsteemi planeetide seas kolmandal ning mass neljandal kohal. Kuigi planeet on põhimõtteliselt nähtav ka palja silmaga, ei märganud seda vana-aja vaatlejad hägususe ning aeglase tiirlemise tõttu.\nTeleskoobi abil avastas Uraani 31. märtsil 1781 Saksa päritolu Inglise amatöörastronoom William Herschel. Ta nimetas uue planeedi kuningas George III auks Georgium Siduseks, kuid see nimi ei leidnud poolehoidu. Üldtuntuks sai saksa astronoom Johann Elert Bode pandud nimi Uraan. Planeet sai oma nime vanakreeka mütoloogia taevajumala Uranose järgi. Uraanist sai esimene teleskoobi abil avastatud planeet.\nUraani keemiline koostis on sarnane Neptuunile, erinedes selgelt suuremate gaasiliste planeetide – Jupiteri ja Saturni – koostisest. Uraani atmosfääri temperatuur on Päikesesüsteemi planeetide hulgas kõige madalam, langedes kuni 49 kelvinini. Väga madala temperatuuri tõttu kuuluvad atmosfääri koostisesse peamiselt väga kerged gaasid – vesinik ja heelium. Atmosfääri alumistes kihtides esinevad pilved, mis on moodustunud metaanist, ammoniaagist ja veest. Pilvekihid on küllaltki keerulise ja kihilise struktuuriga. Arvatavalt asuvad metaanipilved ülemises ja veepilved alumises osas. Vähesel määral leidub atmosfääris ka süsivesinikke."
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptuun on kaheksas ja viimane suurtest planeetidest meie päikesesüsteemis ja on eriti kuulus oma avastusloo poolest. Nimetati see planeet Vana-Rooma vetejumala Neptunuse järgi.\nSuuruselt on Neptuun diameetri järgi neljas. Neptuun on diameetrilt väiksem ja massilt suurem kui Uraan, oma massilt 17,5 korda ja ruumalalt 42 korda suurem Maast.\nNeptuuni on külastanud ainult üks kosmoselaev, Voyager 2 25. augustil 1989. aastal.\nNagu tüüpilised gaasilised planeedid, on Neptuunil kiired tuuled piiratud laiuskraadide joontega, esinevad suured tormid või keerised. Neptuuni tuuled on kõige kiiremad Päikesesüsteemis, ulatudes 2000 km\/h."
+    },
+    {
+        "id": "07cqw",
+        "description": "Sõnn on ekliptikal asuv tähtkuju.\nTähtkuju heledaim täht on Aldebaran. Sõnni tähtkujus asuvad ka heledad hajusparved Plejaadid ning Hüaadid."
+    },
+    {
+        "id": "077r8d",
+        "description": "Kaksikud on sodiaagi tähtkuju, mis piirneb Sõnni, Vähi, Veomehe, Orioni, Väike Peni, Ilvese ja Ükssarviku tähtkujudega. Meie laiuskraadil on Kaksikute tähtkuju hästi vaadeldav talvises taevas.\nNime on tähtkuju saanud antiikmütoloogia vendade Kastori ja Polydeukese järgi.\nPäike asub Kaksikute tähtkujus juuni lõpust juuli lõpuni. Astroloogias asub Päike Kaksikutest kuu aega varem."
+    },
+    {
+        "id": "04h2q",
+        "description": "Lõvi on ekliptikal asuv tähtkuju. Selle sümbol on .\nTähtkuju heledaim täht on Regulus. Järgmised heleduselt on Algieba ja Denebola. 7,8 valgusaasta kaugusel asuv Wolf 359 on üks Päikesele lähimaid tähti. Lõvi tähtkujus asuvad ka mitmed heledad galaktikad, näiteks M65, M66, M95, M96, M105 ja NGC 3628.\nLõvi tähtkujust saab alguse 14.–15. novembril tipnev leoniidide meteoriidisadu."
+    },
+    {
+        "id": "07yt9",
+        "description": "Neitsi on sodiaagi tähtkuju.\nHeledaim täht on 220 valgusaasta kaugusel asuv Spiika.\nPorrima on üks tuntumaid kaksiktähti.\nTähtkujus asub Neitsi galaktiparv, kus asuvad näiteks galaktikad M49, M58, M59, M60, M61, M84, M86 ja M87 ning parve mitte kuuluv Sombreerogalaktika M104."
+    },
+    {
+        "id": "04h36",
+        "description": "Kaalud on ekliptikal asuv tähtkuju.\nKaalud on ainus ekliptika tähtkuju, mis ei kanna elusolendi nime.\nKaalude tähtkuju asub taeva lõunapoolkeral. Ta piirneb järgmiste tähtkujudega: Madu, Neitsi, Hüdra, Kentaur, Hunt, Skorpion ja Maokandja.\nKaaludes asub tähesüsteem Gliese 581, milles 2007 avastati esimene Maa-sarnane planeet."
+    },
+    {
+        "id": "06pgz",
+        "description": "Skorpion on ekliptikas asuv tähtkuju.\nTähtkuju heledaim täht on punane hiid Antares, mis on tuntud ka kui Marsi Rivaal, sest ta sarnaneb oma punase värviga välimuselt planeedile Marss."
+    },
+    {
+        "id": "06pgg",
+        "description": "Ambur on ekliptikas asuv tähtkuju. Astronoomiline märk on ♐.\nAmbur on ekliptika tähtkujudest lõunapoolseim, asudes Skorpioni ja Kaljukitse vahel. Linnutee näib Amburi tähtkujus kõige tihedam, sest seal asub meie Galaktika keskpunkt. Heledaim täht on ε Sagittarii ehk Kaus Australis, 145 valgusaasta kaugusel asuv sinine hiid tähesuurusega +1,88.\nKreeka müüdi kohaselt on Ambur kentaur Cheiron, kelle Zeus taevasse tõstis."
+    },
+    {
+        "id": "01nk9",
+        "description": "Kaljukits on üks sodiaagi tähtkujudest, otsetõus 21 h, kääne -20°. Kaljukitse tähtkujusse kuuluvaks loetakse üle 40 tähe, neist heledaim meist u 39 valgusaasta kaugusel asuv Kaljukitse delta ehk Deneb Algedi ehk Scheddi. Meile lähim täht on 29 valgusaasta kaugusel. Vähemalt ühel tähel on planeete. Meil on tähtkuju nähtav sügisõhtutel lõunataevas.\nKaljukits on oma suhteliselt madalast heledusest hoolimata arvatavasti üks vanimaid inimeste poolt eristatud tähtkujusid, mille kujutisi on leitud juba 3000 aasta tagustelt Babüloonia savitahvlitelt. Kaljukits kuulus ka 48 Ptolemaiose loetletud tähtkuju hulka.\nKahljukitse kujutist on tähti mõtteliste joontega ühendades võimalik näha erineval viisil. Ühe variandi järgi moodustavad ι Cap, θ Cap, ja ζ Cap kaljukitse pea, γ Cap ja δ Cap sarve, β Cap ja α2 Cap saba ning ψ Cap ja ω Cap tagajala."
+    },
+    {
+        "id": "05s7n",
+        "description": "Kalad on ekliptika tähtkuju. Asub Veevalaja ja Jäära vahel.\nKalade otsetõus on 1 h ja pindala 889 ruutkraadi. Eestis on ta vaadeldav sügisel.\nKalades ei ole heledaid tähti, heledaim on η Psc, mille näiv heledus on 3,62 m.\nKalad on üks sodiaagi 12 tähtkujust."
+    },
+    {
+        "id": "02vx4",
+        "description": "Jalgpall on sportlik pallimäng, milles kahe 11-liikmelise võistkonna eesmärk on toimetada jalgpalliks nimetatav kerakujuline mänguvahend ristkülikukujulisel muru- või kunstkattega väljakul vastase väravasse. Üldjuhul on keelatud mängida palli käega, kuid erandina on see lubatud väravavahile. Võidab kõige rohkem väravaid löönud võistkond. Olenevalt võistluse formaadist võib kohtumine lõppeda ka viigiga.\nKuigi jalgpall mänguna sai alguse 2–3 aastat eKr Hiinas, siis kaasaegne jalgpall kujunes välja 19. sajandi teisel poolel Briti saartel. Hiljem korduvalt uuendatud mängureeglitele pani 1863. aastal aluse Inglismaa jalgpalliliit. Jalgpall on tänaseks üks harrastatumaid spordialasid maailmas, sellega tegeles 2006. aasta uuringu kohaselt umbkaudu 270 miljonit inimest. Ülemaailmne katusorganisatsioon on rahvusvaheline jalgpalliliit FIFA. Mainekaim turniir on iga nelja aasta tagant toimuvad jalgpalli maailmameistrivõistlused.\nEestisse jõudis mäng 20. sajandi esimestel aastatel."
+    },
+    {
+        "id": "0jm_",
+        "description": "Ameerika jalgpall on võistluslik pallimäng, mida mängivad kaks võistkonda ristkülikukujulisel väljakul. Mängu eesmärk on teenida vastasest rohkem punkte, viies palli üle tema väravajoone või lüües läbi värava."
+    },
+    {
+        "id": "018w8",
+        "description": "Korvpall on sportmäng, mida harilikult mängitakse saalis kahe võistkonna vahel. Mängu eesmärgiks on visata pall määruste päraselt vastase korvi ning takistada vastasel viskamast palli enda korvi. Korvi langenud pallidelt arvestatakse võistkonnale punkte. Mängu lõpuks rohkem punkte kogunud võistkond võidab. Korvpall on lihtsa ning odava varustuse ja kergesti mõistetavate põhimõtete tõttu laialt levinud spordiala."
+    },
+    {
+        "id": "018jz",
+        "description": "Pesapall on võistkondlik sportmäng, milles osalevad kaks 9-liikmelist võistkonda, kes tegutsevad vaheldumisi ründajate ja kaitsjatena.\nMängitakse spetsiaalsel 100–120 m läbimõõduga sektorikujulisel väljakul. Neli nn pesa moodustavad väljakul ruudu, mille küljepikkus on 27,43 m. Pesadevaheline mõtteline joon jaotab väljaku eesväljakuks ja tagaväljakuks.\nRündava võistkonna mängijad löövad kurikaga vastasvõistkonna söötja poolt ette visatud palli väljakule. Kohtunik jälgib, kas tegu on õige või vale sööduga. Reeglitekohasel pallile pihtasaamisel muutub lööja jooksjaks ja tema ülesandeks on jõuda esimesse pessa enne palli. Ründajad püüavad väljakul kindlas järjekorras läbi joosta neli pesa; ühel pesal võib korraga olla ainult üks jooksja ning üks jooksja ei tohi teisest mööduda. Kaitsev pool püüab ründavat poolt punktisaamisel takistada, püüdes palli kinni enne selle mahakukkumist, toimetades palli pesasse enne jooksjat või puudutades jooksjat palliga.\nMängu pikkuseks on enamasti 9 ründe- ja 9 kaitsevooru kummalegi võistkonnale. Voor lõpeb, kui kolm ründavat võistkonnaliiget on väljakult minema saadud. Võistluse tulemus on 9 vooru jooksul kogutud punktide summa, rohkem punkte kogunud võistkond on võitja."
+    },
+    {
+        "id": "07bs0",
+        "description": "Tennis on spordiala, milles võistlevad kaks mängijat või kaks võistkonda, kummaski kaks mängijat. Eesmärgiks on saata pall reketi abil väljakul vastasmängija poolele nii, et vastane ei saaks seda tõrjuda."
+    },
+    {
+        "id": "01cgz",
+        "description": "Poks on spordiala, milles kaks samasse kaalukategooriasse kuuluvat võistlejat sooritavad kinnastatud rusikatega teineteise kindlaksmääratud kehaosade pihta kindlaksmääratud aja jooksul määrustepäraseid lööke. Võidab see, kes tabab vastasvõistlejat rohkem, saavutab puhta võidu, määratakse võitjaks kohtuniku otsusega või kelle vastasvõitleja loobub edasisest võistlemisest.\nTänapäeva poksi eellane on inglise rusikavõitlus. Rusikavõitlus on üks vanemaid kehalisi võistlusi, peamiselt meeste vahel. Erinevaid rusikavõitlusi on teada mitmelt poolt maailmast ning neid on tekkinud eri kohtades iseseisvalt.\nEsimene uusaja poksimatš toimus 6. jaanuaril 1681 Inglismaal, kui Albemarle´i hertsog korraldas võistluse oma ülemteenri ja lihuniku vahel. Sel ajal veel ei kasutatud kindaid.\nKaasaegsed reeglid, kus oli mainitud ka kindaid, koostas 9. Queensberry markii John Douglas. Tema järgi nimetatakse poksi reegleid ka Queensberry markii reegliteks.\nEsimene võistlus maailmameistri nimele toimus 30. juulil 1884 New Yorgis, kus Jack Dempsey alistas keskkaalu tiitlikohtumisel George Fulljamesi."
+    },
+    {
+        "id": "03tmr",
+        "description": "Jäähoki on meeskondlik sportmäng, mida mängitakse jäisel väljakul kahe uiskudel liikuva võistkonna vahel. Võistkondade eesmärgiks on toimetada hokilitter vastase väravasse. Väravavahide rolliks on oma väravate kaitsmine.\nRahvusvahelise Jäähokiföderatsiooni IIHF liikmeteks on 68 riiki. Jäähoki maailmameistrivõistluste 162 medali 177-st on võitnud järgmised seitse riiki: Kanada, Tšehhi, Soome, Venemaa, Slovakkia, Rootsi ja USA."
+    },
+    {
+        "id": "07_53",
+        "description": "Võrkpall on sportlik pallimäng, kus kaks võistkonda võistlevad võrguga poolitatud väljakul. Võistlusmängu eesmärgiks on saata pall üle võrgu vastaspoole mängijate väljakule nii, et see maanduks vastase väljakupoolel, läheks vastasmängija puudutusest väljaku piiridest välja või vastasmängija eksiks reeglite vastu. Pall pannakse mängu serviga. Mängija peab suunama palli edasi ühe puutega, kas kaasmängijale või vastase väljakupoolele. Samas peab takistama palli maandumist oma väljakupoolel. Võrkpall on üks väheseid pallimänge, kus mängijal puudub vahetu kontakt vastasvõistkonnaga. Selles mõttes sarnaneb mäng kõige rohkem indiacaga, aga ka sulgpalli ja tennisega, kus piirdeks on võrk.\nTänapäeval on võrkpall väga levinud ja võrkpalli harrastajaid arvatakse olevat kogu maailmas üle 800 miljoni.\nRahvusvaheline Võrkpalliföderatsioon FIVB ehk Fédération Internationale de Volleyball loodi 1947. aastal. FIVB-is on 218 liikmesriiki ja aktiivseid mängijaid ligi 200 miljonit."
+    },
+    {
+        "id": "037hz",
+        "description": "Golf on spordiala, pallimäng.\nGolfi mängitakse loodusliku muruga väljakul, mis on 25–30 ha suurune ja mitmekesise reljeefiga, kuhu kuulub nii looduslikke kui ka spetsiaalselt loodud takistusi. Täismõõtmelisel väljakul on 18 auku. Iga auk on tähistatud lipuga. Mängitakse eriliste keppidega. Mängu võidab see, kes kulutab palli ajamiseks läbi kõikide aukude kõige vähem lööke."
+    },
+    {
+        "id": "01sgl",
+        "description": "Jalgrattasõit ehk jalgrattaga sõitmine on jalgratta kasutamine liikumiseks."
+    },
+    {
+        "id": "06z6r",
+        "description": "Ujumine on spordiala, kus inimesed võistlevad ujumises."
+    },
+    {
+        "id": "03_8r",
+        "description": "Džuudo ehk judo on heidetele ja kinnihoidmistele keskenduv Jaapani päritolu võitluskunst ning võitlusspordiala, sh olümpiaala. Judoga tegelevaid sportlasi nimetatakse judokateks.\nDžuudos on oluline kiirus ja osavus ning dünaamiline reageerimine vastase liikumisele.\nDžuudo on välja kasvanud mitmest erinevast Jaapani jūjutsu koolist. Esimese džuudo treeningkooli rajas 1882 Shitayas dr Jigoro Kano.\nDžuudo harjutajate taset märgitakse kyu ja dan astmetega ning astmeid eristavad erivärvilised vööd.\n⁕Kyu tasemel: 6. – valge, 5. – kollane, 4. – oranž, 3. – roheline, 2. – sinine, 1. – pruun.\n⁕Dan´i tasemel: 1.–5. – must, 6.–8. – punavalge, 9. ja 11. – punane, 12. – lai valge vöö."
+    },
+    {
+        "id": "0d38m",
+        "description": "Maraton ehk maratonijooks on kergejõustiku ala, pikamamaajooks. 1924. aastal määrati distantsi pikkuseks 42 195 m. See vahemaa vastab 1908. aasta Londoni olümpiamängudel läbitud vahemaale Windsori lossi ja White City staadioni vahel.\nNimi pärineb legendist, mis tekkis Kreeka-Pärsia sõdades peetud Marathoni lahingu järel, kui kreeklaste võiduteate olevat Marathonist Ateenasse viinud käskjalg joostes. 1896. aastal nimetati maratoniks esimestel kaasaaegsetel olümpiamängudel kavas olnud ülipikamaajooks.\nSeisuga 30. september 2013 on meeste maailmarekord 2:03:23 ja naiste maailmarekord 2:15:25."
+    },
+    {
+        "id": "0194d",
+        "description": "Sulgpall on kahe vastaspoole, enamjaolt kahe mängija vahel mängitav sportmäng. Sulgpall meenutab nii tennist, sest mängitakse reketitega, kui ka võrkpalli, sest mängijate vahel on võrk.\nSulgpalliks nimetatakse ka \"palli\", millega seda mängu mängitakse.\nSulgpallisarnaseid sportmänge on ajaloo vältel harrastatud Hiinas, Indias ja Kreekas. Tänapäeva sulgpall tekkis aga 1860. aastal Inglismaal. Esimest korda mängiti seda Beauforti hertsogi valdustes Gloucestershire's. Oma ingliskeelse nime 'badminton' sai ta hertsogi residentsi järgi.\nRahvusvahelise Sulgpalliföderatsiooni asutasid 1934. aastal 9 riiki. Tänapäeval on IBF-il 147 liiget.\n3. mail 1977 peeti Malmös esimesed maailmameistrivõistlused sulgpallis.\nOlümpiaalaks sai sulgpall Barcelonas 1992. See on kaasa aidanud ala populaarsuse tõusule nii Aasia maades kui ka Suurbritannias ja Skandinaavias.\nSuur osa tänapäeva tippsulgpallureid pärineb Ida-Aasiast, näiteks Indoneesiast, Hiinast ja Malaisiast.\nSulgpalli ajalugu ulatub üle 3000 aasta tagasi, sellesarnast mängu harrastati juba Antiik-Kreekas ja Egiptuses. Hilisemal ajal Euroopas tunti sulgpalli laste hulgas nimede battledore ja shuttlecock all – selles mängus lõid kaks mängijat tillukeste reketitega sulgedega palli edasi-tagasi. Indias tunti sarnast mängu 18. sajandil poona nime all. Oma koloniaalvaldustest kojupöördunud Briti ohvitserid tõid sulgpalli India versiooni tagasi Euroopasse umbes 1860. Nad küll tutvustasid seda mängu oma sõpradele üsna usinalt, kuid tõsisemat huvi äratas sulgpall alles peale Beauforti hertsogi 1873. aastal oma Gloucestershire'is asuvas Badmintoni-nimelises maamajas korraldatud pidu. Tollal ei olnud sulgpallil veel oma nime, seda nimetati kui \"Badmintoni mäng\", millest hiljem kujuneski välja mängu ametlik ingliskeelne nimetus badminton."
+    },
+    {
+        "id": "07jbh",
+        "description": "Lauatennis on sportmäng, mida mängitakse reketi ja väikese palliga täisnurksel laual. 15,25 cm kõrgune võrk jaotab laua põiki pooleks."
+    },
+    {
+        "id": "087zy",
+        "description": "Jooga on india traditsioonilise maailmakäsitlus põhimõiste, mis väljendab inimese püüdu reguleerida ja korrastada oma käitumist, hoiakuid ja mõtlemist senise teadvuseseisundi ületamiseks ning teatava ideaalse seisundi saavutamiseks.\nSeda taotletakse kastiomase rituaali ja kohuse järgse tegutsemisega, andumusliku usuga jumalasse ja teadmisega.\nKeha ja psüühika toimimise korrastamiseks on arendatud harjutuste süsteem hatha-jooga, mille sugemeid on nüüdisajal püütud rakendada ravikehakultuuris ja meditsiinis, kuid sellena on esitatud ka palju vulgariseeringuid."
+    },
+    {
+        "id": "0397w",
+        "description": "Võimlemine on spordiala, mis vajab füüsilist jõudu, koordinatsiooni, kiirust, painduvust ja graatsiat.\nKõiki võimlemisalaseid võistlusi juhib Rahvusvaheline võimlemisalaliit.\nVõimlemine kuulub suveolümpiamängude võistluskavva. See jaguneb sportvõimlemiseks ehk riistvõimlemiseks, iluvõimlemiseks, rühmvõimlemiseks, sportaeroobikaks ja trampoliinvõimlemiseks."
+    },
+    {
+        "id": "036vg6",
+        "description": "Maadlus on üks maailma vanimaid spordialasid. Selles käib kahevõitlus ilma abivahenditeta, kusjuures see, kes puudutab maad mõlema õlaga, loetakse kaotanuks. Kui kumbki ei suuda vastast ettenähtud aja jooksul seljatada, võidab see, kes suutis rohkem võtteid sooritada või oli kohtunike arvates aktiivsem."
+    },
+    {
+        "id": "04xsv",
+        "description": "Võitluskunstid on ulatuslikud võitlusviiside ja -traditsioonide süsteemid. Kõigi võitluskunstide eesmärk on sama: lüüa vastast füüsiliselt või kaitsta end füüsilise ohu eest. Mitmete võitluskunstide teooria tugineb suuresti usundile; nii seonduvad Aasia võitluskunstid sageli budismi, hinduismi, taoismi, konfutsianismi või šintoga. Tihti on võitluskunstidel oma aukoodeks, vahel on need seotud ka traditsioonilise või rahvameditsiiniga.\nVõitluskunste on nimetatud niihästi kunstiks, teaduseks kui ka spordiks. Mitmeid neist harrastatakse kontaktspordina, kuid samuti võidakse võistelda teatud võtete soorituses, sarnaselt nt iluvõimlemise või vettehüpetega.\nKuigi enamasti peetakse võitluskunstide all silmas paljakäsi võitlemist, kasutatakse mõnes traditsioonis ka relvi: vehklemises mõõka, gatkas kaigast, kyūdōs vibu jne.\nTänapäeval seostatakse terminit võitluskunstid tavaliselt Kaug-Ida päritolu võitlusviisidega nagu taekwondo, karate ja judo. Samas pärineb hulk võitluskunste mujaltki: poks ja mõned ajaloolised mõõgavõitlusviisid Euroopast, capoeira Lõuna-Ameerikast, sambo Venemaalt jne."
+    },
+    {
+        "id": "03_ly",
+        "description": "Jaanuar on Gregoriuse kalendris aasta esimene kuu. Jaanuar oli Vana-Roomas aastani 154 eKr aasta eelviimane ehk üheteistkümnes kuu.\nJaanuaris on 31 päeva.\nLadinakeelne nimetus januarius on jaanuarikuule antud kahenäolise jumala Januse järgi, keda arvati mõjutavat kõiki töid ja nende alustamist.\n1. jaanuaril algas konsulite ametiaasta."
+    },
+    {
+        "id": "02xx5",
+        "description": "Veebruar on Gregoriuse kalendris aasta teine kuu, samuti aasta kõige lühem kuu. Selles on lihtaastal 28 päeva ja liigaastal 29 päeva.\nNimetus \"veebruar\" on üle võetud roomlaste kalendrist, kus Februarius tähendas puhastuskuud; Februa oli puhastusjumal ning tähendas ka puhastus- ja lepituspüha. Veebruar oli Vana-Roomas aastani 154 eKr aasta viimane, kaheteistkümnes kuu."
+    },
+    {
+        "id": "04wzr",
+        "description": "Märts on Gregoriuse kalendris aasta kolmas kuu. Selles on 31 päeva.\nMärts on tuletatud nimetusest Martius, mis roomlaste kalendris tähendas sõjajumal Marsile pühendatud kuud. Märts oli Vana-Roomas aastani 154 eKr aasta esimene kuu.\nMartius oli muistsetel roomlastel aasta hakatus, kevadekuu, aeg põllutöid alustada. Mars oli tegelikult etruskide, põllu- ja karjajumal. Roomlased võtsid ta etruskidelt üle ja tegid tast endale verejanulise sõjajumala, nagu seda oli kreeklaste Ares. Kevadekuu nimi jäi endiseks.\nMärts on ka paastukuu. Paast kestab kuni lihavõttepühadeni aprillis."
+    },
+    {
+        "id": "0lkm",
+        "description": "Aprill on Gregoriuse kalendris aasta neljas kuu. Selles on 30 päeva.\nAprill oli Vana-Roomas aastani 154 eKr aasta teine kuu. Nimetus tuleb ladinakeelsest nimetusest Aprilis ja tähendab arvatavasti 'avav'.\nAprill, mai ja juuni tähendasid ka idanemist, kasvamist ja noorust."
+    },
+    {
+        "id": "04w_7",
+        "description": "Mai ehk lehekuu on Gregoriuse kalendris aasta viies kuu. Selles on 31 päeva.\nMai oli Vana-Roomas aastani 154 eKr aasta kolmas kuu. Nimetus tuleb ladinakeelsest nimetusest Maius, mis oli antud kas jumalatar Maia või kasvujumal Maiuse järgi."
+    },
+    {
+        "id": "040fb",
+        "description": "Juuni on Gregoriuse kalendris aasta kuues kuu, milles on 30 päeva."
+    },
+    {
+        "id": "040fv",
+        "description": "Juuli ehk heinakuu on Gregoriuse kalendris aasta seitsmes kuu, milles on 31 päeva."
+    },
+    {
+        "id": "0ll3",
+        "description": "August ehk lõikuskuu on Gregoriuse kalendris aasta kaheksas kuu, milles on 31 päeva.\nAugustit nimetatakse veel ka nimedega põimukuu, viljakuu, rukkikuu, mädakuu ehk mädanemiskuu, hallituskuu, kirbukuu ja pärtlikuu.\nAugust oli rooma kalendri kuues kuu ning kandis seetõttu nime sextilis, seni kui 8 eKr otsustas senat selle kuu ümber nimetada keiser Augustuse auks."
+    },
+    {
+        "id": "06vkl",
+        "description": "September ehk mihklikuu on Gregoriuse kalendris aasta üheksas kuu.\nSeptembris on 30 päeva.\nSõna \"september\" tuleneb ladina sõnast septem 'seitse'. See oli Rooma kalendri seitsmes kuu."
+    },
+    {
+        "id": "05lf_",
+        "description": "Oktoober ehk rehekuu ehk viinakuu on Gregoriuse kalendris aasta kümnes kuu, milles on 31 päeva.\nOktoobrit nimetatakse veel ka nimedega kooljakuu, hingekuu, kosjakuu, kolletamiskuu, lehelanguskuu ehk lehevarisemiskuu, porikuu, roojakuu, orjakuu, sügisekuu, simunakuu."
+    },
+    {
+        "id": "05cw8",
+        "description": "November ehk kooljakuu ehk talvekuu ehk hingekuu on Gregoriuse kalendris aasta üheteistkümnes kuu, milles on 30 päeva."
+    },
+    {
+        "id": "028kb",
+        "description": "Detsember ehk jõulukuu ehk talvistepühakuu ehk talvekuu on Gregoriuse kalendris aasta kaheteistkümnes kuu. Detsembris on 31 päeva.\nDetsembrit nimetatakse ka nimedega talvistekuu, talsipühakuu, mängukuu."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Põhi on põhi-ilmakaar, mille asimuut on 0 ehk 360 kraadi. Põhi on lõuna vastasilmakaar.\nTähis N on pärit saksa keelest Norden ja inglise keelest North."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Lõuna on põhi-ilmakaar, mille asimuut on 180 kraadi. Lõunas asub Päike keskpäeval.\nTähis S on pärit saksa keelest Süden ja inglise keelest South."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Lääs on üks neljast põhiilmakaarest, mille asimuut on 270 kraadi.\nTähis W on pärit saksa keelest Westen ja inglise keelest West."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Ida on üks neljast põhiilmakaarest. Ida asimuut on 90°.\nTähis E on pärit inglise keelest, tähis O saksa keelest.\nVäljakujunenud tava järgi joonistatakse kaardid nii, et ida jääb paremale.\nMaa pöörleb ümber oma telje ida suunas. Sellepärast tõuseb päike idakaartest, kõige sagedamini idast.\nLäbi aegade on Euroopas kasutatud sõna \"ida\" Aasia ja eriti Idamaade kohta.\n20. sajandil kasutati sõna \"ida\" vahel metafoorina sotsialistlike riikide kohta, kus kehtis nõukogude võim. Näiteks 1940 avaldas Juhan Sütiste luulekogu \"Maakera pöördub itta\", kus sõna \"ida\" on selles mõttes kahetähenduslik."
+    },
+    {
+        "id": "0j0k",
+        "description": "Aasia on maailmajagu. Hõlmab suurema osa Euraasiast."
+    },
+    {
+        "id": "059g4",
+        "description": "Põhja-Ameerika manner on üks kahest mandrist läänepoolkeral. Mandrit piirab idas Atlandi ookean, põhjas Põhja-Jäämeri ja läänes Vaikne ookean. Lõunas asub Lõuna-Ameerika manner. Põhja- ja Lõuna-Ameerika mandreid ühendab Panama maakitsus.\nMandri lähedal asuvad mitmed saared, millest suuremad on põhja pool asuv Arktika saarestik ja kirde pool asuv Gröönimaa.\nMandri pindala on 24 709 000 km². Ta on mandrite seas pindalalt kolmandal kohal."
+    },
+    {
+        "id": "06n3y",
+        "description": "Lõuna-Ameerika on manner läänepoolkeral.\nLõuna-Ameerika asub tervikuna läänepoolkeral. Tema põhjaosa läbib ekvaator. Mandritest on ta ühendatud Põhja-Ameerikaga. Lõuna-Ameerikast itta jääb Atlandi ookean, läände Vaikne ookean.\nMandri pindala on 17,84 miljonit km². Elanike arv on 371 miljonit."
+    },
+    {
+        "id": "02j9z",
+        "description": "Euroopa on maailmajagu ja looduslik-kultuuriline regioon, mis hõlmab Euraasia mandri poolsaaretaolise lääneosa.\nLoodusgeograafilist Euroopat piiravad põhjast Põhja-Jäämere ääremered, läänest ja lõunast Atlandi ookean ning selle osad. Euroopa ja Aasia piir on tinglik ja üheselt määratlemata. Idas moodustavad piiri Uurali mäed, edasi lõuna poole kas Uurali või Jembi jõgi Kaspia mereni ning kas Kuma-Manõtši nõgu Aasovi mereni või Suur-Kaukasuse Peaahelik.\nEuroopa pindala on ligikaudu 10,2 miljonit ruutkilomeetrit ning rahvaarv umbes 733 miljonit. Euroopa rahvastik moodustab 11% kogu maailma rahvastikust."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Aafrika on maailmajagu.\nErinevalt Aafrika mandrist hõlmab Aafrika maailmajagu ka mandrit ümbritsevaid saari.\nAafrikale on iseloomulik kultuuriline mitmekesisus, kolonialismi pärand ning rahvastiku suure osa äärmine vaesus."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antarktis on Maa lõunapoolust ümbritsev manner. Antarktis paikneb lõunapoolkeral Antarktika maailmajaos ja seda ümbritseb Lõuna-Jäämeri.\nMandri kogupindala on 14,0 miljonit ruutkilomeetrit, millega ta on kontinentide hulgas eelviimasel kohal.\nLigi 98% Antarktisest on kaetud mandrijääga, mille keskmine paksus on 1790 m ning maksimaalne paksus üle 4500 m.\nAntarktis on keskmiste näitajate poolest kõige külmem, kuivem, tuulisem ja kõrgem kontinent. Antarktis on kõrb, kuna rannikupiirkonnas langeb sademeid aastas vaid 200 mm ning sisemaal veelgi vähem.\nAntarktisel puuduvad püsielanikud, kuid uurimisjaamades töötab aastaringselt umbes 1100–4400 inimest.\nVaid külmale vastupidavad taimed ja loomad jäävad sellel mandril ellu ning nende hulka kuuluvad pingviinid, loivalised, ümarussid, loimurid, lestalised, vetikad, samblikud, samblad jt.\nMüüdid ja spekulatsioonid Terra Australise kohta pärinevad juba antiikajast. Antarktise avastas Fabian Gottlieb von Bellingshauseni ja Mihhail Lazarevi juhitud uurimisrühm. Pärast avastamist jäi manner 19. sajandi lõpuni suuresti hüljatuks karmide keskkonnatingimuste, ressursside puudumise ja isoleerituse tõttu.\n1959. aastal kirjutasid 12 riiki alla Antarktika lepingule; tänapäeval on lepinguga ühinenud 48 riiki. Lepingu järgi on mandril keelatud igasugune militaarne tegevus ja maavarade kaevandamine, lubatud on teaduslikud uurimistööd ning kaitstakse kontinendi riikkonda. Mitmesuguste teadustöödega tegeleb üle 4000 paljudest rahvustest teadlase."
+    },
+    {
+        "id": "05p553",
+        "description": "Komöödiafilm on mängufilmižanr, mille põhitunnusteks on huumor ja nali"
+    },
+    {
+        "id": "03npn",
+        "description": "Õudusfilm on filmižanr. Õudusfilmi eesmärk on vaatajas tekitada hirmu, kartust, terrorit, õudust, sageli ka jälestust. Õudusfilmide tavaliseimad karakterid on vampiirid, zombid, koletised ja sarimõrvarid.\nVarajaste õudusfilmide süžeede aluseks olid tihti klassikalised teosed ja kirjanduslikud motiivid, nagu Dracula, Frankensteini monstrum, muumia, libahunt, \"Ooperifantoom\" ning \"Doktor Jekyll ja mister Hyde\". Hilisemate õudusfilmide autorid leidsid inspiratsiooni sündmustest pärast Teist maailmasõda, mistõttu sündisid kolm uut alamžanri: persooniõudus, armagedoniõudus ja deemonlik õudus. Viimane on uuenduslik nägemus varajasematest õudusfilmidest.\nÕudusfilme on peamiselt kritiseeritud nende liigse graafilise vägivalla poolest ja mõistetud valesti kui B-filme. Neis tegutsevad kurjad jõud, sündmused, karakterid ja mõnikord on toodud filmi tegevus igapäevamaailma.\nPaljud nimekad lavastajad on teinud õudusfilme, näiteks Steven Spielberg. Osa õudusfilme sisaldab elemente teistest žanritest, nagu ulme, fantaasia, must komöödia ja thriller."
+    },
+    {
+        "id": "0jtdp",
+        "description": "Dokumentaalfilm on film, mis dokumenteerib mõnd tegelikkuse tahku. Dokumentaalfilmi loojat nimetatakse dokumentalistiks."
+    },
+    {
+        "id": "07s9rl0",
+        "description": "Draamafilm on mängufilmižanr, mille põhitunnusteks on jõulised emotsioonid ja tõsine konflikt."
+    },
+    {
+        "id": "0hcr",
+        "description": "Selles animatsioonis on kuus kaadrit ning see liigub kiirusega 10 kaadrit sekundis\n\nSee animatsioon liigub kiirusega 2 kaadrit sekundis, mistõttu iga kaader on eristatav.\nAnimatsioon on illusioon liikumisest, mis on loodud staatiliste piltide järjestikuse esitamisega. Filmi tootmises tähendab see tehnikat, kus iga filmikaader on loodud ja töödeldud eraldi. Sellised kaadrid võivad olla loodud arvuti abil, pildistades joonistust või maali või muutes järjest mingi objekti asendit ning pildistades iga selle etappi. Kui need kaadrid kokku monteerida ja filmina taasesitada, tekib illusioon pidevast liikumisest. Kuigi arvutite kasutuselevõtt on animeerimise protsessi oluliselt lihtsustanud, on selliste filmide tegemine töömahukas.\nAnimatsiooni \"klassikalises\" vormis, joonisfilmis, mis oma tänapäevase tähenduse sai 20. sajandi alguses, kasutatakse kiirust kuni 24 kaadrit sekundis.\nAnimatsiooni peamine otstarve on vaatajale meelelahutuse pakkumine või autori eneseväljendus, praktilist kasutust leiab see enamasti instruktsioonides ning abivahendina õpetamisel ja õppimisel."
+    },
+    {
+        "id": "06n90",
+        "description": "Teadusulme ehk teaduslik fantastika on ulme alamžanr.\nNii nagu kõik ulmeteosed, käsitleb ka teadusulme maailma sellisena, nagu see tegelikkuses ei ole. Erinevalt imeulmest püütakse erinevust meile tuntud tegelikkusest selgitada kas teaduslikult või spekuleerides teaduse ja tehnika arengu teemadel. Erinevalt õudusulmest ei ole teadusulme eesmärgiks õuduse tekitamine.\nKlassikaline teadusulme lähtub reaalteaduste poolt tehtud avastustest, eelkõige nendest, mille puhul on ette kujutatav nende praktiline rakendamine mõnes valdkonnas. Enamasti erineb teadusulme käsitluslaad teaduslikust meetodist ning esitab teaduse poolt tehtud avastusi ja teooriad populaarses laadis, kirjeldab avastusi ja leiutisi, mida ei ole veel saavutatud, püüab neid teoreetiliselt põhjendada ja näidata, kuidas need võiksid inimkonda mõjutada.\nTeadusulme haarab endasse seoseid nii bioloogia, psühholoogia, ajaloo, tehnoloogia jpt teaduse harude või rakendusvaldkondadega."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Märulifilm on mängufilmižanr, mille põhitunnusteks on kiire rütm ja tempo. Filmi pinget hoiab üleval konflikt kahe vastaspoole vahel. Rohkesti on põnevust, seiklust, trikkvõtteid ja tagaajamist."
+    },
+    {
+        "id": "01jfsb",
+        "description": "Thriller on filmi- ja kirjandusžanr. Sel on mitmeid alamžanre.\nErinevus põnevike ja thriller'ite vahel tuleneb teoste sündmuste vormist ja stiilist. Kuigi mõlemad keskenduvad pinge ja põnevuse loomisele ning selle pidevalt üleval hoidmisele, jääb põnevikus sündmuste tempo väljapeetuks ja pinge kasvab aegamööda, thrilleris kulgeb lugu seevastu kiirelt ja intensiivselt. Lisaks vürtsitakse sündmustikku ohtralt vägivalla ja seksiga, mis põneviku puhul jääb sündsuse piiridesse."
+    },
+    {
+        "id": "02l7c8",
+        "description": "Romantiline film on mängufilmižanr, mille põhitunnusteks on armastus ja kirg."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Imeulme on ulme alamžanr.\nNagu ulme üldse, käsitleb ka imeulme maailma sellisena, nagu see ei ole. Erinevalt teadusulmest seletub fantastiline komponent selgelt teadusliku maailmapildi väliste nähtustega: maagia, nõiduse või muu imepärasega. Erinevalt õudusulmest ei ole teose eesmärgiks mõjuda õudselt.\nÜldiselt peetakse imeulme oluliseks tunnuseks maagia kujutamist. Imeulme hulka paigutatakse tavaliselt teosed, kus esinevad pöialpoisid, lohed, ükssarvikud ja muud mütoloogilised olendid. Harilikult kuuluvad imeulme alla ka need teosed, mille tegelaste seas on Jumal, Kurat või Jõuluvana.\nImeulme tegevustik toimub keskajas märksa sagedamini kui teadusulme puhul ja peaaegu mitte kunagi tulevikus. Sageli toimub teadusulme kõrgtehnoloogilises keskkonnas ja imeulme madaltehnoloogilises keskkonnas, kuid see ei ole reegel, mille järgi neid eristada saaks.\nMitmed imeulmeautorid mõtlevad välja maailma, milles toimub terve romaani- või filmisari. Tuntud on Terry Pratchetti, Roger Zelazny ja J. R. R. Tolkieni maailmad."
+    },
+    {
+        "id": "0g65_",
+        "description": "Seiklusmängud keskenduvad erinevalt osavust nõudvatest arvutimängudest loo jutustamisele ja rahulikumale mängumaailma uurimise ja mõistatuse lahendamise tegevusele. Erineval rollimängust ei ole tegelasel statistilisi näitajaid, mis mängu käigus muutuks. Esimest selle suunalist mängu Colossal Cave Adventure mängiti suurarvutitel, kus kuvarit asendas printer. Selle laadilised tekstiseiklused sobisid hästi ka piiratud graafiliste võimalustega esimestele pc-dele. Kuulsaim tekstiseikluste looja oli Infocom, mis oli lisaks keerulisi lauseid tunnistavale kasutajaliidesele tuntud huumori kasutamise ja kirjanik Douglas Adams-i osavõtu poolest mängude loomises. Lisaks Hitchhiker's Guide to Galaxy mängule on tuntud Zorki seeria ja varased detektiivmängud.\nGraafilised seiklusmängud said tuntuks tänu Sierra Online-le. Kuigi tegevuste kirjalik sisestamine oli ikka mängu osa, liikus mängija juhitav tegelane nüüd ringi pseudokolmemõõtmelises maailmas. Sierra selle põlvkonna seiklustest on tuntud King's Quest-i, Space Quest-i, Police Quest-i, Leisure Suit Larry ja Quest for Glory sarjade esimesed osad.\nSierraga asus peagi võistlema LucasArts, kes tõi mitmeid uuendusi hiirega valitavatest verbidest kuni suremist vältivate mängudeni. Kummalise huumoriga varaste mängude Maniac Mansion ja Zack McKraken and Alien Mindbenders kõrval on tuntud Indiana Jones-ist rääkivad seiklusmängud, The Secret of Monkey Island-i seeria ja multifilmilik järg Maniac Mansion'ile Day of the Tentacle. Sierra hiirega juhitavad mängud tõid varasemate seeriate järgede kõrval kaasa õpetlikud mängud nooremale mängijale ja legendaarse Gabriel Knight'i seeria. LucasArts jäljendas hiljem nende lihtsutatud, ikoonidega süsteemi mängudes nagu Full Throttle ja Curse of Monkey Island."
+    },
+    {
+        "id": "06by7",
+        "description": "Rock-muusika on laialdane ja varieeruv levimuusika liik, milles enamasti meloodilist vokaali saadavad kitarr, trummid ja sageli ka basskitarr. Žanriti võivad instrumendid erineda, ka klahvpillid nagu klaver ja süntesaator on laialdaselt kasutusel.\nKuigi eesti keeles tarvitatakse enamasti inglise keelest pärit lühendatud nimekuju rock, on ka selliste nimekujude nagu rokk, rokkmuusika ja rock-muusika kasutamine korrektne.\nRock-muusika juured peituvad 1950. aastate rock'n'roll'is, rockabilly's ja rhythm and blues'is. 1960. aastatel tekkisid sulamžanrid folgi ja džässiga. 1970. aastatel järgnes veel suurem rock'i piiride avardamine, mille tagajärjel tekkis juurde mitmeid rock'i alamžanreid nagu soft rock, blues rock, synth rock, progressive rock, psychedelic rock, garage rock, punk rock, indie rock, noise rock, alternatiiv-rock, ja ka heavy metal.\nTänapäeval on rock-muusikal suur hulk edasiarendusi ja alamstiile, mille kategoriseerimiseks on mitmesuguseid võimalusi."
+    },
+    {
+        "id": "064t9",
+        "description": "Levimuusika on üldnimetus muusikastiilidele ja -suundadele, mis kujunesid 20. sajandi teisel poolel ja mida iseloomustab levimine massiteabevahendite ja helisalvestustehnika abil."
+    },
+    {
+        "id": "03_d0",
+        "description": "Džäss ehk džässmuusika, ka jazz ehk jazzmuusika on muusikastiil, mis tekkis 19. sajandi lõpus USA lõunaosariikides Aafrika ja Euroopa rahvamuusika ristumise tagajärjel. Džäss kasvas välja USA neegrite töölauludest, bluusist ja spirituaalidest. Varasemaks väljendusvormiks on peetud ragtime'i.\nEuroopasse levis džäss 1920. aastail. Sestpeale sai ta kogu maailmas kerge muusika põhiliigiks ning tähtsaimaks tantsumuusika ja lööklaulude ilme kujundajaks.\nDžässi arenguloos eristatakse kolme põhijärku: traditsioonilist džässi, svingi ja nüüdisaegset džässi.\nDžässi ei saa täpselt noodistada, ta toetub bluusi heliredelile ning armastab erilisi kõlavärve.\nDžässmuusikas on väga suur osa improvisatsioonil."
+    },
+    {
+        "id": "01lyv",
+        "description": "Kantrimuusika on USA lõunaosariikide muusikastiil, mis kujunes välja 20. sajandi alguses traditsioonilisest folkloorist, keldi muusikast, bluusist ja gospelist. Mõjukaimad kantrilauljad on Jimmie Rodgers ja Hank Williams.\nKantrimuusika žanrid:\n⁕bakersfield sound;\n⁕bluegrass;\n⁕deathcountry;\n⁕honky tonk;\n⁕lubbock sound;\n⁕nashville sound;\n⁕outlaw country;\n⁕red dirt;\n⁕texas country;\n⁕western;\n⁕..."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hip-hop või hip hop on 1970. aastatel New Yorgist alguse saanud ja üle maailma levinud muusika- ja elustiil, mille juurde kuuluvad erinevad etnilise kuuluvuse, tehnoloogia, linnakultuuri ja poliitika elemendid.\nHip-hopi kui muusikastiili alusepanijad olid enamuses afroameeriklastest või Puerto Rico juurtega latinodest DJ-d. Iseloomuliku intensiivse sünkopeeritud trummirütmiga tantsumuusikale lisati räppimine - keerukaid rütme ja erinevaid riimivorme kasutav laulev rääkimine. 1980. aastatel muutus hip-hop muusika elektroonilisemaks; kujunes hip-hop kultuur, kuhu kuulus räppimine, breiktants, muusika miksimine, grafiti, võistlevate muusikute ja DJde terav konfrontatsioon jm. 1990. aastatel tugevnes hip-hopis vastasseisu ja vägivalla element ning kujunes välja omaette alamžanr gangsta-rap, mis glamuriseeris suurlinnade kuritegelike jõukude tegevust."
+    },
+    {
+        "id": "03lty",
+        "description": "Heavy metal ehk metal on 1960. aastate lõpul ning 1970. aastate algul bluesist ja rokkmuusikast tekkinud muusikasuund, mida algusaastatel iseloomustasid sünged, sageli okultsete mõjutustega, laulutekstid, depressiivsete meloodiate kasutamine ning mille mängimisel omasid muusikainstrumentidest suuremat rõhku elektrikitarrid ja trummid. Üheks esimeseks metalit viljelevaks ansambliks loetakse sageli briti gruppi Black Sabbath. Samuti ka Led Zeppelin ja Deep Purple. Heavy metal stiili tegi kuulsaks bänd Metallica, mida peetakse praegugi kuulsaimaks metal-bändiks.\nAastate jooksul on stiil pidevalt arenenud ja laienenud ning hõlmab tänapäeval väga erinevaid alamstiile, mis muusikaliselt võivad üksteisest olla üsna erinevad. Esimesed žanrid olid hard rock, shock rock, progressiivne metal, glam metal,pop metal ja briti heavy metali uus laine. Hard rocki tuntumad ansamblid on AC\/DC, Aerosmith, Blue Öyster Cult. Progressiivse metali tuntumad on Rush, Uriah Heep, Queensrÿche ning tänapäeval Dream Theater. Glamist on tuntumad Twisted Sister, Mötley Crüe, Skid Row, Poison ja Cinderella; shock rockist Alice Cooper, W.A.S.P ja Kiss; pop metalist Guns N' Roses, Def Leppard, Van Halen, Whitesnake ja Europe. NWOBHM-i algatajad olid Motörhead, Iron Maiden, Saxon ja Angel Witch. Hard-n-heavy tuntumad on Scorpions, Ozzy Osbourne, Dio, Accept, Judas Priest, Rainbow."
+    },
+    {
+        "id": "05r6t",
+        "description": "Punk rock on 1970. aastate keskel tekkinud rock-muusika stiil, mille iseloomulikud esindajad on ansamblid Ramones, Sex Pistols, The Damned ja The Clash.\nVäljendit punk kasutatakse ka sellega tihedalt seotud subkultuuri kohta."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Klassikaline muusika kitsamas tähenduses on aastate 1750 kuni 1830 paiku loodud hilisbarokk-, klassitsistlik või eelromantistlik muusika, mille põhilisteks vormideks kujunesid sonaat-sümfooniline tsükkel ja instrumentaalkontsert. Klassitsistliku muusika tuntumateks esindajateks on Joseph Haydn, Wolfgang Amadeus Mozart ja Ludwig van Beethoven.\nKlassikaline muusika laiemas tähenduses on muusika,\n⁕millel on korrastatud olemus, mis on selge ja tasakaalus ning mille puhul on tihti olulisem vormiilu kui emotsionaalne väljenduslikkus;\n⁕millel on püsiv esteetiline väärtus;\n⁕mida tunneb ja hindab vähemalt paar põlvkonda inimesi.\nEesti keeles kasutatakse klassikalise muusika tähenduses ka üldmõistet \"süvamuusika\", mis hõlmab muusikat, mida soovitakse vastandada \"levimuusikale\"."
+    },
+    {
+        "id": "02lkt",
+        "description": "Elektrooniline muusika, ka elektronmuusika, on muusika, mille loomiseks või interpreteerimiseks on vajalikud elektroonilised muusikainstrumendid või laiemalt elektrooniline muusikatehnoloogia ja mille esitamiseks on vajalik helivõimendus.\nKuni 1940. aastate lõpuni nimetati elektroonilist muusikat ka elektrimuusikaks, kuna selle loomiseks või interpreteerimiseks olid vajalikud muusikainstrumendid, mille kõla tekkis või edastati tänu elektrile.\nTänapäeval on elektroonilise muusika mõiste kasutusel nii süva- kui ka levimuusikas, hõlmates laia muusikastiilide valikut alates eksperimentaalsest süvamuusikast ja lõpetades elektroonilise tantsumuusikaga."
+    },
+    {
+        "id": "0155w",
+        "description": "Bluus on muusikažanr ja stiil, mis kujunes välja afroameerika spirituaalidest ja töölauludest. Bluusist on välja arenenud ragtime, džäss, rhythm and blues ja rock'n'roll.\n1930ndatel hakkas bluusis levima \"kannapööre\", mis tähendab salmi lõpukäiku, millele järgneb uue salmi algus."
+    },
+    {
+        "id": "06cqb",
+        "description": "Reggae on 1960. aastate paiku Jamaical sündinud muusikastiil. Vahel koondatakse sama üldnimetuse alla ka teised Jamaica päritolu muusikastiilid nagu ska, rocksteady, dub, dancehall, ragga, reggaeton jt. Iseloomulik on reggae'le rütmikitarri rõhutatud teine ja neljas löök ning basstrummi rõhutatud kolmas löök.\nSageli seostatakse reggae-muusikat 1970.–1980. aastatel populaarsust kogunud rastafaride usulispoliitilise liikumisega. Esimesi tuntud reggae-muusikuid oli Jackie Mittoo, selle stiili suurim ülemaailmne populariseerija oli aga Bob Marley."
+    },
+    {
+        "id": "02w4v",
+        "description": "Rahvamuusika ehk pärimusmuusika on rahva pärimuslik muusikalooming.\nRahvamuusika tähendas mineviku suulises anonüümses traditsioonis väljakujunenud talupojamuusikat, millest tõsteti esile teatud püsivaid stiilitunnuseid, nagu see on omane vooluloolisele käsitlusele muusikaloos, ning eetilisi, esteetilisi ja etnilisi väärtusi vastavalt tollasele folkloorikäsitlusele.\nPärimusmuusika tuli käibele Viljandi Kultuuriakadeemia üliõpilaste seas 1990. aastatel. Ametlikult kasutati seda nimetust Viljandi pärimusmuusika festivalil 1994. aastal."
+    },
+    {
+        "id": "02x8m",
+        "description": "Funk on afroameerika tantsumuusika, milles on esiplaanil rütm. Harmoonia ja meloodia on vähem tähtsad. Rütm on punkteeritud, palju kasutatakse sünkoope. Rütmilistele kitarri-, vaskpilli- ja basskäikudele ning trummiaktsentidele lisandub gospellik laulmisstiil. Tuntumad esitajad: Earth Wind and Fire, Tower of Power, The Commodores.\nFunk on mitme stiili – džässi, rocki, bluusi sulam, mille kujunemisel 1960. aastatel andis tõuke ka soul.\nBasskitarri osatähtsus on tavatult suur, lähenedes juba soolopilli omale. Tüüpiline on sünkopeeritud löökpilli hüplev heli, mida tekitatakse sõrmedega keeltele laksates. Bassi ülesanded üle võtnud rütmikitarril mängitakse lühikesi bluusilikke käike. Vaskpillide käigud on kiiremad kui soulis ning tihti väga lühikesed ja särtsakad. Lugude aluseks on sageli lihtne ja lühike motiiv, mida lõpmatuseni korratakse.\nFunk stiili erinevateks vooludeks on jazz funk, eksperimentaalne funk, psühhedeeliline funk, valgete funk jt.\nFunk muusika esitajate hulgas on rohkem ansambleid kui soliste. Ansamblitest kuulsaimad on Earth Wind and Fire, Tower of Power, The Commodores, solistidest James Brown, George Clinton.\n⁕Funk muusika rajajaks peetakse James Browni, kes alustas küll souli esitajana."
+    },
+    {
+        "id": "0ggx5q",
+        "description": "Tantsumuusika on muusika tantsu saateks.\nTantsumuusika iseloom kujundab tantsulist liikumist. Tähtsal kohal on pulss, tempo ja mõnikord ka kindlad rütmifiguurid.\nTantsumuusika järgi ei pea alati tantsima. Paljud heliloojad on kirjutanud tantsulisi palasid kontsertteostena esitamiseks."
+    },
+    {
+        "id": "0rfgh6w",
+        "description": "Lennuk on õhust raskem, inimest kandev lendav seadeldis, mis püsib õhus kandepinna ehk tiiva tekitatud aerodünaamilise tõstejõu toimel ning millel on tõmmet tekitav jõuseade.\nLennuki peamised osad on tiib, kere, kiil, stabilisaator, jõuseade ja telik, sõjalennukitel on ka relvastus.\nLennukid liigituvad sõltuvalt kandepindade arvust ja paiknemisest: monoplaan, biplaan, vaidtiib, part-lennuk, tandemtiiblennuk.\nOtstarbe järgi liigitatakse lennukeid sõjalennukiteks, transpordilennukiteks, õppe- ja treeningulennukiteks ning eriotstarbelisteks lennukiteks. Viimaste hulka liigituvad näiteks sanitaar-, põllumajandus-, tuletõrje- ja aerofotolennukid.\nÕhkutõusmis- ja maandumisomaduste järgi liigitatakse lennukeid pika hoo- ja pidurdusjooksuga, lühistart- ja püststartlennukiteks. Lennukauguse järgi liigitatakse neid pikamaalennukiteks, keskmaalennukiteks ja lühimaalennukiteks. Lennukiiruse järgi liigitatakse neid eel- ja ülehelikiirusega lennukiteks. Lennukeid liigitatakse ka jõuseadme ehk lennukimootori tüübi järgi.\nJõuallikaga varustatud lennukid saavad edasiliikumise lennukiiruse reaktiivtõukest või propelleri või ka ventilaatori poolt tekitatud tõmbest. Kasutatava jõuallika ehk mootori osas jagunevad lennukid kolbmootor- ja reaktiivlennukiteks. Kolbmootoriga lennukid jagunevad omakorda täht- või ridamootoriga lennukiteks."
+    },
+    {
+        "id": "0199g",
+        "description": "Jalgratas on tüüpiliselt kaherattaline inimjõul edasiliikuv sõiduvahend, kuid leidub ka kolme- või enamarattalisi ning koguni üherattalisi jalgrattaid."
+    },
+    {
+        "id": "019jd",
+        "description": "Paat on väike, õõnsa kerega, reeglina ilma kajutita ja hõlpsalt veest välja tõstetav või tõmmatav lihtne veesõiduk.\nEestis registreeritakse väikelaevu, sealhulgas paate, pikkusega 2,5 m ja enam, liiklusvahendite registris - sellega tegeleb Eesti Riiklik Autoregistrikeskus. Ujuvvahendi väikelaevaks tunnustamise otsuse teeb Veeteede Amet."
+    },
+    {
+        "id": "01bjv",
+        "description": "Buss ehk autobuss on teedel ja tänavatel liikuv, suurema hulga inimeste veoks mõeldud transpordisõiduk, milles on vähemalt 10 istekohta.\nBussid jagunevad liinibussideks, pikamaabussideks ja turismibussideks.\nPikamaabusside varustuses sisalduvad üldiselt konditsioneer, televiisorid, külmik, videomakk ja käimla. Mõningates pikamaabussides on reisijatele ka magamiskohad.\nElektriga sõitvaid busse nimetatakse trollibussideks."
+    },
+    {
+        "id": "0k4j",
+        "description": "Auto on lühend sõnast automobiil, mis tuleneb kreekakeelsest sõnast autos – ise ja ladinakeelsest sõnast mobilis – liikuv. Auto on vähemalt kolmerattaline ja kaheteljeline mootorsõiduk reisijate või veoste vedamiseks rööpmeta teedel või maastikul. Autod jagatakse liiklusseaduse järgi kolme põhikategooriasse: B, C ja D. Kaasajal tootmises olevatel autodel on põhiliseks jõuallikaks sisepõlemismootor, vähestel autodel ka elektrimootor või ökonoomsuse huvides sisepõlemismootori ja elektrimootori kombinatsioon."
+    },
+    {
+        "id": "09ct_",
+        "description": "Kopter on õhust raskem õhusõiduk, mis kasutab tõste- ja veojõu tekitamiseks vähemalt üht rõhttasandilähedases asendis pöörlevat tiivikut.\nTiiviku koosseisus on pöörlevate labadega rootor.\nEristatakse ühe, kahe ja mitme tiivikuga koptereid. Omakorda ühe tiivikuga kopterid jagunevad sabas asuva tüürpropelleriga kopteriteks ja tiiviku labade otstes paiknevate reaktiivmootoritega kopteriteks. Kui kopteril on kaks tiivikut, siis võivad need asuda teineteise taga, kõrval või kohal. Viimast olukorda nimetatakse tandemtiivikuks. Lisaks võivad kopteri tiivikud olla lõikuvate telgedega. Nelja tiivikuga kopter on kvadrootor.\nKopter saab õhku tõusta ja maanduda vertikaalselt, kasutades lennuliikluseks kohandamata, sealhulgas looduslikke maandumisplatse, samuti \"rippuda õhus\" ühe koha peal. Lennusuuna muutmiseks vajalik pöörderaadius on võrreldes lennukiga väga väike ja õhus paigal seisval kopteril puudub. Kõik see lubab kopterit peale transpordi kasutada ehitusel, päästeteenistuses, põllumajanduses ja sõjanduses.\nKopteri kiirus on kuni 400 km\/h, lennukaugus kuni 2000 km ja kandevõime kuni 40 t."
+    },
+    {
+        "id": "04_sv",
+        "description": "Mootorratas on liiklusseaduse mõistes külghaagisega või külghaagiseta kaherattaline mootorsõiduk, mille sisepõlemismootori töömaht on üle 50 cm3 või valmistajakiirus on üle 45 km\/h."
+    },
+    {
+        "id": "06q74",
+        "description": "Laev on veetiheda kerega veesõiduk. Laevad kuuluvad aluste hulka.\nEesti vabariigi seaduste järgi on laev ujuvvahend, mille üldpikkus on 24 meetrit ja rohkem. Erijuhuseks on 12–24 meetri pikuse ujuvvahendi omanikule antud võimalus registreerida ujuvvahend registris, kas laeva, kaatri või paadina. Saksa \"Lloyd\" annab laeva sertifikaadi välja alates 100. brutoregistertonnist. Vene tsaaririigis ja Eesti vabariigis enne 1940. aastat ja nõukogude okupatsiooni lõpuni kanti registrisse laev alates 20. brutoregistertonnist.\nLaeva kasutatakse lasti ja reisijate vedamiseks või eriotstarbeliste majanduslike, teaduslike, tehniliste või sõjaliste ülesannete täitmiseks. Laevu ehitatakse ka ajaviite ja spordi jaoks.\nLaeva iseloomustavad tema tehnilised näitajad, veeväljasurve, mahutavus ja dedveit ning ka üldpikkus, veeliinipikkus, laius ja süvis. Laeva käitumine erinevates ilmastikutingimustes, sõiduohutus, konstruktsiooni täiuslikkus ja stabiilsus on laeva omaduste näitajad, millest tuleneb laevaklass."
+    },
+    {
+        "id": "0pg52",
+        "description": "Takso on sõiduauto või veoauto, millega osutatakse sõidu- või veoteenust ning millel on taksomeeter. Sõidu või veo maksumus tehakse kindlaks taksomeetri abil tariifi alusel. Erinevalt rendiautost antakse auto kasutada koos autojuhiga, keda nimetatakse taksojuhiks. Sõidutaksodele saab peale minna taksopeatuses, neid peatada tänaval ja tellida telefoni või interneti teel."
+    },
+    {
+        "id": "07jdr",
+        "description": "Rong on enamasti reisi- või kaubavagunitest ning ühest või mitmest vedurist koosnev raudteetranspordivahend. Veduri asemel võib rongi vedada ka mootorvagun."
+    },
+    {
+        "id": "07r04",
+        "description": "Veoauto on auto, mis on ettenähtud veoste vedamiseks. Erinevate veoseliikide vedamiseks on kasutusel ehituslikud erisused ning seepärast võib veoautosid liigitada ka koormavedamise ehitise järgi nii:\n⁕madelauto - liikumatu kastiga\n⁕paakauto - tsisterniga vedelike vedamiseks\nVedukist ja mitmest haagisest veeremit nimetatakse autorongiks."
+    },
+    {
+        "id": "07kfm",
+        "description": "Tramm on linnatänavate rööbasteedel elektrimootorite jõul sõitev ühe- kuni kolmevaguniline rongisarnane ühistranspordivahend. Linnade lähiliikluses kasutatakse ka madalapõhjalisi trammironge, mis on ehitatud nii linnatänavate rööbasteel sõitmiseks kui ka raudteel sõitmiseks.\nTramm tarbib väikese veeretakistuse tõttu teiste transpordivahenditega võrreldes äärmiselt vähe energiat: 1…2 kilovatt-tundi 100 sõitjakilomeetri kohta.\nTrammiks peetakse mõnikord ekslikult trollibussi, mis ei sõida rööbastel ja on iseloomulike \"sarvedega\"."
+    },
+    {
+        "id": "0ddnl",
+        "description": "Parvlaev on liinireisilaev, mille autotekkidel veetakse eeskätt reisijate autosid, aga ka muud veeremlasti. Vene keele eeskujul on argikeeles levinud ka praam, mis lühiduse tõttu võimaldab paremini liitsõnu moodustada.\nParvlaev on eeskätt Põhjamaade rahvusvahelistel liinidel levinud laevatüüp, aga on kasutusel ka siseliinidel, enamasti saarte ja mandri vahel. Reisijate arv võib sõltuda sellest, kas tegu on päevaste või öiste liinidega, mil reisijad vajavad kajutikohti. Suurtel parvlaevadel on umbes 2500 reisijakohta ja kui tegu on päevaste reisidega, siis on sama suures laevakeres rohkem autokohti.\nKui parvlaev sõidab lühikesel liinil, on sellel tavaliselt kaks rampi – nii vööris kui ka ahtris –, et lossimine-lastimine oleks kiirem.\nMeresõiduohutusreeglite järgi peavad nii sõiduki juht kui reisijad parvlaevaga sõitmise ajaks sõidukist lahkuma. Üldjuhul on keelatud sõidu ajal autotekile minna. Ent lühiliinidel on sageli vastupidi - sõitjad jäävad meresõidu ajaks autosse.\nLäänemerel alustasid parvlaevad esmalt Soome ja Rootsi vahelistel liinidel, mis muutis reisijaile oma auto kaasavõtmise mugavaks. Parvlaevad on levinud ka saarte ja mandri vahelistel liinidel, mõnes riigis tegeleb sellega riik kui maantee pikendusega. Saarte parvalevaliinide sellise käsitluse korral võib neis riikides parvlaevasõit olla ka tasuta või on tasuta reisijaile ning sõidukite ja kaubaveo eest tuleb tasuda. Näiteks Hollandis vastutab parvlaevaliikluse korraldamise eest maanteeamet."
+    },
+    {
+        "id": "0f6pl",
+        "description": "Trollibuss ehk troll \"on rööpmevaba ja kontaktliini kaudu toidetav elektri-tänavasõiduk, mida kasutatakse linnatranspordis\"."
+    },
+    {
+        "id": "09g5h",
+        "description": "Kosmoseaparaat on tehisobjekt, mis on määratud kosmoses lendamiseks, uurimis- ja muude tööde korraldamiseks taevakehade pinnasel."
+    },
+    {
+        "id": "074d1",
+        "description": "Allveelaev on laev liikumiseks veepinna all. Allveelaevad leiavad enamasti kasutust sõja- või mereuurimislaevadena.\nSõjanduses on allveelaevade suureks eeliseks see, et nad suudavad praktiliselt nähtamatuks jäädes liikuda täielikult vee all, ja püsida seal isegi mitu kuud järjest. Vee all liikumist võimaldava elektrimootori ja torpeedo leiutamine muutis allveelaevad Esimese ja Teise maailmasõja ajal sõjalaevastike võimsaks löögijõuks. Tänapäeva allveelaevadel on kas diisel- ja elektrimootor või tuumareaktor. Allveelaevad on tänapäeval enamasti patrull-laevad ja rakettrelvastusega sõjalaevad. Suurriikide allveelaevad kannavad ka tuumalõhkepeadega mandritevahelisi rakette.\nVäikesi allveelaevu kasutatakse enamasti mereuurimislaevadena."
+    },
+    {
+        "id": "0342h",
+        "description": "Kitarr on kromaatiline keelpill. Enamasti on kitarril 6 keelt, kuid leidub ka teistsuguse keelte arvuga pille. Tavapärase mänguviisi korral mängitakse kitarri ühe käe sõrmedega sõrmlaual keeli alla vajutades ning teise käega keeli sõrmitsedes või plektroniga tõmmates. Valmistatakse vasema- ja paremakäeliste pille, mille erinevus seisneb selles, et on niiöelda \"peeglis\".\nKitarr koosneb kerest ning selle külge kinnituvast kaelast. Kere küljes on roop, mille külge kinnitatakse keeled. Roobist kaela suunas, või roobil asub alumine sadul, millele keeled toetuvad. Kaelal asetsev sõrmlaud on tavaliselt astmetraatide ehk krihvide abil jaotatud astmeteks, mille täpne arv sõltub kitarri mudelist, samas valmistatakse ka astmetraatideta nn fretless-kitarre. Kaelaga on ühendatud kitarri pea, kus asuvad pingutid, mille abil toimub kitarri häälestamine. Kitarri pea ja kaela ühenduskohal asub keelte asendit fikseeriv ülemine sadul.\nAkustilistel ja elektroakustilistel kitarridel täidab kere ühtlasi kõlakasti funktsiooni. Heli väljub kere kaanel asuva kõlaava kaudu. Elektroakustilistel kitarridel on lisaks kõlakastile ka vähemalt üks helipea. Elektrikitarril kõlakast puudub. Heli tekitatakse keelte alla paigutatud helipeade abil. Sageli võib elektrikitarridel küljes olla roobi liigutamist võimaldav kang, mille abil tekitatakse tremolo ja vibrato-efekt. Samuti on osadel elektrikitarridel peenhäälestussüsteem, millega lukustakse keeled ülemisel sadulal peale häälestamist, häälestamine toimub spetsiaalsete poltide abil alumisel sadulal. Peenhäälestussüsteem võimaldab hoida pilli hääles hoolimata keeltele suurt pinget andvate kangitehnikatele"
+    },
+    {
+        "id": "0319l",
+        "description": "Metsasarv on vaskpuhkpill. Metsasarve otsene eelkäija oli jahisarv, mille särav kõla sarnanes trompeti omale. Ajapikku muutus sarve huuliku ja kõlalehtri ehitus ning pilli tämber omandas pehmema värvingu.\nTänapäeval kasutatav metsasarv näeb välja toredasti rõngasse ja sõlme keeratud pika toruna. Toru pikkus on kokku 4 meetrit, kõlalehtri läbimõõt suhteliselt suur: 30 sentimeetrit.\nMetsasarve hoitakse mängimisel käes üpris eriliselt: sõrmistel mängitakse vasaku käega ning parem käsi asub vähem või rohkem kõlalehtri sees. Parema käega toetatakse pilli, mahendatakse tooni ja täpsustatakse häälestust.\nMetsasarve ulatus on Es-c3. Et tegemist on F-pilliga, siis kõlab see kvint madalamalt kui noodis kirjas. Noodid kirjutatakse üles peamiselt viiulivõtmes, vaid kõige madalamad bassivõtmes. Metsasarve eelkäijateks on loomade sarvedest ja puust valmistatud jahisarved. Edaspidi hakati neid valmistama metallist ning toru painutati täisringiks.\nMetsasarve toru pikkus on umbes 4 meetrit ja kõlalehtri läbimõõt 30 sentimeetrit. Õhusamba pikkuse muutmiseks on metsasarvel kolm kuni neli ventiili.\nMetsasarv on transponeeriv pill, see tähendab, et tema noodid ei kõla sellel kõrgusel, nagu nad kirjas on. Kaasaegses orkestris kasutatakse peamiselt F- ja B-pille, neist esimene kõlab kvindi ja teine suure sekundi võrra madalamalt kui noodikirjas. Tänapäeval valmistatakse valdavalt nn topeltsarvi, milles on ühendatud mõlema varem kasutusel olnud metsasarve võimalused. Sellega on kadunud vajadus kasutada kahte instrumenti."
+    },
+    {
+        "id": "02hnl",
+        "description": "Trummikomplekt on kogum trumme, taldrikuid ja mõnikord ka teisi löökpille, mis on paigutatud kompaktselt ühele löökpillimängijale mängimiseks."
+    },
+    {
+        "id": "013y1f",
+        "description": "Orel on muusikainstrument, mis tekitab heli õhuvoolu juhtimisega läbi erineva suurusega puidust või metallist vilede.\nOrelit nimetatakse pillide kuningaks.\nOrelil võib olla 1–5 klaviatuuri ehk manuaali. Oreli pedaal on samuti klaviatuur, mida organist mängib jalgadega. Oreli registrid on vilede read, milleta pole võimalik mängu ajal orelil heli tekitada. Oreli nähtav osa on prospekt, mis koosneb Principali registri viledest ja sageli rikkalikult kaunistatud oreli kapist. Oreleid eristatakse ehitusviisi ehk traktuuri järgi: mehaanilised, pneumaatilised ja elektriorelid.\nOreleid kasutatakse peamiselt kontserdisaalides ja kirikutes."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Flööt on puupuhkpillide hulka kuuluv soolo- ja orkestripill. Tänapäeval kasutatakse flööti ka jazz- ja rockmuusikas - neist viimase üks säravamaid esitajaid on näiteks Ian Anderson.\nPartituuris noteeritakse flöödipartii tavaliselt kõige ülemisele noodijoonestikule viiulivõtmes. Suur flööt noteeritakse in C, kuid flöötide perekonna muud pillid on transponeerivad muusikainstrumendid:\n⁕pikoloflööt noteeritakse tavaliselt kas in C, in Des või in Es;\n⁕altflööt noteeritakse kas in G, in F või in Es\n⁕bassflööt noteeritakse kas in C või in B\n⁕kontrabassflööt noteeritakse in G."
+    },
+    {
+        "id": "05r5c",
+        "description": "Klaver on klahvpill. Klaver erineb klavessiinist selle poolest, et klaveril tekitavad heli vildiga kaetud haamrikesed, mis klahvide allavajutamisel löövad vastu metallist keeli, pannes need võnkuma. Helilained kanduvad klaveri kõlakasti seinteni, mis neid võimendavad.\nLääne muusikas kasutatakse klaverit laialdaselt sooloesinemiseks ja teiste pillide või laulu saateks. See on väga populaarne abivahend ka heliloojatele, koorijuhtidele ja muusikaõpetajatele. Kuigi klaver on raskesti teisaldatav ja tihti kõrge ostuhinnaga, on klaveri mitmekülgsus muutnud selle üheks kõige tavalisemaks muusikainstrumendiks.\nHornbostel-Sachsi muusikainstrumentide liigituse järgi kuulub klaver kordofonide hulka."
+    },
+    {
+        "id": "0mkg",
+        "description": "Akordion on käeshoitav lestkeeltega pill, kus heli tekitavad häälestatud teraslehekesed, mis võnguvad kui lõõtsad suruvad õhu nende vahelt läbi. Paremal pool lõõtsa on klaviatuur või nupuread, vasakul pool nupuread bassinootide ja -akordide mängimiseks. Akordionimängijat nimetatakse akordionistiks."
+    },
+    {
+        "id": "04gc2",
+        "description": "Advokaat tähendab ennekõike sellist juristi, kelle peamiseks ülesandeks on klientide kohtus esindamine. Mõiste kasutamisel on oluline mõista, et erinevates õigussüsteemides võib sõna \"advokaat\" või sarnase tüvega sõna tähendada oluliselt erinevaid õigusega seotud elukutseid, näiteks kohtujurist Euroopa Kohtus.\nEestis kasutatakse sõna advokaat advokatuuri liikmete kohta. Eestis võivad advokaadi nimetuse all õigusteenust osutada üksnes advokatuuri liikmed. Advokaadid jagunevad vandeadvokaadi abideks, vandeadvokaadi vanemabideks ja vandeadvokaatideks."
+    },
+    {
+        "id": "05t4q",
+        "description": "Arst on tõenduspõhist informatsiooni kasutav spetsiifilise akadeemilise haridusega spetsialist, kelle tegevus on suunatud tervise edendamisele ning haiguste diagnoosimisele ja ravile.\nEestis on enamik arste saanud hariduse Tartu Ülikooli arstiteaduskonnas."
+    },
+    {
+        "id": "0mn6",
+        "description": "Arhitekt on ehitisi kavandav kunstnik. Arhitektuur kuulub ainelisse kultuuri ja kunsti, mistõttu arhitekti töö sõltub oluliselt nii ajastu ehitustehnikast ning otstarbenõudeist aga ka ilupõhimõtteist ja kunstivaadetest."
+    },
+    {
+        "id": "09jwl",
+        "description": "Muusik on loovisik, kes tegutseb heliloomingu või muusika interpretatsiooni alal.\nHeliloomingu alal tegutseb helilooja või arranžeerija.\nMuusika interpretatsiooni alal tegutseb\n⁕dirigent või koormeister\n⁕diskor ehk DJ\n⁕laulja ehk vokalist\n⁕rahvamuusik\n⁕instrumentalist ehk pillimängija\nMuusik võib töötada nii vabakutselise loovisikuna kui ka ametis. Vastavalt töö iseloomule ja ametiülesannetele võib muusik olla solist, ansamblist, kammermuusik, korist ehk koorilaulja, orkestrant, kontsertmeister, regulaator, orkestrisolist, ooperilaulja, kammerlaulja, korrepetiitor.\nKutseliste muusikute seisus kujunes välja juba antiikajal. Muusik oli üheaegselt nii laulja, pillimees, helilooja, luuletaja kui ka tantsija. Kutselistel Vana-Rooma muusikutel olid oma ühingud, kust saadi esinejaid nii avalikele kui erameelelahutustele. Populaarsemate muusikute tasu oli rikkalik."
+    },
+    {
+        "id": "01d30f",
+        "description": "Õpetaja on isik, kes teisi õpetab või kasvatab, aidates õpilastel omandada teadmisi või oskusi. Õpetaja ehk pedagoog on ühtlasi elukutse."
+    },
+    {
+        "id": "0d1pc",
+        "description": "Modell ehk mannekeen on inimene, kelle tööks on enda peal rõivaste, soengu, meigi või muude toodete esitlemine või kunstnikule poseerimine."
+    },
+    {
+        "id": "01c72t",
+        "description": "Helilooja on inimene, kes loob heliteoseid."
+    },
+    {
+        "id": "04y7pl",
+        "description": "Kokk on inimene, kelle ametiks on toiduvalmistamine."
+    },
+    {
+        "id": "05xls",
+        "description": "Programmeerija on inimene, kes kirjutab arvutitarkvara. Programmeerija töötab programmeerimiskeeltega. Veebikeskkonna tarbeks programmeerimistööd tegev inimene on veebiprogrammeerija.\nProgrammeerijad kirjutavad, testivad, parendavad arvutiprogramme, mis on vajalikud, et arvutid saaksid teatud funktsioone teostada. Programmeerijad töötavad suurfirmade infotehnoloogiaosakondades, suurtes tarkvarafirmades ja väikestes arvutitarkvara loovates ja hooldavates firmades. Paljud professionaalsed konsulatsioonifirmades töötavad programmeerijad teevad tööd vastava kliendi juures lepinguliste töötajatena.\nProgrammeerijad kirjutavad programme vastavalt vanemprogrammeerijate või süsteemianalüütikute spetsifikatsioonidele. Kui on välja mõeldud, mida arvutitarkvara tegema peab ja milline näeb välja kasutajaliides, on programmeerija töö see kõik arvutile loetavaks ja järgitavaks teha. Programmeerija kodeerib need juhised arvutiloetavale kujule kasutades programmeerimiskeeli. Olenevalt programmi eesmärkidest kasutatakse erinevaid keeli. Näiteks keskmiste ärirakenduste loomiseks kasutatakse sageli COBOL-it, kuid näiteks teaduses kasutatakse Fortran-i. Veebiprogrammeerijate keelteks on Java, C# ja PHP."
+    },
+    {
+        "id": "02h661t",
+        "description": "Hambaarst ehk stomatoloog on arst, kes ravib hambaid.\nStomatolooge õpetatakse Eestis välja Tartu Ülikooli arstiteaduskonnas."
+    },
+    {
+        "id": "05wgy",
+        "description": "Pediaatria on lastehaigusi käsitlev arstiteaduse haru. Lastehaigustega tegelev arst on pediaater.\nPediaatria haru on neonatoloogia, mis tegeleb vastsündinutega."
+    },
+    {
+        "id": "099md",
+        "description": "Sõdur on allüksuse rivikoosseisu põhivõitleja üldnimetus."
+    },
+    {
+        "id": "01d380",
+        "description": "Trell ehk trellpuur ehk käsipuur on mehhaaniline tööriist aukude puurimiseks ehitus-, üldehitus-, pingi- ning tisleritöödel."
+    },
+    {
+        "id": "03l9g",
+        "description": "Vasar ehk haamer on tööriist materjali või objekti löögiga töötlemiseks."
+    },
+    {
+        "id": "02bbbj",
+        "description": "Höövel on käsitööriist, mida kasutatakse puidupinna silumiseks ning soonte, valtside ja profiilide kujundamiseks.\nKasutatakse nii käsihöövleid kui ka elektrilisi käsihöövleid. Ka rihthöövelpinki nimetatakse mõnikord lihtsalt höövliks.\nKäsihöövel koosneb korpusest ehk höövlipakust ja selle tallast välja ulatuvast lõiketerast. Höövli tera nimetatakse höövlirauaks. Traditsiooniliselt valmistati höövlipakud puidust ning höövliraud kinnitati puitkiiluga. Sama tüüpi höövleid valmistatakse siiani.\nTänapäeva käsihöövlitel võivad olla nii puidust pakud kui ka metallist korpused. Höövliraua kinnitamiseks kasutatakse enamasti metallklappi ning kiilu või kinnitusplaati. Höövli lõikesügavus on hõlpsasti reguleeritav.\nHöövli juhtimiseks on selle paku külge kinnitatud sarv- ja\/või nuppkäepide.\nSõltuvalt otstarbest on höövlid erineva suuruse, konstruktsiooni ja höövliraua lõikeserva profiiliga.\n⁕Klapphöövel\n⁕Korbahöövel\n⁕Pikkhöövel\n⁕Härghöövel\n⁕Siluhöövel\n⁕Otsahöövel\n⁕Simsihöövel\n⁕Valtsi- ja soonehöövel\n⁕Kraadihöövel\n⁕Põhjahöövel\n⁕Hammashöövel\n⁕Pääsuhöövel\n⁕Liimeister\n⁕Kaapleht\n⁕Paindhöövel\n⁕Jaapani höövlid\n⁕Elektrihöövel"
+    },
+    {
+        "id": "05b_nc",
+        "description": "Tapisaag ehk roogsaag on väikeste hammastega käsisaag, mille seljale on saelehe jäikuse suurendamiseks kinnitatud terasest või messingist tugevdusriba.\nTapisaagi kasutatakse suure täpsusega saagimiseks, eelkõige tappide tegemisel. Sageli kasutatakse tapisaagi koos eerungikarbiga."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Käärid on käsitööriist, mida kasutatakse materjali sisse- lõikamiseks.\nKaasaegsed käärid koosnevad kahest terasplaadist, mis töötavad võllile kinnitatud kangidena. Säherdune kinnitusviis arvatakse pärinevat aastast 110 Vana-Rooma riigist."
+    },
+    {
+        "id": "07ln6l",
+        "description": "Kruustangid on laialdaselt kasutatavad kinnitusrakised. Kruustangid koosnevad korpusest koos seisva põsega, liikuvast põsest, põskedele kinnitatud pakkidest, mis mõnikord on vahetatavad ning kruvi põhimõttel töötavast kinnitusmehhanismist. Eristatakse lauakruustange ja masinkruustange ehk pingikruustange. Viimased on mõeldud tööpinkides kinnitusrakisteks.\nKruustangide korpus valmistatakse kas kõrgkvaliteedilisest malmist või terasest. Liikuva põse juhtpinnad on üldjuhul karastatud ja lihvitud. Pakid valmistatakse karastatavast terasest kõvadusega HRC 55...60. Standardsete pakkide tööpind on kas sile või sooneline. Erikujuga pakkidel võib olla ka prismaatiline või astmeline tööpind.\n⁕\nPingikruustangid ümarmaterjalile.\n⁕\nPingikruustangid.\n⁕\nNurkpingikruustangid.\n⁕\nPöörlevpingikruustangid.\n⁕\nRistpingikruustangid."
+    },
+    {
+        "id": "01j5ks",
+        "description": "Mutrivõti on tööriist mutrite või poltide kinni- ja lahtikeeramiseks või paigalhoidmiseks."
+    },
+    {
+        "id": "04nmy9",
+        "description": "Tšekk, ka pangatšekk, on väärtpaber, mille väljaandja annab makse teostajale korralduse maksta makse saajale kindel rahasumma. Tavaliselt on tšeki maksjaks krediidiasutus. Tšekisumma väljamaksmise toimingut nimetatakse tšeki lunastamiseks.\nTšeki väljaandja võib anda korralduse\n⁕oma pangale maksta tšekil määratud summa tšeki valdajale;\n⁕lunastajale maksta määratud summa nõudmisel kas tšeki väljaandjale või väljaandja poolt määratud kolmandale isikule."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Kahvel on söögiriist, mille käepideme otsas on mitu kitsenevat haru. Kahvli harud on sageli veidi kaardus. Tavaliselt tehakse kahvleid metallist.\nKahvli abil tõstetakse toitu suhu ja hoitakse seda küpsetamise ning tükeldamise ajal paigal. Suhu tõstetavat toitu hoitakse harude otsa torgatuna või nende peal.\nIda-Aasias kasutatakse kahvli asemel rohkem söögipulki, kuid ka seal on hakanud kahvel rohkem levima."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Hamburger on toit, mis tavaliselt koosneb valmis küpsetatud kuklist ning erinevatest lisanditest. Kukkel poolitatakse ja pooltele lisatakse erinevaid nii taimseid kui loomseid toiduaineid ja\/või kastmeid.\nHamburgeri eelkäijaks peetakse Saksa päritolu kotletti Hamburg steak, mida valmistati 19. sajandil Ameerika tänavagrillidel. Laiemalt tuntuks said hamburgerid möödunud sajandi esimesel poolel, kui Fletcher Davis pani soojad kotletid kuklite vahele ja müüs neid Saint Louisis korraldatud maailmanäitusel. Seda sündmust peetakse Ameerika hamburgeri sünniks\nHamburgerite kuklid võivad olla valmistatud erinevat sorti jahust. Kuklite valmistamiseks kasutatakse mitmeid erinevaid kergitusained.\nSamuti on hamburgerite täidis varieeruv, kuid eeldatakse, et üks koostisosa võiks valgurikas liha olla. Osalt saab burgeri nimetuse järgi ka viiteid koostisosa ja\/või valmistusmeetodi kohta, nii teatakse: barbeque,veggie, juustu, kala jne burgereid.\nMaailma kuulsaim hamburger on Big Mac, mille leiutas 1968. aastal McDonaldsi frantsiisivõtja Jim Delligatti. Näiteks 2008. aastal müüdi maailmas 550 miljonit Big Maci."
+    },
+    {
+        "id": "01c6xf",
+        "description": "Joogivesi on joomiseks sobiv vesi. Joogivee tarvitamine ei tohi põhjustada vahetuid ega pikaajalisi tervisehäireid.\nEnamikus arenenud maades on veevärgivesi, mida kasutatakse nii majapidamises, äris kui tööstuses, joomiseks sobiv, kuigi otseselt inimese joogiks või toiduvalmistamiseks kulunud joogivesi moodustab kogu kasutatavast joogiveest väga väikese osa. Põhiliselt kasutab inimene vett pesemiseks ja maastiku niisutamiseks.\nVesi on alati olnud inimestele tähtis jook. Kõigi organismide ellujäämiseks on vesi hädavajalik. Kui mitte arvestada rasva, siis koosneb inimese keha 70% massiprotsendi ulatuses veest. Vesi on ainevahetuse käigus toimuvate keemiliste reaktsioonide lähteaine või saadus ja toimib paljudes inimkehas olevates lahustes lahustina.\nPaljudes maailma piirkondades ei ole inimestel joogiveele piisavat juurdepääsu joogiveele. Nad peavad kasutama vett, mis on saastunud haigusetekitajate, mürgiste ainete või liiga suure hulga lahustunud ainetega. Mingil määral aitab sellise vee keetmine, mille käigus bioloogilised haigusetekitajad hävivad, ja kurnamine, mis suuremad saasteosakesed kinni peab. Sageli ei piisa sellestki. Niisuguse vee tarvitamine ei ole tervislik ning sellise vee joomine või tarvitamine toidu valmistamiseks võib tekitada pikaajalisi ja kroonilisi haigusi."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Kohv on kohvipuu röstitud seemnetest ehk kohviubadest jahvatatud pulber ja sellest valmistatud aromaatne jook."
+    },
+    {
+        "id": "09cx8",
+        "description": "Sõrmed on inimese käelaba etteulatuvad osad. Sõrmedeks nimetatakse ka mõne muu looma varbaid."
+    },
+    {
+        "id": "0hz0h",
+        "description": "Hambad on selgroogsetel loomadel suus leiduvad luustunud elundid, mida loom kasutab tavaliselt toitumisel ja esemete haaramisel.\nImetajatel on tavaliselt mõned hambad teistest suuremad või tervamad, nagu kihvad või võhad.\nPaljude liikide noorloomadele ilmuvad kõigepealt piimahambad, mis täiskasvanuks saades asenduvad jäävhammastega, aga kõigil liikidel sellist eristumist ei ole.\nMõnel loomaliigil kasvavad hambad kogu eluaja ja seetõttu peab loom neid pidevalt kulutama, et nad liiga pikaks ei kasvaks. Mõnel loomaliigil kukub ärakulunud hammas suust välja ja selle asemele kasvab uus hammas. On ka loomi, millel ärakulunud ja katkised hambad ei asendu.\nTänapäeva lindudel hambaid ei ole. Minevikus on leidunud siiski ka hammastega linde, näiteks hesperornis. Linnud põlvnevad mitmest hammastega eellasrühmast ja kõigis neis on lindudel hambad kadunud ühesuguse eluviisi tõttu: hambad kaaluvad päris palju ja hammasteta linnul on kergem lennata. Hiljemalt eotseeni keskpaigaks olid kõik hammastega linnud välja surnud.\nHambad on loomade kõige vastupidavamad luud. Sellepärast leitakse fossiilide hambaid sagedamini kui teisi luid. Mõne väljasurnud loomaliigi välimus on määratud ainuüksi hammaste põhjal."
+    },
+    {
+        "id": "031n1",
+        "description": "Labajalg ehk jalalaba on inimese või teiste primaatide jala alumine osa."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Huuled on inimese suu kaks liikuvat lihaselist eesserva.\nTeiste loomade puhul nimetatakse vastavaid kehaosi mokkadeks."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Suu on loomadel peas asuv ava koos õõnega, millega algab seedekulgla.\nSuu kaudu võetakse organismi toit.\nSuus võivad asuda hambad ja keel. Suu eesservadel võivad olla huuled."
+    },
+    {
+        "id": "01d_ff",
+        "description": "Varvas on imetaja, roomaja või linnu maha toetuva jäseme hargnenud ja osaliselt küünisega kaetud osa. Maha mittetoetuv varvas võib olla taandarenenud ja rudimentaarne."
+    },
+    {
+        "id": "0f9swq",
+        "description": "Lõug on näo alumine osa, alahuulest allpool."
+    },
+    {
+        "id": "03q69",
+        "description": "Juuksed on inimese peas kasvavad karvad. Asukoha tõttu inimkeha ülemises otsas torkavad juuksed kergesti silma, seetõttu pööratakse neile paljudes kultuurides erilist tähelepanu: neid kärbitakse, eemaldatakse, värvitakse ja seatakse erilistesse soengutesse.\nMõningates olukordades võib juuste paljastamine või omamine olla tabu, näiteks peavad naised katma pea õigeusu kirikuisse sisenedes ning tihti on lõigatud ära sõjaväeteenistusse astujate või orjade juuksed. Samas on inimestel üldjuhul tavaks juukseid kanda, mistõttu võib nende puudumine eriliselt märgatav olla, näiteks noortel naistel. Samal põhjusel peetakse juuste hõrenemist tihtipeale probleemiks, tulenegu see siis inimese vanusest või keskkonnamõjudest.\nJuuste lõikuse ja töötlemisega on eri kultuurides tegelenud mitmesugused spetsialistid. Tänapäeval pöördutakse soengute asjus eelkõige juuksuri poole, ajalooliselt on sellega tegelenud habemeajajad.\nJuuste puudumisel või varjamisel tarvitatakse parukaid, mis võivad olla valmistatud inimjuustest, loomakarvadest või kunstmaterjalidest. Ajalooliselt on ka neid valmistanud juuksurid, mistõttu näiteks vene keeles nimetatakse juuksurit tänini parukameistriks ю"
+    },
+    {
+        "id": "0dzd8",
+        "description": "Kael on paljudel loomadel, sealhulgas inimesel, pead ja keret ühendav kehaosa."
+    },
+    {
+        "id": "0fjkt",
+        "description": "Keel on selgroogsete elund, mille abil saab toitu alla neelata.\nKeele värvus on mitme haiguse sümptom: tavaliselt roosa, võib ta infektsiooni korral minna valgeks."
+    },
+    {
+        "id": "039xj_",
+        "description": "Kõrv on selgroogsete elund, mille ülesandeks on registreerida keskkonna lainelisi võnkumisi kuulmise abil nende põhjustaja registreerimise eesmärgil.\nKeskkonnana tulevad arvesse kas õhk või vesi."
+    },
+    {
+        "id": "0k65p",
+        "description": "Labakäsi on käe osa, mille moodustavad kämmal ja sõrmed."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Nina on ülemiste hingamisteede algusosa selgroogsetel.\nPeale muude anatoomiliste struktuurühikute nagu veresooned, karvakesed jne. paiknevad ninas veel haistmisretseptorid.\nNina peamiseks üleandeks ongi reageerimine õhus lendlevatele keemilistele ühenditele ehk haistmine."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Pea on loomadel kehaosa, mis asub keha eesotsas.\nPeas on tavaliselt suu ja silmad. Peas võivad olla näiteks nina, kõrvad ja peaaju. Lülijalgsetel on muu hulgas tundlad.\nPead võib muust kehast eraldada kael.\nSelgroogsetel kaitseb peaaju kolju."
+    },
+    {
+        "id": "014sv8",
+        "description": "Silm on nägemiselund.\nSilm või silmad on paljudel loomadel, sealhulgas inimesel. Isegi mõnel ainuraksel on valgustäpp, mis võimaldab eristada valgust pimedusest. Arenenud nägemine võimaldab kaugelt avastada nii toitu kui vaenlasi, samuti liigikaaslasi.\nPaljudel loomadel on silmad paariselundid. Kaks silma võimaldavad paremat ruumilist nägemist kui üks.\nPutukatel on kahte liiki silmad: lihtsilmad ja liit- ehk fassettsilmad.\nSilma sarvkestale langevad valguskiired läbivad silma eeskambri, murduvad silmaläätses, läbivad silma klaaskeha ja langevad silma tagaseinas olevale võrkkestale, millele moodustunud kujund edastatakse ajju ja töödeldakse.\nVanimad fossiilsed silmad on leitud alamkambriumi kivististest. Need on umbes 540 miljonit aastat vanad. Sel perioodil toimus evolutsioon eriti kiiresti ja seda perioodi nimetatakse kambriumi plahvatuseks. USA zooloog Andrew Parker on oletanud, et see ei ole juhuslik kokkusattumus, vaid silma teke võis põhjustada eluvormide kiire mitmekesistumise. Enne seda olid mõnel loomaliigil küll valgustundlikud rakud, kuid alles silma teke võimaldas kiiret liikumist ja orienteerumist.\nEvolutsioonilises mõttes ei võta silma arenemine palju aega. Väikeste mutatsioonide looduslikule valikule allutamise modelleerimine näitab, et tõhusale fotopigmendile tuginev lihtne optiline meeleelund võib areneda keerukaks inimsilmasarnaseks organiks umbes 400 000 aastaga. Maailmast on leitud nii tänapäevastelt kui väljasurnud liikidelt mitmesuguse arengutasemega nägemisorganeid, mistõttu silma arengufaasid on evolutsioonilises mõttes hästi jälgitavad. Evolutsiooniline surve silma arenemisele on sealjuures katkematu, sest mis tahes arenguetapil on pisut rohkem arenenud silmast enam kasu kui pisut vähem arenenud silmast."
+    },
+    {
+        "id": "01b638",
+        "description": "Saabas on pika säärega jalanõu.\nNagu teisedki jalanõud, on ka saabas mõeldud jala kaitseks külma, niiskuse ja traumade eest. Nagu teisigi jalanõusid, nii ka saapaid valmistatakse nahast, kunstnahast, kummist jt materjalidest.\nVõrreldes kingaga on saabas üldiselt tugevamast matejalist ja ulatub pahkluuni või kõrgemale. Pahkluuni ulatuvat saabast nimetatakse poolsaapaks, säärt katvat saabast säärega saapaks. Kalamehesaabas võib ulatuda puusani.\n⁕alpinistisaapad\n⁕botikud\n⁕jalgpallisaapad\n⁕kalavinskid\n⁕kalossid\n⁕kauboisaapad – ratsasaabastest 19. sajandil välja arenenud saapa tüüp, tavaliselt umbes poole sääreni ulatuvad, ilma paelteta, veidi pikendatud terava ninaosaga ning poolkõrgete ettepoole kalduvate kontstega\n⁕kirsad – kunstnahast säärsaapad, mida kanti Vene armees ning töösaapana\n⁕kummikud\n⁕lumesaapad\n⁕matkasaapad\n⁕mootoratturisaapad\n⁕mägironimisesaapad\n⁕ratsasaapad\n⁕seitsmepenikoormasaapad – mütoloogias võlusaapad, mis võimaldavad kandjal väga kiiresti liikuda\n⁕sukksaapad\n⁕suss-saapad\n⁕suusasaapad\n⁕töösaapad\n⁕uisusaapad\n⁕untad – Venemaa polaaraladel levinud paksud karusnahast talvesaapad lumes liikumiseks"
+    },
+    {
+        "id": "0142wf",
+        "description": "Pidžaamale on aegade jooksul olnud mitmeid definitsioone:\n⁕Avaralõikelised kergest materjalist püksid, mis olid seotud ümber keha ja mida kanti Lõuna- ja Lääne-Aasias.\n⁕Avar kaheosaline öörõivas, tuletatud eelnimetatud versioonist. Enamasti meeste ja poiste kasutuses. Pidžaama koosneb särgilaadsest, eest nööpidega suletavast ülaosast ja pükstest, mis on tehtud õhukesest, mittevenivast, voodilina materjali sarnasest kangast. See variant tuli esmaselt kasutusele Lõuna-Aasia Briti kolooniates 18. sajandil. 20. sajandil asendus see öösärkidega.\n⁕Kaheosaline öörõivas, mida kasutasid nii naised kui mehed, on valmistatud erineva paksusega trikotaažist ja on ääristatud soonikutega ja nende ülaosa käib selga üle pea.\nSõna 'pidžaama' tuleb pärsia keelsest sõnast پايجامه- ja tähendab jalarõivast.\nPidžaama on enamasti avar ja mugava disainiga ning valmistatud pehmest materjalist nagu puuvill, siid, satään. Pidžaamadel on sageli kandjale meelepärane trükis – loomad, superkangelased, spordi- või multifilmiteemalised pildid – kuid on ka ühevärvilisi või lihtsamustrilisi mudeleid. Koos pidžaamaga kantakse ka sageli öömütsi – mis on eriti levinud Põhjamaades, kus talvel väga külm on – või silmakatteid."
+    },
+    {
+        "id": "013s93",
+        "description": "T-särk on ilma krae, taskute ja nööpideta, lühikeste käistega, üle pea selga pandav särk.\nAlgselt alussärk, kujunes koos riidele piltide trükkimise tehnoloogia arenguga alates peamiselt 1960ndaist aastaist väga populaarseks pealissärgiks."
+    },
+    {
+        "id": "0fly7",
+        "description": "Teksad ehk teksased ehk teksapüksid ehk teksaspüksid ehk džiinid on teksasriidest või muust tugevast tekstiilmaterjalist valmistatud püksid.\nTeksade-taolisi pükse hakati esimesena valmistama Genuas, tolleaegse Itaalia iseseisvas linnriigis. Need olid eelkõige mõeldud meremeestele. Teksariie pärineb Prantsusmaalt, Nîmes'ist. Teksapükse hakati riide värvi järgi nimetama \"Genua siniseks\": itaalia keeles blu di Genova ja prantsuse keeles bleu de Gênes [blö dö žeen], millest inglispärase häälduse põhjal kujunes ingliskeelne kirjapilt jeans [džiins].\n1850. aastatel oli Saksamaa juudi päritoluga Levi Straussil San Franciscos, USA-s, väike hulgimüügifirma, mis müüs \"Levi's\" kaubamärgi all teksasid ja teksariiet California kaevandustöölistele ja edasimüüjatele. Üks tema kliente, Jacob Davis, tuli ideele tugevdada teksade taskute nurki vaskneetidega. Davisel polnud piisavalt raha, et vastavat patenti registreerida. Seepärast pöördus ta Levi Straussi poole ettepanekuga teha sel alal koostööd. 20. mail 1873. aastal registreeritigi USA patendi- ja kaubamärgiametis patent nr 139 121. Seda kuupäeva loetakse tänapäevaste teksade alguseks."
+    },
+    {
+        "id": "01rkbr",
+        "description": "Lips ehk kaelaside on pikk kangast valmistatud dekoratiivne rõivaese, mida kantakse kaela ümber, paigutatuna särgikaeluse alla ning sõlmituna kurgu all.\nLipsu tüübid on pikk kaelaside, kikilips ja plastroon.\nLipsu kannavad mehed ametliku riietuse juurde, see võib olla vormiriietusese osa, samuti võidakse seda kanda igapäevariietusega.\nTraditsiooniliselt on lipsu kantud päevasärgiga, millel on kõik nööbid kinni. Tänapäeval on hakatud lipsu kandma ka lõdvemalt, mõni ülemine nööp lahti."
+    },
+    {
+        "id": "01d40f",
+        "description": "Kleit on ühes tükis riietusese, mis koosneb seelikuosast ja ülaosast. Kleiti kannavad tavaliselt naised ja tüdrukud.\nÜlaosa võib olla pikkade varrukatega, lühikeste varrukatega või ilma varrukateta, õlapaeltega või täiesti õlgu paljastav. Kleidi ülaosa võib olla ka selja poolt lahtine. Kleit võib olla erineva kaeluse või kraega.\nSeelikuosa võib olla erineva pikkusega alates minikleidist kuni maani kleidini.\nKleidimoed on läbi ajaloo olnud pidevas muutumises."
+    },
+    {
+        "id": "07mhn",
+        "description": "Püksid on jalgu eraldi kattev riietusese."
+    },
+    {
+        "id": "0cp1w6l",
+        "description": "Aluspüksid on aluspesu hulka kuuluv pükstekujuline riietusese, mida kantakse alakehal vastu ihu või teiste aluspükste peal."
+    },
+    {
+        "id": "01zzs",
+        "description": "CD-ROM ehk laserketas tuntud Eesti keeles ka kui CD. Kettalt on võimalik andmeid lugeda optilise andmekandja lugeja abiga nagu: CD-pleier, CD-lugeja. Tänu 1985. aastal Sony ja Philipsi loodud Yellow Book standardile on võimalik CD-ROMidele salvestada ükskõik missugust binaarset informatsiooni. CD-ROMe kasutatakse peamiselt muusika ja tarkvaratööstuses andmekandjatena. CD-ROMide mahtuvus on 194 MiB 8 cm diameetriga plaatidel ja 650–900 MiB 12 cm diameetriga plaatidel. CD-ROMide lugemiskiirused varieeruvad 150 KiB\/s kuni 10,800 KiB\/s ja kirjutamiskiirused 150 KiB\/s kuni 8,400 KiB\/s.\nCD-ROMi erinevus CD-R plaatidest seisneb asjaolus, et kuna neile kirjutatakse andmeid pressimise tehnoloogiat kasutades, ei saa neile andmeid kirjutada koduste vahenditega."
+    },
+    {
+        "id": "01m2v",
+        "description": "Sõrmistik ehk klaviatuur on riistvaraline arvuti juhtimis- või andmesisestusvahend. See kasutab sõrmedega vajutatavaid klahve ehk sõrmiseid, mis töötavad kas mehaaniliste hoobade või elektriliste lülititena.\nVaatamata selliste sisendseadmete arengule nagu arvutihiir ja puutetundlik ekraan ning arvutustehnika kiiruse kasvule, on klaviatuur jäänud enimkasutatavaks ja mitmekülgseimaks seadmeks, mis võimaldab inimestel arvutiga suhelda.\nTavaliselt on klaviatuuri klahvidele tähemärgid peale graveeritud ja igale nupuvajutusele vastab kindel sümbol. Mõned sümbolid vajavad aga mitme klahvi korraga vajutamist või allhoidmist või kindlas järjekorras nuppude vajutamist. Kuigi enamiku sõrmiste vajutamise tulemuseks on tähed, numbrid või muud sümbolid, leidub nuppe ja klahvikombinatsioone, mis edastavad arvutile teistsuguseid käsklusi.\nKlahvivajutus trükib teatud märgi tekstitöötlusprogrammi või siis jäetakse kogu klahvikombinatsioonide ja nuppude vajutamise tagajärjel ekraanile tekkima pidava teksti tõlgendustöö tarkvarale. Arvutisõrmistik eristab kõik klahvivajutused ja edastab need seejärel tekstitöötlustarkvarale. Sõrmistikku kasutatakse ka otse arvuti operatsioonisüsteemiga suhtlemisel ja käskluste jagamisel käsurea vahendusel."
+    },
+    {
+        "id": "020lf",
+        "description": "Arvutihiir ehk hiir on arvuti riistvaraline osutusseade. Hiirt kasutades saab paljud käsud arvutile edastada ilma täiendavate tööriistadeta, väheneb sõrmistiku kasutamise vajadus, kuid see ei kao täielikult."
+    },
+    {
+        "id": "01fk53",
+        "description": "Käsk on arvutile edastatav instruktsioon mingi ülesande täitmiseks. Käsu annab tavaliselt kasutaja.\nKäsku võib edastada kas:\n⁕Käsurealt\n⁕Graafilise kasutajaliidese kaudu\nKäsu vorm võib olla ükskõik mis keelne - see sõltub programmi kujundusest. Kuna arvuti instruktsioonid on esitatud kahendkoodis, siis pole oluline, millises inimkeeles konkreetne protsessorile mõistetav juhis on pealkirjastatud. Käsu vorm on oma olemuselt sümbol. Käsu \"delete\" asemel võib vabalt olla \"eteled\" või \"kustuta\". Küsimus on lihtsalt arusaadavuses. Assemblerkeeles on käsud näiteks kolmetähelised, mis tunduvalt raskendab neist arusaamist. Näiteks JMP - Jump, MOV - move.\nKäsk sisaldab tavaliselt endas mitmesuguseid parameetreid. Näiteks käsk \"copy\" peab endas sisaldama mida kopeerida ja kuhu kopeerida:\n⁕copy a:\\pilt.jpg c:\\Minu pildid - fail \"pilt.jpg\", mis asub \"a\" kettal, kopeeritakse \"c\" kettal olevasse kataloogi, mille nimi on \"Minu pildid\"."
+    },
+    {
+        "id": "02bc6",
+        "description": "Andmebaas on korrastatud infokogum.\n⁕telefoniraamat on andmebaas, mis sisaldab telefoninumbreid, asutuste nimetusi ja aadresse.\n⁕Sõnastik on andmebaas, mis sisaldab sõnu ning nende tähendusi jne.\nDigitaalne andmebaasiks on kogum mingi ühise tunnuse järgi ühendatud andmefaile, samuti võib andmebaasiks olla ka ainult üks fail.\nAndmebaasi võib lihtsustatud kujul vaadelda tabelina, mis koosneb ridadest ja veergudest. Tabeli rida nimetatakse andmebaaside terminoloogia kohaselt kirjeks, iga tabeli lahtrit andmeväljaks. Kirje on mugav viis korraldada kindla struktuuriga infot ühetüübiliste objektide kohta. Andmeväli on kirje element ja samuti väikseim andmekogus. Veergude pealkirjad on seega väljade nimed.\nIgal andmefailil on struktuur, mis sisaldab informatsiooni selles failis sisalduvatest andmetest, täpsemini nende tüüpidest. Andmefaili struktuur ja andmefaili kirje struktuur on\/ei ole samaväärsed mõisted, kuna andmefaili struktuur määrab ära tema sisse salvestavate kirjete struktuuri ja faili struktuur sisaldab lisaks ka kirjetevaheliste seoste infot. Tabelite sisemised seosed nt. indeksid ja tabelite vahelised seosed nt. relatsioonid\nÜldine arusaam on, et lõppkasutajale müüdav toode peaks toetama rohkem kui ühte andmebaasisüsteemi. Andmebaase on mitmeid tüüpe, enamkasutatavad on lame- ja relatsioonandmebaasid, kuid kasutatakse ka teisi andmebaasi tüüpe, näiteks puustruktuuriga ehk hierarhilisi ning üha enam objektorienteeritud andmebaase."
+    },
+    {
+        "id": "020s1",
+        "description": "Fail on sarnaste andmete kogum, mis on salvestatud tavaliselt arvuti kõvakettale eraldiseisva üksusena, ning mida töödeldakse arvutis tervikuna.\nNäiteks tekstifail koosneb tekstist, aga programmifail koosneb arvuti jaoks täidetavatest käskudest."
+    },
+    {
+        "id": "02nf_",
+        "description": "E-kiri ehk elektronkiri ehk meil, ka e-mail ['iimeil] või email on protokoll kirjade vahetamiseks arvutivõrkudes elektroonilisel kujul.\nKirjade saatmiseks ja vastuvõtmiseks on vaja omada e-postkasti, mida kõigile pakuvad tasu eest ja tasuta arvukad teenusepakkujad, lisaks ettevõtted oma töötajatele ja koolid oma õpilastele. E-kirjade vahetamise süsteem e-post on veebi kõrval kõige kasutatavam Interneti teenus.\nMeilisõnumi saatmiseks ja saabunud kirjade lugemiseks on vaja kasutada postiprogrammi, mis võib olla ka veebipõhine. Uue kirja saatmiseks tuleb sisestada saaja postiaadress, sisukokkuvõte ja sõnumi tekstiline sisu. Enamik postiprogramme võimaldab saata üht sõnumit korraga mitmele adressaadile, kellest osa võivad olla märgitud koopia saajateks, ja lisada kirjale faile ehk manuseid. E-kirja maht ei ole üheselt piiratud, vaid sõltub sõnumit edastavate serverite seadistatud piirangutest.\nTänapäeval saadetavatest e-kirjadest suurem osa on rämpspost."
+    },
+    {
+        "id": "03rsh",
+        "description": "Lühendiga I\/O tähistatakse arvuti suhtlust kas selle kasutajaga, andmekandjate, üle arvutivõrgu teiste arvutite või välise maailmaga. I\/O'ks kasutatavaid seadmeid nimetatakse tihti perifeeriaseadmeteks."
+    },
+    {
+        "id": "03rlt",
+        "description": "Mis tahes arvutivõrkude võrgustiku üldnimetus on internet. Ülemaailmse TCP\/IP protokollistikku kasutava arvutivõrkude võrgu nimetus on Internet."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "Pilvandmetöötlus ehk pilveraalindus on suuremahulise arvutusvõimsuse pakkumine kasutajatele sellisel kujul, et seda saab kiirelt ja mugavalt kasutusele võtta, vabastada ja arvestada.\nPilvandmetöötlus kujunes välja arvutivõrkude arenedes, kui sai võimalikuks jagada seni ühe arvuti piires lahendatud arvutusülesandeid eri arvutite vahel. See võimaldab pakkuda arvutikasutajale teenuseid, mis vajavad tunduvalt suuremaid arvutusvõimsusi kui oleks tema algsel arvutil. Nii ei pea lõppkasutaja teadmagi, kus paiknevad tema ülesande lahendamiseks kasutatavad ressursid või milline on talle pakutava teenuse tehniline korraldus.\nJuba 1960. aastatel pakkus John McCarthy välja pilvandmetöötluse kontseptsiooni, mida käsitles lähemalt Douglas Parkhilli raamat \"The Challenge of the Computer Utility\". Termin \"pilv\" pärineb telekommunikatsioonifirmadest, mis 1990. aastatel hakkasid pakkuma otseühenduste asemel VPN-teenuseid. Need olid sama kvaliteediga, kuid märksa odavamad, kuna võimaldasid firmal suunata võrguliiklust vastavalt vajadusele, kasutades olemasolevat võimsust efektiivsemalt. Pilvesümboliga tähistati punkti, kus vastutus siirdus kasutajalt teenusepakkujale."
+    },
+    {
+        "id": "07wcf",
+        "description": "Universaalne järjestiksiin on arvuti välissiini standard, mis lubab välisseadmeid külge ja lahti ühendada ilma, et arvutit oleks vaja välja lülitada.\nInfotehnoloogias on USB järjestiksiinil töötav standardiseeritud port, tänu millele saab arvuti külge ühendada erinevaid välisseadmeid: arvutihiirt, sõrmistikku, mobiiltelefoni, modemit, monitori, skännerit, PDAd, digitaalkaamerat, MP3 mängijat, välist kõvaketast, traadita võrgu võrgukaarti jne. Kõiki USB seadmeid saab kuumühendada ehk kokku- ja lahti ühendada, ilma et arvutit peaks uuesti algkäivitama. Lisaseadmete ühenduseks USB-ga kasutatakse neljajuhtmelist kaablit, kus neist kaks on diferentsiaallülituses andmete vastuvõtmiseks ja saatmiseks, kaks ülejäänut lisaseadme toiteks. Tänu sellele, et USB-s on toitekaabel, saab välisseadmeid ühendada ilma oma vooluallikata. Maksimaalne voolutugevus USB siini kaudu on 500 mA. Ühele USB siini kontrollerile saab ühendada kuni 127 seadet.\nHetkel kasutatakse kõige rohkem seadmeid, mis on tehtud spetsifikatsiooniga USB 2.0. Viimasel ajal on kättesaadavad ka seadmed, mis töötavad siinil USB 3.0."
+    },
+    {
+        "id": "0mynm",
+        "description": "Veebikaamera on videokaamera, mille väljundit saab ühendada Interneti või arvutiga. Harilikult on veebikaameraks aeglase skaneerimisega CCD videokaamera], mis on ühendatud arvuti videohõiveplaadiga. Kaamerast hõivatakse perioodiliselt pilte ja kuvatakse neid veebilehel. Praegu on maailmas kasutusel tuhandeid veebikaameraid, mis pidevalt annavad Internetti mitmesugust videoinfot, alustades tänavaliiklusest ja lõpetades voodistseenidega.\nÜheks populaarseimaks kasutusvaldkonnaks on videoühenduste loomine, mis võimaldab kasutada veebikaameraid videokõnedeks või videokonverentsideks. Veebikaamerate igapäevane kasutamine läbi World Wide Webi andiski nendele oma nime. Samuti kasutatakse veebikaameraid väga laialdaselt turvakaameratena.\nVeebikaamerad on tuntud tänu oma madalatele tootmiskuludele ja laialdastele kasutamisvõimalustele, mis muudab nad odavaimaks versiooniks videokõnede pidamisel. Veebikaamerate kasutamisega kaasnevad ka suured turvariskid, kuna mõndasid sisseehitatud veebikaameraid saab lülitada sisse nuhkvara abil."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook on 2004. aasta veebruaris alguse saanud veebipõhine suhtlusvõrgustik, mida omab ja käitab eraõiguslik äriühing Facebook, Inc. Suhtluskeskkonna kasutajad saavad lisada sõpru, saata neile sõnumeid ja uuendada oma isiklikke veebilehti, et teavitada oma sõpru enda jaoks olulistest sündmustest ning jagada pilte. Lisaks saavad kasutajad ühineda võrgustikega, mis on organiseeritud linna, töökoha, kooli ja regiooni järgi. Veebilehel on hetkel miljard aktiivset liiget."
+    },
+    {
+        "id": "0508p",
+        "description": "Emaplaat on elektroonikaseadmetes, eriti mitmesugustes arvutites peamine trükkplaat, mis ühendab elektriliselt omavahel erinevaid arvutikomponente ja millele enamasti kinnituvad pistikud täiendavate komponentide ja lisaseadmete ühendamiseks. Vahepeal kasutatakse emaplaadi kohta ka terminit mobo.\nPersonaalarvutites on emaplaadil arvuti tööks vajalikud elektroonikakomponendid: transistorid, takistid, mikroskeemid ja mitmesugused pistikud. Pistikute ja pesade abil ühendatakse emaplaadiga teised arvuti osad, nagu näiteks toiteplokk, protsessor, mälu, kuvar, klaviatuur, hiir ja muud komponendid."
+    },
+    {
+        "id": "07g0_",
+        "description": "Haag on linn Hollandi lääneosas 6 kilomeetri kaugusel Põhjamerest, riigi valitsuse asupaik ja Lõuna-Hollandi provintsi halduskeskus. Kuigi Haagis asuvad nii valitsus kui ka parlament, on Hollandi pealinn siiski Amsterdam.\nHaagis asuvad Hollandi Generaalstaatide Esimene ja Teine Koda. Ka Hollandi kuninganna Beatrix elab ja töötab Haagis. Samuti on seal välissaatkonnad, ministeeriumid ja Ülemkohus.\nHaagis asub üle 150 rahvusvahelise organisatsiooni, muuhulgas järgmised:\n⁕Rahvusvaheline Kohus\n⁕Rahvusvaheline Endise Jugoslaavia Kriminaaltribunal\n⁕Rahvusvaheline Kriminaalkohus\n⁕Keemiarelvade Keelustamise Organisatsioon."
+    },
+    {
+        "id": "02_286",
+        "description": "New York on Ameerika Ühendriikide kõige suurema elanikkonnaga linn ja New Yorgi suurlinnapiirkonna, maailma ühe rahvarikkaima metropoli keskus. New York avaldab olulist mõju maailma kaubandusele, rahandusele, meediale, kunstile, moele, teadustegevusele, tehnoloogiale, haridusele ja meelelahutusele. New Yorgis asub Ühinenud Rahvaste Organisatsiooni peakorter ning seetõttu on linn oluline rahvusvahelise diplomaatia keskus. New Yorki on kirjeldatud ka kui maailma kultuuripealinna.Et eristada linna New Yorgi osariigist, kus ta asub, kasutatakse linna puhul ka nime kas New York City või City of New York.\nNew York asub maailma ühe suurima loodusliku sadama ääres. Linn koosneb viiest linnaosast, millest igaüks moodustab iseseisva maakonna. Need viis linnaosa — Bronx, Brooklyn, Manhattan, Queens ja Staten Island — ühinesid ühtseks linnaks 1898. aastal. Ameerika Ühendriikides 2010. aastal korraldatud rahvaloenduse andmetel elas 790 km² suurusel maa-alal 8 175 133 inimest, mis teeb New Yorgist kõige tihedama asustusega linna USAs. Linnas räägitakse ligikaudu 800 keelt ning seega on New York lingvistiliselt kõige mitmekesisem linn maailmas. New Yorgi suurlinnapiirkonna rahvaarv — 18,9 miljonit inimest 17 400 km² kohta — on ühendriikide suurim. Linn on ka osa USA kõige rahvarohkemast ühinenud statistilisest piirkonnast, kus 2009. aasta rahvaloenduse andmetel elas 22,2 miljonit inimest."
+    },
+    {
+        "id": "0430_",
+        "description": "Jeruusalemm on Iisraeli pealinn ja riigi suurim linn. Pealinnana ei ole Jeruusalemm paljude riikide ja ÜRO poolt rahvusvaheliselt tunnustatud, kuna Iisraeli ja Palestiina vahelised rahuläbirääkimised ei ole veel lõppenud. Tegeliku pealinnana toimib Tel Aviv, kus on välisriikide saatkonnad ja paljud ametiasutused.\nLinnal on pikk ja rikas ajalugu. Jeruusalemmas asub juutide pühapaik Nutumüür. Jeruusalemma vanalinn ja selle müürid kuuluvad alates 1981. aastast UNESCO maailmapärandi nimistusse.\nJeruusalemm on judaismi, kristluse ja islami tähtis kultusekeskus ning palju inimesi üle maailma peab Jeruusalemma kõige pühamaks linnaks maailmas."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kairo on Egiptuse pealinn ja Aafrika suurim linn. Elanike arv linnastus on ligi 30 miljonit.\nKairo vanalinn kuulub 1979. aastast UNESCO maailmapärandi nimistusse.\nKairo asub Niiluse alamjooksul jõe mõlemal kaldal, vahetult lõunas sellest kohast, kus Niilus hargneb ja moodustab delta. Vanalinn paikneb jõe paremal ehk idakaldal, ent 19. sajandil laienes ta eeskätt lääne poole ning linna euroopalikumad linnaosad on Niiluse vasakul ehk läänekaldal.\nKairo läheduses asub tänapäeval palju teisigi suuri linnu: edelas Giza, põhjas Shubrā al-Khaymah ja Qaljub ning lõunas Al-Hawamidiyah ja Al-Badrashayn.\nÜle Niiluse on ehitatud hulgaliselt sildu, mis ühendavad kaldaid nii omavahel kui ka jõesaartega. Linna varustamiseks veega on rajatud hulgaliselt kanaleid."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Soul on Lõuna-Korea pealinn. Soul oli Korea pealinn 29. novembrist 1394 kuni Jaapani Keisririiki inkorporeerimiseni 1910. aastal. Pärast seda allus linn Jaapani koloniaalvalitsusele kuni Põhja- ja Lõuna-Korea lõhenemiseni 1953. aastal. Soul oli pealinnana määratletud ka Põhja-Korea põhiseaduses, kuid 1972. aasta detsembris kinnitatud põhiseadusemuudatus määras pealinnaks Pyongyangi, mis oli pärast Teist maailmasõda olnud Korea Rahvademokraatliku Vabariigi valitsuse ajutine asukoht.\nPäris-Soulis on 10,5 miljonit elanikku. Souli suurlinnastus, mida sageli nimetatakse Pealinna piirkonnaks ning mille hulka kuuluvaks loetakse ka miljonilinnu Incheonit ja Suwonit, elas 2009. aasta 31. detsembri seisuga umbes 25 miljonit inimest. Seega on Souli ja selle satelliitlinnadesse koondunud umbes pool Lõuna-Korea rahvastikust. Souli pealinnapiirkonda peetakse Tōkyō-Yokohama järel suuruselt teiseks ​​suurlinnastuks maailmas. Mastaabivahe México, New Yorgi ja São Pauloga on siiski väike, kuid täpsema pingerea koostamist takistavad suurlinnastute defineerimisel ja võrdlemisel kasutatavad erinevad kriteeriumid.\nSoul pole mitte üksnes Lõuna-Korea suurim linn, vaid ka selle kaubandus-, tööstus- ja kultuurikeskus. 1988. aastal toimusid Soulis XXIV suveolümpiamängud ning 2002. aastal Jaapaniga kahasse korraldatud jalgpalli maailmameistrivõistlused."
+    },
+    {
+        "id": "031y2",
+        "description": "Firenze on linn Itaalias, Toscana maakonna ja Firenze provintsi halduskeskus.\nFirenze asub Arno jõe ääres, peaaegu Itaalia poolsaare keskel."
+    },
+    {
+        "id": "0156q",
+        "description": "Berliin on Saksamaa pealinn, liidumaa ja suurim linn. Oma 3,5 miljoni elanikuga on Berliin Kesk-Euroopa suurim linn ja suuruselt teine linn Euroopa Liidus. Berliin on jaotatud 12 linnarajooniks. Linna pindaala on 892 km² ning sellele jäävad Spree ja Haveli jõed ning mitmed väiksemad vooluveekogud ja järved.\nBerliin asub Põhja-Saksa tasandikul 70 km kaugusel Poola piirist. Ta asub Brandenburgi liidumaa keskel, ent alates 1920. aastast ei kuulu selle koosseisu."
+    },
+    {
+        "id": "05qtj",
+        "description": "Pariis on Prantsusmaa pealinn ja Île-de-France'i piirkonna halduskeskus ning ainus prantsuse vald-departemang.\nAastatel 2001–2007 ja 2008–2014 on linnapeaks Bertrand Delanoë."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdam on Hollandi pealinn. Ta asub Põhja-Hollandi provintsis.\nAmsterdam on koduks kolmveerandile miljonile elanikule, kuid on siiski säilitanud väikelinna õhustiku. Tolerantne õhustik, kaunis Hollandile iseloomulik arhitektuur ja läbi linna looklevad kanalid on peamine põhjus, miks Amsterdam on populaarne nii külastajate kui kohalike seas.\nAmsterdam asub allpool merepinda. Kesklinn on merepinnast 2 m allpool."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakar on Senegali pealinn ja riigi suurim linn, Dakari piirkonna halduskeskus. Dakar on Senegali haldus-, äri- ja kommunikatsioonikeskus. Asub Roheneeme poolsaarel ja on Aafrika mandriosa läänepoolseim linn.\nDakar on rajatud 1857. aastal prantslaste ehitatud kindluse juurde.\nDakari Cheikh Anta Diopi Ülikool on asutatud 1957. aastal.\nDakar on Pariis-Dakari ralli lõpp-punkt.\nAprillis 2010 avati Dakaris Aafrika taassünni monument."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Janeiro on sadamalinn Brasiilias, Rio de Janeiro osariigi pealinn. Asub Guanabara lahe ääres. Linn on tuntud muuhulgas karnevalide, Copacabana ja Ipanema supelrandade, Suhkrupeamäe ja 39,6 m kõrguse Lunastaja Kristuse kuju poolest. Linnakodanikud kasutavad enda kohta väljandit carioca."
+    },
+    {
+        "id": "01fdzj",
+        "description": "Torn on kõrge iseseisev ehitis või ehitise osa, mille kõrgus on enamasti suurem laiusest ja mis on ehitatud kõrguse ärakasutamise eesmärgil."
+    },
+    {
+        "id": "06gfj",
+        "description": "Tee on erinevaid kohti või paiku nagu näiteks külad, asulad, linnad, jne., ühendav ja inimeste ning sõidukite liikumiseks kasutatav maa riba või maismaarajatis,veesõidukite liikumiseks sobiv veekogu osa ehk veetee ning lennukite ja teiste õhusõidukite lendamiseks sobiv taevaala osa õhutee.\nTeed ehitatakse või kasutatakse olemasolevaid radasid, veekogusid, jne. jõgede, järvede ja merede madalates kohtades rajatakse vajaduse korral faarvaater.\nKõrge kvaliteediga maismaa teed kaetakse asfaldi, betooni või asfaltbetoonkattega ja neid nimetatakse maanteeks. Rongide liiklemiseks ehitatakse rööbasteeid - raudteeid.\nTeed moodustavad teedevõrgu. Erinevate transpordiliikide teedevõrgud koos transpordisõlmedega moodustavad piirkonna transpordisüsteemi."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Haigla on asutus haigete statsionaarseks ravimiseks."
+    },
+    {
+        "id": "0k05r",
+        "description": "Kohus on riigi loodud organ, mis vaatab läbi ning lahendab vaidlusi. Kohus teostab kohtuvõimu.\nKuigi peamiselt lähtutakse kohtus sellest, et vaidlevate poolte vahel on erimeelsused arusaamas faktidest või õigusest, võib mõningatel juhtudel vaidlus jääda potentsiaalseks. Nii näiteks on abielu lahutamisel enamasti poolte vahel kokkulepe ning kohtu roll on pigem lahutuse vormistamine kui ühe poole kasuks otsuse tegemine.\nKohus võib olla nii ainuisikuline kui kollegiaalne. Madalama astme kohtud on tavaliselt ainuisikulised; kõrgemates astmetes on tavaliselt võimalik moodustada suuremaid kolleegiume.\nKuigi Eesti Vabariigi põhiseaduse § 146 kohaselt mõistab õigust ainult kohus, tähendab see siiski üksnes seda, et \"lõplikult mõistab õigust ainult kohus.\" Olemas on mitmed traditsioonilised erandid nagu kohtueelne menetlus, väärteomenetlus, distsiplinaarmenetlus, vahekohus."
+    },
+    {
+        "id": "06zdj",
+        "description": "Kool on kindla koolikorra ja õpilaskonnaga õppe- ja kasvatusasutus, kus õpilased omandavad õpetaja juhendamisel teadmisi, oskusi ja vilumusi.\nEesti keeles kasutatakse sõna kool sageli õppeasutuse sünonüümina, kitsamas tähenduses tähendab see sõna ka koolimaja. Osaliselt on selle sõna kasutusvaldkond algsest põhitähendusest kaugenenud – elukool, koertekool, puukool."
+    },
+    {
+        "id": "019cfy",
+        "description": "Staadion on suur spordirajatis, kus on harilikult kaheksa 400 m pikkust ovaalset ringrada, hüpe-, tõuke-, heite-, ja viskekohad, keskel normaalmõõtmetega jalgpalliväljak, ümber väljaku pealtvaatajate tribüünid, tabloo, lisaks sellele kuulub suuremate staadionite juurde erinevaid teenindusehitisi ja muud vajalikku.\nMaailma suurim on P'yŏngyangis asuv Rŭngnado 1. Mai staadion, mis mahutab 150 000 pealtvaatajat."
+    },
+    {
+        "id": "0166ls",
+        "description": "Park on mitmekesise taimestikuga, sealhulgas puude või põõsastega haljasala.\nPark võib olla täies ulatuses tehiskooslus või natuke kohendatud looduslik kooslus: parkmets, jahipark või looduspark. Mõnes pargis, näiteks rahvusparkides, püütakse inimmõju võimalikult palju vältida.\nPark võib olla puhkekoht või asula kujunduselement. Park on ühtlasi maastikuarhitektuuriline objekt.\nTänapäeval on enamik parke riiklikus või munitsipaalomandis, aga mõni on ka eraomanduses. Enamikku parkidesse on pääs kõigile avatud ja tasuta, aga nii riiklikus, munitsipaal- kui eraomanduses olevate parkide seas leidub erandeid."
+    },
+    {
+        "id": "06zdj",
+        "description": "Kool on kindla koolikorra ja õpilaskonnaga õppe- ja kasvatusasutus, kus õpilased omandavad õpetaja juhendamisel teadmisi, oskusi ja vilumusi.\nEesti keeles kasutatakse sõna kool sageli õppeasutuse sünonüümina, kitsamas tähenduses tähendab see sõna ka koolimaja. Osaliselt on selle sõna kasutusvaldkond algsest põhitähendusest kaugenenud – elukool, koertekool, puukool."
+    },
+    {
+        "id": "09cmq",
+        "description": "Muuseum on \"ühiskonna ja selle arengu teenistuses olev üldsusele avatud alalise iseloomuga mittetulunduslik asutus, mis kogub, konserveerib, uurib, vahendab ja eksponeerib inimese ja tema elukeskkonnaga seotud materiaalset ja immateriaalset pärandit õppimise, hariduse ja elamuse saamise eesmärgil\".\nMuuseumid on välja arenenud eraisikute kunsti-, dokumendi-, harulduste ja muudest kogudest. 18. sajandil hakati neid külastajaile avama ja 19. sajandil riigistama.\nEesti varaseimad muuseumid on alguse saanud baltisakslaste erakogudest."
+    },
+    {
+        "id": "017ql",
+        "description": "Pank on rahaasutus, mis tegeleb raha hoiustamise, laenamise, investeerimise ja teiste finantsteenuste osutamisega.\nPangad teenivad tulu laenuintresside, investeerimise ja finantsteenuste osutamise eest võetava tasu pealt.\nEristatakse universaalpanku ning eripanku, mis on spetsialiseerunud mingi kitsama finantsteenuse osutamisele.\nTänapäevased pangad tekkisid 14. ja 15. sajandi Itaalia kaubalinnades."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Turg on üldnimi, mis tähistab mis tahes institutsiooni, mille kaudu ostjad ja müüjad omavahel suhtlevad ja hüviseid vastastikku vahetavad, samuti kohta, kus selline tegevus toimub.\nLiiginimena esineb turg väljakute nimedes, enamasti paikades, kus on ajalooliselt asunud turuplats."
+    },
+    {
+        "id": "09cjl",
+        "description": "Lennujaam on liinilennukite regulaarseks vastuvõtuks, hooldamiseks ja väljasaatmiseks, reisijate teenindamiseks, kauba- ja postiveo korraldamiseks ning lennuliikluse tagamiseks tarvilike rajatiste kogum.\nLennujaamas on lennuväli oma radadega ja selle juurde kuuluvate perroonide, parklate ning jaamahoonetega."
+    },
+    {
+        "id": "053rd",
+        "description": "Kaevandus ehk allmaakaevandus on koht, kus maavarade kaevandamine toimub maa all. Karjääriga võrreldes on kaevanduse pindala väiksem ja sügavus on suurem.\nMaa alt kaevandatakse tavaliselt kivisütt, põlevkivi, kulda, soola, teemanti, vaske, väävlit jt.\nEestis on põlevkivikaevandused, nendest tegutsevad Estonia kaevandus ja Viru kaevandus Ida-Virumaal.\nKohtla-Nõmmel on Kohtla Kaevanduspark-muuseum."
+    },
+    {
+        "id": "01mf0",
+        "description": "Tarkvara hõlmab endas kõiki mittefüüsilisi arvuti tööks vajalikke või rakenduslikke komponente, eelkõige arvutiprogramme ning nende andmeid - andmefaile, seadeid, dokumentatsiooni, jne.\nTarkvara vajab oma toimimiseks riistvara, millele tarkvara talletatakse ning millel ta saab oma funktsioone täita: andes käsklusi riistvarale või täites mõne teise tarkvarajupi käsklusi."
+    },
+    {
+        "id": "011s0",
+        "description": "Reklaam on turunduses kasutatav kommunikatsioonivõte toodetele vahendatud tähelepanu pööramise kaudu tarbijate manipuleerimiseks. Reklaam on turunduse tähtsaimaid vahendeid. Reklaami eesmärk on teavitada tarbijat meedia kaudu toodetest, rakendustest või ideedest ning ühtlasi muuta inimeste suhtumist, teadlikkust ja\/või tarbimisharjumusi.\nReklaame liigitatakse\n⁕auditooriumi järgi\n⁕tellijate järgi\n⁕meediakanalite järgi\n⁕objektide järgi\n⁕mastaapide järgi\n⁕teema või valdkonna järgi\nMitmetele reklaami alaliikidele on paljud riigid kehtestanud erilised piirangud. Näiteks ei lubata poliitilist välireklaami vahetult enne valimisi, alkoholireklaami noorteväljaannetes jne."
+    },
+    {
+        "id": "01ftz",
+        "description": "Biotehnoloogia on rakendusliku bioloogia valdkond, mis kasutab elusorganisme ja nende saadusi inimese tervise ja elukeskkonna parendamisel. Biotehnoloogia on tänapäevane viis lahendada keerukaid probleeme odavalt ja keskonda säästvalt. Biotehnoloogia ühendab geneetika, rakubioloogia, embrüoloogia ja mikrobioloogia teadmisi. Seejuures põhinevad biotehnoloogia teadmised geenide, valkude, rakkude ja isegi tervete elusorganismidega manipuleerimisel. Biotehnoloogia abil otsitakse lahendusi probleemidele agrikultuuris, bioenergeetikas, materjaliteaduses, nanotehnoloogias, meditsiinis ja regeneratiivses meditsiinis. Biomeditsiin kasutab biotehnoloogilisi teadmisi muteerunud geenide, denatureerunud ja fuktsiooni kaotanud valkude ning patoloogiliste kudede eristamisel. Biotehnologilised saavutused võimaldavad seejuures kiiremat diagnoosi, paremat ravi ja haigusi ennetavat praktikat.\nBiotehnoloogia alustala on DNA ja valdav osa manipulatsioone viiakse läbi nukleiinhapete tasandil. DNA olulisus põhineb molekuli universaalsusel. Kõik elusorganismid ükskõik kui varieeruvad kodeerivad eluks vajalikku teavet DNA molekuli kujul. Seetõttu on võimalik manipuleerida näiteks pärmirakku tootma inimese insuliini molekule. Biotehnoloogia hõlmab lisaks väga palju varieeruvaid tehnikaid ja manipulatsioone. Esmased võtted biotehnoloogia valdkonnas ilmnesid loomade kodustamisel ja algse põlluharimise käigus. Võtted nagu selektiivne paljundamine ja kunstlik valik. Maailma suurenenud nõudlus energia järgi on põhjustanud bioenergeetika valdkonna laienemist, sealjures eriti biokütuste kasutamise vallas. Biokütuste tootmine toimub üha enam GMO taimede baasil. USA valitsus on seadnud eesmärgiks suurendada aastaks 2017 bioetanooli tootmist 35 miljardi gallonini aastas. USA naftapõhine energiasektor kasutab bioetanooli mootorikütuse lisandina, seejuures väheneb sõltuvus välismaisest naftast."
+    },
+    {
+        "id": "0hz28",
+        "description": "Kirjastamine on trükiste väljaandmisele suunatud tegevus.\nKirjastamine koosneb trükise väljaandmise ettevalmistamisest; tekstide toimetamisest, küljendamisest, kujundamisest jne; trükkimise korraldamisest ning levitamisest, mis on müük või tasuta jagamine.\nTrükkimise ja müügiteenused ostetakse kas trükikojalt ja raamatumüüjatelt või kasutatakse kirjastusele endale kuuluvat trükikoda ja\/või müügivõrku."
+    },
+    {
+        "id": "0h61",
+        "description": "Arheoloogia ehk muinasteadus on ajalooteaduse haru, mis käsitleb aineliste ajalooallikate ehk muististe põhjal ühiskonna minevikku.\nMuistised on rajatiste, eriti hoonete jäänused, esemelised leiud ja muu väljakaevamistel saadud materjal, välja arvatud kirjalikud allikad, mis kuuluvad filoloogia, epigraafika ja numismaatika valdkonda.\nMuistiseid õpitakse tundma arheoloogilistel väljakaevamistel. Selleks eemaldatakse muistiselt pinnasekiht ja uuritakse üksikasjalikult läbi kultuurkiht. Muististe laadi ja leviku järgi selgitatakse asjaomase ajajärgu majanduse ja kultuuri iseloomulikud jooned.\nEriti tähtis on arheoloogia esiajaloo uurimises.\nArheoloogia alged ulatuvad renessansiaega, kui uuriti Vana-Roomast ja Itaaliast pärit muistiseid. Arheoloogia kui teadus tekkis alles 19. sajandil; tollal jaotati muinasaeg kivi-, pronksi- ja rauaajaks.\nSõna \"arheoloogia\" tähistas algselt, näiteks Thukydidesel, minevikuõpetust.\nTänapäeva arheoloogia alguseks loetakse Trooja linna väljakaevamisi Heinrich Schliemann ja Frank Calverti juhtimisel 1871. aastast alates."
+    },
+    {
+        "id": "01mtb",
+        "description": "Kokandus ehk kulinaaria on toidu valmistamisega seotud teadmistevaldkond."
+    },
+    {
+        "id": "034dj",
+        "description": "Hasartmängul on spetsiifiline majanduslik definitsioon, mis viitab rahalise või varalise panuse tegemisele mingi sündmuse toimumisele või toimumata jäämisele, kusjuures tulemus saavutatakse juhuslikkuse abil ning panustamise eesmärk on võita rahalisi või materiaalseid vahendeid. Tavaliselt selgub tulemus lühikese aja jooksul.\nTermin õnnemäng selles kontekstis viitab tavaliselt juhtumitele, mil selline tegevus on seadusega lubatud. Need kaks terminit ei ole üksteist välistavad; näiteks võib legaalne \"õnnemängufirma\" korraldada \"hasartmänge\"."
+    },
+    {
+        "id": "034v_",
+        "description": "Aiandus ehk hortonoomia on taimede kasvatamine aia välimuse kujundamise eesmärgiga või köögivilja, puuvilja ja marjade kasvatamine toiduks."
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotograafia on kogum protsesse, mille abil jäädvustatakse valgustundliku materjali või valgustundliku elektroonilise seadme abil reaalsetest objektidest tõepäraseid ja detailseid kujutisi.\nSeadet, mida kasutatakse kujutise jäädvustamiseks, nimetatakse fotokaameraks ehk fotoaparaadiks. Saadud tõepärast kujutist nimetatakse fotoks ning kujutise salvestamist fotoaparaadiga nimetatakse fotografeerimiseks ehk pildistamiseks."
+    },
+    {
+        "id": "06h7j",
+        "description": "Jooks ehk jooksmine on loomade ja inimeste kiireim liikumisviis jalgade abil ilma abivahendita. Erinevalt kõndimisest ei puuduta jooksmisel jalad kogu aeg maad."
+    },
+    {
+        "id": "012v4j",
+        "description": "Matkamine on looduses liikumine harrastusena. See on aktiivse puhkuse vorm, mida harrastatakse ka rahvaspordina.\nLevinud matkamise viisid on maismaal jalgsimatk, mägimatkamine, suusamatk, jalgrattamatk, motomatk ja automatk ning veeteedel kanuumatk, süstamatk ja merematk.\nMatkamise positiivsete külgede seast tõstetakse sageli esile selle tervislikkust füüsilise tegevusena vabas õhus. Samuti tõstab matkamine inimeste teadlikkust loodusest ja ümbruskonna geograafiast.\nVajalik matkavarustus sõltub matka pikkusest, kestusest ja viisist. Levinud matkatarbed on telk, matkasaapad, seljakott, kaart ja kompass. Sageli hõlmab matkamine välitingimustes ööbimist, näiteks telkimist koos lõkke tegemisega.\nMatkamisel on oluline keskkonnamõju. Kuna matkajad eelistavad enamasti huvitavat ja kaunite vaadetega looduskeskkonda, võib matkajate hulk ajapikku sellesama keskkonna hävitada. Seepärast on looduskaitsealadel kehtestatud külastajatele reeglid ja sageli lubatakse matkajail liikuda vaid mööda matkaradu. Suurim oht, mida matkaja loodusele põhjustada võib, on metsatulekahju.\nMatkajaid ähvardavate ohtude seas on äraeksimine, vigastused, varasemate haiguste ägestumine, allergia, seedehäired, dehüdratsioon, hüpodermia, päikesepiste ja -põletus ning külmetus, samuti metsloomade ja inimeste rünnakud."
+    }
+]

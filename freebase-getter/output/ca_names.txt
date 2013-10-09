@@ -1,0 +1,1470 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Formiga"
+    },
+    {
+        "id": "01dws",
+        "name": "Ós"
+    },
+    {
+        "id": "01h3n",
+        "name": "Antòfil"
+    },
+    {
+        "id": "015p6",
+        "name": "Ocell"
+    },
+    {
+        "id": "01x_v",
+        "name": "Camell"
+    },
+    {
+        "id": "01yrx",
+        "name": "Gat"
+    },
+    {
+        "id": "09b5t",
+        "name": "Gall"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Bou"
+    },
+    {
+        "id": "09ddx",
+        "name": "Ànec"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Elefant"
+    },
+    {
+        "id": "03k3r",
+        "name": "Cavall"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Mico"
+    },
+    {
+        "id": "07bgp",
+        "name": "Ovella"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Al·ligàtor del Mississipí"
+    },
+    {
+        "id": "0qqk",
+        "name": "Amarant"
+    },
+    {
+        "id": "047v4b",
+        "name": "Carxofera"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Espàrrec"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Remolatxa"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Bròcoli"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Brassica oleracea var. viridis"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Pastanaga"
+    },
+    {
+        "id": "015w7p",
+        "name": "Coliflor"
+    },
+    {
+        "id": "01xj_",
+        "name": "Api"
+    },
+    {
+        "id": "02nm6c",
+        "name": "Bleda"
+    },
+    {
+        "id": "02nm75",
+        "name": "Col farratgera"
+    },
+    {
+        "id": "053wn",
+        "name": "Dacsa"
+    },
+    {
+        "id": "015x4r",
+        "name": "Cogombre"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Albergínia"
+    },
+    {
+        "id": "022p79",
+        "name": "Endívia"
+    },
+    {
+        "id": "017dqv",
+        "name": "Fonoll"
+    },
+    {
+        "id": "0dbrl",
+        "name": "All"
+    },
+    {
+        "id": "02r5_b",
+        "name": "Col verda"
+    },
+    {
+        "id": "04bk6",
+        "name": "Colrave"
+    },
+    {
+        "id": "013__5",
+        "name": "Porro"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Enciam"
+    },
+    {
+        "id": "025s18p",
+        "name": "Ocra"
+    },
+    {
+        "id": "0dj75",
+        "name": "Ceba"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Xirivia"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Pèsol"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Cacauet"
+    },
+    {
+        "id": "05vtc",
+        "name": "Patatera"
+    },
+    {
+        "id": "05zsy",
+        "name": "Carbassera de rabequet"
+    },
+    {
+        "id": "015x5n",
+        "name": "Rave"
+    },
+    {
+        "id": "0fl3p",
+        "name": "Ruibarbre"
+    },
+    {
+        "id": "016rh7",
+        "name": "Espinac"
+    },
+    {
+        "id": "0cl46",
+        "name": "Nap"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Creixen"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Milfulles"
+    },
+    {
+        "id": "015fr",
+        "name": "Brasil"
+    },
+    {
+        "id": "0d060g",
+        "name": "Canadà"
+    },
+    {
+        "id": "01p1v",
+        "name": "Xile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Xina"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Cuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Turquia"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Suècia"
+    },
+    {
+        "id": "06mkj",
+        "name": "Espanya"
+    },
+    {
+        "id": "0h7x",
+        "name": "Àustria"
+    },
+    {
+        "id": "03gj2",
+        "name": "Hongria"
+    },
+    {
+        "id": "0345h",
+        "name": "Alemanya"
+    },
+    {
+        "id": "05qhw",
+        "name": "Polònia"
+    },
+    {
+        "id": "04g5k",
+        "name": "Letònia"
+    },
+    {
+        "id": "012wgb",
+        "name": "Irlanda"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Vietnam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgària"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mongòlia"
+    },
+    {
+        "id": "06q1r",
+        "name": "Escòcia"
+    },
+    {
+        "id": "0chghy",
+        "name": "Austràlia"
+    },
+    {
+        "id": "035v3",
+        "name": "Grenlàndia"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armènia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japó"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Dilluns"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Dimarts"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Dimecres"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Dijous"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Divendres"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Dissabte"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Diumenge"
+    },
+    {
+        "id": "06m_p",
+        "name": "Sol"
+    },
+    {
+        "id": "09cy8",
+        "name": "Mercuri"
+    },
+    {
+        "id": "09bcm",
+        "name": "Venus"
+    },
+    {
+        "id": "02j71",
+        "name": "Terra"
+    },
+    {
+        "id": "09cws",
+        "name": "Mart (planeta)"
+    },
+    {
+        "id": "09q84",
+        "name": "Júpiter"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Saturn"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Urà"
+    },
+    {
+        "id": "0c31h",
+        "name": "Neptú"
+    },
+    {
+        "id": "0jwy",
+        "name": "Àries"
+    },
+    {
+        "id": "07cqw",
+        "name": "Taure"
+    },
+    {
+        "id": "077r8d",
+        "name": "Bessons"
+    },
+    {
+        "id": "0qck6",
+        "name": "Constel·lació del Cranc"
+    },
+    {
+        "id": "04h2q",
+        "name": "Constel·lació del Lleó"
+    },
+    {
+        "id": "07yt9",
+        "name": "Verge (constel·lació)"
+    },
+    {
+        "id": "04h36",
+        "name": "Constel·lació de la Balança"
+    },
+    {
+        "id": "06pgz",
+        "name": "Escorpió"
+    },
+    {
+        "id": "06pgg",
+        "name": "Constel·lació del Sagitari"
+    },
+    {
+        "id": "01nk9",
+        "name": "Capricorn"
+    },
+    {
+        "id": "0jxf",
+        "name": "Constel·lació d'Aquari"
+    },
+    {
+        "id": "05s7n",
+        "name": "Constel·lació dels Peixos"
+    },
+    {
+        "id": "02vx4",
+        "name": "Futbol"
+    },
+    {
+        "id": "0jm_",
+        "name": "Futbol americà"
+    },
+    {
+        "id": "018w8",
+        "name": "Basquetbol"
+    },
+    {
+        "id": "018jz",
+        "name": "Beisbol"
+    },
+    {
+        "id": "07bs0",
+        "name": "Tennis"
+    },
+    {
+        "id": "01cgz",
+        "name": "Boxa"
+    },
+    {
+        "id": "03tmr",
+        "name": "Hoquei sobre gel"
+    },
+    {
+        "id": "07_53",
+        "name": "Voleibol"
+    },
+    {
+        "id": "0bynt",
+        "name": "Atletisme"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf (esport)"
+    },
+    {
+        "id": "01sgl",
+        "name": "Ciclisme"
+    },
+    {
+        "id": "06z6r",
+        "name": "Natació"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Marató"
+    },
+    {
+        "id": "0194d",
+        "name": "Bàdminton"
+    },
+    {
+        "id": "07jbh",
+        "name": "Tennis de taula"
+    },
+    {
+        "id": "087zy",
+        "name": "Ioga"
+    },
+    {
+        "id": "0397w",
+        "name": "Gimnàstica"
+    },
+    {
+        "id": "036vg6",
+        "name": "Lluita"
+    },
+    {
+        "id": "04xsv",
+        "name": "Art marcial"
+    },
+    {
+        "id": "03_ly",
+        "name": "Gener"
+    },
+    {
+        "id": "02xx5",
+        "name": "Febrer"
+    },
+    {
+        "id": "04wzr",
+        "name": "Març"
+    },
+    {
+        "id": "0lkm",
+        "name": "Abril"
+    },
+    {
+        "id": "04w_7",
+        "name": "Maig"
+    },
+    {
+        "id": "040fb",
+        "name": "Juny"
+    },
+    {
+        "id": "040fv",
+        "name": "Juliol"
+    },
+    {
+        "id": "0ll3",
+        "name": "Agost"
+    },
+    {
+        "id": "06vkl",
+        "name": "Setembre"
+    },
+    {
+        "id": "05lf_",
+        "name": "Octubre"
+    },
+    {
+        "id": "05cw8",
+        "name": "Novembre"
+    },
+    {
+        "id": "028kb",
+        "name": "Desembre"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Nord"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Sud"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Oest"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Est"
+    },
+    {
+        "id": "0j0k",
+        "name": "Àsia"
+    },
+    {
+        "id": "059g4",
+        "name": "Amèrica del Nord"
+    },
+    {
+        "id": "06n3y",
+        "name": "Amèrica del Sud"
+    },
+    {
+        "id": "02j9z",
+        "name": "Europa"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Àfrica"
+    },
+    {
+        "id": "0jfx",
+        "name": "Antàrtida"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Continent australià"
+    },
+    {
+        "id": "05p553",
+        "name": "Comèdia"
+    },
+    {
+        "id": "03npn",
+        "name": "Cinema de terror"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Documental"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animació"
+    },
+    {
+        "id": "06n90",
+        "name": "Ciència-ficció"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Cinema d'acció"
+    },
+    {
+        "id": "01jfsb",
+        "name": "Thriller"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasia"
+    },
+    {
+        "id": "0g65_",
+        "name": "Aventura gràfica"
+    },
+    {
+        "id": "04t36",
+        "name": "Cinema musical"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock and roll"
+    },
+    {
+        "id": "064t9",
+        "name": "Música pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Country"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Música clàssica"
+    },
+    {
+        "id": "02lkt",
+        "name": "Música electrònica"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Folk"
+    },
+    {
+        "id": "02x8m",
+        "name": "Funk"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Dance"
+    },
+    {
+        "id": "0199g",
+        "name": "Bicicleta"
+    },
+    {
+        "id": "019jd",
+        "name": "Embarcació"
+    },
+    {
+        "id": "01bjv",
+        "name": "Autobús"
+    },
+    {
+        "id": "0k4j",
+        "name": "Automòbil"
+    },
+    {
+        "id": "09ct_",
+        "name": "Helicòpter"
+    },
+    {
+        "id": "04_sv",
+        "name": "Motocicleta"
+    },
+    {
+        "id": "06q74",
+        "name": "Vaixell"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Metro de Nova York"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taxi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Tren"
+    },
+    {
+        "id": "07r04",
+        "name": "Camió"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tramvia"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Transbordador"
+    },
+    {
+        "id": "0f6pl",
+        "name": "Troleibús"
+    },
+    {
+        "id": "09g5h",
+        "name": "Nau espacial"
+    },
+    {
+        "id": "013xl3",
+        "name": "Aerolliscador"
+    },
+    {
+        "id": "074d1",
+        "name": "Submarí"
+    },
+    {
+        "id": "057gn",
+        "name": "Monovolum"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Formatge"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Cerveseria \/ Marca de cervesa"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Cervesa"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Te"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Beguda"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Barreta de caramel"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Plat"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingredient"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurant"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Xef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Cuina"
+    },
+    {
+        "id": "046cz33",
+        "name": "Destil·leria"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Apel·lació"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vinya"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vi"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dieta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recepta"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Menjar"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Nutrient"
+    },
+    {
+        "id": "0342h",
+        "name": "Guitarra"
+    },
+    {
+        "id": "0319l",
+        "name": "Trompa (instrument)"
+    },
+    {
+        "id": "02hnl",
+        "name": "Bateria (instrument musical)"
+    },
+    {
+        "id": "013y1f",
+        "name": "Orgue"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Flauta"
+    },
+    {
+        "id": "05r5c",
+        "name": "Piano"
+    },
+    {
+        "id": "0mkg",
+        "name": "Acordió"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Cita"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptació"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Persona de la dedicatòria"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedicador"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publicació"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Ressenya"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Entrevista"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Traducció"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Entrevistat"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Entrevistador"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Traductor"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Extracte"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Il·lustrador"
+    },
+    {
+        "id": "04gc2",
+        "name": "Advocat"
+    },
+    {
+        "id": "05t4q",
+        "name": "Metge"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arquitecte"
+    },
+    {
+        "id": "09jwl",
+        "name": "Músic"
+    },
+    {
+        "id": "01d30f",
+        "name": "Mestre"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Químic"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinari"
+    },
+    {
+        "id": "01c72t",
+        "name": "Compositor"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Cuiner"
+    },
+    {
+        "id": "03cbm1_",
+        "name": "Porter"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Agent de policia"
+    },
+    {
+        "id": "05xls",
+        "name": "Programador"
+    },
+    {
+        "id": "02tx6q",
+        "name": "Senyal d'àudio"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentista"
+    },
+    {
+        "id": "05wgy",
+        "name": "Pediatria"
+    },
+    {
+        "id": "099md",
+        "name": "Soldat"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Conductor de camions"
+    },
+    {
+        "id": "01d380",
+        "name": "Trepant"
+    },
+    {
+        "id": "03l9g",
+        "name": "Martell"
+    },
+    {
+        "id": "02bbbj",
+        "name": "Ribot"
+    },
+    {
+        "id": "0cqs9q",
+        "name": "Alicates universals"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Tisores"
+    },
+    {
+        "id": "07ln6l",
+        "name": "Cargol de banc"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Xec"
+    },
+    {
+        "id": "03m7wd",
+        "name": "Pastís Sacher"
+    },
+    {
+        "id": "06qrr",
+        "name": "Gasosa"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Forquilla"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburguesa"
+    },
+    {
+        "id": "024gjb",
+        "name": "Menú"
+    },
+    {
+        "id": "026lrs",
+        "name": "Tovalló"
+    },
+    {
+        "id": "01_9v",
+        "name": "Amanida Cèsar"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Cullera"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Aigua potable"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Cafè"
+    },
+    {
+        "id": "02859d",
+        "name": "Te negre"
+    },
+    {
+        "id": "09jc2n",
+        "name": "Esquena"
+    },
+    {
+        "id": "09cx8",
+        "name": "Dit"
+    },
+    {
+        "id": "09w5r",
+        "name": "Cama"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Dent"
+    },
+    {
+        "id": "037p5b",
+        "name": "Galta"
+    },
+    {
+        "id": "031n1",
+        "name": "Peu"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Llavi"
+    },
+    {
+        "id": "0mhy4",
+        "name": "Gola"
+    },
+    {
+        "id": "025kyy",
+        "name": "Front"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Boca"
+    },
+    {
+        "id": "0f9swq",
+        "name": "Mentó"
+    },
+    {
+        "id": "03q69",
+        "name": "Pèl"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Coll"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Llengua (múscul)"
+    },
+    {
+        "id": "039xj_",
+        "name": "Orella"
+    },
+    {
+        "id": "0k65p",
+        "name": "Mà"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Nas"
+    },
+    {
+        "id": "027n3_",
+        "name": "Cella"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Cap (anatomia)"
+    },
+    {
+        "id": "031974",
+        "name": "Cintura"
+    },
+    {
+        "id": "014sv8",
+        "name": "Ull"
+    },
+    {
+        "id": "0176mf",
+        "name": "Cinturó"
+    },
+    {
+        "id": "032b3c",
+        "name": "Jaqueta"
+    },
+    {
+        "id": "06rrc",
+        "name": "Calçat"
+    },
+    {
+        "id": "019b80",
+        "name": "Jersei"
+    },
+    {
+        "id": "01b638",
+        "name": "Bota"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Faldilla"
+    },
+    {
+        "id": "02d46y",
+        "name": "Gorra"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pijama"
+    },
+    {
+        "id": "013s93",
+        "name": "Samarreta"
+    },
+    {
+        "id": "0fly7",
+        "name": "Texans"
+    },
+    {
+        "id": "0216vm",
+        "name": "Plantofa"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Corbata"
+    },
+    {
+        "id": "01d40f",
+        "name": "Vestit femení"
+    },
+    {
+        "id": "01v229",
+        "name": "Impermeable"
+    },
+    {
+        "id": "01nq26",
+        "name": "Mitjó"
+    },
+    {
+        "id": "07mhn",
+        "name": "Pantaló"
+    },
+    {
+        "id": "0174n1",
+        "name": "Guant"
+    },
+    {
+        "id": "02h19r",
+        "name": "Bufanda"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Camisa"
+    },
+    {
+        "id": "01xyhv",
+        "name": "Vestit masculí"
+    },
+    {
+        "id": "01767_",
+        "name": "Mitja"
+    },
+    {
+        "id": "01zzs",
+        "name": "CD-ROM"
+    },
+    {
+        "id": "01m2v",
+        "name": "Teclat d'ordinador"
+    },
+    {
+        "id": "020lf",
+        "name": "Ratolí"
+    },
+    {
+        "id": "014n4m",
+        "name": "Retallar, copiar i enganxar"
+    },
+    {
+        "id": "01fk53",
+        "name": "Ordre"
+    },
+    {
+        "id": "02bc6",
+        "name": "Base de dades"
+    },
+    {
+        "id": "01q5jp",
+        "name": "Crear, llegir, actualitzar i esborrar"
+    },
+    {
+        "id": "029kh",
+        "name": "Sistema digital"
+    },
+    {
+        "id": "020s1",
+        "name": "Fitxer informàtic"
+    },
+    {
+        "id": "02nf_",
+        "name": "Correu electrònic"
+    },
+    {
+        "id": "01xfp",
+        "name": "Infografia"
+    },
+    {
+        "id": "01zrkr",
+        "name": "Icona"
+    },
+    {
+        "id": "01mfj",
+        "name": "Maquinari"
+    },
+    {
+        "id": "03rsh",
+        "name": "Entrada\/sortida"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Informàtica en núvol"
+    },
+    {
+        "id": "07wcf",
+        "name": "Bus sèrie universal"
+    },
+    {
+        "id": "0mynm",
+        "name": "Càmera web"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Placa mare"
+    },
+    {
+        "id": "07g0_",
+        "name": "La Haia"
+    },
+    {
+        "id": "02_286",
+        "name": "Nova York"
+    },
+    {
+        "id": "0430_",
+        "name": "Jerusalem"
+    },
+    {
+        "id": "01w2v",
+        "name": "El Caire"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seül"
+    },
+    {
+        "id": "031y2",
+        "name": "Florència"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlín"
+    },
+    {
+        "id": "05qtj",
+        "name": "París"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Torre"
+    },
+    {
+        "id": "06gfj",
+        "name": "Carretera"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Hospital"
+    },
+    {
+        "id": "0k05r",
+        "name": "Tribunal"
+    },
+    {
+        "id": "06zdj",
+        "name": "Escola"
+    },
+    {
+        "id": "019cfy",
+        "name": "Estadi"
+    },
+    {
+        "id": "0166ls",
+        "name": "Parc"
+    },
+    {
+        "id": "06zdj",
+        "name": "Escola"
+    },
+    {
+        "id": "09cmq",
+        "name": "Museu"
+    },
+    {
+        "id": "017ql",
+        "name": "Banc"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Mercat"
+    },
+    {
+        "id": "016yx7",
+        "name": "Gimnàs"
+    },
+    {
+        "id": "03nybl",
+        "name": "Comissaria"
+    },
+    {
+        "id": "09cjl",
+        "name": "Aeroport"
+    },
+    {
+        "id": "053rd",
+        "name": "Mineria"
+    },
+    {
+        "id": "023907r",
+        "name": "Béns immobles"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Telecomunicació"
+    },
+    {
+        "id": "06mbny",
+        "name": "Hospitalitat"
+    },
+    {
+        "id": "01mf0",
+        "name": "Programari"
+    },
+    {
+        "id": "011s0",
+        "name": "Publicitat"
+    },
+    {
+        "id": "01ftz",
+        "name": "Biotecnologia"
+    },
+    {
+        "id": "0hz28",
+        "name": "Edició"
+    },
+    {
+        "id": "0191_7",
+        "name": "Comerç al detall"
+    },
+    {
+        "id": "0h61",
+        "name": "Arqueologia"
+    },
+    {
+        "id": "01mtb",
+        "name": "Cocció"
+    },
+    {
+        "id": "034dj",
+        "name": "Joc d'aposta"
+    },
+    {
+        "id": "034v_",
+        "name": "Jardineria"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografia"
+    },
+    {
+        "id": "064rk",
+        "name": "Terrissa"
+    },
+    {
+        "id": "06h7j",
+        "name": "Carrera a peu"
+    },
+    {
+        "id": "09nyy",
+        "name": "Malabarisme"
+    },
+    {
+        "id": "012v4j",
+        "name": "Senderisme"
+    }
+]

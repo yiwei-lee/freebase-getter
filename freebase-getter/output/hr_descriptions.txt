@@ -1,0 +1,1106 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Mravi su porodica kukaca koja živi u velikim zadružnim zajednicama. Pripadaju redu opnokrilaca, dio su nadporodice žalčara iz podreda utegnutozačanih. Uz krilate mužjake i ženke ima mnogo više jedinki koje su beskrilne, spolno zakržljale ženke. Svi imaju otrovnu žlijezdu koja uglavnom izlučuje mravlju kiselinu. Kiselinu ispuštaju s pomoću žalca, a ako ga nemaju, načine najprije čeljustima ranu, pa je pošpricaju tom izlučinom. Po veličini glave te prema poslovima među njima se često razlikuju \"radnici\" i \"vojnici\"."
+    },
+    {
+        "id": "01dws",
+        "description": "Medvjedi su porodica sisavaca iz reda zvijeri. Ranije ih se nazivalo \"velikim medvjedima\" ili još i \"pravim medvjedima\", da bi ih tako razlikovali od rakuna koje su nazivali \"malim medvjedima\". Jedna vrsta iz te porodice, mrki medvjed, je najveća divlja životinja i grabežljivac na hrvatskom tlu."
+    },
+    {
+        "id": "01h3n",
+        "description": "Prave pčele potporodica su kukaca, iz reda opnokrilaca, porodice pčela, bliski srodnici bumbara, a dalji osa i mrava.\nNa svijetu ima približno 20 000 vrsta pčela na svim kontinentima osim Antarktike. Hrane se nektarom kao izvorom energije, te peludom, kao izvorom proteina."
+    },
+    {
+        "id": "015p6",
+        "description": "Ptice su razred dvonožnih, toplokrvnih kralježnjaka koji polažu jaja. Ptice su tijekom jure evoluirale od dinosaura podreda Theropoda, a najranija poznata ptica iz kasne jure je Archaeopteryx. Veličinom variraju od sitnih kolibrija do krupnih nojeva. Postoji između 9 i 10 tisuća poznatih vrsta ptica i najraznovrsniji su razred među kopnenim kralježnjacima.\nDanašnje ptice odlikuju perje, kljun bez zuba, polaganje jaja sa čvrstom ljuskom, visoka stopa metabolizma, srce s dvjema klijetkama i dvjema pretklijetkama, te lagan ali jak kostur. Mnoge ptice imaju prednje udove razvijene kao krila kojima mogu letjeti, iako su nojevke i nekoliko drugih, poglavito endemskih otočnih vrsta, izgubile tu sposobnost.\nMnoge ptičje vrste svake godine kreću na selidbe u udaljene krajeve, a još više ih poduzima migracije koje su kraće i manje redovne. Ptice su društvene životinje i komuniciraju vizualnim signalima, glasovnim pozivima i pjevanjem, sudjeluju u društvenom ponašanju što uključuje zajednički lov, pomoć pri odgajanju podmlatka i ponašanje karakteristično za jato. Neke vrste ptica su isključivo monogamne, druge prvenstveno monogamne uz povremeno parenje s drugim jedinkama. Druge vrste su poligamne ili poliandrične. Jaja obično polažu u gnijezdima gdje se ona inkubiraju, i većina ptica produljeno vrijeme provodi u podizanju mladih nakon izlijeganja."
+    },
+    {
+        "id": "01x_v",
+        "description": "Deve starog svijeta su rod iz porodice deva s dvjema vrstama, jednogrbom često zvanom i dromedar i dvogrbom devom, često baktrijska deva. Iako se u svakodnevnom govoru ime \"deve\" često koristi upravo za ove dvije vrste, one su zoološki dio porodice deva u koje spadaju još i deve novog svijeta koje žive u Južnoj Americi. Stanovnici starog svijeta od pradavnih vremena poznavali su ove dvije vrste i dali im ime deve. Kad su kasnije otkrivene u Americi i druge životinje koje su im srodne, kako bi ih se razlikovalo, podijeljene su na deve starog i deve Novog svijeta.\nSličnost koju zbog svoje nepregledne veličine i negostoljubivosti imaju more i pustinja, kao i ljuljanje u hodu ovih deva donijela im je i naziv pustinjske lađe, jer je dugo vremena jedino uz njihovu pomoć bilo moguće putovanje pustinjama."
+    },
+    {
+        "id": "01yrx",
+        "description": "Domaća mačka, kućna mačka ili najčešće mačka je mali mesožder iz porodice mačaka. Prvobitno potječe od afričke divlje mačke, a živi uz ljude već oko 3.500 godina.\nMačka spada među najomiljenije kućne ljubimce. 69 milijuna mačaka živi u američkim domovima gdje su vrlo popularne, dok u cijelom svijetu živi preko 600 milijuna mačaka.\nPostoji veliki broj raznih pasmina domaćih mačaka, rasnih i običnih, ali postoje i bezrepe ili bezdlake mačke, zbog mutacije. Naziv domaća mačka koristi se za sve mačke koje manje-više \"dobrovoljno\" žive u direktnom kontaktu s ljudima i smatra se da su se svojevoljno pripitomile jer su u blizini ljudskih nastambi lako dolazile do plijena. Razlikuju se od divljih mačaka i velikih mačaka. One su vješti grabljivci i veoma su inteligentne životinje. Neke od njih se mogu naučiti pokretati jednostavnije mehanizme, poput kvake na vratima ili ručice na vodokotliću. Mačke komuniciraju glasom, predenjem, frktanjem, režanjem i škljocanjem, kao i govorom tijela. Mačke koje žive u grupama koriste kombinaciju glasova i govora tijela za međusobno sporazumijevanje."
+    },
+    {
+        "id": "09b5t",
+        "description": "Domaća kokoš je uzgojni, odomaćeni oblik divlje kokoši, vrste porijeklom iz Jugoistočne Azije. Pripada porodici fazanki iz reda kokoški.\nKao domaća životinja, domaća kokoš ili kako ju se češće zove, kokoš je uzgojena u velikom broju najrazličitijih oblika, obilježja i varijacija boja. Trenutno europski standardi pasmina domaćih kokoši prihvaćaju više od 180 poznatih pasmina. U svijetu se uzgaja još daleko veći broj pasmina. Postoje i različite boje jaja, kao na primjer bijela, smeđa, zelena, crvena...\nU komercijalnoj proizvodnji mesa i jaja koriste se najčešće hibridne pasmine.\nO najdužem životnom vijeku kokoši ima vrlo malo pouzdanih podataka. U starijoj literaturi mogu se naći navodi o starosti do 50 godina. Većina izvora navodi da domaće kokoši, doživljavaju 5-7 godina, u pojedinačnim slučajevima do 8-9 godina. Kokoši nesilice najčešće ugibaju ranije od kokoški koje žive slobodno i nisu izložene stresu neprekidnog nošenja jaja. U dobi od dvije godine značajno opada \"proizvodnja\" jaja jedne kokoši."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Domaćim govedom, često jednostavno samo govedom nazivaju se domesticirani potomci divljeg goveda. Domesticiranje je počelo prvo radi mesa, a kasnije radi mlijeka i njihove snage korištene za vuču."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Slonovi su porodica viših sisavaca. Svi su, bez izuzetaka, biljožderi i hrane se prije svega travama i lišćem, ali u slučaju nedostatka te hrane, jedu i granje grmlje, koru i sličnu hranu.\nSlonovi su najveći kopneni sisavci koji danas žive na zemlji. Kod rođenja, mladunče može težiti i do 100 kg. Skotnost slonice traje 20 do 22 mjeseca i najduža je od svih kopnenih sisavaca. Mogu živjeti do 70 godina. Najveći slon je ubijen 1974. u južnoj Angoli i bio je težak 12.240 kg.\nDanas žive još samo tri vrste surlaša:\n⁕afrički slon\n⁕Afrički šumski slon\n⁕azijski slon\nKriptozoolozi sumnjaju na postojanje još jedne vrste, patuljastog slona ali to nije baš vjerojatno.\nkao još jednu, zasebnu vrstu. Međutim, znanstvenici nisu prihvatili taj prijedlog, bar za sada još ne. Ta vrsta živi, prema njihovom mišljenju, uz šumskog slona u tropskim kišnim šumama.\nU Africi žive četiri odvojene populacije slonova: u savanama istočne i južne Afrike, u zapadnoj Africi na sjeveru Namiba i u tropskim kišnim šumama centralne Afrike."
+    },
+    {
+        "id": "03k3r",
+        "description": "Konj je veliki četveronožni sisavac, pripadnik roda Equus. Konji su odavno bili jedna od najvažnijih domaćih životinja koja se uzgaja u vrlo velikom broju raznih pasmina, a živi širom svijeta.\nTaksonomski, domaći konji su domesticirani oblik divljih konja, i zajedno s magarcima i zebrama spadaju u porodicu konja, u red neparnoprstaša."
+    },
+    {
+        "id": "07bgp",
+        "description": "Ovce su domaće životinje, grupirane u rod Ovis, unutar porodice šupljorožaca.\nOvca je četveronožna životinja, tijelo joj prekriva vuna. Biljojed je i preživač. Razvila se iz divljeg muflona. Mužjak se zove ovan, ženka ovca, a mladunče janje. Žive u stadu. Gospodarska je vrsta, koja se uzgaja zbog vune, mesa, mlijeka, sira itd. Poznati sirevi od ovčjeg mlijeka su: Roquefort, feta, Liptauer, kačkavalj, paški sir, livanjski sir itd.\nPostoji mnogo pasmina ovaca kao što su: merino, pramenka, Suffolk ovca, virtemberška ovca, solčavsko-jezerska ovca, Romanovska ovca, mediteranska ovca, istočno-frizijska ovca, sardinijska ovca itd. Hrvatske pasmine su: lička pramenka, paška ovca, creska ovca, istarska ovca i dubrovačka ruda. Ova posljednja je vrlo ugrožena, jer je ostalo pokoje manje stado. Psi koji čuvaju ovce, zovu se ovčari. Najpoznatiji su njemački ovčar, škotski ovčar, tornjak itd., a u Slavoniji je posebno cijenjen hrvatski ovčar.\nNajviše ovaca ima u Kini, zatim u Australiji, Europskoj Uniji, Rusiji, Indiji, Iranu, Sudanu, Novom Zelandu, Argentini, Urugvaju i Čileu.\nJanje je simbol u kršćanstvu. Isus se naziva Dobrim pastirom i Jaganjcem Božjim. Biblijske osobe Abraham, Jakov, Mojsije, David i drugi, bili su pastiri. Ovca se često smatra slabo inteligentnom. George Orwell u satiričnoj noveli „Životinjska farma”, koristi ovce kao simbol neobrazovane mase ljudi u revolucionarnoj Rusiji, kojima je lako manipulirati. Prva klonirana ovca, zove se Dolly."
+    },
+    {
+        "id": "02g2w1",
+        "description": "Američki aligator, često i misisipski aligator prema latinskom nazivu, je jedan od dvije vrste roda Alligator u redu krokodila. Ova vrsta živi samo na jugoistoku SADa gdje nastanjuje mokre okoliše koji se često preklapaju s ljudskim obitavalištima. Veći je od druge vrste ovog roda, kineskog aligatora."
+    },
+    {
+        "id": "047v4b",
+        "description": "Artičoka ili Gardun je biljka iz porodice glavočika koja se uzgaja kod nas i u svijetu zbog prehrambenih razloga, kao i za uporabu u medicinske svrhe. Naraste od 0,8 - 2 m. Oko središnje stabljike (koja je u donjem dijelu često odrvenjela, posebno kod većih i starijih biljaka) naizmjenično rastu listovi dugi do 80 cm, perasto razdjeljeni. Listovi su srebrnozelene boje, na naličju dlakavi, pa čak i bodljikavi."
+    },
+    {
+        "id": "0cjs7",
+        "description": "Šparoga je višegodišnja zeljasta biljka iz porodice Asparagaceae. Šparoga je proljetno povrće te je vazdazelena penjačica s razvijenom podzemnom stabljikom. Nadzemna stabljika nosi lažne igličaste listove, dok su joj pravi listovi sitni i ljuskavi.\nŠparoge su jedna od nutritivno najuravnoteženijih vrsta povrća. One su niskokalorične, bogate vitamina, mineralima i vlaknima što ih čini idealnom namirnicom za sve koji žele zdravo jesti i usto održavati vitku liniju Energetska vrijednost stotinu grama šparoga iznosi samo 35 kalorija budući da najveći dio čini voda, a 1,7% otpada na bjelančevine, 2,6% ugljikohidrate i 0,7 % masti. Šparoge su, osim vitaminima i mineralima, osobito kalijem i kalcijem, bogate još mnogim vrijednim tvarima. Odličan su izvor vitamina B6, kalcija, magnezija i cinka i vrlo dobar izvor vlakana, proteina, vitamina A, C, K i E, tiamina, riboflavina, rutina, nijacina, folične kiseline, željeza, fosfora, kalija, bakra, mangana i selena. Aminokiselina asparagin dobila je ime po šparogama, jer je biljka šparoge bogata tim sastojkom.\nClaire Artman\/Corbis U sto grama šparoga ima samo 35 kalorija Divlje su šparoge pomalo gorke, a za tu su gorčinu 'zaslužni' njihovi sastojci asparagin, vanilin i spargaurin. No oni također ubrzavaju oporavak nakon bolesti, dobro djeluju na rad jetre i žuči, a imaju i diuretičko djelovanje pa potiču čišćenje organizma. Bogate su i luteinom, biljnim pigmentom koji ima blagotvoran utjecaj na krvne žile."
+    },
+    {
+        "id": "0hkxq",
+        "description": "Brokula je povrće iz porodice kupusnjača kojoj još pripadaju prokulica, kupus, koraba, cvjetača, kelj i druge. Smatra se izvornim oblikom karfiola, a uzgaja se zbog središnjeg i postranih zelenih cvjetnih izdanaka smještenih na razgranatoj i mekanoj stabljici."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Mrkva je dvogodišnja biljka iz porodice štitarki. Povrtna biljka ima nekoliko narodnih naziva merlin, koren, žuta repa, mrkvač."
+    },
+    {
+        "id": "015w7p",
+        "description": "Cvjetača ili karfiol prehrambena biljka porodice Brassicaceae koja se razvila kao jedna od brojnih podvrsti divljeg kupusa.\nUnutar povrste danas postoji više uzgojenih sorti:\n⁕Brassica oleracea var. botrytis 'Amfora F1'\n⁕Brassica oleracea var. botrytis 'Collage F1'\n⁕Brassica oleracea var. botrytis 'Grafitti F1'\n⁕Brassica oleracea var. botrytis 'Universal'\n⁕Brassica oleracea var. botrytis 'Verde di Macerata'\n⁕Brassica oleracea var. botrytis 'White Rock'\nSinonim su joj Brassica botrytis Mill.; Brassica cauliflora Garsault; i Brassica oleracea subsp. botrytis Metzg."
+    },
+    {
+        "id": "01xj_",
+        "description": "Celer, odnosno uobičajenih narodnih naziva ak, červez, opih, pitomi celer, selen, zelena je zeljasta godišnja, dvogodišnja ili višegodišnja biljka iz porodice štitarki."
+    },
+    {
+        "id": "02nm6c",
+        "description": "Blitva lisnato je povrće tamnozelene boje iz potporodice labode. Razlikujemo dvije glavna oblika blitve koje se uzgajaju u Hrvatskoj. Prva uzgojni oblik blitve odlikuje se širokim mesnatim listovima u obliku \"raščupanih\" glavica ili rozeta sa vrlo malom stabljikom. Drugi oblik blitve građen je tako da su joj listovi relativno mali u odnosu na debelu, jako razvijenu i mesnatu peteljku."
+    },
+    {
+        "id": "02nm75",
+        "description": "Raštika je dvogodišnja zeljasta biljka dobro razvijenog vretenastog korijena koji se jako grana."
+    },
+    {
+        "id": "053wn",
+        "description": "Kukuruz, jednogodišnja biljka iz porodice Poaceae, a porijeklom je iz Srednje Amerike.\nIgrao je važnu ulogu u povijesti, pogotovo kod naroda Srednje Amerike. U Europu je donesen 1493. a po nekim izvorima 1535. U Hrvatsku pod Habsburzima i Hrvatske zemlje pod osmanskom vlašću je stigao u 17. stoljeću.\nKorijen mu je žiličast, a stablo visoko i člankovito s odvojenim muškim i ženskim cvjetovima. Plod mu je klip sa zrnjem koje je uglavnom žuto ili bijelo. Također je uzgojen veliki broj raznih vrsta hibrida."
+    },
+    {
+        "id": "015x4r",
+        "description": "Krastavac jednogodišnja je biljka iz porodice tikvi.\nPlod je zelen, valjkast, tvrd, dug do 60 cm, a širok do 10 cm, jestiv je i sirov. Sastoji se od 97% vode, ima 9,7 kalorija na 100 grama. Bogat je vitaminima i mineralima. Važan je dio prehrane svjež ili konzerviran. Sjeme se razvija u dozrelim plodovima. S botaničkog gledišta prema sjemenu i cvijetu pripada u voće, ali se u svakodnevnom životu tretira povrćem.\nPotječe iz Indije. U zapadnoj Aziji, uzgaja se 3 000 godina. Jeli su ga Babilonci i spominje se u njihovom Epu o Gilgamešu. U Europu su ga donijeli Rimljani. Uzgoj krastavaca spominje se u spisima u Francuskoj u 9. stoljeću, u Engleskoj u 14. stoljeću, a u Sjevernoj Americi u 16. st.\nNajveći svjetski proizvođač krastavaca je Kina s oko 60% svjetske proizvodnje. Ostali veći proizvođači, ali puno manji od Kine su Turska, Rusija, Iran i SAD."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Patlidžan ili balancana je jednogodišnja vrsta biljke iz roda Solanum. Areal rasprostranjenja ove vrste obuhvaća istočnu Indiju i Šri Lanku, ali je ranom domestifikacijom proširen najprije na područje istočne Azije, Mediterana i Europe, a kasnije i na američke kontinente. Uzgaja se zbog plodova koji se koriste kao povrće."
+    },
+    {
+        "id": "022p79",
+        "description": "Endivija vrsta je povrća koja pripada porodici Asteraceae."
+    },
+    {
+        "id": "017dqv",
+        "description": "Komorač aromatična je začinska biljka. Drugi nazivi su: koromač, morač, slatki kopar, kopar, janež, slatki aniš, divlja mirodija, morac. Najbolje od komorača dobit će se ukoliko ga poslužimo svježeg. Vrlo su zanimljive kombinacije komorača s povrćem i voćem, u raznim miješanim i složenim salatama: s avokadom i narančama, artičokama i parmezanom, mandarinama i narom ili s pršutom i kruškama."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Češnjak ili bijeli luk začinska je biljka iz porodice Alliaceae. Srodna je luku, poriluku i vlascu. Smatra se da potječe iz srednje Azije, a od pamtivijeka se upotrebljava u kulinarstvu i medicini.\nBio je poznat već Egipćanima, Grcima i Rimljanima. Dosta je rasprostranjen, iako se troši u manjim količinama. Rabi se kao začin, i to bilo sirov, bilo kod kuhanja različitih jela. Ima tipičan miris koji mu daje eterično ulje. Češnjak sadrži fitoncide, koji djeluju baktericidno pa se troši kao narodni lijek.\nČešnjaku su se kroz povijest pripisivala razna mistična svojstva te se vjerovalo da štiti od demona, vukodlaka i vampira.\nNajveći svjetski proizvođač češnjaka je Kina, s oko 77% ukupne svjetske proizvodnje."
+    },
+    {
+        "id": "02r5_b",
+        "description": "Molimo pročitajte obavijest o središnjoj prijavi u našem kafiću ako ste prijavljeni suradnik Wikipedije.\n\nKelj biljka je slična glavatom kupusu samo što ima smežurano lišće i više ovojna zelena lišća oko glave."
+    },
+    {
+        "id": "04bk6",
+        "description": "Koraba je višegodišnja biljka; sorta kupusa.\nIme dolazi od njemačkih riječi \"Kohl\" i Rübe. Koraba je vrlo često povrće u zemljama njemačkog govornog područja i drugdje.\nKoraba je nastala umjetnom selekcijom lateralnog meristema rasta, a njezini srodnici su: kupus, brokula, cvjetača, kelj, raštika i dr. Svi oni potječu od iste vrste divljega kupusa.\nOkus i tekstura korabe slični su brokuli ili kupusu, ali su blažeg i slađeg okusa. Mlada stabljika može biti svježa i sočna kao jabuka, iako mnogo manje slatka. Sazrijeva 55-60 dana nakon sjetve. Približna težina je 150 g. Može se čuvati do 30 dana, a da ne propadne.\nKoraba se jede sirova ili se kuha. Postoji nekoliko kultivara korabe kao što su: White Vienna, Purple Vienna, Grand Duke, Gigante, Purple Danube i White Danube.\nNeke vrste se uzgajaju kao hrana za stoku."
+    },
+    {
+        "id": "013__5",
+        "description": "Poriluk je biljka je iz porodice Alliaceae. Srodna je češnjaku, luku i vlascu. Upotrebljava u kulinarstvu kao dodatak jelu i začin. Poriluk je dvogodišnja zeljasta biljka, visoka do 85 cm. Lukovica je duguljasta, bez oštrog mirisa. Listovi su duguljasto-lancetasti, a plod krupan i okrugao."
+    },
+    {
+        "id": "0fqlj",
+        "description": "Zelena salata jednogodišnja je ili dvogodišnja biljka iz porodice glavočika. Najčešće se uzgaja kao lisnato povrće. U mnogim zemljama, obično se jede sirova u salatama, sendvičima te u drugim jelima."
+    },
+    {
+        "id": "025s18p",
+        "description": "Abelmoschus esculentus, biljka cvjetnica iz porodice Malvaceae, red Malvales, iz tropskih i suptropskih krajeva. Životni vijek joj je jednu godinu. Hermafrodit, čiji su oprašivači pčele.\nDlačice na sjemenu mahuna mogu biti nadražujuće za neke ljude. Vlakna dobivena iz stabljike služe kao zamjena za jutu i izradu papira i tekstila."
+    },
+    {
+        "id": "0dj75",
+        "description": "Luk ili crveni luk biljka je iz porodice Alliaceae. Srodna je češnjaku, poriluku i vlascu. Upotrebljava u kulinarstvu i medicini.\nPojam luk, kada je vezan za biljku koristi u imenu mnogih vrsta iz roda Allium, ali samo ime \"luk\" bez pridjeva obično se odnosi na Allium cepa.\nBiljna vrsta Allium cepa poznata je samo kao kultivirana biljka, ali njezini divlji srodnici u prirodi se pojavljuju u središnjoj Aziji. Među najsrodnijim vrstama u prirodi smatraju se Allium vavilovii Popov & Vved. i Allium asarense R.M. Fritsch & Matin iz Irana, makar neki autori ističu mogućnost da su te vrste nastale sjemenskim uzgojem već kultiviranih sorti.\nCrveni luk je prebogat sastojcima za zdravlje srca. Luk je od davnine poznat i priznat prirodni antibiotik i antipiretik. Ta svojstva rezultat su sinergijskog djelovanja vitamina C, kvercetina i izotiocijanata. Luk je stoga posebno poželjna namirnica u razdoblju prehlada i gripe, a nekoliko studija ta je svojstva luka dovelo u pozitivnu vezu s olakšavanjem simptoma osteo i reumatoidnog artritisa te alergijskog rinitisa i astme."
+    },
+    {
+        "id": "01xfpd",
+        "description": "Pastrnjak je biljka iz porodice Apiaceae, koja se koristi i za ljudsku prehranu kao povrće."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Grašak jednogodišnja je biljka iz porodice mahunarki, a kao povrtlarska kultura pripada zrnastim mahunarkama."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Kikiriki je povrće koje pripada porodici mahunarki a potječe iz Južne Amerike, Meksika i Srednje Amerike."
+    },
+    {
+        "id": "05vtc",
+        "description": "Krumpir je biljka porodice Solanaceae porijeklom sa južnoameričkih Anda, gdje su je Quechua Indijanci nazivali papa. U prehrani se koristi podzemni gomolj, a nakon otkrića Amerike ova biljka osvojila je svijet. Ostali narodni nazivi za krumpir su krompir, krtola, kumpir, krumpijer, kalamper, podzemljica.\nNadzemna stabljika je do prst debela, zeljasta 0,5 m visoka i uglasta. Listovi su nepravilno perasto razdijeljeni s jajolikim listićima. Cvjetovi su od bijele do ljubičaste boje, a smješteni su u pašticama na dugim peteljkama. Plod je žućkasto-bijelo-zelenkasta boba."
+    },
+    {
+        "id": "05zsy",
+        "description": "Tikve uzgajaju se u cijelom svijetu. Koriste se za ljudsku i stočnu hranu."
+    },
+    {
+        "id": "015x5n",
+        "description": "Rotkvica je biljka u obitelji krstašica. Naziv ove biljke dolazi od bojom njena korijena. Rotkvice rastu pripadaju istoj botaničkoj porodici kao i repa koraba.\nSmatra se da rotkvica potječe iz južne Azije.\nRotkvica je iznimno korisna za jetru i želudac. Osim toga, ovo slasno povrće izvrsno detoksicira, odnosno pročišćava krv. Rotkvica je čudesno korisna kod žutice jer pomaže ukloniti bilirubin, kontrolirajući njegovu proizvodnju. Potiče lučenje probavnih sokova i rad crijeva. Posebno se preporuča osobama koje pate od zatvora."
+    },
+    {
+        "id": "0fl3p",
+        "description": "Rabarbara je višegodišnja zeljasta biljka s krupnim listovima i dugim debelim zelenim, ljubičastim, ili ružičastim stabljikama. Biljke posjeduju velike listove i trokutastu dugu mesnatu stabljiku. Cvijeće je malo, zeleno-bijelo do ružičasto-crveno. Postoji mnogo vrsta rabarbare uzgojene kao medicinska biljka i kao biljka za ljudsku prehranu. Za ishranu se koriste samo stabljike, jer listovi posjeduju toksin."
+    },
+    {
+        "id": "016rh7",
+        "description": "Špinat uzgaja se zimi i ljeti, pa govorimo o dvjema vrstama špinata - zimskom i ljetnom.\n- Zimski ili obični špinat ima oblik rozete, a prema sorti lišće mu je veće ili manje, zaobljena ili šiljasta vrha. Neke sorte imaju sočnije listove zelene boje, neke imaju tanje listove, a boja im je svjetlija. Prilikom prodaje s rozetom, korijen mora biti odrezan izvan vanjske krune lišća. beru se samo veći listovi.\n- Ljetni špinat ima debelo, mesnato, trokutasto lišće, koje je sočnije od lišća običnog špinata, ali je sivozelene boje. Ta vrsta špinata ima razgranatu stabljiku koja se s granama u promjeru otprilike 1,5 m prostire po tlu. Beru se samo listovi"
+    },
+    {
+        "id": "0cl46",
+        "description": "Repa je biljka iz roda krstašica koja svoje podrijetlo pronalazi na Mediteranskom području Europe ali kao i sve biljke veliki broj podvrsta je moguće naći na cijeloj Sjevernoj Zemljinoj polutci počevši od Sjeverne Amerike, Južne Amerike, Azije i dijela sjeverne Afrike."
+    },
+    {
+        "id": "02d9p2",
+        "description": "Dragušac brzorastuća poluvodena biljka iz porodice Brassicaceae. Biljka je udomaćena u Europi i Aziji, te je jedno od najstarijih vrsta povrća koje je čovjek koristio. Stručak je biljke šupalj, te pliva na vodi. Cvjetovi su sitni i bijele boje. Biljka se koristi i u narodnoj medicini. Postoji i više kultiviranih odlika ove biljke."
+    },
+    {
+        "id": "015fr",
+        "description": "Brazil, službeno Savezna Republika Brazil, najveća je država u Južnoj Americi. Prema površini i broju stanovnika od preko 190 milijuna, peta je najveća zemlja na svijetu. Jedina je država portugalskog govornog područja u Americi i najveća luzofonska zemlja na svijetu.\nGraniči sa svim južnoameričkim zemljama osim Ekvadorom i Čileom. Na sjeveru s Venezuelom, Gvajanom, Surinamom i francuskim prekomorskim departmanom Francuskom Gvajanom, na sjeverozapadu s Kolumbijom, na zapadu s Bolivijom i Peruom, na jugozapadu s Argentinom i Paragvajom i na jugu s Urugvajom. Morska obala Brazila, s Atlantskim oceanom na istoku, dugačka je preko 7491 km. Veliki dio Brazila pripada slivu rijeke Amazone i prekriven je kišnim šumama. Brazilski teritorij čine i brojni arhipelazi kao Fernando de Noronha, atol Rocas, São Pedro e São Paulo i Trindade i Martim Vaz.\nBrazil je bio portugalska kolonija od iskrcavanja Pedra Álvaresa Cabrala godine 1500. do 1815., kada je uzdignut na ujedinjenu kraljevinu s Portugalom i Algarveom. Kolonijalna povezanost bila je u stvari prekinuta već 1808. kada je nakon Napoleonovog upada u Portugal prijestolnica portugalskog kraljevstva preseljena iz Lisabona u Rio de Janeiro. Nezavisnost od Portugala ostvarena je 1822. Isprva nezavisan kao Brazilsko carstvo, Brazil je od 1889. republika, premda dvodomni parlament, danas zvan kongres, datira iz 1824. kada je usvojen prvi ustav. Današnji ustav, Brazil definira kao saveznu republiku federalnog distrikta, 26 država i 5564 gradova."
+    },
+    {
+        "id": "0d060g",
+        "description": "Za pojam koji se slično piše pogledajte članak o temi: Kannada\n\nKanada je površinom od 9.984.670 km² druga po veličini zemlja na svijetu. Nalazi se na sjeveru sjevernoameričkog kontinenta, graniči sa SAD-om na jugu i sjeveru, na zapadu izlazi na Tihi ocean, a na istoku na Atlantski ocean. Glavni grad Kanade je Ottawa. Toronto je glavno gospodarsko središte. Ostali važni gradovi su Montreal, Vancouver, Edmonton i Calgary. Prema popisu iz 2001. ima 30.007.094 stanovnika\nKanada je nastala kao unija britanskih kolonija na sjevernoameričkom kontinentu. Kao federalna unija sa statusom dominiona sastoji se od deset provincija i tri teritorija. Kanada je 1867. na miran način dobila samostalnost od Velike Britanije.\nKanada je parlamentarna demokracija i ustavna monarhija sa kraljicom Elizabetom II. kao monarhom. Kanada je multikulturalna država sa dva službena jezika: engleskim i francuskim. Kanada je jedna od zemalja sa najrazvijenijim gospodarstvom. Temelj gospodarstva čine velika prirodna bogatstva i trgovina posebice sa SAD-om u sklopu NAFTA-e. Kanada je članica G8 i NATO-a."
+    },
+    {
+        "id": "01p1v",
+        "description": "Čile je država u Južnoj Americi, smještena na jugu kontinenta uzduž pacifičke obale. Zemlja je izdužena 4.630 km u smjeru sjever–jug, s najvećom širinom od 430 km. Na sjeveru graniči s Peruom, na sjeveroistoku s Bolivijom te na istoku s Argentinom."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Narodna Republika Kina, često zvana samo Kina je država u istočnoj Aziji. Poznata kao najmnogoljudnija zemlja svijeta, po veličini površine je treća na svijetu i obuhvaća 9.596.960 km². Pruža se od Tihog oceana na istoku do planinskog lanca Pamira na zapadu i od rijeke Amura na sjeveru do otoka Hainana na jugu."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Republika Kuba je država i otok, otočje, koja se nalazi okružena Meksičkim zaljevom, Karipskim morem i Atlanskim oceanom. Okružena je sa Sjedinjenim Američkim Državama i Bahamima na sjeveru, Meksikom na zapadu, Kajmanskim otočjem i Jamajkom na jugu te Haitijem na jugoistoku."
+    },
+    {
+        "id": "03shp",
+        "description": "Iran, službeno: Islamska Republika Iran je država u jugozapadnoj Aziji. Naziv Iran udomaćen je još od starog vijeka dok se na međunarodnoj sceni počeo aktivnije koristiti od 1935. godine kada je potisnuo europski egzonim Perziju. Danas se nazivi Iran i Perzija koriste kao sinonimi u kulturološkom smislu, dok se u službenom političkom kontekstu koristi isključivo naziv Iran.\nDržava se proteže na 1,648.195 km² što je čini 18. najvećom u svijetu, a prema posljednjem popisu iz 2006. godine u njoj je živjelo 70,495.782 stanovnika. Iran ima važno geostrateško značenje s obzirom da se nalazi u središnjoj Euroaziji odnosno na Bliskom istoku. Zemlja je na sjeveru omeđena Armenijom, Azerbajdžanom i Turkmenistanom odnosno Kaspijskim jezerom, na istoku Afganistanom i Pakistanom, na zapadu Irakom i Turskom, te na jugu Omanskim i Perzijskim zaljevom. Glavni i najveći grad je Teheran koji predstavlja važno političko, kulturno, gospodarsko i industrijsko središte zemlje. Iran u vojno-političkom smislu ima status regionalne sile, dok se na temelju kolosalnih zaliha nafte i zemnog plina kao i razvijenog nuklearnog programa često naziva i energetskom supersilom. Također, Iran je i najrazvijenija poljoprivredna i industrijska sila u široj regiji."
+    },
+    {
+        "id": "01znc_",
+        "description": "Republika Turska je euroazijska država smještena u jugoistočnoj Europi i jugozapadnom dijelu Azije. Turska graniči na istoku s Gruzijom, Armenijom, Azerbajdžanom i Iranom, na jugu s Irakom i Sirijom, te na zapadu s Grčkom, Bugarskom. Sredozemno more i Cipar nalaze se na jugu, Egejsko more i otoci na zapadu, te Crno more na sjeveru. Europski i azijski dio turske dijeli Mramorno more, te tjesnaci Bospor i Dardaneli.\nZbog položaja države na dva kontinenta, turska kultura je jedinstven spoj istočnjačkih i zapadnjačkih običaja i tradicija. Položaj zemlje između Europe na zapadu, središnje Azije na istoku, Rusije na sjeveru i Bliskog istoka na jugu, dao je Turskoj i veliku stratešku važnost.\nTurska je demokratska, sekularna, unitarna, ustavna republika čiji je politički sustav 1923. utemeljio Mustafa Kemal Atatürk, nakon propasti Osmanskog Carstva poslije Prvog svjetskog rata. Od tada se politika države počela okretati zapadu, tako da je Turska danas članica mnogih zapadnih organizacija kao što su Vijeće Europe, NATO, OECD i OSCE. Turska je 2005. počela pregovore za članstvo u Europskoj uniji. Istovremeno država održava i pojačava svoje političke i gospodarske odnose s istočnjačkim zemljama."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Švedska, službeno Kraljevina Švedska, je država na sjeveru Europe, na obali Baltičkog mora. Na kopnu graniči s Norveškom na zapadu te s Finskom na sjeveroistoku, dok je s Danskom na jugozapadu spojena Oresundskim mostom. Švedska ima i isključivo morsku granicu s Estonijom, Latvijom, Litvom, Poljskom, Njemačkom i Rusijom. Švedska je četvrta zemlja po veličini u Europi i zauzima jugoistočni dio Skandinavskoga poluotoka. Glavni grad je Stockholm. Švedska je članica Europske unije od 1. siječnja 1995.\nZbog velike površine od 450.295 km² te populacije nešto veće od 9.540.065 milijuna stanovnika, Švedska ima malu gustoću naseljenosti od oko 20 stanovnika po km². Oko 84% populacije živi u gradskim naseljima. Stanovnici Švedske imaju visok životni standard, visoko razvijen sustav socijalne skrbi i jedan od najviših prosječnih dohodaka na svijetu. Švedska se općenito smatra modernom i liberalnom zemljom. Organizacijska i poslovna kultura u Švedskoj se temelji na kolektivizmu i nije zasnovana na hijerarhiji za razliku od angloameričke. Očuvanje prirode, zaštita okoliša i energetska učinkovitost su opće prihvaćeni principi u Švedskoj i imaju prioritet kod definiranja svih državnih politika."
+    },
+    {
+        "id": "06mkj",
+        "description": "Kraljevina Španjolska suverena je europska država, po ustavnom uređenju parlamentarna monarhija. Od 1986. godine članica je Europske Unije.\nSmještena na jugozapadu Europe, Španjolska zauzima veći dio Pirenejskog poluotoka. Dio su njenog teritorija i dva arhipelaga, smještena u Sredozemnom moru i Atlantskom oceanu, sjevernoafrički primorski gradovi Ceuta i Melilla, koji su pod španjolskom upravom te enklava Llívia u francuskim Pirenejima.\nŠpanjolska na sjeveru graniči s Francuskom i Andorom, na zapadu s Portugalom, te s britanskom kolonijom Gibraltar na jugu. Sjevernoafrički teritoriji pod španjolskom upravom graniče s Marokom. Ukupna dužina španjolske kopnene granice je 1918 km.\nGlavni grad Kraljevine Španjolske je Madrid. Grad s 3.155.359 stanovnika smješten je u središtu Pirenejskog poluotoka. Drugi veći gradovi su Barcelona, Valencia, Sevilla, Zaragoza i Málaga."
+    },
+    {
+        "id": "0h7x",
+        "description": "Austrija država je u Srednjoj Europi, a sastoji se od 9 saveznih država. Austrija graniči s Lihtenštajnom i Švicarskom na zapadu, Italijom i Slovenijom na jugu, Mađarskom i Slovačkom na istoku, te Njemačkom i Češkom na sjeveru."
+    },
+    {
+        "id": "03gj2",
+        "description": "Mađarska ili Madžarskaje država u Srednjoj Europi. Njezini ju stanovnici zovu Magyarország.\nGraniči s Austrijom, Slovačkom, Ukrajinom, Rumunjskom, Srbijom, Hrvatskom i Slovenijom. Zajedno s Poljskom, Slovačkom i Češkom čini Višegradsku skupinu ili \"Višegradsku četvorku\"."
+    },
+    {
+        "id": "0345h",
+        "description": "Savezna Republika Njemačka je država u srednjoj Europi. Na sjeveru graniči sa Sjevernim morem, Danskom i Baltikom, na istoku s Poljskom i Češkom, na jugu s Austrijom i Švicarskom, a na zapadu s Francuskom, Luksemburgom, Belgijom i Nizozemskom.\nNjemačka je demokratska parlamentarna savezna država, koja se sastoji od 13 saveznih država i tri samostalna grada pokrajine. Glavni grad je Berlin i u njemu su smješteni parlament i vlada. Ujedinjena je kao država za vrijeme Francusko-pruskog rata 1870.\/'71.\nNjemačka je jedna od najrazvijenijih država svijeta i jedna od osnivačkih članica Europske Unije. Članica je i Ujedinjenih naroda, NATO-a, skupine G8 i G4. Najveća je europska zemlja po broju stanovnika te ima najsnažnije europsko gospodarstvo."
+    },
+    {
+        "id": "05qhw",
+        "description": "Poljska je država u srednjoj Europi. Graniči s Njemačkom na zapadu, Češkom na jugozapadu, Slovačkom na jugu, Ukrajinom na jugoistoku, Bjelorusijom na istoku, Litvom na sjeveroistoku, te Rusijom i Baltičkim morem na sjeveru."
+    },
+    {
+        "id": "04g5k",
+        "description": "Latvija, često zvana i Letonija, je pribaltička europska država. Graniči s Estonijom na sjeveru, Rusijom na istoku, Bjelorusijom na jugoistoku, te Litvom na jugu. Na zapadu izlazi na Baltičko more.\nU hrvatskim izvorima, pored oblika Letonija i Latvija, nailazimo i na starije oblike Letonska te Lotiška."
+    },
+    {
+        "id": "012wgb",
+        "description": "Irska je treći najveći otok u Europi. Smješten je na zapadnoj strani Irskog mora, zapadno od Velike Britanije. Irska je jedan od Britanskih otoka. Republika Irska je smještena na južnih pet šestina otoka, dok se na sjevernoj preostaloj šestini nalazi autonomna regija Ujedinjeno Kraljevstvo - Sjeverna Irska.\nOtok ima površinu od 84.412 km². Najviši vrh je Corrán Tuathail, visok 1.041 m. Najduža rijeka je Shannon, dugačka 386 km. Otok ima gustu vegetaciju zbog blage klime i česte, ali i lake, kiše."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamajka je otočna država u Karipskom moru, južno od Kube i zapadno od Hispaniole."
+    },
+    {
+        "id": "01crd5",
+        "description": "Vijetnam, službeno Socijalistička Republika Vijetnam je država u jugoistočnoj Aziji na obali Južnog kineskog mora i Tajlandskog zaljeva. Graniči na sjeveru s Kinom, na zapadu s Laosom i na jugozapadu s Kambodžom."
+    },
+    {
+        "id": "015qh",
+        "description": "Bugarska država je u jugoistočnoj Europi. Glavni grad joj je Sofija. Graniči s Grčkom na jugu, Turskom na jugoistoku, Srbijom na zapadu, Makedonijom na jugozapadu i Rumunjskom na sjeveru. Na istoku izlazi na Crno more. Od 2007. godine članica je Europske unije."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongolija je kontinentalna država u Aziji, između centralne i istočne Azije, rijetko naseljena zemlja bez izlaza na more, graniči s Rusijom na sjeveru i Kinom na jugu.\nU starijim dokumentima može se naći još i ime Vanjska Mongolija Do promjene Ustava 1992. zvala se Narodna Republika Mongolija."
+    },
+    {
+        "id": "06q1r",
+        "description": "Škotska je dio Ujedinjenog Kraljevstva. Najsjeverniji dio otoka Velike Britanije; s otočjem Hebridi, Orkney i Shetland obuhvaća 77.180 km², a s unutarnjim vodama 78.764 km². Škotska je 1980. godine imala 5.153.000 stanovnika. Gustoća iznosi 65 stanovnika na km². Najgušće je naseljeno središnje područje. Političko, industrijsko i kulturno središte je Edinburgh. Na zapadu i sjeveru dopire do Atlantskog oceana, a na istoku do Sjevernog mora. Od Engleske je dijeli granična crta koja se proteže od ušća rijeke Tweed do zaljeva Solay. Za Škotsku je kerakteristična razvedenost obale, osobito zapadne, po čemu se znatno razlikuje od Engleske. Na istočnoj obali duboko su se usjekli zaljevi Firth of Forth i Moray Firth. Škotska se uglavnom dijeli na južni, središnji i sjeverni dio. Južni dio obuhvaća Južno visočje s graničnim gorjem Cheviot, građenim pretežno od starih stijena. Središnji dio sastoji se od niza depresija, koje se nastavljaju u Firth of Clyde, Firth of Forth i Firth of Tay. Njima je odvojeno brdovito područje na jugu od granitnih ravnjaka gorja Grampian na sjeveru s najvišim vrhom britanskog otočja Ben Nevis, 1343 m."
+    },
+    {
+        "id": "0chghy",
+        "description": "Australija je država koja zauzima kontinent Australiju, otok Tasmaniju i brojne manje otoke u Indijskom i Tihom oceanu na Zemljinoj južnoj polutki. Susjedne države su Indonezija, Istočni Timor i Papua Nova Gvineja na sjeveru, Solomonski otoci, Vanuatu i Nova Kaledonija na sjeveroistoku te Novi Zeland na jugoistoku.\nAustralski domoroci Aboridžini su nastanjivali kontinent najmanje 40 000 godina prije dolaska Europljana. Nizozemci su otkrili Australiju 1606., a Velika Britanija ju je prisvojila 1770. Godine 1778. osnovana je kolonija Novi Južni Wales koja je isprva služila kao kažnjenička kolonija.\n\nŠest australskih kolonija se 1. siječnja 1901. ujedinilo u federaciju i tako je stvoren Australski savez. Otada je Australija zadržala liberalnodemokratsko političko uređenje te je ostala dijelom Commonwealtha. Do danas je broj stanovnika narastao na gotovo 22 milijuna, a više od 60% stanovništva je koncentrirano u obalnim gradovima od kojih su najveći Sydney, Melbourne, Brisbane, Perth i Adelaide. Glavni grad je Canberra, koja se nalazi u Teritoriju australskoga glavnog grada.\nAustralija je trinaesto najveće gospodarstvo na svijetu, a zauzima visoko mjesto u mnogim istraživanjima kvalitete života kao što su indeks ljudskog razvoja, zdravstvena skrb, očekivani životni vijek, javno obrazovanje, gospodarske slobode i zaštita građanskih sloboda u političkih prava."
+    },
+    {
+        "id": "035v3",
+        "description": "Grenland je autonomni teritorij Danske. Najveći je otok na svijetu.\nArktički otok se nalazi u Sjevernoj Americi i geografski i etnički; ali politički i povijesno Grenland je bliži Europi. Atlanski ocean se nalazi južno od Grenlanda, Arktički ocean na sjeveru, Baffinov zaljev i Kanada na zapadu. Grenland je najveći otok i najveći teritorij koji nije nezavisan. Također, na otoku se nalazi najveći nacionalni park na svijetu. Oko 81% površine je prekrivena ledom. Skoro svi stanovnici žive u fjordovima na jugozapadu otoka, koje ima blažu klimu.\n\nVećina Grenlanđana su mješavina skandinavskog naroda i Kalalita, i govore grenlandski jezik kao materinski jezik. Grenlandski jezik govori oko 50.000 ljudi, koji se nalazi u grupi eskimsko-aleutskih jezika. Manjina danskih migranata bez inuitskog podrijetla govori danski kao prvi jezik. Oba jezika su službena.\nGrenland je bio pod Norveškom upravom od 11. stoljeća pa do 1814., kada je vlast data Danskoj, iako su Danska i Norveška bile u personalnoj uniji stoljećima. Grenland je postao sastavni dio Danske 1953. Lokalnu autonomiju su dobili u danskom parlamentu 1. svibnja 1979. 2008. godine Grenlanđani su izglasovali prijenos više nadležnosti na lokalnu vladu, što je stupilo na snagu 21. lipnja 2009. Danska središnja vlada nadležna je samo za vanjsku politiku, sigurnost te financijsku politiku."
+    },
+    {
+        "id": "0jgx",
+        "description": "Armenija, službeno Republika Armenija je država na južnom Kavkazu. Na zapadu graniči s Turskom, na sjeveru s Gruzijom, na istoku s Azerbajdžanom, na jugu s Iranom i azerbajdžanskom eksklavom Nahičevan.\nPrije raspada Sovjetskog Saveza je Armeniji po Staljinovoj odluci pripadala i eksklavica Baškend unutar teritorija Azerbajdžana, dok su Azerbajdžanu pripadale četiri eksklave unutar pokrajine Tavuš i jedna u pokrajini Ararat. Kad se Sovjetski Savez raspao i kad su se pojavile napetosti oko Gorskoga Karabaha, obje su države pripojile te eksklavice svojem teritoriju. Trenutačno su otvorene granice s Gruzijom i Iranom, dok su granice s Turskom i Azerbajdžanom zatvorene. 1991. Armenija je nastala na području bivše Armenske SSR."
+    },
+    {
+        "id": "03_3d",
+        "description": "Japan je otočna država u istočnoj Aziji smještena na lancu otoka istočno od Azijskog kontinenta, na zapadnom rubu Pacifičkog oceana sjeverno od Istočnokineskog mora. Japan čini otočje od više od 3000 otoka, a najveći otoci sa sjevera prema jugu su: Hokkaido, Honshu, Shikoku i Kyushu koji čine više od 97% površine. Veći broj manjih otoka okružuje ova četiri, kao i grupe udaljenih otoka Okinawa i Ryukyu.\nJapansko je otočje dio pacifičkoga vatrenog prstena i nastalo je kao posljedica podvlačenja Filipinske i Tihooceanske litosferne ploče pod Euroazijsku. Dva japanska slova koja označavaju ime Japana znače \"izvor sunca\" pa se tako cijela zemlja često naziva \"Zemlja izlazećeg sunca\". Japansko otočje vulkanskog je podrijetla pa je dio geološki izrazito nemirnog prostora obala Tihog oceana, tvz. vatrenog prstena. Brojni potresi i vulkani glavno su obilježje Japana. Najpoznatiji vulkan je Fuji koji je ujedno i najviši vrh Japana. Japan je planinska zemlja, budući da oko 80% površine čine planine. Oko 66% površine prekriveno je šumama.\nPo državnom uređenju Japan je ustavna parlamentarna monarhija s carem na čelu. Japan je deseta zemlja svijeta po broju stanovnika s nešto manje od 128 milijuna, od kojih 99% čine Japanci. Glavni grad je Tokio koji sa susjednim gradovima ima oko 32 milijuna stanovnika te je najveće metropolitansko područje svijeta."
+    },
+    {
+        "id": "019rg5",
+        "description": "Kenija je država u istočnoj Africi. Na jugoistoku izlazi na Indijski ocean, na jugozapadu graniči s Tanzanijom, na zapadu s Ugandom, na sjeverozapadu s Južnim Sudanom, na sjeveru s Etiopijom i na istoku sa Somalijom."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Ponedjeljak prvi dan u tjednu, koji se nalazi između nedjelje i utorka. Proizlazi iz praslavenskog skupa riječi po + nedělja, poslije nedjelje.\nPonedjeljak je, zapravo, prvi dan tjedna u većem dijelu Europe, Australiji, dijelovima Afrike i Južnoj Americi. U Aziji, mnogi jezici se odnose na ponedjeljak kao na \"dan početka\". Na primjer, ponedjeljak je xingqi yi na kineskom, što znači prvi dan u tjednu.\nU ostalim dijelovima svijeta, ponedjeljak je drugi dan. Ovo je tradicionalni pogled u Kanadi i Sjedinjenim državama. Ime ovog dana u arapskom, gruzijskom, grčkom, hebrejskom i portugalskom jeziku ima značenje \"drugi dan\".\nModerna kultura obično gleda na ponedjeljak kao na početak radnog tjedna, zato što je tipično ponedjeljak dan kada se odrasli vraćaju na posao, a djeca u škole poslije vikenda. Ovdje, međutim, postoje izuzeci; u zemljama Bliskog Istoka, početak radnog tjedna je obično subota. U Izraelu, nedjelja je prvi dan radnog tjedna. Petak je polovično radni dan, a petak navečer i subota predstavljaju Sabat."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Utorak je drugi dan u tjednu, koji se nalazi između ponedjeljka i srijede. Ime proizlazi od praslavenske riječi въторъ, vtori što doslovno znači drugi.\nUtorak je obično dan za izbore u Sjedinjenim Državama. Federalni izbori se održavaju u utorak poslije prvog ponedjeljka u studenom; ovaj datum je potječe iz zakon iz 1845. za predsjedničke izbore, a proširen je na izbore za Kongres 1875. godine i na Senat 1914. godine. Utorak je najraniji dan sedmice koji je bio praktičan za anketiranja u ranom 19. stoljeću: građani su možda morali putovati cijeli dan da bi glasali, a nisu željeli ići u nedjelju, koja je bila dan svetkovanja za veliku većinu njih. Mnoge američke države održavaju predsjedničke primarne izbore utorkom.\nCrni utorak, u Sjedinjenim Državama, odnosi se na 29. listopada 1929., početak velike panike oko burze. Ovo je bio utorak poslije Crnog četvrtka, koji je označio početak Velike depresije.\nU grčkom svijetu, utorak se smatra nesretnim danom. Isto važi i za zemlje koje govore španjolski jezik, gdje postoji poslovica En martes, ni te cases ni te embarques."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Srijeda je treći dan u tjednu, koji se nalazi između utorka i četvrtka.\nKada se nedjelja uzme za prvi dan tjedna, dan u sredini tog tjedna je srijeda. Odgovarajuće, njemačko ime za srijedu je Mittwoch od 10. stoljeća, koje je zamijenilo originalno ime: Wodanstag.\nPrema Bibliji, srijeda je dan kada je Bog stvorio Sunce i Mjesec.\nSrijeda je također sredina običnog radnog tjedna od ponedjeljka do petka. Engleski idiom za srijedu je \"grbavi dan\", što se odnosi na \"prelaženje preko grbe\"."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Četvrtak je četvrti dan u tjednu, koji se nalazi između srijede i petka.\nPo nekim konvencijama, četvrtci u godini određuju brojanje sedmica: prva sedmica se definira kao sedmica koja sadrži prvi četvrtak u godini, itd.\nU Ujedinjenom Kraljevstvu, svi generalni izbori od 1935. godine su održani na četvrtak i to je postala tradicija, mada ne zakonska obaveza. Objašnjenje koje se ponekad daje za činjenicu da je četvrtak dan za izbore je to da je on bio, u većini gradova, tradicionalni tržni dan, mada se također zna da izbor ima praktične prednosti - rezultati izbora se znaju u petak, tako da nova ili postojeća administracija ima vikend da se organizira u pripremi za vladu za ponedjeljak, prvi dan novog tjedna poslije izbora.\nU Hindu religiji, četvrtak je dan Gurua ili guruvar."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Petak je peti dan u tjednu, koji se nalazi između četvrtka i subote.\nU većini zemalja s petodnevnom radnim tjednom, petak je posljednji radni dan prije vikenda, dana za odmor, što je u SAD-u dovelo do izraza TGIF - \"Hvala Bogu, petak je\". Petak je i inspiracija za istoimeni lanac restorana. U nekim kancelarijama, radnicima je dopušteno da nose manje formalnu odjeću petkom, što je poznato kao Casual Friday.\n⁕U romanu Robinson Crusoe, Petko je ime kanibala koga je spasio glavni lik na petak i koji mu je postao sluga.\n⁕Petak film s reperom Ice Cubeom kao glavnim glumcem.\nU Islamu, petak je dan javnog obožavanja u džamijama. U nekim islamskim zemljama, tjedan počinje nedjeljom, a završava se subotom, baš kao i židovski i kršćanski tjedan. U ostalim zemljama, kao što su Iran i Afganistan, tjedan počinje subotom a završava se petkom.\nŽidovski sabat počinje zalaskom sunca u petak i traje do zalaska sunca u subotu.\nU Kršćanstvu, petak prije Uskrsa se slavi kao Veliki petak u spomen na Isusovo raspeće na križu. Neki kršćani ne jedu meso petkom, i često jedu ribu.\nU nekim kulturama, petak se smatra nesretnim danom pogotovo ako je petak trinaesti, gdje je 13 nesretan broj."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Subota je u Hrvatskoj šesti dan u tjednu, koji se nalazi između petka i nedjelje, računajući prema izmijenjenom europskom kalendaru koji se značajnije počeo uvoditi nakon 1962. i utjecao na ISO 8601 standard. Povijesno gledajući, subota je sedmi dan i u Europi, što se može vidjeti iz starih kalendara.\nPo tradiciji izvedenoj od starih Židova i Rimljana, subota je posljednji dan tjedna. Ta konvencija je ostao univerzalni standard u Sjedinjenim Državama, Kanadi, the Velikoj Britaniji, i dijelovima Afrike, ali u modernoj Europi mnogi ljudi smatraju subotu šestim danom tjedna, dok je nedjelja posljednji. Moderna europska konvencija je formulirana od strane ISO 8601 standarda. S druge strane, u mnogim islamskim državama subota je prvi dan tjedna, gdje je petak praznik.\nU staroj židovskoj tradiciji, subota je šabat. Mnogi jezici nemaju različite riječi za \"subotu\" i \"sabat\", što na hebrejskom znači \"dan odmora\""
+    },
+    {
+        "id": "0f6ld",
+        "description": "Nedjelja je na europskom kontinentu posljednji dan u tjednu, drugi dan vikenda, koji se nalazi između subote i ponedjeljka, a povijesno je prvi dan u tjednu, što se može vidjeti i na svim kalendarima izdanim prije 1962. Smatra se praznikom u zemljama s kršćanskom tradicijom, kada kršćani najčešće posjećuju crkvu. Glagol dělati u praslavenskom jeziku znači raditi.\nU Gregorijanskom kalendaru, ni jedno stoljeće ne može započeti nedjeljom. U židovskom kalendaru, ni jedna godina ne može započeti nedjeljom. Bilo koji mjesec koji započinje nedjeljom imat će petak trinaesti.\nU mnogim državama, uključujući veći dio Europe i Južne Amerike, nedjelja je posljednji dan tjedna. U ostalim zemljama, uključujući Sjedinjene Države, smatra se za prvi dan, tradicionalni pogled izveden od starih Židova, Egipćana i Svetog Rimskog Carstva.\nNedjelja se smatra svetom među većim dijelom kršćana i često dan odmora i odlaska u crkvu. U četvrtoj Božjoj zapovijedi iz Biblije, prema kojoj se ravnaju Židovi i Adventisti sedmog dana, piše da se treba svetkovati sedmi dan tjedna koji je Bog odredio danom odmora, Sabat. Prema Novom zajvetu kršćani se sastaju prvi dan u tjednu u spomen na Isusova uskrsnuća. Rimski car Konstantin I. Veliki je nedugo nakon obraćanja na kršćanstvo Konstantinovim ediktom uveo venerabili die Solis kao obvezni dan za svetkovanje. Taj dan su slavili i štovatelji boga Nepobjedivog Sunca i Mitre."
+    },
+    {
+        "id": "06m_p",
+        "description": "Sunce je zvijezda u centru našeg Sunčevog sustava. Ona je gotovo savršena kugla i sastoji se od plinovite vruće plazme, koja je isprepletena sa magnetskim poljima. Promjer mu je oko 1 392 000 km, što je za 109 puta više od Zemlje i masu oko 2×10^30 kilograma, što je za 330 000 puta više od Zemlje, a to je 99,86 % mase cijelog Sunčevog sustava. Kemijski, ¾ ima vodika, dok je ostatak skoro sve helij, a manje od 2 % se sastoji od težih elemenata kao kisik, ugljik, neon, željezo i drugi.\nPrema spektralnoj klasi, Sunce spada u klasu G2V ili možemo ga zvati žuti patuljak, zato što je vidljiva svjetlost najizraženija u žuto-zelenom dijelu spektra, iako je sveukupno svjetlost sa Sunca bijela, zbog raspršenja svjetlosti u Zemljinoj atmosferi izgleda žuto na plavoj podlozi neba. Spektralna oznaka G2 pokazuje površinsku temperaturu, koja iznosi 5778 K, dok oznaka V pokazuje da je Sunce, kao i većina drugih zvijezda, u glavnom nizu i da stvara energiju sa nuklearnom fuzijom, pretvarajući vodik u helij. U jezgri Sunca, svake sekunde izgori 4 300 000 000 kg vodika, pretvarajući se u helij. Iako su nekad astronomi smatrali da je Sunce mala i beznačajna zvijezda, ispostavilo se da je Sunce svijetlije od 85 % zvijezda u Mliječnom putu, a većina zvijezda spada u crvene patuljke. Apsolutna magnituda je +4,83, ali budući nam je Sunce puno bliže od ostalih zvijezdi, vidimo ga kao najsjajnije nebesko tijelo sa prividnom magnitudom -26,74. Vanjski dio Sunčeve atmosfere, koji zovemo korona, stalno ispušta dio plazme u svemir, u obliku Sunčevog vjetra, kao struja električki nabijenih čestica, koja se širi do otprilike 100 astronomskih jedinica. Balon međuzvjezdane materije koju stvara Sunčev vjetar, naziva se heliosfera, najveća je neprekidna struktura u Sunčevom sustavu. Osim Zemlje i drugih planeta, oko Sunca kruže i asteroidi, kometi, meteoroidi, trans-neptunski objekti u Kuiperovom pojasu i čestice prašine."
+    },
+    {
+        "id": "09cy8",
+        "description": "Merkur je planet najbliži Suncu. Po uzoru na stara češka imena planeta, kajkavci su jedno vrijeme upotrebljavali ime Dobropas.\n\nNajmanji je planet i udaljen od njega prosječno 0,387 AU ili 57,910.000 km. Kreće se vrlo eliptičnom orbitom, pa se udaljenost od Sunca mijenja između 46 i 70 milijuna km. Promjer Merkura je 4.880 km, a masa 3,30×10^23 kg. Prva letjelica koja se približila Merkuru bio je Mariner 10 koji je tijekom tri susreta snimio oko 45% površine. 3.kolovoza 2004. prema Merkuru je lansirana letjelica MESSENGER koja će provoditi detaljna istraživanja ovog planeta. Zbog blizine Sunca, rijetko je u povoljnom položaju za promatranje, a i tada je vidljiv iznad horizonta samo kratko vrijeme prije izlaska ili nakon zalaska Sunca. Merkur nema prirodnih satelita.\nMerkur je bio rimski bog trgovine i putovanja, glasnik bogova. Stari su mu Grci nadjenuli čak tri imena: opće ime Stilbon, Apolon za jutarnju pojavu, te večernje ime Hermes, prema bogu medicine, magije, trgovine, lopova, govornika i okultnoga."
+    },
+    {
+        "id": "09bcm",
+        "description": "Venera je drugi po udaljenosti planet od Sunca. Također je i najužareniji. Venera je udaljena 0,72 AU ili 108.200.000 km od Sunca, ima promjer 12.103,60 km i masu 4,869×10^24 kg. Venera je treće tijelo po sjajnosti na nebu, poslije Sunca i Mjeseca.\nVenera je dobila ime prema Veneri, rimskoj božici ljepote. Stari Grci su je zvali Afrodita, te Eosphorus za jutarnju pojavu i Hesperus za večernju. U našim krajevima poznata je i pod imenom zvijezda Danica ili jutarnja zvijezda, jer je vidljiva prije izlaska Sunca na istočnom nebu i odmah nakon zalaska Sunca na zapadnom nebu, a kad je u najsjajnijoj fazi može se vidjeti i preko dana."
+    },
+    {
+        "id": "02j71",
+        "description": "Zemlja je planet na kojem živi čovjek i jedini nama poznati planet na kojem postoji život. Ona je treći planet po udaljenosti od Sunca i najveći terestrički planet u Sunčevu sustavu. Planet Zemlja ima jedan prirodni satelit, Mjesec. Smatra se da je Zemlja nastala prije otprilike 4,6 milijardi godina."
+    },
+    {
+        "id": "09cws",
+        "description": "Mars je četvrti po redu planet od Sunca.\nPo uzoru na stara češka imena planeta, kajkavci su jedno vrijeme upotrebljavali imena Bogovoj, Smrtonos i Ognjenica.\nMars je udaljen 1,52 AU ili 227.9 milijuna km od Sunca, ima promjer 6.792 km i masu 6,4219 × 10²³ kg. Oko Marsa kruže dva mala prirodna satelita: Fobos i Deimos. Fobos ima promjer 11 km i masu 1,08x1016 kg, dok Deimos ima promjer 6 km i masu 1,80x1015 kg. Orbite u kojima kruže oko Marsa također su različiti. Fobos kruži na oko 9.000 km od središta Marsa, dok Deimos kruži na oko 23.000 km.\nMars je u mitologiji bio rimski bog rata. Grčko ime za Mars je Ares, pa za pojmove vezane uz Mars koristimo prefiks areo- umjesto geo-, npr. umjesto zemljopisna širina koristimo pojam areografska širina."
+    },
+    {
+        "id": "09q84",
+        "description": "Jupiter je peti planet od Sunca i najveći planet u Sunčevu sustavu. Jupiter je udaljen 5,2 AJ ili 778.330.000 km od Sunca, ima promjer 142.984 km i masu 1,900e27 kg. Do sada su pronađena 63 prirodna satelita koji kruže oko Jupitera, a otkriveni su i planetarni prsteni.\nJupiter je četvrto najsjajnije nebesko tijelo, nakon Sunca, Mjeseca i Venere. Jupiter ima 2,5 puta veću masu od ukupne mase ostalih sedam planeta u Sunčevom sustavu.\nJupiter je dobio ime po vrhovnom bogu starih Rimljana, kojeg su Grci zvali Zeus. Vidi Jupiter.\nPo uzoru na stara češka imena planeta, kajkavci su jedno vrijeme upotrebljavali ime Kraljomoć."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Saturn je šesti planet u Sunčevu sustavu. Udaljen je 9,54 AJ odnosno 1 429 400 000 km od Sunca, promjera 120 536 km i masu 5,68 × 1026 kg. Saturn je po volumenu i masi drugi planet nakon Jupitera. Uz Jupiter, Uran i Neptun pripada skupini plinovitih divova, planeta vanjskog dijela Sunčevog sustava.\nNajpoznatije obilježje Saturna su planetarni prsteni koji ga okružuju u 7 pojaseva, označenih slovima A do G. Oko Saturna kruži i mnoštvo prirodnih satelita, kojih je do sada otkriveno 62.\nSaturn odbija oko 47% Sunčeve svjetlosti. Saturn se za prosječne opozicije vidi pod kutem od 20 lučnih minuta, a magnituda mu je u prosjeku 0,7. Saturn je jedan od najsvjetlijih objekata na nebu pa je zato i poznat od davnina. Mali teleskop je dovoljan da se ugledaju prsteni.\nSaturn je u rimskoj mitologiji otac vrhovnog boga Jupitera, dok je u grčkoj mitologiji poznat kao Kronos.\nPo uzoru na stara češka imena planeta, kajkavci su jedno vrijeme upotrebljavali ime Hladolet pored međunardonog imena Saturnuš."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Uran je sedmi planet u Sunčevu sustavu i treći po veličini. Uran je udaljen 19.218 AJ ili 2,870,990,000 km od Sunca. Ima promjer 51,118 km i masu 8.683 × 1025 kg. U orbiti oko Urana do sada je otkriveno 27 prirodnih satelita i 11 planetarnih prstenova.\nUran odbija oko 51% sunčeva svjetla. Za prosječne opozicije vidi se pod kutem od 4 lučne sekunde, a magnituda mu je oko 5.3. Budući da naše oko može vidjeti objekte svjetlije od magnitude 6.5, Uran se može vidjeti i golim okom, ali ga je teško razaznati od okolnih zvijezda. Mali teleskop je dovoljan da se iz točke pretvori u mali plavo-zeleni disk.\nUran je u grčkoj mitologiji bog neba i otac Titana."
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptun, osmi i od Sunca najudaljeniji planet Sunčevog sustava. Nazvan po rimskom bogu mora, četvrti je najveći planet po promjeru i treći po masi koja je sedmanaest puta veća od Zemljine. Oko Sunca orbitira na prosječnoj udaljenosti od 30,1 AJ. Astronomski simbol mu je ♆, stilizirana inačica trozuba boga Neptuna.\nOtkriven 23. rujna 1846., Neptun je prvi planet pronađen matematičkim izračunima, a ne empirijskim promatranjima. Nepredvidljive promjene u orbiti Urana uvjerile su francuskog astronoma Alexisa Bouvarda da mu na orbitu utječe gravitacija nepoznatog planeta. Neptun je u konačnici uočio Johann Galle unutar stupnja od lokacije koju je predividio Urbain Le Verrier. Uskoro je otkriven i njegov najveći prirodni satelit, Triton, dok je preostalih dvanaest otkrivano pomoću teleskopa sve do 20. stoljeća. Neptun je posjetila samo jedna svemirska sonda, Voyager 2, koji je pokraj planeta preletio 25. kolovoza 1989.\nSastav Neptuna sličan je Uranovom sa zajedničkom osobinom da se razlikuju od plinovitih divova Jupitera i Saturna. Neptunova atmosfera, iako slična plinovitim divovima, uz vodik i helij sadrži veće količine \"ledova\" poput vode, amonijaka i metana. Da bi naglasili njihove glavne karateristike, astronomi Neptun i Uran ponekad nazivaju \"ledenim divovima.\" Unutrašnjost planeta uglavnom je sastavljena od stijena i leda. Plava pojava planeta rezultat je metana u atmosferi."
+    },
+    {
+        "id": "0jwy",
+        "description": "Ovan je jedno od 12 zviježđa zodijaka, pozicionirano između Riba na zapadu i Bika na istoku."
+    },
+    {
+        "id": "07cqw",
+        "description": "Bik jedno je od zviježđa zodijaka. Jedna od najvećih konstelacija sjeverne polutke vidljiva za vrijeme zime, pozicionirana između Ovna i Blizanaca na istoku, Perzeja i Kočijaša na sjeveru, Oriona na jugoistoku i Eridana i Kita na jugozapadu.\nAldebaran je najsjajnija zvijezda s prividnim sjajem od + 0.85 magnitude. Zvijezda je narančasti narančasti poddiv, tj zvijezda koja se tek maknula s glavnog niza. Aldebaran se nalazi oko 65 ly od nas.\nIza Aldebarana se nalaze Hijade, najbliži uočljivi otvoreni skup. Zvijezde su poredane u oblik slova \"V\" i čine bikovu glavu.\nZviježđe bika najpoznatije je otvorenom skupu Plejade ili Vlašići. To je mladi otvoreni skup, udaljen tek 450 ly od nas. Golim okom je moguće vidjeti 7 najsjajnijih zvijezda u njemu koje često nose naziv i Sedam sestara. Skup je predivan prizor u dvogledu ili manjem teleskopu.\nMaglica Rakovica, objekt vidljiv samo u teleskopu, je ostatak supernove. Rakovica se nalazi sjeverozapadno od zvijezde ζ Bika. Eksplozija supernove dogodila se 4. srpnja 1054. godine i bila je dovoljno sjajna da se vidi po danu puna tri tjedna. Supernova je golim okom bila vidljiva 653 dana."
+    },
+    {
+        "id": "077r8d",
+        "description": "Blizanci je jedno od zviježđa zodijaka. Konstelacija sjeverne polutke vidljiva za vrijeme zime, pozicionirana između Bika, Raka, Kočijaša, Risa, Jednoroga i Malog Psa.\nNajpoznatiji objekt je otvoreni skup M35. Pokraj njega se nalazi tamniji i udaljeniji otvoreni skup NGC 2158. Zviježđe sadrži i nekoliko planetarnih maglice od kojih se ističu Maglica Eskim. Zbog specifičnog oblika plinske ovojnice, maglica u teleskopu izgleda kao glava Eskima s parkom. U središtu zviježđa nalazi se tamnija planetarna maglica, NGC 2371. Maglice je specifična po tome što je podjeljena na dva dijela.\nU Blizancima nalazi se i pulsar Geminga. Geminga je nama najbliži pulsar, udaljen samo 552 ly. Pulsar je nastao u eksploziji supernove prije otprilike 300,000 godina.\n⁕Kastor - šesterostruka zvijezda, magnitude + 1.58, udaljena oko 49.8 ly\n⁕Poluks - narančasti div, magnitude + 1.15, udaljena oko 33.7 ly\n⁕Alhena - magnitude + 1.93, udaljena oko 105 ly\n⁕μ Blizanaca - magnitude + 2.87, udaljena oko 232 ly\n⁕η Blizanaca - dvostruka zvijezda, magnitude + 3.15, udaljena oko 350 ly, pratioc ima sjaj od + 8.80 magnituda\nNajsvjetlije zvijezde ovoga zviježđa zovu se Kastor i Poluks, po istoimenim božanskim blizancima iz grčke mitologije. Nazivani su još i Dioskuri, a bili su sinovi boga Zeusa i Lede, te braća Helene i Klitemnestre. Rimska mitologija odaje mnogo veće poštovanje Kastoru. Latinsko Polideukovo ime glasi Poluks. Njihov se dan slavio 15. srpnja, a hram im je stajao na rimskom forumu. Drevni ih izvori vežu i uz jutarnju i večernju zvijezdu."
+    },
+    {
+        "id": "0qck6",
+        "description": "Rak jedno je od zviježđa zodijaka, pozicionirano između Lava na istoku, Blizanaca na zapadu, Risa na sjeveru i Malog psa te Vodene zmije na jugu."
+    },
+    {
+        "id": "04h2q",
+        "description": "Lav jedno je od zviježđa zodijaka. Konstelacija sjeverne polutke pozicionirana između Raka i Djevice.\n\n Nedovršeni članak Lav (zviježđe) koji govori o zviježđu treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "07yt9",
+        "description": "Djevica je jedno od zviježđa zodijaka. Jedna od najvećih konstelacija na nebu, pozicionirana između Lava i Vage.\n\n Nedovršeni članak Djevica (zviježđe) koji govori o zviježđu treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "04h36",
+        "description": "Vaga jedno je od zviježđa zodijaka, pozicionirano između Djevice i Škorpiona."
+    },
+    {
+        "id": "06pgz",
+        "description": "Škorpion, jedno je od zviježđa zodijaka, pozicionirano između Vage na zapadu i Strijelca na istoku. Velika konstelacija južne polutke, blizu središta Mliječne staze.\nŠkorpion sadrži mnoge sjajne zvijezde:\n⁕Antares, crveni div prividnog sjaja + 1.0 magnitude, udaljen 650 ly i 11,000 puta sjajniji od Sunca\n⁕Graffias, dvostruka zvijezda s komponentama sjaja + 2.6 i + 4.9 magnituda, udaljena 530 ly\n⁕Duschubba, prividnog sjaja od + 2.3 magnitude, udaljena 400 ly\n⁕Sargas, treća zvijezda po sjajnosti u Škorpionu, udaljena 270 ly i prividnog sjaja od + 1.9 magnituda\n⁕Shaula, druga zvijezda po sjajnosti, ima prividni sjaj od + 1.6 magnituda. Shaula je plavi div udaljen oko 700 ly.\nOstale značajnije zvijezde su ν Škorpiona, ξ Škorpiona, π Škorpiona, σ Škorpiona, τ Škorpiona i υ Škorpiona.\nZbog blizine središta Mliječne Staze, zviježđe je bogato galaktičkim objektima. Posebno se ističu otvoreni skupovi M6 i M7, i kuglasti skupovi M4, kraj Antaresa i M80. Na južnom rubu zviježđa, kraj zvijezde ζ² Škorpiona, nalazi se otvoreni skup NGC 6231.\nŠkorpion, od svih zviježđa, najviše podsjeća na životinju u svom nazivu. Prema grčkoj mitologiji, zviježđe odgovara škorpionu koje je poslala božica Hera da ubije lovca Oriona. Iako se zviježđa Škorpion i Orion nalaze u istom mitu, oni su na nebu gotovo na nasuprotnim dijelovima nebeske sfere. Govori se da su ih bogovi tako smjestili radi izbjegavanja njihovog međusobnog kontakta."
+    },
+    {
+        "id": "01nk9",
+        "description": "Jarac je jedno od zviježđa zodijaka. Također je jedna od 88 modernih i 48 originalnih Ptolomejevih konstelacija. Jarac graniči s Orlom, Strijelcem, Mikroskopom, Južnom Ribom i Vodenjakom. Ponekad je poznato i pod imenom \"Morska koza\", jer dio neba na kojem se nalazi zove se More.\nJarac je najtamnije zviježđe u zodijaku poslije Raka. Najsjajnije zvijezde nalaze se u trokutu čije vrhove čine zvijezde α2 Jarca, δ Jarca i ω Jarca.\nGiedi je dvostruka zvijezda s komponentama prividnog sjaja od + 4.5 i 3.8 magnituda. δ Jarca je promjenjiva pomračinska zvijezda prividnog sjaja od + 3.0 magnitude.\nZviježđe Jarac nije bogato objektima dubokog svemira. U njemu se nalazi nekoliko galaktika i zvjezdanih skupova. Među njima se ističe M30, kuglasti skup oko 1° južno od galaktike NGC 7103. Na jugozapadnom rubu zviježđa nalazi se NGC 6907, prečkasta spiralna galaksija."
+    },
+    {
+        "id": "0jxf",
+        "description": "Vodenjak je jedno od zviježđa zodijaka, pozicionirano između Jarca i Riba. Jedna od najstarijih poznatih konstelacija."
+    },
+    {
+        "id": "05s7n",
+        "description": "Ribe je jedno od zviježđa zodijaka. Konstelacija sjeverne polutke pozicionirana između Vodenjaka i Ovna."
+    },
+    {
+        "id": "02vx4",
+        "description": "Nogomet je ekipni sport koji se igra između dvije ekipe sastavljenih od jedanaest igrača ili igračica. Nogomet je trenutačno najpopularniji sport na svijetu. Igra se nogometnom loptom na pravokutnom igralištu s travnatom ili umjetnom površinom. Golovi su smješteni nasuprot jedan drugome na kraju igrališta. Cilj je igre ubaciti loptu u protivnički gol manevrirajući loptom bilo kojim dijelom tijela osim rukom. Jedino vratar može u ograničenom području igrati rukom. Pobjednik utakmice je ekipa koja na kraju utakmice zabije više pogodaka.\nSuvremena nogometna igra razvila se u Engleskoj poslije stvaranja prvog nogometnog saveza davne 1863. godine. Prva pravila datiraju iz iste godine, a s manjim promjenama održala su se i do danas. Najviše je nogometno tijelo FIFA. FIFA organizira Svjetsko prvenstvo u nogometu, najprestižnije natjecanje u nogometu, a možda i najpopularnije sportsko natjecanje uopće."
+    },
+    {
+        "id": "0jm_",
+        "description": "Američki nogomet je natjecateljski timski šport izrazito popularan u SAD-u. Cilj igre je prenijeti loptu prema završnoj zoni protivničkog tima i tako osvojiti bodove. Lopta se prenosi tako što se nosi uza sebe, ili bacanjem i dodavanjem od jednog do drugog člana vlastitog tima. Bodovi se mogu osvojiti na različite načine, uključujući prenošenje lopte preko gol-linije, bacanjem lopte igraču koji je prešao gol-liniju ili šutiranjem kroz vratnice gola. Pobjednik je tim koji ima najviše bodova nakon isteka vremena.\nAmerički nogomet se razvio od ragbija u SAD krajem 19. stoljeća. U susjednoj Kanadi se u isto vrijeme razvio i kanadski football koji se u nekim pravilima razlikuje od američkog.\nIako je prva profesionalna utakmica američkog nogometa odigrana još 1895. godine, taj je šport tek sredinom 20. stoljeća počeo stjecati svoju današnju popularnost. 1960-ih je po broju gledatelja uspio premašiti dotada najpopularniji šport, Baseball.\nAmerički nogomet je prilično zahtjevan šport, koji pred igrače stavlja velike fizičke napore. Također je poznat kao prilično nasilan šport, iako su desetljećima uvođena pravila s ciljem da se ograniči mogućnost ozljeda. Zbog toga su igrači opremljeni i sa zaštitnom opremom koja ih štiti od ozbiljnijih povreda."
+    },
+    {
+        "id": "018w8",
+        "description": "Košarka je sport u kojem dvije momčadi sastavljene od pet igrača pokušavaju ostvariti što više bodova ubacivanjem lopte kroz obruč koša pod organiziranim pravilima. Kada se to dogodi govori se o košu.\nDo bodova se dolazi ubacivanjem lopte kroz obruč koša pod uvjetom da je lopta kroz obruč prošla odozgo. Momčad koja na kraju utakmice ostvari više bodova pobjednik je. Koš zabijen unutar luka vrijedi 2 boda, iza luka vrijedi 3, a slobodno bacanje vrijedi 1 bod. Loptom se upravlja njenim odbacivanjem od podloge ili međusobnim dodavanjem između suigrača. Tjelesni kontakt koji ometa igrača u igri nije dozvoljen. Postoje strogo određena pravila i načini na koje se lopta smije voditi.\nTijekom vremena košarka je razvila uobičajene tehnike pucanja, dodavanja i dribilinga, kao i pozicije igrača i napadački i obrambeni mehanizam. Dok se uobičajena natjecateljska košarka odvija pod strogim i točno određenim pravilima, razne vrste košarke učinile su košarku bližu igračima i s manjim brojem pravila. Košarka je jedan od najgledanijih sportova na svijetu.\nDok je natjecateljska košarka isključivo dvoranski sport koji se odvija na terenu za košarku, manje regulirane vrste košarke mogu se igrati i kao vanjski sport na podlogama različitim od parketa, koji je standard za natjecateljsku košarku."
+    },
+    {
+        "id": "018jz",
+        "description": "Bejzbol je momčadski sport u kojem se loptica udara palicom. Osnovni cilj igre momčadi u napadu je udariti bačenu lopticu na način da prije nego li protivnička obrana lopticu uhvati igrači napada 'osvoje' neku od četiri označene baze. Postoji i podvarijanta bejzbola koja se igra na manjem terenu i s nešto većom loptom koja se naziva softbol, a primjerenija je natjecanjima žena i mlađih dobnih kategorija.\nBejzbol je standardni sport na Olimpijskim igrama od Igara u Barceloni 1992. godine."
+    },
+    {
+        "id": "07bs0",
+        "description": "Tenis je sportska igra u kojoj se pomoću reketa i loptice dva ili četiri igrača nadmeću na označenom terenu. Osim što je vrlo raširen vid rekreacije tenis je i popularan sport, koji je standardno i u programu Olimpijskih igara."
+    },
+    {
+        "id": "01cgz",
+        "description": "Boks je borilački sport u kojem se protivnici slične tjelesne težine udaraju šakama na kojima su podstavljene rukavice. Borba se odvija u ograđenom pravokutnom ringu, u 3 do 15 rundi od po tri minute borbe. Cilj borbe je protivniku uputiti što više udaraca u dijelove tijela iznad pojasa te pri tome izbjeći protivnikove udarce. Može se pobijediti nokautom, tj. kada se protivnik nakon što je bačen na tlo ne uspije ustati u tijeku deset sekundi, tehničkim nokautom, tj. kada jedan borac nema snage nastaviti borbu, ili se pak pobjednik određuje odlukom sudaca poslije dogovorenog broja rundi.\nZbog činjenice da u boksu nije dozvoljeno protivnika udarati dok je na podu, te da postoje stroga pravila u koji dio tijela i na koji način se smije udarati protivnika, boks se često naziva i 'plemenitom vještinom'."
+    },
+    {
+        "id": "03tmr",
+        "description": "Hokej na ledu jedan je od najdinamičnijih zimskih športova. Hokej je ekipni šport koji se igra na umjetnim ili prirodnim ledenim površinama, a najpopularniji je u zemljama s dugim, hladnim zimama. Iznimno je popularan u Češkoj, Finskoj, Kanadi, Rusiji, Slovačkoj, Švedskoj i Sjedinjenim Američkim Državama. Krovna organizacija hokeja na ledu IIHF ima 64 članice, a lige spomenutih zemalja smatraju se najjačima. Na Zimskim je Olimpijskim igrama hokej prisutan od 1924. godine. Najjača je profesionalna liga sjevernoamerička NHL u kojoj se natječe 30 klubova, od čega 23 iz SAD-a, te 7 kanadskih."
+    },
+    {
+        "id": "07_53",
+        "description": "Odbojka je sport s loptom u kojem se dvije suparničke momčadi natječu na terenu s razapetom mrežom na sredini. Cilj igre je prebaciti loptu preko mreže u protivničko polje na način da je protivnik ne uspije održati u zraku i vratiti natrag preko mreže na dozvoljen način prije nego li padne na teren."
+    },
+    {
+        "id": "037hz",
+        "description": "Golf je igra u kojoj igrač nastoji lopticu sa što manje udaraca ubaciti u rupu, u skladu s pravilima."
+    },
+    {
+        "id": "01sgl",
+        "description": "Biciklizam je način kretanja kopnom korištenjem bicikla, prijevoznog sredstva na ljudski pogon. Iako prvotno nastao u 19. stoljeću u Europi kao način bržeg i lakšeg transporta ljudi, danas je osim načina prijevoza i vrlo rašireni sport te vid rekreacije."
+    },
+    {
+        "id": "03_8r",
+        "description": "Judo je borilačka vještina i olimpijski sport nastao kao skup probranih tehnika iz JuJutsua. JuJutsu je u to vrijeme u Japanu bilo zajedničko ime za sve borilačke vještine. Tada je osnivač Juda - Jigoro Kano, koji je savladao nekoliko stilova JuJutsua, odlučio uzeti ono najbolje od svakog stila i odbaciti nepotrebno."
+    },
+    {
+        "id": "0d38m",
+        "description": "Maraton je najduža trkačka atletska disciplina. Maratonska utrka se standardno izvodi na dionici od 42,195 km. Općenito se maraton smatra najtežom atletskom disciplinom ali i jednom od najtežih sportskih disciplina uopće."
+    },
+    {
+        "id": "0194d",
+        "description": "Badminton je sport koji se igra reketom, a u kojem se susreću ili dva pojedinca ili dva para. Igrači igraju na svojoj strani pravokutnog terena podijeljenog mrežom po sredini. Igrači reketom udaraju badmintonsku lopticu tako da pređe mrežu i padne u suprotnu polovicu terena, a s ciljem da je protivnik ne uspije vratiti. Loptica se smije udariti samo jednom prije nego što se uputi preko mreže. Poen počinje servisom jedne od strana, a završava kad loptica dodirne tlo.\nBadminton je natjecateljski sport, ujedno i standardni olimpijski sport, koji se igra u pet kategorija: pojedinačno žene i muškarci, ženski i muški parovi, te mješoviti parovi.\nBadminton je također vrlo raširen vid rekreacije, pogodan i za igru u prirodi, bez mreže ili pravila, zbog čega se često od neupućenih ne doživljava kao ozbiljan sport, dok je to doista tehnički zahtjevan sport koji od natjecatelja uz vještinu traži i izdržljivost, snagu i brzinu."
+    },
+    {
+        "id": "07jbh",
+        "description": "Stolni tenis je šport u kome se natječu dva igrača koji lopticu udaraju reketom na stolu za stolni tenis.\nDimenzije stola su 2,74 x 1,525 m, stol je visok 76 cm. Dvije polovice stola dijeli mrežica visoka 15,25 cm koja viri s obje strane stola za 15,25 cm.\nPo starim pravilima igralo se do 21, a svaki igrač je servirao za redom 5 puta. Danas se igra do 11 bodova, za redom se servira dva puta, pa je igra postala brža i zanimljivija.\nIgra se na tri ili četiri dobivena seta, do 11. Razlika mora biti dva boda, dakle 12:10, i tako dok se ne postignu dva boda razlike.\nPromjenama pravila je također loptica povećana s 38 na 40 mm i otežana - s 2,5 na 2,7 grama."
+    },
+    {
+        "id": "087zy",
+        "description": "Joga je sustav drevnih duhovnih i tjelesnih vježbi porijeklom iz Indije. Joga se sastoji od fizičkih vježbi, tj. asana i vježbi disanja pranayama, koja je nastala u Indiji gdje se smatra sredstvom k prosvjetljenju, tj. postizanjem jedinstva sa samim sobom i univerzumom Brahman. U sadašnje vrijeme, mnogi ljudi, naročito na zapadu vježbaju jogu iz različitih razloga; većina ljudi vježba radi fizičkog zdravlja, drugi radi razvijanja koncentracije, neki iz određenih filozofskih ubjeđenja, dok da bi postigli unutrašnji mir i ravnotežu. Joga vježbama se može postići mnogo ako se vježba redovito i uporno. Rezultati joge se razvijaju prirodno i postepeno. Smatra se da se jogom liječe ili ublažuju razne vrste bolesti i poremećaja, poput nesanice i astme.\nJoga kao sredstvo k prosvjetljenju je veoma bitna za hinduizam, budizam i džainizam, kao i mnoge druge religijske i duhovne prakse širom svijeta. Za hindusa je mokša veliki cilj. Joga sadrži osmerostruku metodu savladavanja: yama, niyama, asana, pranayama, pratyahara, dhyana, dharana i samadhi."
+    },
+    {
+        "id": "0397w",
+        "description": "Gimnastika je sport koji uključuje serije pokreta koji zahtijevaju fizičku snagu, pokretljivost i osjećaj za tijelo u prostoru. Razvijena je na tradiciji vojnih vježbi iz doba stare Grčke te dijelom na tradiciji cirkuskih predstava. Općenito se smatra opasnim sportom, jer teški akrobatski elementi često uključuju izvođenje različitih pokreta visoko iznad tla uz rizik ozljede vježbača ili vježbačice."
+    },
+    {
+        "id": "036vg6",
+        "description": "Hrvanje je borilačka vještina, ali i standardni olimpijski sport. Riječ je o borbi dva protivnika čiji je cilj protivnika savladati koristeći različite zahvate, ali su pri tome zabranjeni udarci bilo koje vrste. Hrvanje je jedan od najstarijih sportova uopće, prakticiran jos u doba stare Grčke, a u programu je modernih Olimpijskih igara od prvih dana do danas."
+    },
+    {
+        "id": "04xsv",
+        "description": "Borilačke vještine, eng. martial arts, je sustav tradicija i vježbi čija je izvorna namjena bila priprema tijela i uma za borbu. U svojoj modernoj formi koristi se za održavanje tjelesne spremnosti, meditiranje te izgrađivanje osobe. Mnoge kulture svijeta kroz povijest stvorile su svoje sisteme za prenašanje borilačkih vještina, no trenutno najpopularnije i najrašireniji sistemi borilačkih vještina su one koje potječu iz azijskih zemalja: i Filipini.\nNeki primjeri azijskih borilačkih vještina su:\n⁕aikido\n⁕jujutsu\n⁕karate\n⁕ninjutsu\n⁕kempo\n⁕kung fu\n⁕Tai Chi Chuan\n⁕kendo\n⁕taekwondo\n⁕arnis\/eskrima\/kali\n⁕džudo\n⁕kyokushin\nSve azijske borilačke vještine vuku korijene iz davne Indije kada je to bila vještina koje je služila primarno kao način ujedinjenja uma i tijela odnosno buđenja i usklađenja unutrašnje energije svakog čovjeka. Ta je pradavna vještina u svojoj osnovi meditacija u pokretu. Kroz povijest neke borilačke vještine su izbacile duhovni aspekt i počele su se prakticirati kao sport, pa se tako danas održavaju turniri iz Karatea, Tae Kwon Do-a itd.\nIz Indije borilačko umijeće širi se ostatkom Azije, te naposljetku dolazi do Kine, Koreje i Japana, gdje postaje način života. Iz tih zemalja \"izvozi\" se na zapad u 19. stoljeću. U Europi borilačke vještine najbolje su bile razvijene u Grčkoj i Rimu, odakle i potječe do danas preživjela vještina grčko-rimskog stila hrvanja."
+    },
+    {
+        "id": "03_ly",
+        "description": "Siječanj prvi je mjesec godine po gregorijanskom kalendaru. Ima 31 dan."
+    },
+    {
+        "id": "02xx5",
+        "description": "Veljača drugi je mjesec godine po gregorijanskom kalendaru. Obično veljača ima 28 dana, ali u prijestupnim godinama 29.\nRijetko kada je bilo i 30. veljače."
+    },
+    {
+        "id": "04wzr",
+        "description": "Ožujak treći je mjesec godine po gregorijanskom kalendaru.Ima 31 dan."
+    },
+    {
+        "id": "0lkm",
+        "description": "Travanj četvrti je mjesec godine po gregorijanskom kalendaru. On ima 30 dana."
+    },
+    {
+        "id": "04w_7",
+        "description": "Svibanj peti je mjesec godine po gregorijanskom kalendaru. On ima 31 dan."
+    },
+    {
+        "id": "040fb",
+        "description": "Lipanj šesti je mjesec godine po gregorijanskom kalendaru. Ima 30 dana."
+    },
+    {
+        "id": "040fv",
+        "description": "Srpanj sedmi je mjesec godine po gregorijanskom kalendaru. Ima 31 dan."
+    },
+    {
+        "id": "0ll3",
+        "description": "Kolovoz osmi je mjesec godine po gregorijanskom kalendaru. Ima 31 dan."
+    },
+    {
+        "id": "06vkl",
+        "description": "Rujan deveti je mjesec godine po gregorijanskom kalendaru. Ima 30 dana."
+    },
+    {
+        "id": "05lf_",
+        "description": "Listopad deseti je mjesec godine po gregorijanskom kalendaru. On ima 31 dan.\nU slavenskim je jezicima listopad dobio ime po tome što u tom mjesecu najviše opada lišće biljaka. U slovenskom, poljskom, ukrajinskom, bjeloruskom i češkom jeziku listopad je izvorno ime za hrvatski mjesec studeni. Stari hrvatski nazivi za listopad u nekim su krajevima bili: Miholjščak, kožaprst i desetnik.\nLatinsko ime mjeseca October dolazi od riječi “octo“ u Rimskom kalendaru."
+    },
+    {
+        "id": "05cw8",
+        "description": "Studeni jedanaesti je mjesec godine po gregorijanskom kalendaru. On ima 30 dana."
+    },
+    {
+        "id": "028kb",
+        "description": "Prosinac dvanaesti je i zadnji mjesec godine po gregorijanskom kalendaru. Ima 31 dan."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Sjever je jedna od četiri strane svijeta, i to ona koja označuje osnovnu stranu svijeta: sjever se upotrebljava na taj način da se položaj i smjer ostalih strana svijeta odnosi \"kao prema sjeveru\". Vidljivi gornji dio ruba karte uvijek se podrazumijeva da je sjever."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Jug je jedna od četiri glavne strane svijeta. Položaj juga u odnosu na sjever, koji se smatra osnovnom stranom svijeta je 180 stupnjeva ili 6 sati. Gledano prema jugu, zapad je 90 stupnjeva desno a istok 90 stupnjeva lijevo. Položaj juga na zemljopisnim mapama je na dnu mape ukoliko nije drugačije naznačeno."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Zapad je strana svijeta nasuprot istoku. Ako se gleda sa Zemlje, čini se da na njemu Sunce zalazi.\nZapad se također koristi kao sinonim za razvijene zemlje na zapadnoj polutci. Nerijetko se tu ubraja i Australija, iako je na istočnoj polutci.\n\n Nedovršeni članak Zapad koji govori o zemljopisu treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Istok je strana svijeta nasuprot zapadu. Ako se gleda sa Zemlje, čini se da na njemu Sunce izlazi, što znači da se Zemlja rotira prema istoku.\nNa kompasu se istok označava slovom E, od engleskog east.\nEuropljani pod pojmom \"istok\" ili \"Orijent\" obično smatraju azijske države, pa tako imamo Bliski istok, Srednji istok, Daleki istok itd.\n\n Nedovršeni članak Istok koji govori o zemljopisu treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "0j0k",
+        "description": "Azija je najveći i najmnogoljudniji kontinent na Zemlji.\nOna graniči s Europom na zapadu i Afrikom na jugozapadu. Australija se nalazi južno a Amerika istočno od Azije i nemaju kopnenu granicu s njom."
+    },
+    {
+        "id": "059g4",
+        "description": "Sjeverna Amerika - kontinent na sjevernoj polutci, površine 24,230.000 četvornih kilometara."
+    },
+    {
+        "id": "06n3y",
+        "description": "Južna Amerika je kontinent koji se nalazi na južnoj polutci Zemlje. Južna Amerika je okružena Tihim oceanom, Atlanskim oceanom i Sjevernom Amerikom. Južna Amerika je povezana sa Sjevernom Panamskim kanalom. Površina joj iznosi 17.938.000 km², a broji 385.742.554 stanovnika, s prosječnom gustoćom stanovništva 21,4 stanovnika po km².\nAmerika je dobila ime 1507.g. kada su je kartografi Martin Waldseemüller i Matthias Ringmann nazvali prema Amerigu Vespucciju, prvom europljaninu koji je pretpostavio da novo otkrivene zemlje nisu Indija nego potpuno novi svijet."
+    },
+    {
+        "id": "02j9z",
+        "description": "Europa je kontinent čije granice određuju Atlantski ocean na zapadu, Sjeverno ledeno more na sjeveru, gorje Ural na istoku, Kaspijsko jezero, Kavkaz i Crno more na jugoistoku, te Sredozemno more na jugu. Proteže se od 9° 30' zapadne zemljopisne dužine do 68° 5' istočne zemljopisne dužine i od 71° 11' sjeverne zemljopisne širine. do 36° sjeverne zemljopisne širine.\nEuropu neki nazivaju \"potkontinentom\", jer smatraju da zajedno s Azijom čini kontinent Euroaziju. Činjenica je da je Europa više kulturni nego zemljopisni pojam."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Afrika je drugi svjetski kontinent po veličini i broju stanovnika, nakon Azije.\nS površinom od oko 30,244,050 km² uključujući otočja, pokriva 6% ukupne Zemljine površine i pokriva 20.4% ukupnog kopnenog područja na Zemlji.\nS otprilike 1,022,234,000 stanovnika čini oko 15% ljudske populacije.\nKontinent je okružen Sredozemnim morem na sjeveru, Sueskim kanalom i Crvenim morem na sjeveroistoku, Indijskim oceanom na jugoistoku i Atlantskim oceanom na zapadu.\nU Africi postoji 46 država uključujući Madagaskar, odnosno 53 države uključujući sva otočja.\nAfrika, posebice središnja istočna Afrika, u znanstvenoj zajednici smatrana je zemljom porijekla čovjeka i porodičnog stabla Hominidae, što je dokazano otkrićem najranijih hominida i njihovih vjerojatnih predaka, kao i kasnijih čiji ostaci datiraju prije otprilike sedam milijuna godina - ukljućujući Sahelanthropus tchadensisa, Australopithecus africanusa, A. afarensisa, Homo erectusa, H. habilisa i H. ergastera - s najstarijim nalazištem Homo sapiensa u Etiopiji koji datira prije oko 200 000 godina.\nAfrika obuhvaća mnoge klimatske zone; to je jedini kontinent koji se proteže od sjevernog do južnog umjerenog pojasa."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antarktika je kontinent koji okružuje južni pol Zemlje. Jedini je ljudima nenaseljeni kontinent na Zemlji."
+    },
+    {
+        "id": "09pkq0",
+        "description": "Australija kao kontinent obuhvaća glavnu kopnenu masu, Australiju, otoke Tasmaniju i Novu Gvineju kao i okolne manje otoke. Često se australskom kontinentu pribrajaju i otočne države Tihog oceana, a iz političkih i kulturoloških razloga, naročito Novi Zeland. Ovako proširena regija iz kulturoloških razloga naziva se Oceanijom.\nRanije se glavna kopnena masa nazivala Novom Holandijom, a kontinent petim kontinentom."
+    },
+    {
+        "id": "05p553",
+        "description": "Komedija je filmski žanr u kojem naglasak stavljen na humor. Filmovi u ovom stilu imaju sretni završetak. Komedija je jedan od najstarijih filmskih žanrova: neki od prvih nijemih filmova bile su komedije. Za razliku od ostalih žanrova, komedija više stavlja naglasak na pojedine zvijezde pa su se mnoge zvijezde stand-up komedije okrenule filmu zbog svoje popularnosti. Iako su mnoge komedije filmovi s lakim temama kojima je jedina svrha zabaviti gledatelja, neke sadrže politički ili društveni komentar."
+    },
+    {
+        "id": "03npn",
+        "description": "Horror je naziv koji se danas koristi za žanr u fiktivnim djelima, a čiji autori nastoje izazvati strah, uznemirenje i nelagodu kod njihovih konzumenata. Kao najčešći izvor neugodnih osjećaja jest uvođenje nekog zlog - a ponekad neobjašnjivog i nerazumljivog - elementa natprirodnog porijekla u \"normalnu\" ljudsku svakodnevnicu. Od 1960-ih se izraz horor koristi i za djela s morbidnim, neugodnim temama i snažnom emocionalnom napetošću. Horor se često propliće s djelima znanstvene fantastike, kao i fantasyja, s kojima zajedno tvori poseban nad-žanr spekulativne fikcije. Za izraz horor se u prošlosti koristio izraz strava i užas, odnosno strava."
+    },
+    {
+        "id": "0jtdp",
+        "description": "Dokumentarni film ili dokumentarac je filmski žanr koji se bavi stvarnim događajima. Za razliku od igranih filmova u dokumentarcima najčešće ne nastupaju plaćeni glumci.\nPostoji širok raspon različitih vrsta dokumentarnih filmova, koji se proteže od pokušaja stvaranja čiste dokumentaže doku-sapunice do doku-drame.\nPonekad se i ugrađuju prizori u kojima koje glume glumci.\nNajpoznatiji svjetski festivali dokumentarnog filma su IDFA u Amsterdamu, DOK u Leipzigu i Hot Docs u Torontu.\nOndje se dodjeljuju najznačajnije nagrade pored američkog Oscara za najbolji dokumentarni film. Hrvatski festivali dokumentarnog filma su ZagrebDox, DORF u Vinkovcima i DOKUart u Bjelovaru."
+    },
+    {
+        "id": "07s9rl0",
+        "description": "Dramski film je filmski žanr koji ponajviše ovisi o unutarnjem razvoju stvarnih likova koji se suočavaju s emocionalnim temama. Dramske teme kao što su alkoholizam, narkomanija, rasne predrasude, religijska netolerancija, siromaštvo, kriminal i korupcija stavljaju likove u sukob sa njima samima, drugima, društvom i čak prirodnim fenomenima.\nOvaj filmski žanr u suprotnosti je s akcijskim filmom, koji se oslanja na dinamičnu akciju i fizički sukob, ali i na površnu karakterizaciju. Svi filmski žanrovi mogu uključivati dramske elemente, ali obično se filmovi koji se smatraju dramskim fokusiraju uglavnom na dramu glavnog sukoba."
+    },
+    {
+        "id": "0hcr",
+        "description": "Animacija je slika u pokretu. Danas je možemo vidjeti na mnogo mjesta, ponajprije u kinu, na televiziji, mobilnom uređaju, računalu, na reklamnim panoima i sl. Vrlo je popularna jer napreduje kako se tehnologija širi."
+    },
+    {
+        "id": "06n90",
+        "description": "Znanstvena fantastika je umjetnički žanr, oblik spekulativne fikcije koji se prvenstveno bavi utjecajem izmišljene znanosti i\/ili tehnologije na društvo ili pojedince. Pojam znanstvene fantastike vezuje se prije svega za književna, televizijska i filmska djela, ali znanstvena fantastika utječe i na likovnu i glazbenu umjetnost.\nGranice žanra nisu jasno definirane. Mnoga znanstvenofantastična djela sadrže značajke drugih umjetničkih žanrova, poput kriminalističkih romana, romana strave i užasa, povijesnih romana i, naročito, fantastike. Mnoga znanstvenofantastična djela imaju i značajne elemente psihološke i filozofske književnosti.\nRoman Frankenstein engleske književnice Mary Shelley objavljen 1818. godine smatra se izvorištem znanstvene fantastike kao žanra.\nŽanr znanstvene fantastike često se označava kraticama ZF te SF ili sci-fi. U ovom se članku koristi hrvatska kratica ZF."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Akcijski film je filmski žanr u kojem akcijske sekvence, poput borbe, kaskaderskih scena, borilačkih vještina, automobilskih potjera ili eksplozija, imaju prednost pred elementima kao što su karakterizacija ili kompleksna priča. Akcija obično uključuje individualne napore od strane heroja, što je u suprotnosti s većinom ratnih filmova. Žanr je blisko povezan sa žanrom pustolovnih filmova, a spomenuti žanrovi mogu se podijeliti i na hibridne podžanrove, poput trilera, ZF-a, kriminalističke drame, ratnog filma, westerna i horora."
+    },
+    {
+        "id": "01jfsb",
+        "description": "Triler je široki žanr koji obuhvaća film, književnost i televiziju. Triler karakteriziraju dinamika, neprestana akcija i vješti junaci koji moraju osujetiti planove moćnijih i bolje opremljenih zlikovaca. Često se koriste književna sredstva kao što su napetost, skretanje pozornosti i napeti završetci."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Fantastika je oblik umjetničkog izražavanja u prvom redu književnosti i slikarstva, za kojeg su značajni elementi natprirodnog i izmišljenog. Ovim postupcima stvara se dojam začudnosti i očaranja kod čitatelja i gledatelja. Uz umjetničko stvaralaštvo elemente fantastičnog nalazimo i u predajama i mitovima starih naroda. U fantastiku ubrajamo sva opisivanja i zbivanja koja u stvarnom svijetu nisu moguća; likovi koje fantastika opisuje strani su svakodnevnoj razumskoj zbilji. Fantastika koja uključuje avangardne opise razvijene tehnologije i tehnike, te opise moguće budućnosti naziva se znanstvena fantastika. Fantastični izmaštani svjetovi gdjekada uključuju povijesna zbivanja i likove, te je radnja smještena uglavnom u prošlosti, dok se radnja znanstvene fantastike uglavnom zbiva u budućnosti. Žanr fantastike također je prisutan je i u filmskim i stripovskim ostvarenjima.\n⁕John Ronald Reuel Tolkien - Hobit, Gospodar prstenova, Silmarilion\n⁕Roger Zelazny - .Amberske kronike, Donesite mi glavu dražesnog princa, ... i zovem se Konrad, Gospodar svjetlosti\n⁕Stephen Donaldson - kronike o Thomasu Covenantu\n⁕Lewis Carroll - Alisa u zemlji čudesa\n⁕Gene Wolfe - serija o Dugom Suncu"
+    },
+    {
+        "id": "0g65_",
+        "description": "Avanture su žanr video igara posvećene istraživanju, rješavanju zagonetaka, interakciji s likovima iz igre, i usredotočenje na pripovijedanje umjesto na refleksno temeljene izazove. Većina avanturističkih igara su računalne igre. Za razliku od mnogih ostalih žanrova, avanturistički žanr fokusiranjem na priču povlači i pripovijesne umjetničke forme, kao što su književnost i film. Avanturističke igre obuhvaćaju mnoge književne žanrove, uključujući fantastiku, znanstvenu fantastiku, misterij, horor i komediju."
+    },
+    {
+        "id": "06by7",
+        "description": "Rock, skraćeno od rock and roll, vrsta je popularne glazbe, najčešće s vokalima, električnim i bas gitarama, te naglašenim, jakim ritmom; u nekim podžanrovima rocka pojavljuju se i drugi instrumenti, primjerice saksofon.\nKao kulturni fenomen, rock-glazba je na svijet utjecala kao nijedna druga – smatra se zaslužnom za okončavanje ratova i širenje mira i tolerancije, kao i kvarenje nevinih i širenje moralne truleži. Popularna je širom svijeta i razvila se u veliko množinu vrlo različitih stilova.\nŽanr rock-glazbe je širok i nije strogo definiran - naziv rock često se koristi kao skupni naziv za veći broj različitih podžanrova od metala do soula. Izraz rock'n'roll se češće koristi za specifičnu vrstu rocka iz 1950-ih i '60-ih, a kraći rock za krovnu kategoriju.\nRock ima svoje korijene u ritmovima bluesa, country glazbe iz 1940.-ih i 1950.-ih. Postoji i utjecaj etno glazbe i jazza. Zvuk rocka potječe od električne gitare, bubnjeva i klavijatura. U kasnim 1960.-im i ranim 1970.-im, rock glazba razvila se u različitim podžanrovima. U kombinaciji s narodnom glazbom nastao je folk rock, u dodiru s bluesom nastao je blues rock, a spojem s jazzom nastao je jazz rock. U 1970.-im, rock dobiva utjecaje iz soula, funka i latino ritmova. Također u 1970.-im, rock razvija niz podžanrova, kao što su: glam rock, hard rock, progresivni rock, i punk rock. Rock podžanrovi koji su se razvili 1980.-ih su: novi val i hardcore punk. U 1990.-im, novi podžanrovi su: grunge, britpop, indie rock i nu metal."
+    },
+    {
+        "id": "064t9",
+        "description": "Pop ili pop-glazba je vrsta glazbe koja u pravilu sadrži jednostavne, pamtljive melodije s refrenima koji lako ulaze u \"uho\", tj. one što su lako pamtljive. Često imaju \"udicu\" - jednu ili više glazbenih, ritmičkih ili vokalnih zamisli dizajniranih da ponavljanjem zakvače slušateljevu pažnju.\nPop je glazba najčešće izravno pristupačna svakome, čak i glazbenom početniku."
+    },
+    {
+        "id": "03_d0",
+        "description": "Džez ili džez-glazba je glazbeni stil nastao početkom 20. stoljeća u Sjedinjenim Američkim Državama, te se drži za jedini autohtono američki žanr. Džez je tjekom XX. stoljeća prošao kroz mnoge promjene. Najprije se svirao u barovima i bordelima u predgrađima New Orleansa i drugih gradova. Dugo je bio plesna glazba koju su osuđivali zbog isticanja erotičnosti. Od četrdesetih godina nastaju novi stilovi namijenjeni slušanju. Danas se jazz sluša u koncertnim dvoranama, jazz klubovima, ali i uči na jazz akademijama. Jazz nije više glazba za masovnu publiku, već glazba za uži krug slušatelja, za profinjenu manjinu."
+    },
+    {
+        "id": "01lyv",
+        "description": "Country glazba, koja se još naziva i country & western glazba, je sjevernoamerički glazbeni žanr, koji je nastao početkom 20. stoljeća iz tradicionalnih elemenata narodne glazbe europskih doseljenika - osobito Iraca i Engleza. Korijene ima u folklornoj glazbi juga SAD-a, vrlo jednostavne forme mahom praćene samo gitarom i violinom.\nS vremenom je pod utjecajem ostalih glazbenih žanrova nastala današnja country glazba. Prvi snimljeni vokal na gramofonskoj ploči u lipnju 1923. g. bio je od Fiddlinga Johna Carsona, autentičnog pjevača countryja i bluesa, koji je i najčešće sam sebe pratio s violinom i gitarom."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hip-hop glazba glazbeni je žanr nastao iz hip-hop pokreta, a čimbenici koji su utjecali na rani hip-hop su složeni i brojni. Iako se većini može uzeti korijen iz afričke kulture, multikulturalno društvo New York Cityja rezultiralo je raznim glazbenim utjecajima koji su pronalazili svoj put do hip-hop glazbe."
+    },
+    {
+        "id": "03lty",
+        "description": "Heavy metal je podvrsta rocka. Razvio se kasnih šezdesetih i početkom sedamdesetih, najviše u Velikoj Britaniji i SAD-u. Obilježavaju ga distorzirani zvuk, duga gitarska sola, i općenito glasna i energična izvedba.\nKao suvremeni naziv za ovu glazbenu podvrstu koristi se i naziv \"metal\", koji obuvaća i sve podvrste heavy metala, u međuvremenu nastale."
+    },
+    {
+        "id": "05r6t",
+        "description": "Punk rock je vrsta rock glazbe i pokret koji se pojavio u drugoj polovici sedamdesetih godina 20. stoljeća u Velikoj Britaniji i SAD-u predvođen sastavima kao što su The Ramones, The Clash, Sex Pistols, The Damned, The Animals, The Buzzcocks i dr. makar prijelazne oblike možemo naći i ranije. U Hrvatskoj su također krajem 1970-ih godina u Rijeci djelovali Paraf i Termiti, u Sloveniji Pankrti, te u Srbiji Pekinška patka i drugi. Dana 22. ožujka 1978. godine u dvorani Zajednice Talijana ”Circolo” u Rijeci održan je službeni rock koncert nekolicine mladih rock sastava iz Rijeke. Među njima posebno je bio upečatljiv nastup bučnog i energičnog sastava Paraf. Ovaj datum glazbeni kroničari najčešće uzimaju kao prvi službeni nastup Parafa, a time i prvi ”pravi” točnije službeni punk koncert u Hrvatskoj i bivšoj Jugoslaviji. Spomenuti događaj je popratio, mada prilično šturo i s čudenjem, dio ondašnjih riječkih tiskanih medija."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Klasična glazba je naziv za vrstu glazbe koja potječe iz razdoblja klasicizma. U razgovornom govoru to je pojam koji označava vrstu glazbe u kojoj se svira klasičnim instrumentima.\nVelikani klasične glazbe su Mozart, Beethoven, Haydn i ostali. Beethoven je napola zakoračio u romantizam, jer je elementima iz nekih svojih skladbi koji ne pripadaju klasičnom stilu glazbe počeo stvarati romantičnu glazbu.."
+    },
+    {
+        "id": "02lkt",
+        "description": "Elektronička glazba je izraz koji se koristi za svu glazbu nastalu elektroničkim uređajima. Prema definiciji elektronički uređaji su uređaji niske snage koji koriste komponente poput tranzistora i integriranih strujnih krugova. Kroz ovu definiciju lako se odjeljuju instrumenti koji zvuk proizvode elektromehaničkim postupkom od onih koji za proizvodnju zvuka koriste elektroničke komponente. Primjer elektromehaničkog instrumenta je električna gitara, a primjeri elektroničkih instrumenata su sintesajzer i računalo.\n\nDJing - izabiranje i puštanje glazbe.\nVJing - dolazi od riječi video džokej. 1) Izabiranje i puštanje videospotova. 2) Kreiranje i upravljanje slikama u stvarnom vremenu tehnološkim putem slušateljstvu i gledateljstvu, sinkrono s glazbom.\n\n Nedovršeni članak Elektronička glazba koji govori o glazbenom žanru treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "0155w",
+        "description": "Blues je vokalno-instrumentalni oblik glazbe koji se temelji na uporabi \"plavih nota\" i strukturi od najčešće 12 taktova koji se ponavljaju. Pojavio se u afroameričkim zajednicama SAD-a, a korijene vuče iz duhovne glazbe i himni, radnih i žetvenih pjesama sa plantaža pamuka, improviziranog pjevanja na radu umjesto razgovora koji je robovima bio zabranjen, kao i napjeva. Uporaba \"plavih nota\" i učestalost pjevačkog obrasca poziv-odgovor u glazbi i tekstovima ukazuju na zapadnoafričke korijene bluesa. Blues je imao znatan utjecaj na kasniju američku i zapadnu popularnu glazbu, a postao je i dijelom žanrova kao što su ragtime, jazz, bluegrass, rhythm and blues, rock and roll, hip-hop i pop."
+    },
+    {
+        "id": "06cqb",
+        "description": "Reggae je glazbeni žanr nastao na Jamajci u kasnim 1960im.\nTermin reggae se ponekad koristi u širem smislu, te se odnosi na više vrsta jamajkanske glazbe, poput ska, dub i rocksteadya. Reggae se koristi kao specifičan naziv za određeni glazbeni stil koji je nastao razvojem rocksteadya. Prema tome reggae se dijeli u dvije podvrste roots reggae i dancehall reggae, koji je nastao kasnih 1970-ih. Reggae ritam je prepoznatljiv po ritam gitari i bas bubnju koji udara treći beat svake mjere, što je poznato kao one drop. Ritam u reggaeu je sporiji nego kod njegovih prethodnika, skaa i rocksteadya. Reggae se često veže uz rastafari pokret koji je utjecao na mnoge reggae glazbenike u 1970im i 1980im. Unatoč tome reggae pjesme se također bave drugim temama poput ljubavi, seksualnosti i društvenom kritikom."
+    },
+    {
+        "id": "02w4v",
+        "description": "Narodna glazba, kao što joj govori ime je glazba napravljena za obične ljude, i od običnih ljudi.\n\nNarodna glazba je nastala i najbolje se zadržava u određenim društvima na koja još nije utjecala masovna komunikacija i komercijalizacija kulture. Uobičajno je bilo da se dijeli sa čitavom zajednicom, a izvađanje nisu bili ograničeno na određene skupine profesionalnih izvođača, i kao takva prenosila se s koljena na koljeno usmenom predajom.\n\nTijekom 20. i 21. stoljeća počelo je oživljavanje narodne glazbe, koja sada spaja elemente pop glazbe s tradicionalnom narodnom glazbom. Poput ostale pop glazbe, ovu vrstu narodne glazbe izvode profesionalni umjetnici i izvodi se na organiziranim nastupima, ili se prodaje kao snimka. Posebno je poznata irska narodna glazba.\n\n Nedovršeni članak Narodna glazba koji govori o glazbi treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "02x8m",
+        "description": "Funk odnosno funky je ritam, u kojem ima veliko značenje sinkopa. Pojavio se krajem šestdesetih godina - izvođači kao James Brown i Funkadelic su bili pioniri funky žanra. Veliku ulogu igra bas gitara, koja svira jako komplicirane glazbene linije - dok gitara svira samo oštar ritam. Zbog tog zaraznog ritma funky je postao i kamen temeljac disco glazbe, koja se pojavila nekoliko godina kasnije. Na početku su funky svirali crnci, a kasnije u osamdesetim godinama nastao je novi pravac funk rock i pojavile su se grupe poput Red Hot Chili Peppers i Jane's Addiction. U Hrvatskoj najznačajniji funk glazbenik bio je Dino Dvornik."
+    },
+    {
+        "id": "0ggx5q",
+        "description": "Dance glazba je stil glazbe koji se najčešće pušta u noćnim klubovima, na radijskim postajama i rave zabavama."
+    },
+    {
+        "id": "0199g",
+        "description": "Bicikl kao cestovno vozilo s dvama kotačima koji se pogone snagom vozača, tehničko je postignuće razmjerno nedavne prošlosti. Njegova jednostavna konstrukcija i široka primjenjivost osigurali su mu upotrebu u svakodnevnom životu. Radi se o najčešće korištenom prometalu; danas se procjenjuje da ima preko 1.000,000.000 bicikala na svijetu! Usprkos jednostavnosti i raširenosti, u našoj zemlji ne postoji literatura koja obrađuje tehničke aspekte bicikla."
+    },
+    {
+        "id": "019jd",
+        "description": "Čamac je manji plovni objekt koritastog oblika koji služi za prijevoz ljudi i tereta rijekama, jezerima ili drugim unutarnjim vodenim površinama. Čamac se može pokretati veslima, manjim jedrom, a često i vanbrodskim motorom. Manje plovilo namjenjeno plovidbi morem na području Republike Hrvatske naziva se brodica.\nRiječ čamac je izvedena iz turcizma čam < çam \"bor, jela\"."
+    },
+    {
+        "id": "01bjv",
+        "description": "Autobus je motorno putničko vozilo koje služi za javni prijevoz većeg broja putnika u cestovnom prometu. Prijelazni modeli između automobila i autobusa su monovolumen i kombi ili mini-bus.\nRazlikujemo četiri vrste autobusa ovisno o njihovoj namjeni:\n⁕gradski autobus namijenjen je prijevozu putnika na kraćim relacijama. Karakteriziraju ga dvoja ili više dvokrilnih vrata za ulaz i izlaz putnika, mali broj mjesta za sjedenje, nemaju veliku maksimalnu brzinu ali zato imaju veća ubrzanja i usporenja u cilju što bržeg prijevoza putnika.Također postoje i zglobni autobusi\n⁕prigradski autobus namijenjan je prijevozu putnika na dužim relacijama od gradskog autobusa. Karakteriziraju ga sva sjedeća mjesta sa malim brojem mjesta za stajanje i dovoljna velika dvoja vrata za izlaz i ulaz putnika.\n⁕međugradski autobus je namijenjen za prijevoz putnika na dugim relacijama. Karakteriziraju ga visoka udobnost za putnike, sva mjesta su sjedeća, veliki prostor za prtljagu putnika, vrata za izlaz i ulaz putnika su uža."
+    },
+    {
+        "id": "09ct_",
+        "description": "Helikopter je zrakoplov teži od zraka koji stvara uzgon i porivnu silu preko jednog ili više horizontalnih nosećih rotora, od kojih svaki ima dva ili više krakova. Helikopter spada u red rotokoptera, podvrstu zrakoplova koji uzgonsku silu ne proizvode pomoću krila, već pomoću rotora."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motocikl je bicikl sa motorom. Suvremeni motocikli su vrlo složeni, a mogu biti jačine od 50 cc do preko 1000 cc. Motocikli se diljem svijeta koriste za sport u motociklističkim disciplinama i razonodu.\nKao i bicikl, motocikl ima okvir, stražnji kotač koji tjera naprijed, prednji kotač za upravljanje i komande na upravljaču. Kao i automobil, ima motor sa unutrašnjim izgaranjem i ovijes. Ovijes drži trup motocikla na kotačima i sprečeva oštećenja uslijed poskakivanja kotača po cesti.\n⁕Ploča sa instrumentima\nMotocikli imaju ploču sa instrumentima na sredini upravljača. Sklopkama za svjetla i pokazivače smjera može se rukovati na ručkama upravljača. Ploča se sastoji od:\n⁕Brave za pokretanje motora\n⁕Brzinomjera\n⁕Pokazivača smjera i kontrolnih žaruljica\n⁕Brojača okretaja\n⁕Dvotaktni motor s jednim cilindrom\n⁕Spreminik za gorivo\n⁕Lagana šasija\n⁕Prednji ovjes\n⁕Stražnji kotač s tri žbice od legure, učvršćen prečkom ovjesa.\n⁕Gume motocikla koje dobro prijanjaju uz cestu čak kad se motor naginje u zavojima.\nMotociklist ubrzava ili smanjuje okretanjem ručice na desnoj strani upravljača, a mijenja brzinu podizanjem ili spuštanjem nožne poluge. Prednjim kočnicama upravlja ručno, a stražnjima nožno. Kako bi prošao zavoj, motociklist okreće upravljač i naginje motocikli."
+    },
+    {
+        "id": "06q74",
+        "description": "Brod je plovno sredstvo sposobno za kretanje po moru, rijekama i jezerima koje služi najčešče za prijevoz robe i putnika. Brodom se smatraju samo veći plovni objekti, dok se manji nazivaju čamci. Za razliku od splava, brod, kao i čamac, ima koritast oblik koji mu daje uzgon potreban kako bi plutao na vodi."
+    },
+    {
+        "id": "0pg52",
+        "description": "Taksi je vozilo prilagođeno prijevozu jednog ili manje grupe putnika u gradskom i međugradskom a ponekad i međunarodnom prijevozu. Riječ taksi također označava službu u kojoj su vozači taksi vozila udruženi u jednu organizaciju na određenom području."
+    },
+    {
+        "id": "07jdr",
+        "description": "Vlak je naziv za skup željezničkih vozila, koji se kreću po tračnicama. Vlak je sastavljen od jedne ili više lokomotiva i jednog ili više vagona."
+    },
+    {
+        "id": "07r04",
+        "description": "Kamion ili teretno vozilo je motorno vozilo veće od kombija, a služi za prijevoz većih količina tereta u cestovnom prometu.\nPojedine vrste kamiona imaju zasebne nazive:\n⁕Kiper je kamion koji se koristi u građevinske svrhe, iza vozačke kabine se nalazi prostor koji je pričvršćen na njegov stražnji dio i po potrebi se može ukositi kako bi se iz nje ispraznio teret. Naziv dolazi od njemačke riječi \"kippen\", koja znači \"nagnuti\".\n⁕Cisterna je kamion koji ima mogućnost prijevoza tekućih i rasutih tereta npr. naftinih derivata, vode, mlijeka i ostalog.\n⁕Kamion kran je kamion koji ima mogućnost pomoću krana izvršiti istovar tereta koji vozi\n⁕Šleper ili tegljač je vozilo koje za sobom vuče jednu ili više poluprikolica, a koristi se za prijevoz velike količine robe. Njegov naziv potječe od također njemačke riječi \"schleppen\", koja znači \"vući\".\n⁕Labudica je poluprikolica koja na sebi prevozi teret, vozila ili radne strojeve koji su izvan normiranih gabarita.\nU engleskom jeziku, posebice u Americi truck se, osim kamiona, često opisuju terenci i pick-upovi dok se u hrvatskom jeziku za opis manjih kamiona i pick-upova često koristi riječ kamionet."
+    },
+    {
+        "id": "07kfm",
+        "description": "Tramvaj je električno vozilo za gradski prijevoz putnika koje se kreće po tračnicama. Glavni pogon ostvaruje preko elektromotora koji mogu biti istosmjerni serijski motori ili trofazni asinkroni motori. Napajanje pogonskih motora vrši se preko kontaktne električne mreže preko krovnog oduzimača struje, a zatvara strujni krug preko tračnica koje služe kao povratni vod. Krovni oduzimač struje je u stalnoj vezi sa kontaktnom istosmjernom mrežom napona 600 V. U prošlosti su se kao načini pogona koristili komprimirani zrak i konji za vuču, te dizelski motori, ali se to pokazalo neefikasno i neekonomično."
+    },
+    {
+        "id": "0ddnl",
+        "description": "Trajekt ili feribot je naziv za putnički, odnosno teretni brod specijaliziran za redovni prijevoz putnika i robe na kraćim relacijama.\nVeći trajekti su u pravilu sposobni prevoziti putnička vozila i kamione, a neki su sagrađeni tako da prevoze željezničke vagone.\nPrvi trajekt u Hrvatskoj zvao se \"Bodulka\". Od 1959. je plovio na liniji kopno-otok Krk, godine 1979. je umirovljen, a danas plovi pod imenom \"Rovinjka\"."
+    },
+    {
+        "id": "0f6pl",
+        "description": "Trolejbus je električno vozilo za gradski prijevoz putnika. Glavni pogon ostvaruje preko elektromotora koji mogu biti istosmjerni serijski ili trofazni asinhroni motori.\nKarakteristike ovog vozila su:\n⁕po svom izgledu vrlo je sličan autobusu\n⁕u stalnoj je vezi sa dvožičnom električnom kontaktnom mrežom preko dvije trole čija je dužina oko 6 metara\n⁕ima mogućnost bočnog kretanja u odnosu na os kontaktne mreže oko 5 metara\nOsnovna podjela\nPrema osnovnoj podjeli trolejbusi se dijele na dvoosovinske sa jednodjelnom karoserijom i troosovinske zglobne sa dvodjelnom karoserijom, a osim njih postoje i trolejbusi na kat te trolejbusi sa prikolicom.\nOstale izvedbe trolejbusa\nOsim glavnog pogona i upravljanja postoje i trolejbusi:\n⁕sa pomoćnim vučnim pogonom\n⁕sa dvojnim pogonom, odn. Diesel motorom sa električnim generatorom ili akumulatorima\n⁕trolejbusi sa automatskim vođenjem po unaprijed određenoj trasi"
+    },
+    {
+        "id": "09g5h",
+        "description": "Svemirska letjelica je vozilo koje putuje kroz svemir. Svemirske letjelice mogu biti samostalne svemirske sonde ili vozila s ljudskom posadom. Ovaj se izraz koristi i za umjetne satelite, koji su izrađeni na sličan način."
+    },
+    {
+        "id": "074d1",
+        "description": "Podmornica je brod sa sposobnošću upravljivog zaranjanja i izranjanja, te kretanja i na površini i pod njom. U većini slučajeva koriste se u ratne svrhe."
+    },
+    {
+        "id": "057gn",
+        "description": "Jednovolumen ili minivan osobni je automobil, koji je svojom veličinom najčešće veći od karavana, a manji od kombija. Ima karoseriju jednovolumenskog oblika, što znači da nema izraženih \"izbočina\" za prostor motora i prtljažnik. Prtljažnik se nalazi unutar putničke kabine iza stražnjih sjedala, a vozilo je opremljeno s 5 do 8 sjedala. Minivanovi se često koriste i kao dostavna vozila tako da se iz njih izvade jedan ili dva reda stražnjih sjedala.\nPrvi minivan bio je Chrysler Voyager proizveden 1984., a već iste godine Renault je modelom Espace proizveo i prvo europsko vozilo tog oblika. Danas su minivanovi izuzetno popularna vrsta vozila i čest odabir većih obitelji, budući da pružaju veću prostranost i praktičnost nego karavani, a manje su glomazni od terenaca. U početku su se proizvodili isključivo na nivou više srednje klase, ali danas su dostupni i u nižoj srednjoj i niskoj klasi, gdje se nazivaju microvan. Renault je 1993. modelom Twingo predstavio prvi gradski automobil jednovolumenskog oblika, a ista je marka 1996. predstavila i Scénic, prvi jednovolumen u kompaktnoj klasi.\nRiječ je nastala od kombinacije engleskih pojmova \"mini\" i \"van\", koji znače \"mali kombi\"."
+    },
+    {
+        "id": "0342h",
+        "description": "Gitara je žičani instrument s tipično 6 žica, zvuk se proizvodi okidanjem žica desnom rukom dok se pritiskanjem žica uz vrat gitare lijevom rukom mijenja visina tona. Glazbalo vuče antičke korijene i koristi se u gotovo svim glazbenim stilovima. Najčešći oblici gitare su sa šest žica, međutim također postoje i sa četiri, sedam, osam, deset i dvanaest žica.\nGitara je prepoznata kao jedna od primarnih instrumenata u bluesu, countryu, flamencu, rocku i mnogim oblicima pop glazbe. Također se koristi i kao klasični solo instrument. Sviranjem akustične gitare, ton se dobiva vibracijom žice i moduliranjem od šupljine tijela ili se može koristiti pickup i pojačalo gdje se tonom manipulira elektronički. Akustična se gitara nije pretjerano mijenjala do 20. stoljeća, kada se za potrebe plesnih skupina počinju upotrebljavati metalne žice po uzoru na banjo. To je početak uzdizanja gitare na vodeće mjesto u popularnoj glazbi, što s vremenom dovodi do izuma polu-akustične gitare, kao i verzije potpune električne gitare. Kasnije u 20. stoljeću, električne gitare imaju potpuni utjecaj u popularnoj glazbenoj kulturi."
+    },
+    {
+        "id": "0319l",
+        "description": "Rog je limeni puhački instrument sa uskom, konično brušenom, kružno zavinutom cijevi koja se pri donjem kraju proširuje u ljevkastu zvučnicu.\nZračna struja koju svirač puše u cijev prekida se titranjem njegovih usana pritisnutih na ljevkasti usnik. Na jednostavnom tzv. prirodnom rogu, koji nema uređaje za skraćenje ili produljenje cijevi, izvedivi su, uz osnovni ton, prepuhavanjem samo tonovi parcijalnog niza; međutim, na ventilnom rogu posebni mehanizam sa tri ventila omogućuje izvođenje svih kromatskih tonova unutar raspona instrumenta.\nPreteča su roga jednostavni duhački instrumenti načinjeni od životinjskog roga ili ziba, od školjke, puževe kućice, drvene cijevi, gline i sl., koji se javljaju od prapovijesnog doba na svim kontinentima. Takvi se primitivno građeni rogovi nalaze i danas u folklornom instrumentariju mnogih izvaneuropskih naroda.\nRog s ventilima se pojavljuje 1815. – 1920., čime je postao instrument prikladan za izvođenje dijatonskih i kromatskih ljestvica, pasaža, glisanda, trilera itd. Dok se prirodni rog gradio u različitim veličinama i udesbama, danas se u orkestru obično upotrbljava ventilni rog u F koji ima realni opseg od 1H do f2. Zvuk je roga pun, mekan, sonoran i ima velik raspon nijansa, od posve nježnog piana do prirodnog fortea. Upotrebljava se kao instrument orkestralnih i komornih sastava te solističkog muziciranja."
+    },
+    {
+        "id": "02hnl",
+        "description": "Bubnjarski komplet je kolekcija glazbenih udaralačkih elemenata kojeg u većini slučajeva čine; doboš, činele, bas bubanj, tomovi i ostale udaraljke, a postavljen je tako da ga svira jedan glazbenik. Koristi se u većini glazbenih žanrova, a neki od njih su; pop, jazz, rock, blues, klasična glazba, hip hop i mnogi drugi glazbeni stilovi.\nBubnjarski komplet, spada u skupinu udaralačkih instrumenata, jer se po svim njegovim dijelovima udara. Bubnjar koristi palice ili metlice sa kojima udara po membrani pojedinog elementa ili činele, kako bi stvorio vibraciju, a time određeni ton. Palice za bubnjeve dolaze u različitim težinama i veličinama. U većini slučajeva izrađuju se od drveta, ali u novije vrijeme također i od plastike. Jedini element po kojem se ne udara palicom je bas bubanj, za kojeg se koristi pedala sa batićem, također pedalu ima i čarlston činela, sa kojom se vrši funkcija podizanja gornje činele i udaranja jednom o drugu.\nIzraz 'bubnjarski komplet', najvjerojatnije dolazi iz Velike Britanije. Tamo je prvi puta izrađen tijekom 1700-ih godina. U Americi, tijekom prošlosti često upotrebljavan izraz 'bubnjarski set'.\nRazličiti glazbeni žanrovi nalagali su stilske promjene u podešavanju bubnjarskog kompleta. Na primjer u većini oblika rock glazbe doboš, čarlston činela i bas bubanj, primarni su elementi koji se koriste u glazbenoj izvedbi."
+    },
+    {
+        "id": "013y1f",
+        "description": "Orgulje su jedno od najsloženijih glazbala s tipkama. Imaju, ovisno o veličini, od jedne do čak pet ili šest klavijatura po kojima se svira rukama i klavijaturu na kojoj se svira nogama. Broj manuala ovisi o veličini orgulja, odnosno o broju registara, tj. svirala, a mogu ih imati od jednog do sedam. Registar je niz svirala iste boje i jačine zvuka. Glavni registri orgulja jesu Principali 8-stopni, dok se orgulje udešavaju prema registru Oktava 4 koji spada u registar Principal, samo zvuči za oktavu više. Temeljni zvuk orguljama također daju poklopljenice Bordoni. Postoje u orguljama registri tamnih, tiših tonova, oni prodornijeg, reskijeg i glasnijeg zvuka koji oponašaju razne glazbene instrumente. Svirale su onaj dio orgulja u kojima titra stupac zgusnutog zraka i time proizvodi zvukove različitih boja i visina. Zvuk se na orguljama proizvodi tako da se pritiskom tipke na klavijaturi dovodi zrak iz mijeha u svirale, koje su različite građe i veličine.\nPoznate su, naime, starokineske usne orgulje, a hidraulične ili vodene bile su raširene u antičkoj Grčkoj. U starome Rimu spominju se jednostavnije građene pneumatske orgulje.Posredovanjem Bizanta, orgulje se u VIII. st. uvode u kršćanske crkve, a njihovo zlatno doba svakako je razdoblje XVII.-XVIII. st., kad su građene iznimno složene mehaničke barokne orgulje. U XIX. se pak stoljeću uvodi pneumatska i električna traktura, što posljeduje orkestralnijim zvukom, ali i ubrzanim stradavanjem starijih povijeskih orgulja koje se zamjenjuju novima, pretežito mehaničkim, poglavito na prijelazu iz XIX. u XX. stoljeće."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Flauta je glazbeni instrument koji spada u porodicu drvenih puhačkih instrumenata, ujedno je i najpokretniji instrument u toj skupini.\n\nRazlikujemo uzdužnu i poprečnu flautu, kod oba instrumenta je jedna dimenzija bitno veća od druge dvije, no razlikuju se u tome što se u uzdužnu flautu zrak upuhuje na vrhu instrumenta, tako da se instrument nalazi ravno ispred nas i sviramo ga držeći ruke ispred sebe, dok se kod poprečne flaute zrak također upuhuje na vrhu instrumenta, ali sa strane, i instrument držimo s jedne strane lica i sviramo ga držeći ruke na strani, ne videći ih."
+    },
+    {
+        "id": "05r5c",
+        "description": "Glasovir instrument je s tipkama koji proizvodi ton udarom batića, koji je povezan sa tipkom, u žicu. Standardni opseg mu je od tona A u subkontri do tona C u petoj oktavi, no neki modeli marke Bösendorfer mogu proizvoditi i dublje tonove. Literatura se piše u dva crtovlja, gornje svira desna ruka i piše se uglavnom u violinskom ključu, donje crtovlje svira lijeva ruka i piše se većinom u bas ključu . Izvođač na klaviru se zove pijanist. Zbog svojih velikih tehničkih i muzičkih mogućnosti je jedan od instrumenata sa vrlo bogatom glazbenom literaturom."
+    },
+    {
+        "id": "0mkg",
+        "description": "Harmonika je veoma široko rasprostranjeno glazbalo koje se upotrebljava u raznim tipovima glazbe. Najmasovnije se upotrebljava u zabavnoj i narodnoj glazbi, ali se u drugoj polovici 20. stoljeća počela pojavljivati i u klasičnoj glazbi kao instrument novih zvukovnih boja i mogućnosti. Upravo zbog upotrebe harmonike u najrazličitijim glazbenim stilovima, postoji velik broj različitih tipova instrumenta. Veličina i zvukotvorna različitost harmonike ovisi o broju tipaka na klavijaturi, boji registara i količini basova. Za harmoniku postoji danas poprilično opsežna glazbena literatura u obogaćenje koje se uključuju i razne obrade poznatih skladbi velikih skladatelja, kao i skladbe pisane originalno za taj instrument. Njezin ton nastaje upuhivanjem zraka iz mijeha u cijevi. Sastoji se od dva djela povezana mijehom.\n Nedovršeni članak Harmonika koji govori o glazbi treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "04gc2",
+        "description": "Odvjetnik je osoba koja pruža pravnu pomoć fizičkim i pravnim osobama u ostvarivanju i zaštiti njihovih prava i pravnih interesa."
+    },
+    {
+        "id": "05t4q",
+        "description": "Liječnik je osoba koja je završila medicinski fakultet i bavi se medicinom.\nU mnogim državama, također i u Hrvatskoj, od liječnika se zahtjeva polaganje posebnih državnih ispita, čije uspješno polaganje omogućuju liječniku legalni rad.\nU Hrvatskoj studij medicine traje 6 godina, zubarstva kao i veterinarske medicine po 5 godina. Nakon studija medicine moguće je nastaviti specijalizaciju koja traje 4 do 6 godina.\nLiječnici se bave unapređenjem zdravlja, sprječavanjem bolesti, otkrivanjem bolesti, liječenjem bolesnika i medicinskom rehabilitacijom. Tijekom studija i pripravničkog staža osposobljuju se za rad na razini primarne zdravstvene zaštite, odnosno za područje opće medicine. Njihov posao uključuje dijagnosticiranje bolesti i liječenje bolesnika koji traže pomoć u ordinaciji, u kući ili na mjestu nesreće. Oni pregledavaju svoje pacijente, uzimaju anamnezu pri čemu vode računa o tjelesnim, psihičkim i socijalnim htmektima bolesti, upućuju na pretrage, tumače dobivene nalaze i na osnovi toga dijagnosticiraju bolesti i ozljede. Procjenjuju hitnost i težinu bolesnikova stanja, potrebu upućivanja na specijalističku obradbu ili bolničko liječenje te opasnosti za okolinu. Propisuju lijekove i druge načine liječenja te prate tok bolesti i uspješnost liječenja. Radi osiguravanja cjelokupne zdravstvene skrbi surađuju s drugim liječnicima, posebno specijalistima kliničkih i drugih struka, patronažnim sestrama i sestrama u ustanovama za njegu i rehabilitaciju u kući, fizioterapeutima, socijalnim radnicima te drugim stručnjacima."
+    },
+    {
+        "id": "09jwl",
+        "description": "Glazbenik ili glazbenica je osoba koja stvara ili izvodi glazbu. S obzirom na način rada to može biti primjerice:\n⁕pjevač ili pjevačica\n⁕instrumentalist\n⁕skladatelj\n⁕dirigent\n⁕nastavnik\n⁕aranžer\n⁕glazbeni producent\n\n Nedovršeni članak Glazbenik koji govori o glazbi treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "01d30f",
+        "description": "Učitelj je stručna osoba visokih radnih, obrazovnih i etičkih kvaliteta educirana za rad u vrtiću, školi ili fakultetu za određen predmet.\nSuvremeni učitelj je organizator i voditelj nastavnog procesa, koordinator i mentor, motivator, ravnopravni suradnik i dr. Njegova primarna uloga je da učenicima bude od pomoći u razvoju svih njihovih fizičkih i psihičkih potencijala te da im pomogne u dostizanju individualnog maksimuma.\nSuvremeni zahtjevi i dalje afirmiraju pojedince kao kreativce i inicijatore, ali sada se više traži timski rad učitelja. Učitelji se konstantno profesionalno usvršavaju, kako bi što bolje odgovorili novim zahtjevima društva."
+    },
+    {
+        "id": "0d1pc",
+        "description": "Maneken ili model je zanimanje, čiji je glavni zadatak izravno ili neizravno prikazivanje tijela u svrhu oglašavanja, porasta prodaje ili prikaza estetike tijela."
+    },
+    {
+        "id": "01hbsc",
+        "description": "Veterinar ili doktor veterinarske medicine je stručnjak iz područja biomedicinskih znanosti. Veterinarska medicina se studira 6 godina na Veterinarskom fakultetu, nakon kojih je veterinar izučen za:\n⁕rad u primarnoj veterinarskoj medicini,\n⁕rješavanje problematike veterinarskog javnog zdravstva,\n⁕zaštitu čovjekova okoliša,\n⁕terensku, kliničku i laboratorijsku dijagnostiku,\n⁕preventivno suzbijanje zaraznih bolesti i zoonoza,\n⁕projektiranje i sudjelovanje u izradbi programa za razvijanje i unapređivanje djelatnosti stočarske proizvodnje animalnih namirnica i animalnih proizvoda,\n⁕razvijanje svih oblika zaštite životinja i okoliša,\n⁕njegovanje etike humanih odnosa spram životinja.\n\nUpravo su laboratorijski veterinari prvi izolirali onkoviruse, salmonelu, brucelu i razne druge patogene. Također su pomogli u borbi protiv malarije, žute groznice i botulizma, proizveli su antikoagulans za liječenje srčanih bolesti kod ljudi, te su definirali i razradili neke kirurške tehnike za ljude.\nNo, u današnje vrijeme ekspanzije ljudske populacije, doktor vetrinarske medinicine obavlja uz zaštitu zdravlja ljudi i životinja još jedan jednako vrijedan zadatak - proizvodnja što više i kvalitetnije namirnice animalnog podrijetla."
+    },
+    {
+        "id": "01c72t",
+        "description": "Skladatelj ili kompozitor, odnosno skladateljica ili kompozitorica naziv je za umjetnike koji stvaraju, odnosno skladaju glazbu."
+    },
+    {
+        "id": "05xls",
+        "description": "Programer - zanimanje koje uključuje zadavanje niza instrukcija u formaliziranom programskom jeziku uređaju koji u ovisnosti o sadržaju instrukcije obavlja neku radnju.\nNiz instrukcija zovemo izvornim kodom programa.\nDanas se najčešće programiraju elektronička računala iako je moguće programirati i mehaničke uređaje kao što su posebni klaviri, šivaći strojevi i drugi.\nRačunarstvo je znanost koja uči programere o umijeću samog programiranja i stvaranja računalnih programa."
+    },
+    {
+        "id": "02tx6q",
+        "description": "Elektroakustika je područje elektrotehnike koje razmatra i ostvaruje mogućnosti pretvaranja zvuka u električni signal, mogućnosti pohrane tonskog zapisa na medije kao što su to gramofonska ploča, magnetna traka ili mogućnosti pohrane tonskog zapisa u digitalnom obliku.\nElektroakustika se, nadalje, bavi problematikom reprodukcije i pretvaranja istog tonskog zapisa u električni signal, njegova pojačanja, tonskog oblikovanja i reprodukcije na zvučniku putem odgovarajućeg pojačala snage.\nElektroakustika razmatra svojstva i karakteristike različitih mehanoelektričkih pretvarača te elektroničkih sklopova i uređaja namijenjenih pojačanju tonskog signala, a oslanjajući se tradicionalno na područje elektronike u težnji za što vjernijoj reprodukciji glazbe i govora."
+    },
+    {
+        "id": "05wgy",
+        "description": "Pedijatrija je grana medicine koja je definirana objektom svog interesa- djetetom, od rođenja do kraja adolescencije. To je, prema tomu, medicina razvojne dobi. U vezi s granicama pedijatrije posljednjih se godina vrjemenski raspon ljudskog života u kojem djeluje pedijatrija proširio, unatrag u prenatalnu dob do samog začeća i unaprijed do vremena poslije dosezanja zrelosti."
+    },
+    {
+        "id": "099md",
+        "description": "Vojnik je naoružani pripadnik jedne vojske ili Oružanih snaga jedne države. Pojam se odnosi se od vrhovnog zapovijednika, časnika pa sve do „običnog” vojnika. Drugi nazivi mogu biti ratnik ili borac. S nazivom pokazuje se i interpretacija ili konstrukcije koje se trebaju povezati s tim pojmom."
+    },
+    {
+        "id": "01d380",
+        "description": "Bušilica je ime za alat u koji se ugrađuje sjekuća alatka, u većini slučajeva svrdlo koje služi za izradu rupa u raznim materijalima. Bušilice se koriste u domaćinstima te u raznim industrijama i granama znanosti. U svakoj radionici glavni je alat bušilica. Kod izrade konstrukcija, montaže, sastavljanju dijelova strojeva ili izradi predmeta, uvijek se mora izbušiti rupa, pa tek onda umetnuti vijak, klin, uže. Bušilice postoje od najjednostavnijih ručnih bušilica do koordinatnih ili brojčano upravljivih bušilica. Mogu imati jednu ili više brzina, te različite načine promjene brzine i smjera vrtnje."
+    },
+    {
+        "id": "03l9g",
+        "description": "Čekić je vrsta ručnog alata koji služi za zabijanje i razbijanje nekog materijala. Izrađen je tako da se sastoji od drške i glave. Glava čekića je izrađena od tvrdog materijala, određene mase, a drška služi da toj masi omogući ubrzanje koje je potrebno za udarac. Vrsta materijala glave čekića ovisi o njegovoj namjeni, a najčešća je od raznih željeznih slitina.\nPostoji više vrsta i oblika čekića koji su uvjetovani samom primjenom ovog alata, tako možemo razlikovati:\n⁕zidarski čekić\n⁕tapetarski čekić\n⁕stolarski čekić\n⁕kovački čekić\n⁕malj"
+    },
+    {
+        "id": "01lsmm",
+        "description": "Škare su alat koji služi za rezanje. Sastoje se od dvije metalne oštrice spojene na takav način da se rubovima klize jedna o drugu. Škarama se reže papir, karton, plastika, metalne folije i tanji lim, tkanina, konopac i žica. Također služe za sječenje kose i hrane.Koriste se i u kirurgiji. Najstarije škare izumljene su najvjerojatnije u starom Egiptu oko 1500 godine prije Krista i bile su to tzv škare na oprugu,dok su prave moderne škare rimski izum."
+    },
+    {
+        "id": "07ln6l",
+        "description": "Škripac je ime za alat odnosno mehanički vijak koji služi za držanje ili pričvršćivanje dijela na kojem se vrši mehanička obrada alatima kao na primjer : bušilica, pila, čekić. Škripci obično imaju dvije čeljusti, jedna je fiksna a druga je pomična koja se primiče ili odmiče od fiksne čeljusti."
+    },
+    {
+        "id": "01j5ks",
+        "description": "Ključ za šesterokutnu glavu vijka ili matice služi za pritezanje vijaka ili matica sa šestostranom glavom. Vijci s cilindričnom glavom s unutarnjim šesterokutom pritežu se inbus ključem. Vijci s posebnim utorima na glavi vijka pritežu se specijalnim ključevima. Prostor potreban za pritezanje i otpuštanje vijka ovisi o vrsti vijka, odnosno potrebnoj vrsti ključa. Najmanje je mjesta potrebno za inbus vijke pa se oni mogu smjestiti neposredno jedan uz drugi."
+    },
+    {
+        "id": "04nmy9",
+        "description": "Ček je vrijednosni papir kojim njegov izdavatelj daje nalog drugoj osobi da iz njegova pokrića isplati određeni iznos novca korisniku čeka.\nČekovno pravo je skup propisa o čeku."
+    },
+    {
+        "id": "06qrr",
+        "description": "Gazirano piće je piće koje sadrži rastopljen ugljični dioksid u obliku ugljične kiseline.\nUgljična kiselina daje piću tipičan okus.\nGazirana pića uzrokuju razne zdravstvene tegobe poput smanjenja razine kalija u krvi, što pak dovodi do problema s mišićima i srcem i jakih grčeva. Ovim su posebno ugroženi ljudi koji piju velike količine gaziranih pića dnevno i po nekoliko litara. Učestalo konzumiranja gaziranih pića na uštrb mlijeka, vode i prirodnih sokova dovodi do nedostatka vitamina, kalcija i magnezija; tijelu prijeko potrebnih hranjivih tvari. Gazirana pića su obogaćena fosfornom kiselinom koja dodatno troši hranjive tvari u organizmu odnosno velike doze šećera i umjetnih sladila iz napitka povećavaju izlučivanje kalcija putem mokraće. Prema mišljenju biologa Hans-Petera Kubisa, gazirana pića su opasna kao i cigarete. Dva zaslađena gazirana napitka u tjedan dana mogu povisiti šanse za razvoj raka gušterače za 87%, pokazala je 14-godišnja znanstvena studija."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Vilica je pribor za jelo. Sastoji se od ručice i zubaca koji služe za nabadanje hrane. Koristi se i u kuhanju."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Hamburger je vrsta sendviča u okruglom pecivu, a ista riječ može se upotrijebiti i za kosani odrezak od goveđeg mesa koji se najčešće stavlja u pecivo prilikom izrade takvog sendviča.\nMesnom odresku, koji je osnovni sastojak hamburgera, obično se pridodaje povrće poput zelene salate, luka i kiselih krastavaca, te razni umaci poput kečapa, gorušice ili majoneze, a popularni su i hamburgeri u kojima se ranije spomenutim sastojcima pridodaje i nekoliko krišaka sira. Hamburger sa sirom još se naziva i cheeseburger, budući da na engleskom jeziku \"cheese\" znači sir.\nDanas mnogi restorani brze hrane upravo na hamburgerima temelje većinu svoje prodaje, a često ih poslužuju u menijima s pomfritom ili nekim sličnim prilozima."
+    },
+    {
+        "id": "0cmx8",
+        "description": "Žlica je pribor za jelo. Sastoji se od ručice i eliptične plitke posudice. Koristi se i u pripremi hrane. Služi za konzumiranje tekuće i polutekuće hrane.\nŽlice se izrađuju od metala, drveta i plastike."
+    },
+    {
+        "id": "01c6xf",
+        "description": "Pitka voda je voda visoke kakvoće prikladna za ljudske potrebe. Pitka voda je prikladna za piće te za pripravu hrane.\nNa Zemlji postoje veoma male količine pitke vode, te stoga pojedine države imaju trajni nedostatak pitke vode. Ako se one nalaze uz more, slanu vodu moguće je preraditi u pitku.\nSvake godine zbog nedostatka pitke vode umre 3 milijuna djece mlađe od 5 godina.\nU pitkoj vodi se ne smiju nalaziti mikroorganizmi, te bi trebala sadržavati male količine mineralnih tvari. Najčešći minerali u pitkoj vodi su kalcij-, magnezij, karbonata-, hidrogenkarbonata- te sulfatovih-iona."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Kava kao napitak obično se služi topla, i spravlja se od prženih i mljevenih sjemenki koje rastu na stabljici biljke kave. Ovo piće je jako popularno u mnogim zemljama svijeta, kao i u Hrvatskoj. Biljka potječe iz Etiopije a naziv \"caffa\" napitak je dobio po pokrajini u kojoj su najviše spravljali \"čaj\" od prženog zrnja. Prvobitna namjena bila je u djelovanju kofeina. Naime, pastiri su davali grane grma kave kozama kad su bile nemirne. Najveći proizvođač kave na svijetu je Brazil."
+    },
+    {
+        "id": "09jc2n",
+        "description": "Leđa su stražnji dio trupa. Obuhvaćaju dio od ramena i potiljka do stražnjice. Nalaze se sa suprotne strane od prsa i trbuha. Podijeljena su na dva simetrična dijela, lijevi i desni sa središnjom okomitom linijom, koju čine rtni nastavci pršljenova.\nLeđa su prekrivena kožom, koja je tanja nego na drugim dijelovima torza i s manje dlaka, a ispod nje nalaze se leđni mišići, koji su povezani s mišićima ramena i vrata. Također se sastoje se kostiju, ligamenata i živaca. Leđni mišići su: najširi leđni mišić, gornji stražnji nazupčani mišić, donji stražnji nazupčani mišić, veliki rombasti mišić, mali rombasti mišić, trapezni mišić i mišić podizač lopatice. Leđa imaju veliku ulogu u kretanju i fleksibilnosti, daju potporu glavi. Mogu se pomicati i savijati pri pokretima.\nBol u leđima je jedna od najčešćih boli kod odraslih. Može je uzrokovati povreda mišića, koji se oporave nakon nekog vremena. Postoje brojne bolesti leđa poput osteoartritisa ili bolesti vezanih za probleme s diskom, poznat je i tzv \"vrkašev sindrom\" kod ljudi sa fleksibilnom kičmom. S leđne strane tijela nalaze se bubrezi. Ako se dobije udarac u leđa, mogu se ozlijediti."
+    },
+    {
+        "id": "09cx8",
+        "description": "Prsti su krajnji dijelovi ruke ili noge, broj im varira od 3-5."
+    },
+    {
+        "id": "0hz0h",
+        "description": "Zubi su kalcificirani organi, koji se nalaze na početku probavnog trakta, u usnoj šupljini. Usađeni su u alveolarne nastavke gornje i donje vilice i smješteni u zubne čašice . Čovjek obično ima 32 stalna i 20 mliječnih zuba."
+    },
+    {
+        "id": "037p5b",
+        "description": "Obraz je dio ljudskog lica. U vodoravnoj ravnini zauzima prostor između kuta usta do uha. Čini područje lica ispod očiju i između nosa i lijevog ili desnog uha.\nHistološki je obraz sastavljen od šest slojeva. Počevši od vanjskog:\n⁕koža\n⁕masno tkivo\n⁕pojas ždrijela\n⁕obrazni mišić\n⁕žlijezde\n⁕sluznice usne šupljine\nObrazi se smatraju i kao odraz zdravlja. Čovjek s \"ružičastim\" obrazima često se smatra zdravim, a blijed čovjek bolesnim.\nStoga brojne žene ističu obraz uporabom rumenila.\n\n Nedovršeni članak Obraz koji govori o anatomiji treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "031n1",
+        "description": "Stopalo je biološka struktura prisutna kod brojnih životinja, korištena u kretanju. Kod brojnih životinja, stopalo je odvojeni organ na završnom dijelu noge sačinjeno od jednog ili više segmenata, u pravilu uključujući kandže ili nokte."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Usne dio su usne šupljine koje čine njen prednji dio i prekrivaju dio gornjeg i donjeg zubnog luka. Razlikuju se gornja i donja usna koje ograničavaju tzv. usni otvor – početni dio probavnog trakta. Na svakoj usni nalaze se: prednja strana, stražnja strana i slobodan rub.\nPrednja strana usana je prekrivena kožom. Prednji dio gornje usne se prostire do nosne piramide i nosno-usnog žlijeba, a u njenom središnjem dijelu nalazi se žlijeb pod imenom filtrum. Prednji dio donje usne je ograničen bradno-usnim žlijebom koji ga odvaja od kože brade.\nPosljednji rub prekriven je sluzokožom koja predstavlja dio oralne sluzokože. Ispod nje je smješten podsluzokožni sloj koji sadrži rastresito vezivno tkivo i male pljuvačne žlijezde. Mišićni dio uglavnom je sastavljen iz vlakana kružnog mišića usana.\nArterije potječu iz gornje i donje arterije usana, dok se vene ulijevaju u vene lica. Živci za muskulaturu usana grane su živca lica, dok su senzitivni živci grane infraorbitalnog i bradnog živca.\nČovjek pomoću usana izmjenjuje poljupce. Usne zimi mogu ispucati pa se mažu zaštitnim sredstvom. Žene na usne stavljaju ruž za usne, olovku za usne i sjajilo prilikom šminkanja. Kirurški je moguće povećati usne."
+    },
+    {
+        "id": "025kyy",
+        "description": "U ljudskoj anatomiji, čelo je koštani dio glave iznad očiju. Kod suvremenog čovjeka čelo je grubo vertikalno, te završava na liniji gdje počinje kosa i ravni dio glave. Glavni mišić čela jest frontalni mišić koji pokreće ili steže kožu lubanje. U kulturi, popularni stereotip jest da je osoba s velikim čelom izrazito inteligentna, što naravno nije točno."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Usta su otvor kroz koji životinja uzima hranu i vodu. Obično se nalaze na glavi životinje.\nU probavi, usta su prvi dio probavnog sustava kroz koji hrana ulazi u probavni sustav. U ustima nalaze se:\n⁕Zubi koji drobe i sitne hranu tako što ih pritišće Mandibula, jedina pomična kost koja stišće čeljust\n⁕Jezik koji ju prevrće i namješta u pogodan položaj za žvakanje. Jezik i slina omekšavaju hranu.\n⁕Žlijezde slinovnice koje luče slinu. Enzim amilaza koji se nalazi u slini započinje razgradnju škroba u šećer tako da razgradnja hrane počinje već u usnoj šupljini.\nProbava se iz usta nastavlja u jednjak.\n\n Nedovršeni članak Usta koji govori o anatomiji treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "03q69",
+        "description": "Kosa je skup vlasi, nitastih izraslina građenih od bjelančevina, koje postoje samo u sisavaca, i to samo na glavi.\nLjudska kosa je mnogo duža nego kod ostalih sisavaca, a dlake su raspoređene gušće nego na ostatku tijela. Prosječno ljudsko tjeme ima oko 100 000 folikula. Tijekom života iz jedne folikule može izrasti 20 različitih vlasi. Ljudska kosa mjesečno u prosjeku naraste 1 do 1,5 centimetara.\nProsječan broj vlasi kose"
+    },
+    {
+        "id": "0dzd8",
+        "description": "Vrat je dio tijela između glave i trupa. Sastoji se od sedam vratnih kralježaka i mišića. Zbog svojih raznih funkcija čini vrlo složen i ranjiv dio dijela."
+    },
+    {
+        "id": "0fjkt",
+        "description": "Jezik je mišić koji se nalazi na dnu usne šupljine a služi za prevrtanje hrane, gutanje, okus i govor. Jezik ima svoj prednji i stražnji dio. Prednji je ovaj slobodni koji nam služi za govor, okretanje hrane, sisanje... Stražnji dio zovemo korijenom jezika. Ako dodirujemo ovaj prednji dio jezika, nema nikakvih posljedica, ali ako dotaknemo stražnji, refleksno dobijemo nagon za povraćanje. Takva pojava uzrokovana je inervacijskim područjima jezika."
+    },
+    {
+        "id": "039xj_",
+        "description": "Uho je slušni organ čovjekovog organizma. Dijeli se na: vanjsko, srednje i unutarnje uho."
+    },
+    {
+        "id": "0k65p",
+        "description": "Ruke su gornji ekstremiteti na tijelu čovjeka. Ruke većinom imaju po pet prstiju, a prsti na rukama zaštićeni su od udaraca, povreda itd. noktima. Kod nekih ljudi na rukama zna izrasti šesti prst. Ruke služe za dohvatanje predmeta i upravljanja njima.\nMalo je sisavaca i ostalih životinja koje imaju i služe se \"rukama\" za dohvatanje predmeta, pa se služe drugim dijelovima tijela kao što su šape i kandže. Samo sisavci iz reda majmuna imaju prste. Ljudi imaju dvije ruke, a čovjekoliki majmuni i majmuni četiri, jer im i noge imaju palac koji je pokretan i može dohvatiti predmete.\nLjudi imaju pet prstiju. Palac je paralelan s ramenom i zato se lako može zarotirati za 90°. Ostali prsti mogu se zarotirati za 45°. Čovječja ruka ima 27 kostiju. Jedna ruka ima čak deset mišića.\n\n Nedovršeni članak Ruka koji govori o anatomiji treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Nos ili nosna šupljina, šupljina je koja služi kao dio dišnog, govornog i osjetilnog sustava. U njemu se nalaze sluznica i fine dlačice.\nKao dio dišnog sustava nos je primarni organ kroz koji ulazi zrak. U govoru, nos omogućuje rezonancu. Nos je također organ za miris, te se u nosnoj šupljini nalaze mirisne stanice. Čestice mirisa lijepe se i otapaju u sluzi koju proizvodi nos te tako šalju impulse u mozak a čovjek osjeća miris. Izraz nos također se koisti za označavanje početka ili kraja nečega, kao na primjer: \"nos aviona\". Nosna šupljina se proteže od nosnica do hoana . Nosna pregrada dijeli lijevu i desnu nosnu šupljinu te čini zajednički medijalni zid jedne i druge nosne šupljine. Septum se sastoji od koštanog, hrskavičnog i kožnog dijela .\nVanjski nos ima: korijen, hrbat i vrh . Zrak ulazi u vanjski nos kroz parne otvore nosnice koje omeđuju nosna krila . Podlogu vanjskog nosa čine kosti ličnog skeleta i hrskavice. Koštanu podlogu daje nosni dio čeone kosti, čeoni nastavak gornje čeljusti i nosne kosti. Nosne hrskavice sastoje se od:"
+    },
+    {
+        "id": "027n3_",
+        "description": "Obrva se nalazi iznad oka. Kod ljudi je obrastana dlakama, a kod nekih životinja taktilnim dlakama."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Glava je anatomski naziv za dio tijela, gdje se nalaze mozak i usta i osjetilni organi.\nPrednja strana ljudske glave je lice. Više od 30 mišića omogućuju ljudima da izraze osjećaje kroz promjene lica.\nGlava se sastoji od 28 odvojenih kostiju koje zajedno čine lubanju."
+    },
+    {
+        "id": "014sv8",
+        "description": "Oči su organi koji opažaju svjetlost. Sastoje se od optičkog sustava, živčanih elemenata, te pratećih i potpornih elemenata. Oči u 96 % životinjskih vrsta su složeni optički sustavi, koji se javljaju u deset temeljnih oblika. Takve oči imaju, primjerice, meduze, mekušci, kičmenjaci, kolutićavci i člankonošci. Najjednostavnije “oči” ne čine ništa drugo već razlikuju svjetlo u okolini od mraka, što im dostaje za usklađivanje jedinke s cirkadijanim ritmovima.Također,oko je organ koji nam služi za vid."
+    },
+    {
+        "id": "0176mf",
+        "description": "Pojas ili opasač naziv je za remen, izrađen najčešće od kože i posebnih vrsta tkanina koji se nosi kako bi uz tijelo pričvrstio hlače ili druge odjevne predmete."
+    },
+    {
+        "id": "06rrc",
+        "description": "Cipele su vrsta zaštitne obuće za ljudska stopala. Postoje brojne vrste cipela koje mogu biti izrađene od različitih materijala i namijenjene za posebne potrebe. Razlikuju se muške i ženske, kao i po obliku, strukturi, veličini i implementaciji tehnologija. Česti dodatni element cipele je visoka ili niska peta. Za čišćenje i poliranje određenih vrsta obuće se koristi krema za cipele."
+    },
+    {
+        "id": "01b638",
+        "description": "Čizma je komad obuće, koji pokriva veću ili manju dužinu nogu. Najniže čizme dosežu samo 5-10 cm iznad gležnja i zovu se gležnjače, dok su čizme iznad koljena i ribarske čizme najduže.\nČizme se nose u raznim prigodama, dizajnirane su, da štite i griju noge te služe i kao modni dodatak. U prošlosti su bile rezervirane za plemstvo. Trošak proizvodnje bio je preskup za obične ljude, koji su za obuću koristili komad kože vezan oko nogu. Izrađuju se od različitih materijala poput prirodne i umjetne kože, tkanine, vune, gume itd. Za određene namjene, proizvedene su posebne vrste čizama, npr. specijalizirane za određenu vrstu posla."
+    },
+    {
+        "id": "02wv6h6",
+        "description": "Suknja je odjevni predmet, tj. dolnji dio odjeće koju danas nose uglavnom žene. Podrijetlo suknjâ vjerojatno seže do prapovijesti kada se odjeća nije razlikovala kod muškaraca ili žena. Suknjama su se odijevali u povijesti egipatski faraoni."
+    },
+    {
+        "id": "013s93",
+        "description": "Majica je dio odjeće, koji se koristi za gornji dio tijela. Izrez majica je obično okrugao ili u obliku slova V, gumbi i džepova. U biti majica ima oblik sličan košulje s kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odjeće od košulja.\nMajice su obično izrađene od pamuka, sintetičkih tkanina, prediva, ili njihovih mješavina. Često su ukrašene tekstom ili slikama.\nU nekim islamskim zemaljama, žene ne smiju nositi majicu u javnosti."
+    },
+    {
+        "id": "01xygc",
+        "description": "Kaput je odjevni predmet. Nosi se obično u hladnijem dijelu godine, jer štiti od hladnoće. Različitih je krojeva, dužina i materijala. Obično seže ispod kukova i kopča se gumbima ili kopčama sprijeda, a ponekad i pojasom. Obično se nosi iznad ostale odjeće. Nose ga sve dobne skupine i oba spola.\nKaput je otvoren sprijeda, ima duge rukave i podstavu, obično i džepove, ponekad i kapuljaču. Materijali od kojih se rade kaputi su: pamuk, vuna, krzno, koža i dr. Ženski su kaputi obično uži.\nTijekom povijesti obično su ga nosili plemići i viši slojevi društva, sve dok nije postao opće raširen i dostupan svim društvenim skupinama."
+    },
+    {
+        "id": "0fly7",
+        "description": "Jeans ili Jeans hlače su moderne hlače koje se najčešće prave od pamuka. U početku su se koristile kao radno odijelo, a kasnije su postale veoma popularne među mladima 1950-ih.\nDanas su jeans hlače popularne u cijelom svijetu i postoje u mnogim stilovima i bojama. Najraniji poznati predhodnik jeansa je debelo indijsko pamučno platno iz 16. stoljeća. Platno se bojalo u indigo boju i tako se prodavalo mornarima u Bombaju."
+    },
+    {
+        "id": "01rkbr",
+        "description": "Kravata je dekorativni odjevni predmet, oblika vrpce, koji se nosi oko vrata provučen ispod ovratnika košulje, izrađen od svile ili nekog drugog platna. Kravata, smatra se izvornim hrvatskim proizvodom, raširila se Europom u 17. stoljeću posredstvom hrvatskih vojnika u Tridesetogodišnjem ratu, na kojima je postala prepoznatljiv modni detalj. Među prvima su je prihvatili Francuzi, pa u njihov jezik dolazi pod nazivom cravate, a kasnije i u druge europske jezike pod sličnim nazivima."
+    },
+    {
+        "id": "01d40f",
+        "description": "Haljina je odjevni predmet, kojeg obično nose žene i djevojčice. Dužina haljine varira ovisno o modi i prigodi. Može biti duga do poda ili kratka iznad koljena. Izgled haljine mijenjao se tijekom povijesti. Postoji mnogo različitih oblika haljina."
+    },
+    {
+        "id": "01nq26",
+        "description": "Čarapa je odjevni predmet, koji se nosi na nogama. U hladnom dijelu godine, služi zadržavanju topline, a u toplom dijelu godine spriječava znojenje nogu."
+    },
+    {
+        "id": "07mhn",
+        "description": "Hlače su dio odjeće, kojom se prekriva donji dio tijela. U zapadnom svijetu se nose od 16. stoljeća. Pogotovo od druge polovice dvadesetog stoljeća je postalo običajno, da muškarci nose hlače i kasnije su ih počele nositi i žene."
+    },
+    {
+        "id": "01n4qj",
+        "description": "Košulja je odjevni predmet. Ime dolazi od latinske riječi casula što znači grubo sukno. Košulja je šivani komad tkanine od pamuka i poliestera, ima kragnu ili ovratnik, rukave i zakopčava se gumbima cijelom dužinom.\nOdlike kvalitetne košulje su: razrez na ovratniku, gumbi od sedefa, rezana je u leđima, ima ušiveno ojačanje u kutu između prednjeg i stražnjeg dijela, šav se sastoji od osam uboda po dužnom centimetru te ima višestruke nabore na prijelazu rukava u manšete.\nKošulja je jedan od osnovnih odjevnih predmeta, nose je podjedanako muškarci i žene te razne dobne skupine. Pogodna je za poslovne i svečane prilike. Plavu košulju često nose policajci i svećenici u civilu, a crna košulja bila je znak ekstremnih skupina po kojoj su se i zvali \"crnokošuljaši\".\nIspod košulje često se nosi potkošulja, a iznad košulje sako uz kravatu. U džep košulje ponekad se stavi maramica. Najčešća je bijela boja košulje.\nVrste ovratnika na košuljama su: stegnuti ovratnik, ovratnik s gumbima, kent ovratnik i razmaknuti ovratnik."
+    },
+    {
+        "id": "020lf",
+        "description": "Miš je ulazna jedinica na računalu koji pretvara pokret ruke u dvije dimenzije u pokret pokazivača na zaslonu računala. Miš je izum Douglasa Engelbarta iz 1963., i nastao je kao dio njegovog rada na problemima ljudskog međusklopa s računalima na Stanford Research Institute. Miš je prijevod od engleske riječi \"mouse\", naziv je dobio po tome što ima izgled i veličinu miša."
+    },
+    {
+        "id": "02bc6",
+        "description": "Baza podataka je organizirana zbirka podataka. Termin je izvorno nastao unutar računalne industrije, a njegovo se značenje proširilo popularnom uporabom toliko da Europska direktiva za baze podataka uključuje i neelektronske baze podataka unutar svoje definicije. Ovaj članak je ograničen više na tehničku upotrebu termina, iako čak i među računalnim profesionalcima neki pripisuju mnogo šire značenje riječi od drugih.\nJedna od mogućih definicija baze podataka glasi da je to zbirka zapisa pohranjenih u računalu na sustavni način, takav da joj se računalni program može obratiti prilikom odgovaranja na problem. Svaki se zapis za bolji povratak i razvrstavanje obično prepoznaje kao skup elemenata podataka. Predmeti vraćeni u odgovoru na upitnike postaju informacije koje se mogu koristiti za stvaranje odluka koje bi inače mogle biti mnogo teže ili nemoguće za stvaranje. Računalni program korišten za upravljanje i ispitivanje baze podataka nazvan je sustav upravljanja bazom podataka. Svojstva i dizajn sustava baze podataka uključeni su u proučavanje informatičke znanosti.\nSredišnji koncept baze podataka je jednak onome od zbirke zapisâ ili dijelova znanja. Za danu bazu podataka tipično postoji strukturni opis vrste činjenica sadržanih u toj bazi podataka: taj opis naziva se shema. Shema opisuje predmete koji su prikazani u bazi podataka, te odnose među njima. Postoje brojni različiti načini organiziranja sheme, to jest od modeliranja strukture baze podataka: oni se zovu modeli baza podataka. Model u najraširenijoj upotrebi danas je odnosni model, koji laički rečeno prikazuje sve informacije u obliku mnogostrukih odnosnih tablica od kojih se svaka sastoji od redova i stupaca. Ovaj model prikazuje odnose uporabom vrijednosti koje su zajedničke za više od jedne tablice. Ostali modeli poput hijerarhijskog modela i mrežnog modela koriste prikaze i odnose koji su mnogo eksplicitniji."
+    },
+    {
+        "id": "020s1",
+        "description": "Datoteka u računarstvu je skup binarnih podataka, koji su spremljeni na medij dostupan programu za čitanje ili za promjenu."
+    },
+    {
+        "id": "045hfw",
+        "description": "Font je elektronički niz podataka u kojem se nalazi skup slovnih znakovnika, i slovnih simbola poput slovnih ornamenata. Termin font isprva se upotrebljavao za skup metalnih slova jedne veličine i jednog tipa slova, od 1990. fontovi su uglavnom digitalni i upotrebljavaju se u računalstvu.\nPostoje tri osnovna tipa računalnih fontova:\n⁕Bitmap fontovi, sastoje se od serije točaka koji prikazuju sliku svakog slovnog znaka, svakog slovnog karaktera i njegove veličine.\n⁕obrisni fontovi služe se skupom matematičkih instrukcija; Bézierova krivulja za iscrtavanje svakog slovnog znaka, na taj način je slovo skalabilno na bilo koju veličinu.\n⁕Linijski fontovi služe se skupom specifičnih linija i posebnih informacija da opišu profil, veličinu i oblik linije svakog lika, oni zajedno opisuju pojavu znakovnika.\nBitmap fontovi su brži i lakši za uporabu u računalstvu, ali nisu prilagodljivi, jer zahtjevaju posebni skup fontova za svaku veličinu. Orisni i linijski fontovi, mogu mijenjati veličine, upotrebljavajući samo jedan tip fonta, tako da izračunavaju različite veličine za pojedine slovne znakove, ali to je ponekad komplicirano, i zahtijeva posebne računalne kodove koji moraju izračunavati pojavnu sliku obrisa i bitmape na zaslonu računala ili u tisku."
+    },
+    {
+        "id": "02nf_",
+        "description": "Elektronička pošta, e-pošta ili e-mail prijenos je tekstualnih poruka putem komunikacijskih mreža, najčešće Interneta."
+    },
+    {
+        "id": "03rsh",
+        "description": "Ulazno\/izlazne jedinice se odnosi se na sve dijelove koje podsustavi računala koriste za međusobno komuniciranje. Podsklop prima ulazni signal, dok se izlazni signali šalju od međusklopa.\nPojam ulazno\/izlazne jedinice kod računala koristi se za opisivanje komunikacije između računala i računala ili računala i osobe; na primjer miš i tipkovnica su ulazne jedinice dok su zaslon i pisač izlazne jedinice. Što će se smatrati kao U\/I ovisi o tome koliko se detalja uzima u obzir. Na primjer, komunikacija između dva procesora se neće smatrati U\/I-om ako se multiprocesori gledaju kao jedan sustav. Brzina ulazno\/izlaznih jedinica ovisi o brzini U\/I sabirnice koja se koristi. U Ethernetu je maksimalna brzina 10 Mbps."
+    },
+    {
+        "id": "02_0t4",
+        "description": "Interaktivnost iz latinskog inter Agere = naizmjence,ili u odnosu na jednu drugu\" označava u socijalnoj psihologiji uzastopno ponašanje dviju ili više osoba vezano s ciljem komunikacije ili rasprave.\nPri oblikovanju obrazovnih multimedijalnih interaktivnih svojstva programske podrške interaktivnost označava razne mogučnosti korisnika individualiziranim učenjem jer je odabir i prezentacija informacija prilagodljiva interesima i potrebama učenika."
+    },
+    {
+        "id": "03rlt",
+        "description": "Internet je javno dostupna globalna paketna podatkovna mreža koja zajedno povezuje računala i računalne mreže korištenjem istoimenog protokola. To je \"mreža svih mreža\" koja se sastoji od milijuna kućnih, akademskih, poslovnih i vladinih mreža koje međusobno razmjenjuju informacije i usluge kao što su elektronička pošta, chat i prijenos datoteka te povezane stranice i dokumente World Wide Weba."
+    },
+    {
+        "id": "07wcf",
+        "description": "Univerzalna serijska sabirnica je tehnološko rješenje za komunikaciju računala s vanjskim uređajima pri čemu se podatci razmjenjuju serijski relativno velikom brzinom. USB je zamijenio razna dotadašnja serijska i paralelna sučelja na računalima."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook je internetska društvena mreža, koju je 2004. godine osnovao Mark Zuckerberg, bivši student Harvarda. U svojim počecima, Facebook je bio namijenjen samo studentima sveučilišta na Harvardu koji su tim putem mogli međusobno komunicirati i razmjenjivati informacije. Kasnije, mnoga druga sveučilišta, srednje škole i velike kompanije diljem svijeta priključile su se mreži. Danas ova web stranica ima više od 1 milijardu aktivnih korisnika. Facebook je ujedno najpopularnije mjesto za objavljivanja fotografija, s više od 14 milijuna novih dodanih fotografija dnevno."
+    },
+    {
+        "id": "0508p",
+        "description": "Matična ploča poznata kao i osnovna ploča je centralni dio sklopovlja u računalu. Na nju se ugrađuje svo sklopovlje u računalu, na primjer: grafička kartica, mrežna kartica, zvučna kartica, modem, tvrdi disk, RAM itd. preko rubnih spojnika.\nRazvojem tehnologije, svrha matične ploče se mijenjalo sa vremenom. U početku matična ploča se sastojala od rubnih spojnika i tako bi formirali sabirnicu u čije utore bi se postavljale osnovne ploče ako: centralna jedinica, artimetičko-logička jedinica, glavna memorija, ulazno\/izlazna ploča, itd. Razvojem tehnologije integriranih krugova, sa vremenom je postalo ekonomično micati funkcije sa diskretnih ploča na matičnu ploču, isto tako su se okrupnjivale funkcije mnogih ulazno\/izlaznih jedinica u integrirane krugove sa visokom integraciju sa kojima se podjednostavljivala.\nOsnovne komponente današnjim matične ploče su:\n⁕spojnik u kojem se ugrađuje mikroprocesor\n⁕rubni spojnici za glavnu memoriju\n⁕tzv čipset u kojima su sastavljene funkcije\n⁕rubni spojnici koji služe za umetanja raznih kartica za proširenje ili za priključivanje raznih perifernih jedinica, ulazno\/izlaznim jedinicama, masovnim spremištima podataka."
+    },
+    {
+        "id": "07g0_",
+        "description": "Haag je grad u Nizozemskoj. Na nizozemskom jeziku je njegovo ime Den Haag. Službeno se zove 's-Gravenhage. Upravno je središte Nizozemske, a nalazi se u pokrajini Južnoj Holandiji čije je također upravno središte.\nU 2004. godini u gradu je živjelo 469.568 stanovnika, a u njegovoj urbanoj aglomeraciji oko 700.000 stanovnika, na površini od otprilike 100 km². Po veličini je treći grad u Nizozemskoj iza Amsterdama i Rotterdama.\nU Haagu se nalaze Eerste Kamer i Tweede Kamer, gornji i donji dom nizozemskog parlamenta. Nizozemska kraljica Beatrix također živi i radi u Haagu. Sva strana veleposlanstva i vladina ministarstva su smještena u gradu, kao i Visoki upravni sud i brojne lobističke organizacije. Usprkos tome, službeni je glavni grad Nizozemske prema ustavu Amsterdam.\nHaag je jedan od glavnih gradova Ujedinjenih naroda i sjedište nekoliko ustanova UN-a. To su:\n⁕Međunarodni sud pravde, smješten u Palači mira\n⁕Međunarodni sud za ratne zločine počinjene na području bivše Jugoslavije, u Hrvatskoj zvan i Haaški sud i Haaški tribunal"
+    },
+    {
+        "id": "02_286",
+        "description": "New York je najnaseljeniji grad u SAD-u i središte metropolitanskog područja New York, jednog od najnaseljenijih metropolitanskih područja u svijetu. New York ima značajan utjecaj na globalnu trgovinu, financije, medije, umjetnost, modu, istraživanje, tehnologiju, obrazovanje i zabavu. Kao grad u kojem se nalazi glavno sjedište Ujedinjenih Naroda, New York je važan centar za međunarodne poslove i uglavnom se smatra kulturnim sjedištem svijeta. Službeni nazivi grada su i New York City ili The City of New York kako bi ga se razlikovalo od istoimene države New York koje je ovaj grad dio.\nSmješten u jednoj od najvećih svjetskih luka, New York City sastoji se od pet okruga od kojih svaki predstavlja jednu državnu županiju. Pet okruga - The Bronx, Brooklyn, Manhattan, Queens i Staten Island - su ujedinjeni u jedan grad 1898. godine. Prema popisu stanovništva SAD-a iz 2010. godine, 8,175,133 milijuna ljudi živi na prostoru od 790km², što New York čini najgušće naseljenim glavnim gradom Sjedinjenih država. U New Yorku se priča više od 800 različitih jezika što ga čini gradom s najviše jezičnog podrijetla u svijetu. Naseljenost metropolitanskog područja New York Cityja je najveća u SAD-u, procijenjena na 18.9 milijuna stanovnika koji žive na području od 17.400 km². New York je najtraženiji pojam na internetu; do prosinca 2011. godine registrirano je 7.1 bilijuna traženja grada u raznim tražilicama."
+    },
+    {
+        "id": "0430_",
+        "description": "Jeruzalem je grad na Bliskom istoku, na području današnjeg Izraela i Palestine. Jeruzalem na starohebrejskome znači posjed dvostruka mira. Stari grad je upisan na UNESCO-v popis svjetske baštine u Aziji i Oceaniji 1981. godine."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kairo je glavni grad Egipta. Procjenjuje se da njegova aglomeracija iznosi 15,2 milijuna stanovnika i po tome je trinaesti grad po veličini u svijetu.\nDok je al-Qāhirah službeno ime grada, u lokalnom govoru se on obično naziva imenom same države Mişr na lokalnom dijalektu se izgovara Maşr. Ime al-Qāhirah znači \"onaj koji potčinjava \/ onaj koji svladava\". Ovo ime je dodijeljeno zbog toga što su mnoge vojske kroz povijest pokušale osvojiti grad i bile uništene od strane njegovih branitelja, ili su strane vojske bile uništene od boraca poslanih iz Kaira.\nKairo je smješten na obalama i otocima Nila u sjevernom Egiptu, malo južnije od mjesta gdje rijeka napušta svoju pustinjom oivičenu dolinu i gdje se grana u tri rukavca započinjući deltu Nila.\nNajstariji dio grada je na istočnoj strani rijeke. Moderni dio se postupno širi zapadno, okružujući zelene površine doline Nila. Zapadni dijelovi su sagrađeni u doba Ismaila Veličanstvenog, po uzoru na Pariz, sa širokim bulevarima, parkovima i otvorenim prostorima. Najstariji dio na istoku je potpuna suprotnost. Rastao je nasumično kroz stoljeća i pun je uskih, zakrčenih staza. Dok zapadnim Kairom dominiraju zgrade vlade i državne zgrade u modernom stilu, istočni dio je ispunjen stotinama starih džamija koje služe kao orijentiri. Obilno korištenje vode iz Nila omogućilo je gradu da se širi ka istoku, dalje u pustinju. Mostovi povezuju Kairo s otocima Gezira i Roda, na kojima su smješteni mnogi vladini uredi i mnoge kuće vladinih službenika. Mostovi se također pružaju preko Nila, povezujući grad s predgrađima Giza i Imbabah."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Seul je glavni i najveći grad Republike Koreje, kulturni, trgovački i prometni centar s lukom na rijeci Han. Bio je glavni grad Koreje prije nego što se razdijelila. Danas u gradu živi 1\/4 stanovništvas Južne Koreje.\nSeul se nalazi u središtu Korejskog poluotoka, na rijeci Han, oko 60 km od Žutog mora. U sjeverozapadnom je dijelu Južne Koreje i u blizini je granice sa Sjevernom Korejom.\nPrivredno je središte s metalnom, elektrotehničkom, tekstilnom i kemijskom industrijom, te proizvodnjom papira, stakla i obradom kože.\nSeul je jedan od najstarijih gradova u Koreji i kulturno središte s državnim i nekoliko privatnih sveučilišta. Na tom mjestu je bila prijestolnica više kraljevstava koja su kroz povijest postojala na Korejskom poluotoku."
+    },
+    {
+        "id": "031y2",
+        "description": "Firenca je glavni grad pokrajine Toskana u Italiji. Grad leži na rijeci Arno i najpoznatiji je po svojoj srednjovjekovnoj povijesti grada-države Firence, u vrijeme kada je bila središte trgovine i financija te jedan od najbogatijih gradova u Europi, a posebice kao kolijevka talijanske renesanse, o čemu svjedoče brojni gradski spomenici. Godine 1982., UNESCO je uvrstio stari povijesni centar na popis svjetske baštine. Svojom arhitekturom, ali i muzejima, vrtovima, obrazovanjem, glazbom, kuhinjom, modom i dr., Firenca svake godine privlači oko milijun turista.\nZbog svoje kulturne važnosti, Firencu nazivaju \"talijanska Atena\". U njoj su živjele mnoge poznate ličnosti kao što su: Dante Alighieri, Giovanni Boccaccio, Donatello, obitelji Medici, Botticelli, Niccolò Machiavelli, Leonardo da Vinci, Filippo Brunelleschi, Michelangelo, Galileo Galilei i drugi."
+    },
+    {
+        "id": "0156q",
+        "description": "Berlin je najveći i glavni grad Njemačke s 3.392.026 stanovnika i nakon Londona drugi najveći grad Europske unije. Prije Drugog svjetskog rata imao je 4,5 milijuna stanovnika, a u vrijeme Hladnog rata od 1949. do 1990. bio je podijeljen na Istočni Berlin i Zapadni Berlin.\nBerlin je smješten na rijekama Spree i Havel na sjeveroistoku Njemačke. Jedna je od 16 njemačkih saveznih pokrajina, sa svih strana okružen pokrajinom Brandenburg."
+    },
+    {
+        "id": "05qtj",
+        "description": "Pariz je glavni i najveći grad Francuske. Smješten je na obalama rijeke Seine u sjevernoj Francuskoj, u središtu pokrajine Île-de-France, također poznate kao \"Pariška regija\". Stanovništvo grada Pariza, u svojim od 1860. uvelike nepromijenjenim granicama, procijenjuje se na 2 167 994, ali metropolitansko područje naseljava više od 11 milijuna stanovnika, kao najnaseljenije metropolitansko područje u Eurozoni.\nKao važno naselje tijekom više od dva milenija, Pariz je danas jedan od vodećih svjetskih poslovnih i kulturnih središta, s utjecajima na politiku, obrazovanje, zabavu, masovne medije, modu, znanost i umjetnost, što sve doprinosi statusu Pariza kao jednog od globalnih gradova. U skladu s procjenama iz 2005., pariško gradsko područje najveća je europska gradska ekonomija, i peta u svijetu u popisu svjetskih gradova prema BDP-u.\nPariz i Pariška Regija, s 533,6 milijardi eura u 2007., proizvode više od četvrtine bruto domaćeg proizvoda Francuske. U Pariškoj regiji, sjedište je 37 od 500 najprofitabilnijih kompanija na svijetu, smještenih u nekoliko poslovnih četvrti, među kojima i La Défense, najvećoj namjenski izgrađenoj poslovnoj četvrti u Europi. U Parizu također imaju sjedište mnoge međunarodne organizacije, kao UNESCO, Organizacija za ekonomsku suradnju i razvoj, Međunarodna Trgovačka Komora, i neformalni Pariški klub."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdam je glavni grad i važno gospodarsko i kulturno središte Nizozemske. Smješten je na ušću rijeke Amstel u IJsselmeer, Sjeverna Holandija. Šire gradsko područje broji više od 1.36 milijuna stanovnika što ga čini šestom metropolom u Europi.\nStariji dijelovi grada ispresjecani su kanalima, na kojima su brojne stare građanske kuće. Ima oko 160 kanala koji dijele grad na oko 90 otočića. Po tome se uz njega često veže naziv \"Venecija sjeverne Europe\". Amsterdamski kanali iz 17. stoljeća su upisani na UNESCO-v popis mjesta svjetske baštine u Europi, kao i obrambena linija Amsterdama."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakar je glavni grad Senegala, smješten na poluotoku Cape Verde, na atlanskoj obali zemlje. Njegov položaj na krajnjem zapadu kontinenta čini ga središtem europske i transatlanske trgovine s Afrikom; ova činjenica mu je pomogla da se razvije u glavnu luku u regiji.\nGodine 2005. broj stanovnika područja utjecaja je bio oko 2,4 milijuna, od kojih oko milijun živi u užem dijelu grada. Pozicija mu je 14°41' sjeverno i 17°26' zapadno.\nDakar je glavni administrativni centar Senegala, sjedište Senegalske Nacionalne Skupštine i Predsjedničke palače."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Janeiro je ime grada u državi Rio de Janeiro u jugoistočnom Brazilu. Rio de Janeiro je bivši glavni grad Brazila i Portugalskog Carstva. Spektakularno prirodno okruženje, karnevali, samba i plaže kao što su Copacabana, Ipanema i Leblon su ono po čemu se prepoznaje Rio. Ipak, najpoznatija atrakcija i zaštitni znak grada je sigurno statua Isusa, poznata kao Cristo Redentor na brdu Corcovado. Međutim, tu su i brdo Šećerna Glava sa žičarom koja ide do njegovog vrha, zatim Sambodrom za vrijeme karnevala, kao i stadion Maracanã, jedan od najvećih na svijetu. Rio također posjeduje i dvije najveće šume u urbanom području, Floresta da Pedra Branca i Floresta da Tijuca.\nProcjena broja stanovnika u gradu za 2005. godinu je 6.094.183, a u širem krugu grada je procijenjeno da živi između 11 i 12 milijuna stanovnika. Ipak, Rio nije najveći grad u Brazilu, ali je odmah iza São Paula. Ljude iz Rio de Janeira zovu Carioce, a neslužbena himna grada je Cidade Maravilhosa - Čudesan Grad.\nDana 1. srpnja 2012. godine, područje Rio de Janeira od najviših vrhova Nacionalnog parka Tijuca do mora, uključujući botaničke vrtove iz 1808. godine, planinu Corcovado sa slavnom skulpturom Krista Iskupitelja, te brda iznad zaljeva Guanabara uključujući opsežan urbani krajolik duž uvale Copacabana upisano je na UNESCO-v popis mjesta svjetske baštine u Americi. Naime, UNESCO je ovo područje prepoznao zbog jedinstvenog smještaja u prirodi koji je oblikovao razvoj grada, te mjesto koje je snažno inspiriralo umjetnike, od glazbenika, urbanista i dizajnera krajolika"
+    },
+    {
+        "id": "01fdzj",
+        "description": "Toranj je, u širem smislu, svaka ljudska tvorevina koja je viša no što je šira, izgrađen često na veoma maloj osnovi; u užem smislu, to je visok arhitektonski objekt različita tipa i raznovrsne namjene. Tornjevi se grade upravo zbog njihove visine koja im daje različite prednosti, te mogu biti samostalni ili dio većeg arhitektonskog kompleksa."
+    },
+    {
+        "id": "06gfj",
+        "description": "Cesta je svaka javna prometnica, ulice u naselju i nerazvrstane ceste na kojima se obavlja promet.\nU Hrvatskoj razlikujemo slijedeće vrste cesta:\n⁕javna cesta\n⁕autocesta\n⁕brza cesta\n⁕cesta namijenjena isključivo za promet motornih vozila\n⁕državna cesta\n⁕županijska cesta\n⁕lokalna cesta\n⁕nerazvrstana cesta\n⁕zemljana cesta\nPojmovi koji se vezuju uz cestu\n⁕kolnik\n⁕prometna traka\n⁕biciklistička staza\n⁕nogostup\n⁕pješački prijelaz\n⁕pješački otok\n⁕raskrižje\n⁕tramvajsko ili autobusno stajalište - dio površine ceste namijenjen zaustavljanju tramvaja, odnosno autobusa radi ulaska i izlaska putnika i koji je obilježen prometnim znakom.\n⁕ŽCP - željezničko - cestovni prijelaz\nRiječ cesta sadrži glas jat, pa je po starijem hrvatskom pravopisu oblika cěsta. To se se vidi u drugačijem odrazu jata u hrvatskim narječjima odnosno govorima, pa se tako u ikavskim govorima kaže cista. Najpoznatiji primjer su toponimi Cista Velika i Cista Provo."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Bolnica ustanova je za liječenje bolesnika. Zadaća je bolnice da prima bolesnike na liječenje i njegu; da stručno i statistički obrađuje svoj bolesnički materijal te da rezultate objavljuje službenim putem ili u stručnim i znanstvenim krugovima; da obrađuje medicinsku znanost i da odgaja liječnički podmladak i pomoćno zdravstveno osoblje."
+    },
+    {
+        "id": "0k05r",
+        "description": "Sudovi su tijela državne vlasti koja sudbenu vlast obavljaju sa­mostalno i neovisno u okviru djelokruga i nadležnosti određene zakonom."
+    },
+    {
+        "id": "019cfy",
+        "description": "Stadion je građevina ili mjesto predviđeno za održavanje sportskih ili glazbenih priredaba, i sastoji se od borilišta ili pozornice, koji mogu biti djelomično ili potpuno okružena strukturama, koje omogućuju posjetiteljima da promatraju priredbu."
+    },
+    {
+        "id": "0166ls",
+        "description": "Park je dio grada ili naselja u kojem se nalazi održavano zelenilo. Parkove često okružuju značajnije zgrade poput dvoraca. Održavanje parkova obično financira gradska uprava ili gradska četvrt na čijoj površini se nalazi park ili vlasnik prilegle zgrade. Funkcija parka je estetska ili rekreativna.\nPark se najčešće koristi za šetnju, sjedanje, rekreaciju, odmaranje i igru. Tipični park sadrži stabla, žbunje, putove, staze i aleje sa cvijećem. Parkovi često sadrže i vodene površine: jezerca, bazene ili potoke. Mogu sadržavati i razne dekorativne objekte kao i skulpture ili fontane.\nGradski parkovi pored ostalog smanjuju zagađenost zraka, a za vrijeme velikih vrućina mogu sniziti toplinu u gradovima.\nNekad se veće površine od posebnog ekološog značaja proglašavaju nacionalnim parkovima, s ciljem očuvanja prirode, posebno ako se radi o staništi endemskih biljaka ili ugroženih životinja."
+    },
+    {
+        "id": "09cmq",
+        "description": "Muzej je naziv za ustanovu i zgradu, u kojoj se čuvaju, proučavaju i izlažu - kronološki ili tematski - zbirke starina i umjetnina, te prirodoslovnih, tehničkih i sl. predmeta."
+    },
+    {
+        "id": "017ql",
+        "description": "Banka je ustanova ili radna organizacija koja posreduje u novčanom prometu i novčanim poslovima. Najčešće se bavi uzimanjem i davanjem kredita. Bankarstvo je gospodarska djelatnost koja se bavi posebnim poslovima u vezi s novcem i novčanim vrijednostima, a tako nazivamo i ekonomsku nauku o bankama i njihovu poslovanju.\nBanke se od velike važnosti za svako gospodarstvo. One mogu stvarati, prenositi i upravljati novcem. Također osiguravaju sigurniju alokaciju novčanih fondova od suficitnih prema deficitnim subjektima. Banke su svojim posredstvom u takvim poslovima smanjile troškove vezane za takve transfere.\nStvaranje bankarstva seže daleko u povijest, u vrijeme antike. Međutim, svoj procvat doživljava u srednjem vijeku.\nPotrebno je razlikovati središnju banku i ostale banke. Središnja banka je glavna i određuje pravila, dok sve ostale banke to moraju poštivati.\n\n Nedovršeni članak Banka koji govori o ekonomiji treba dopuniti. Dopunite ga prema pravilima Wikipedije."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Tržište prema najkraćoj definiciji predstavlja mjesto gdje se susreću ponuda i potražnja.\nKupnja i prodaja se mogu obavljati i bez nazočnosti robe, pa čak i bez izravnog kontakta kupaca i prodavača, kao pri kupnji prema katalogu, putem telefona, faksa, interneta i slično. Zbog toga se tržište definira kao stalan i organiziran oblik dovođenja u kontakt ponude s potražnjom roba i usluga. Tržište je istodobno i mehanizam kojim se reguliraju odnosi prodavača i kupaca u uvjetima u kojima sudionici razmjene ili kupoprodaje ostvaruju svoje ciljeve i interese, zbog kojih i stupaju u međusobne odnose."
+    },
+    {
+        "id": "09cjl",
+        "description": "Zračna luka je prostor otvoren za javni zračni promet, a čine ju određena područja s operativnim površinama, objektima, uređajima, postrojenjima, instalacijama i opremom, namijenjenima za kretanje, uzlijetanje, slijetanje i boravak zrakoplova, te prihvat i otpremu zrakoplova, putnika, prtljage, robe, stvari i pošte."
+    },
+    {
+        "id": "053rd",
+        "description": "Rudarstvo obuhvaća pronalaženje i vađenje korisnih mineralnih sirovina iz njihovih ležišta u Zemljinoj kori.\nRudarski proizvodi su temeljna poluga za cijelu industriju, pa je osnovna zadaća rudarstva da proizvodi i dostavlja industriji potrebne količine mineralnih sirovina, koje se izravno koriste ili daljnjim postupcima prerade prerađuju u poluproizvode koje ostale industrijske grane koriste pri izradi konačnog proizvoda."
+    },
+    {
+        "id": "029g_vk",
+        "description": "Telekomunikacije ili komunikacije na daljinu, način su obavljanja komunikacija na daljinu s pomoću elektromehaničkih metoda: brzojav, telefaks, telefon, Internet."
+    },
+    {
+        "id": "01mf0",
+        "description": "Programska podrška je neopipljivi dio računala u kojeg se ubrajaju programi i podatci koji se nalaze na računalu, uključujući operacijski sustav, za razliku od mehaničkih i elektroničkih dijelova koji zajedno čine sklopovlje. Termin \"softver\" prvi je rabio John W. Tukey 1957. godine."
+    },
+    {
+        "id": "011s0",
+        "description": "Oglašavanje je jedna vrsta komunikacije kojoj je svrha informiranje, obavještavanje potencijalnih kupaca o proizvodima ili uslugama. Reklame kao način oglašavanja sadrže činjenice, informacije i uvjerljive poruke o onome što reklamiraju. Danas se za oglašavanje većinom koriste masovni mediji kao što su: televizija, radio, filmovi, časopisi, novine, internet, plakati, pa čak i video igre. Razne reklame možemo naći i na prijevoznim sredstvima, autobusnim i tramvajskim stanicama itd. Oglašavački materijal se stavlja gdje ga svi ljudi mogu lako uočiti. Oglašavanje u svrhu promoviranja koriste i političke stranke, vjerske organizacije, vojska, neprofitne organizacije ..."
+    },
+    {
+        "id": "01ftz",
+        "description": "Prema definiciji Europske federacije za biotehnologiju iz 1992. godine, biotehnologija \"povezuje prirodne znanosti i inženjerske znanosti da bi se postigla primjena organizama, stanica, njihovih dijelova i molekularnih analogona u dobivanju proizvoda za dobrobit čovječanstva\"."
+    },
+    {
+        "id": "0191_7",
+        "description": "Maloprodaja je prodaja dobara ili usluga krajnjem kupcu, potrošaču ili korisniku. Maloprodaje su dio sustava lanca opskrbe. Maloprodaje kupuju proizvode u velikim količinama od proizvođača ili veleprodaja, a zatim ih prodaju u manjim količinama krajnjem korisniku. Trgovina se može odvijati bilo na fiksnim lokacijama ili online."
+    },
+    {
+        "id": "0h61",
+        "description": "Arheologija je znanost koja sustavno proučava i istražuje stare materijalne ostatke sa ciljem rekonstrukcije cjelokupnog života čovječanstva.\nSam naziv potječe od starogrčkih riječi aρχαιος i λογος. Riječ aρχαιολογία postojala je u starogrčkom jeziku, ali u svom prvobitnom značenju - pričanje starih priča. Riječ arheologija ponovno koristi francuski putopisac Jacques Spon u 17.stoljeću, pridajući joj značenje blisko modernom poimanju."
+    },
+    {
+        "id": "01mtb",
+        "description": "Kulinarstvo je umijeće u tehnici pripremanja namirnica u za ljude jestive obroke prehrane."
+    },
+    {
+        "id": "034dj",
+        "description": "Kockanje ili kocka je zajednički naziv za sve igre ili klađenje u kladionicama koje uključuju ulaganje novca.\nRezultati igre ovise o sreći, a malo ili nikako o sposobnosti igrača. Kockanje uključuje klađenje na lutriju, Loto i športske kladionice. Kockanje može dovesti igrača kockara do ovisnosti.\nU nekim zemljama je kockanje i organizirane kockanja zakonski zabranjeno ili dozvoljeno samo u mjestima koja posjeduju koncesiju.\nU nekim igrama igrač računa na utjecaj svoje sposobnosti. To su, primjerice, Blackjack i sportsko klađenje. Neke igre, pak, znače dugoročno svakako gubitak za igrača ali dobitak za kasino, kao što je Roulette. Neke se igre, poput pokera, smatraju igrama na sreću, ali u njima kasino ne sudjeluje u pobjedama ili gubicima igrača, tj. nema elementa croupiera.\nNajveća sjedišta kockarskog života su Las Vegas i Monte Carlo."
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotografija je tehnika digitalnog ili kemijskog zapisivanja prizora iz stvarnosti na sloju materijala koji je osjetljiv na svjetlost koja na njega pada. Riječ dolazi od grčkog φως phos, te γραφις graphis ili γραφη graphê, koje zajedno znače otprilike \"crtanje pomoću svjetla\"."
+    },
+    {
+        "id": "064rk",
+        "description": "Lončarstvo je umijeće proizvodnje keramičkih posuda od gline i jedno je od prvih zanata koji su se pojavili s nastankom ljudske kulture. Postupak se vrši oblikovanjem vlažne gline uz pomoć priprostijeg ručnog kola ili masnije gline uz upotrebu mnogo bržeg nožnog lončarskog kola. Ručno kolo ne zahtjeva preveliko majstorstvo ali je postupak izrade puno duži. Nakon što bi se oblikovalo dno na plohi kola, stjenke posude bi se dograđivale spiralnim nanošenjem valjušaka koji se zasebno izrađuju. Isto tako je ručno kolo pogodno za izradu velikih posuda. Nožno kolo zahtijeva veće majstorstvo jer se dno i stijenka posude izvlače od jednog komada gline.\nKada bi se posuda oblikovala sljedeća faza u proizvodni je njezino ukrašavanje linijama nekim oštrim predmetom ili otiscima u meku površinu. Ovi ukrasi kasnije se mogu bojati nanašanjem boje kistom, nakon čega bi se sušili na zraku. U završnoj fazi osušeno posuđe išlo bi na pečenje na otvorenoj vatri ili u posebne zatvorene lončarske peći na temperaturama od 800 do 1000 stupnjeva Celzija.\nU slučaju pocakljvanja u otopinama metalnih oksida, postupak pečenja treba ponoviti na temperaturama iznad 900 stupnjeva Celzija.\nNajčešći lončarski proizvodi su lonci, šalice, čaše i slični predmeti koji danas sve više imaju dekorativni namjenu, iako se polako vračaju u upotrebu jer su nove glazure mnogo sigurnije za upotrebu jer ne ispuštaju olovo."
+    }
+]

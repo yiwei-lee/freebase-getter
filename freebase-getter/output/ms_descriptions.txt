@@ -1,0 +1,962 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Semut ialah serangga sosial dalam famili Formicidae, dan bersama dengan penyengat dan lebah yang berkaitan, mereka tergolong dalam kumpulan Hymenoptera. Semut berevolusi daripada keturunan seakan penyengat dalam zaman pertengahan Usia Kapur antara 110 dengan 130 juta tahun lalu dan mempelbagai selepas muncul pokok bunga. Kini, terdapat lebih 12,500 spesies diklasifikasikan dengan jumlah anggaran lebih kurang 22,000 spesies. Mereka mudah dikenalpasti dengan antena yang menyigung dan struktur seperti nod yang tersendiri yang membentuk suatu pinggang langsing.\nSemut membentuk koloni yang bersaiz daripada beberapa puluh individu pemangsa tinggal di rongga alamiah kecil ke koloni besar berorganisasi yang menghuni satu kawasan besar dan terdiri daripada jutaan individu. Koloni-koloni besar ini sebahagian besar ahlinya merupakan semut betina tanpa sayap mandul yang membentuk kasta \"pekerja\", \"askar\", atau kumpulan khusus lain. Koloni ini juga mempunyai semut jantan subur yang dipanggil \"dron\" dan satu atau lebih semut betina sebur yang dipanggil \"ratu\". Koloni-koloni ini kadangkala digambarkan sebagai satu superorganisma kerana semut-semutnya kelihat seperti berfungsi sebagai satu entiti bersatu, bekerja bersama-sama menyokong koloni."
+    },
+    {
+        "id": "01dws",
+        "description": "Beruang merupakan sejenis mamalia besar daripada famili Ursidae."
+    },
+    {
+        "id": "01h3n",
+        "description": "Lebah merupakan sejenis serangga terbang sosial yang hidup berkelompok dan lebih dikenali kerana peranan mereka dalam mengahwinkan bunga, menghasilkan madu dan juga lilin lebah. Terdapat kira-kira 20,000 spesies lebah, dan ia boleh didapati di setiap benua, kecuali Antartik.\nLebah mencari makanan di luar sarang. Setelah menemui sumber, mereka membawa jeli diraja ke sarang sekadar yang termampu. Lebah akan mengingati lokasi sumber makanan tadi dan akan meminta bantuan rakan-rakan yang berada di sarang. Mereka memulakan dengan gerakan berbentuk nombor 8 di dalam sarang dan bergerak atau menggoyangkan badan seakan-akan menari sebagai isyarat jarak sumber makanan tersebut. Di hujung tarian, lebah-lebah lain akan memahami dan terus menuju sumber makanan tersebut dengan tepat.\nApabila berbicara mengenai lebah, kebanyakan orang akan terfikir tentang 'lebah sosial' - kawanan lebah madu, atau kumpulan-kumpulan lebah. Hakikatnya, sebahagian besar lebah adalah lebah tentera, yakni menjalani kehidupan seperti lebah tunggal, membina sel sarang tunggal, berbanding bekerja dengan lebah lain untuk meningkatkan jumlah besar keturunan di sarang.\nSebagai serangga, ia mempunyai tiga pasang kaki dan dua pasang kepak. Lebah membuat sarangnya di atas bukit, di pohon kayu dan pada atap rumah. Sarangnya dibina daripada lilin yang terdapat dalam badannya. Lebah memakan madu bunga dan debunga."
+    },
+    {
+        "id": "015p6",
+        "description": "Burung merupakan haiwan bersayap, berkaki dua, berdarah panas dan bertelur dalam kumpulan haiwan vertebrata yang besar dan pelbagai terdapat di serata dunia, dari kawasan gurun sehinggalah di kutub utara, juga di kawasan hutan hujan Amazon, dan Greenland. Terdapat lebih daripada 8,600 spesies burung yang telahpun dikenalpasti yang dibahagikan kepada 27 order. Selain itu, terdapat banyak subspesies yang jika dikira berserta dengan spesies yang diketahui mengandungi lebih 3200 jenis.\nBurung merupakan homoioterma, berdarah panas, dengan suhu tetap 40-44 °C. Tulang burung adalah ringan dan berongga di kebanyakan tempat untuk mengurangkan ketumpatan dan beratnya. Semua burung mempunyai paruh, yang berbeza hanyalah bentuk dan saiz paruh mereka. Kebanyakan burung mempunyai bulu pelepah kecuali sedikit yang tidak mempunyai bulu pelepah. Burung dipercayai berevolusi daripada reptilia, seperti dinosaur, yang hidup kira-kira 180 juta tahun yang lampau. Burung berubah dan kehilangan gigi dan ciri reptilia yang lain, samasa mengalami proses evolusi yang mengambil masa berjuta-juta tahun. Pada masa yang sama, bulu pelepah tumbuh pada ekornya dan sayapnya. Ciri-ciri utama haiwan burung adalah seperti berikut :-"
+    },
+    {
+        "id": "01x_v",
+        "description": "Unta ialah mana-mana satu daripada dua spesies ungulat yang mempunyai bilangan jari kaki yang genap dalam genus Camelus, iaitu:\n⁕Camelus dromedarius yang terdapat di Afrika utara dan Asia barat;\n⁕Camelus bactrianus yang terdapat lebih jauh di utara dan timur Asia tengah.\nKedua-dua jenis berasal dari gurun dan kawasan kering Asia dan Afrika utara. Jangka hayat purata seekor unta antara 30 hingga 50 tahun. Istilah unta juga digunakan secara umum untuk merujuk kepada mana-mana satu daripada enam haiwan yang seakan-akan unta dalam famili Camelidae: dua jenis unta benar, dan empat jenis kamelid Amerika Selatan: Llama, Alpaka, Guanako dan Vikuna. Nama unta dalam bahasa Inggeris camel datang melalui bahasa Greek κάμηλος daripada bahasa Arab جمل atau bahasa Ibrani גמל.\nUnta Camelus Bactrianus mempunyai dua lapis bulu: selapis bulu halus yang hangat di dalam, serta selapis bulu yang panjang dan kasar di luar. Haiwan ini menggugur kedua-dua lapis bulunya dalam gumpalan yang biasanya dikumpul. Struktur bulunya serupa dengan sakhlat kashmir. Bulu halus yang panjangnya biasa antara satu hingga tiga inci dipintal menjadi yan untuk kaitan. Unta menghasilkan 5 paun bulu setahun."
+    },
+    {
+        "id": "01yrx",
+        "description": "Kucing dikenali sebagai kucing bela jinak ialah mamalia karnivor kecil dari subspesis Felis silvestris catus. Ia adalah keturunan kucing liar Afrika, Felis silvestris lybica dan mungkin dijinakkan 3,500 tahun dahulu di zaman Mesir purba, di mana ia digunakan untuk menjaga simpanan bijirin daripada tikus dan roden yang lain. Hari ini kucing merupakan salah satu daripada haiwan belaan rumah yang paling terkenal di dunia.\nKucing yang keturunannya berdaftar secara rasmi dipanggil kucing baka, kucing baka tulen atau kucing pertunjukan. Kucing baka tulen adalah kurang dari satu peratus daripada keseluruhan populasi kucing; kucing yang mempunyai baka campuran dirujuk sebagai bulu-panjang bela jinak dan bulu-pendek bela jinak.\nTerdapat pelbagai baka kucing domestik, ada yang tidak berbulu ataupun ekor, dan mereka wujud dalam beraneka warna yang berlainan dan ada juga mempunyai banyak warna. Mereka adalah pemangsa yang mahir dan diketahui bahawa mereka memburu lebih dari seribu spesies haiwan lain sebagai makanan. Mereka juga haiwan yang pintar dan ada yang berkebolehan untuk menggunakan mekanisma ringkas seperti tuil pintu atau tandas manusia, seperti yang dijelaskan dibawah. Mereka berhubung dengan mengiau, mengeluarkan bunyi 'purrr', berdesis dan juga isyarat anggota. Kucing boleh dikatakan baru lagi dijinakkan, oleh itu kucing juga boleh hidup di kawasan liar dan selalunya mereka akan membentuk satu koloni kecil. Hubungan manusia dan kucing menyebabkan kucing dipuja di dalam dongeng dan legenda dari beberapa bangsa, contohnya Mesir Purba, Viking dan juga Cina."
+    },
+    {
+        "id": "09b5t",
+        "description": "Ayam merupakan sejenis burung peliharaan yang seringkali diternak bagi telurnya. Ia dipercayai berasal daripada Ayam Hutan Merah Asia.\nAyam merupakan burung paling biasa di dunia. Dianggarkan terdapat 24 bilion pada tahun 2003, menurut Firefly Encyclopedia of Birds.\nAyam merupakan haiwan maserba. Ia makan hampir apa sahaja, dari bijian ke daunan dan dari serangga ke tikus. Namun ayam ternakan biasanya diberi makanan khas seperti bijirin dan sumber protein. Ayam ternakan biasanya tidak dapat terbang begitu jauh.\nAyam merupakan makanan yang sangat digemari dan boleh digoreng untuk dimakan begitu sahaja ataupun sebagai lauk untuk dimakan bersama nasi yang sudah pasti enak dimakan. Ayam juga boleh dimasak dengan masak kari, masak kurma, masak merah, masak gulai, rendang ayam dan sebagainya."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Salah satu daripada haiwan yang terdapat di Malaysia adalah lembu atau dalam bahasa Inggerisnya cattle\/cow. Di Malaysia, lembu merupakan haiwan yang penting semenjak dahulu lagi. Pada zaman dahulu lembu menjadi harta yang sangat berharga seperti bidalan \"lembu kerbau penuh sepadang\". Lembu juga menjadi alat yang penting bagi sektor pertanian dan pengangkutan di mana lembu digunakan bagi membajak sawah dan sebagai haiwan penarik kereta lembu. Pilih di sini untuk penerangan teknik pembuatan kereta lembu.\nLembu juga merupakan sumber makanan sebagai daging, sup lembu., dan susu"
+    },
+    {
+        "id": "09ddx",
+        "description": "Itik ialah nama biasa untuk spesies daripada famili Anatidae dan kelas burung. Itik kebiasaannya ialah burung akuatik, lebih kecil daripada saudaranya iaitu joyinah dan angsa, dan boleh ditemui di air tawar dan laut.\nItik dipelihara untuk daging atau telurnya. Di Malaysia, negeri utama pengeluar telur itik ialah Kedah, Perlis dan Pulau Pinang.\nKebanyakan itik mempunyai paruh yang rata dan lebar untuk menyudu. Itik makan pelbagai jenis makanan seperti rumput, tumbuhan akuatik, ikan, serangga, amfibia kecil, cacing dan moluska kecil."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Gajah merupakan haiwan daratan terbesar di dunia. Terdapat 3 spesies gajah di dunia.\n⁕Gajah Asia\n⁕Gajah Afrika\n⁕Gajah Kerdil Malaysia"
+    },
+    {
+        "id": "03k3r",
+        "description": "Kuda ialah sejenis mamalia ungulat besar yang mempunyai bilangan jari kaki yang ganjil dan merupakan salah satu daripada sepuluh spesies moden dalam famili Equus. Nama saintifiknya Equus caballus atau Equus ferus caballus. Kuda telah lama merupakan salah satu haiwan bela jinak yang amat penting daripada segi ekonomi, dan telah memainkan peranan yang penting dalam pengangkutan orang dan barang muatan selama beribu-ribu tahun. Sedangkan pembelajinakan kuda terpencil mungkin terjadi seawal 10,000 tahun dahulu, bukti yang jelas terhadap penggunaan kuda secara meluas oleh manusia bertarikh pada sekitar 2000 SM.\nKuda telah dibiakbakakan dengan teliti supaya haiwan ini dapat ditunggang, biasanya dengan pelana. Haiwan ini juga boleh dikenakan abah-abah untuk menarik objek-objek seperti kereta kuda atau bajak. Dalam sesetengah budaya, kuda merupakan satu sumber makanan, termasuk daging kuda dan kekadangnya susu; dalam budaya yang lain, memakan daging kuda adalah pantang larang.\nDi negara-negara kaya pada hari ini, kuda lebih biasa dipeliharakan untuk kegiatan waktu lapang dan sukan. Bagaimanapun, kuda terus memainkan berbagai-bagai fungsi ekonomi di seluruh dunia.\nManusia telah membiakbakakan kuda selama beribu-ribu tahun dan telah menghasilkan banyak jenis baka yang berbeza-beza. Serupa dengan pembiakbakaan anjing, kuda telah dibiakbakakan supaya dapat menghasilkan sifat-sifat dan keupayaan-keupayaan yang khusus; umpamanya, kuda belima dihasilkan untuk kelajuan yang diperlukan oleh perlumbaan kuda."
+    },
+    {
+        "id": "08pbxl",
+        "description": "Monyet adalah sekumpulan primat simian di samping mawas yang dibahagi kepada monyet Dunia Baru dan monyet Dunia Lama, . Terdapat 264 spesies monyet yang diketahui wujud di dunia.\nMonyet Dunia Baru dikelaskan dalam parvorder Platyrrhini, manakala monyet Dunia Lama membentuk sebahagian parvorder Catarrhini yang juga merangkumi mawas. Maka, secara saintifik, monyet adalah parafili, dan monyet Dunia Lama sebenarnya lebih erat pertaliannya dengan mawas berbanding monyet Dunia Baru.\nOleh sebab keserupaannya dengan monyet, mawas-mawas seperti cimpanzi dan ungka turut dipanggil \"monyet\" dalam perbualan tidak formal, sungguhpun sebenarnya bukan monyet. Sebaliknya, gara-gara saiznya, Mandrill juga disangka merupakan sejenis mawas, tetapi sebenarnya sejenis monyet Dunia Lama.\nPerkataan \"kera\" kadang-kala digunakan untuk memaksudkan mana-mana jenis monyet, tetapi sebenarnya hanya memaksudkan satu spesis di Malaysia."
+    },
+    {
+        "id": "07bgp",
+        "description": "Biri-biri merupakan salah satu daripada haiwan yang terdapat di Malaysia. Biri-biri tempatan di Malaysia hanya terdapat di Kelantan dalam 2 jenis. Satu jenis mempunyai bulu yang lembut dan halus dan mempunyai telinga kecil, sementara sejenis lagi mempunyai bulu yang kasar dan keras, dan telinga biasa. Biri-biri Kelantan lebih kecil berbanding yang diimpot daripada Hong Kong, Singapura atau Bangkok, dan juga tidak menyerupai biri-biri di Burma dan India.\nBiri-biri yang terdapat di Kelantan tidak diketahui asalnya, mungkin mampu ditentukan dengan kajian DNA. Bagaimanapun, biri-biri tersebut telah menyesuaikan diri dengan kawasan tempatan di Kelantan, Patani dan sebahagian Terengganu. Ia tidak terdapat di negeri-negeri lain di Malaysia.\nditerbitkan oleh James Maclehose and Sons, Glasgow - Chapter XIII : Live Stock, page 85 ~ 86 rujukan.\nTermasuk biri-biri tempatan, terdapat tiga kumpulan biri-biri:\n⁕Biri-biri tempatan;\n⁕Jenis eksotik;\n⁕Dorset\n⁕Wiltshire\n⁕Romney\n⁕Suffolk\n⁕Corriedale\n⁕Border Leicester\n⁕Kacukan-kacukan di atas."
+    },
+    {
+        "id": "0qqk",
+        "description": "Bayam ialah tumbuhan dalam kelas sayuran. Ia adalah tanaman yang banyak terdapat di Malaysia. Terdapat 2 jenis bayam yang utama dimakan di Malaysia iaitu bayam hijau dan bayam merah. Bayam adalah daripada keluarga Amaranthaceae. Ia kaya dengan Vitamin A, Vitamin B, Vitamin C dan zat-zat galian seperti zat besi, fosforus, kalium, mangan dan zink. Di Malaysia, bayam ditanam untuk tujuan pasaran domestik dan sebahagiannya untuk diekspot ke Singapura dan Brunei.\nBayam dikenali di Malaysia danIndonesia dan juga sebagai Amaranth, Amaranthe, Kulitis, Aopa, Phtii, Phakkhom-suan, Hom dan Raudeen. Bayam dipercayai berasal dari Asia Tenggara dan juga terdapat dan tersebar ke Amerika Tengah dan Afrika tetapi dari genus yang agak berbeza. Bayam merupakan sayuran yang sangat popular di Malaysia dan Indonesia dan merupakan sayuran popular yang 10 teratas dari segi penanaman dan penggunaan.\nTerdapat seluas 4,180 hektar bayam di tanam di Malaysia dengan pengeluaran sebanyak 45,140 metrik tan pada tahun 2010. Kawasan utama bagi penanaman bayam di Malaysia adalah di Negeri Johor diikuti dengan Selangor dan Pulau Pinang. Daerah Johor Bahru merupakan kawasan yang bertanam Bayam paling luas di Malaysia diikuti dengan Daerah Kota Tinggi dan Daerah Muar. Saya memang ada pengalaman menjalankan aktiviti khidmat pengembangan teknikal tanaman Bayam di Muar bersama-sama petani yang merupakan Pengerusi Persatuan Penanam Sayur Malaysia iaitu En Tan Soo Tiok di kawasan Sengkang Mukim Gerisek."
+    },
+    {
+        "id": "0hkxq",
+        "description": "Brokoli atau kubis bunga hijau ialah sejenis tumbuhan yang dijadikan sebagai sayur-sayuran.\nJambak bunganya bersama tangkai jambak bunga yang muda direbus atau dikukus sehingga sederhana empuk untuk dijadika sebagai ulam. Rasanya lemak-lemak manis."
+    },
+    {
+        "id": "0fbw6",
+        "description": "Kobis bulat merupakan sejenis sayur. Brassica oleracea merupakan nama sains bagi bunga kobis dan sayur ini berasal dari keluaraga Brassica. Sayur ini mengandungi belerang atau sulfur, iaitu sejenis zat galian yang penting untuk kesihatan. Kobis bukan sahaja berkesan untuk mengubati penyakit ulser malahan juga berkesan untuk mengubati masalah–masalah lain di usus\nKobis yang kaya dengan kalsium, fosforus, zat besi, sodium, potasium dan vitamin A, B- Kompleks dan C dapat meredakan masalah di bahagian perut dan hati seperti yang dialami oleh mereka yang lali arak. Kompaun belerang dalam kubis dapat menghindarkan pengeluran carcinogen, sejenis bahan kimia berbahaya dalam tubuh badan. Amalan memakan kobis dapat menghalang carcinogen daripada bergabung menjadi sel-sel darah. Selain itu asid amino yang mengandungi belerang dalam kubis juga bertindak menurunkan paras kolestrol, meredakan saraf dan menenangkan fikiran dan sekaligus membantu seseorang itu tidur dengan selesa pada waktu malam.\nKobis bulat banyak terjual di pasar-pasar termasuk pasar tani, dan pasar sayur."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Lobak merah merupakan sejenis tumbuhan yang menyimpan makanannya dalam umbi. Ia digunakan oleh manusia sebagai makanan. Warnanya jingga, namun warna ungu, merah, putih dan kuning juga wujud. Teksturnya rangup ketika segar.\nLobak merah dikelaskan sebagai sayuran dan menjadi bahan masakan utama yang digunakan secara meluas dalam masakan di ASEAN. Lobak merah juga digunakan bagi penyediaan acar timun, jus lobak, dan kek lobak."
+    },
+    {
+        "id": "01xj_",
+        "description": "Daun Saderi, daun sup atau ranting suri merupakan sejenis sayur yang berbatang lembut yang kaya dengan zat besi, fosforus, natrium, kalium, karotena, vitamin A, B-Kompleks dan C dan magnesium. Daun ini dikenali sebagai Apium graveolens dan berasal dari keluarga Dulce umbelliferae.\nIa juga boleh dibuat ulam. Rasanya manis, rangup dan berbau wnagi."
+    },
+    {
+        "id": "053wn",
+        "description": "Jagung merupakan bijirin makanan ruji dari Mesoamerica, spesies Zea mays ssp. mays. Jagung merupakan tanaman yang ditanam berasal dari teosinte Zea mays ssp. parviglumis, tumbuhan asal di sungai Balsas Lembah di Mexico selatan, dengan sehingga 12% bahan genetik didapati daripada Zea mays ssp. mexicana melalui introgresi. Istilah \"teosinte\" digunakan untuk menggambarkan semua spesies dalam genus Zea, kecuali Zea mays ssp. mays. Pendapat yang menyatakan bahawa genus Tripsacum yang berkait dengan asal tumbuhan jagung telah dinafikan dengan analisa genetik moden."
+    },
+    {
+        "id": "015x4r",
+        "description": "Timun atau Mentimun merupakan sejenis buah tumbuhan yang dimakan sebagai sayur-sayuran dan ditanam sebagai makanan sejak 3000 tahun dulu. Timun boleh dimakan secara mentah atau segar dan juga dalam masakan.\nTimun yang juga dikenali sebagai mentimun atau nama saintifiknya Cucumis sativus, mengandungi 0.65% protein, 0.1% lemak dan karbohidrat sebanyak 2.2%. Selain itu timun juga mengandungi kalsium, zat besi, magnesium, fosforus, vitamin A, vitamin B1, vitamin B2 dan vitamin C.\nBiji timun mengandungi racun alkoloid jenis hipoxanti,yang berkesan untuk merawat kanak-kanak yang kecacingan. Bagi mereka yang menhidapi sakit tekak apabila diserang batuk, penyakit ini dapat dirawat dengan biji timun dimana sedikit biji timun dicampurkan dengan sedikit garam dan dikumuh beberapa kali sehari. Pengamalan ini dapat mengembalikan suara yang hilang.\nSelain itu, penyakit sampu pucat iaitu sejenis penyakit pening-pening yang berterusan sehingga dapat menurunkan berat badan dapat diatasi dengan pengamalan makan timun mentah atau yang telah dimasak. Timun juga dapat mengubati penyakit disesteri iaitu keluar darah semasa membuang air besar.\nTimun banyak terjual di pasar-pasar termasuk pasar tani, dan pasar sayur. Ia terletak dalam famili yang sama dengan tembikai dan labu."
+    },
+    {
+        "id": "017dqv",
+        "description": "Pokok Adas ialah satu spesies pokok ulam dalam genus Foeniculum yang berasal daripada Eropah selatan dan Asia barat daya. Pokok ini adalah ahli famili Apiaceae. Nama botaninya ialah Foeniculum vulgare.\nPokok Adas ialah herba saka yang berbau amat harum, berwarna hijau kuning, tegak, dan bertumbuh sehingga dua meter tinggi. daun bertumbuh sehingga 40 sentimeter panjang, berkelaran halus, dengan segmen terakhir dalam bentuk filiform, kira-kira 0.5 milimeter lebar. Bunga yang dihasilkan di hujung tangkai adalah dalam bentuk umbel majmuk yang lebarnya antara 5 hingga 15 sentimeter. Setiap bahagian umbel mempunyai 20-50 kuntum bunga kuning yang amat kecil pada pedikel-pedikel yang pendek. Buahnya adalah biji kering dari 4 hingga 9 milimeter panjang, dengan lebar separuh panjangnya, dan mempunyai alur. Bijinya yang dikeringkan dikenali sebagai jintan manis.\nDaun Pokok Adas digunakan sebagai makanan oleh larva sebilangan spesies Lepidoptera, termasuk rama-rama Mouse Moth dan Anise Swallowtail."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Bawang putih merupakan sejenis tumbuhan dari keluarga Alliaceae sama seperti lain-lain jenis bawang iaitu bawang besar, bawang merah, lik, dan kucai. Bawang putih telah ditanam dan digunakan manusia semenjak beribu tahun dulu dalam perubatan dan masakan. Bawang putih seperti juga bawang merah dan bawang besar mempunyai daun dan bebawang yang berada dalam tanah yang cetek sahaja. Berbeza dengan bawang besar yang mempunyai satu bebawang, bawang putih dibentuk dari pelbagai bebawang yang mebentuk satu rumpun bebawang.\nBawang putih dipercayai berasal dari tengah pergunungan Asia iaitu di Tajikstan, Turkmenia, Uzbekistan dan utara Iran, Afghanistan dan Pakistan. Ia dari tumbuhan liar yang kemudian dibuat pembiakbakaan tumbuhan sejak dulu kala. Tanaman ini merupakan tanaman yang mendapat penekanan di negara oirental seperti di China dan Korea.\nBelum ada maklumat mengenai tanaman bawang putih dibuat di Malaysia kerana tanaman ini kurang sesuai di Malaysia yang mempunyai iklim lembab dan banyak hujan memudahkan serangan penyakit bawang putih. Negara pengeluar utama bawang putih didunia ialah China dengan 10.5 juta metrik tan setahun atau kira-kira 77% penghasilan dunia. Ini diikuti dengan India, Korea, Rusia dan Amerika Syarikat. Malaysia merupakan negara pengimpot bersih utama bawang putih."
+    },
+    {
+        "id": "03lp1_",
+        "description": "Pokok Labu Parang adalah sejenis pokok ulam yang terdapat di hutan Malaysia. Nama botaninya Lagenaria siceraria. Pokok Labu Parang merupakan sejenis pokok menjalar yang ditanam bagi mendapatkan buahnya, yang boleh dituai semasa putik sebagai sayuran atau dituai matang, dikeringkan dan digunakan sebagai bekas, botol atau alat muzik. Bagi tujuan ini, salah satu sub-spesies Labu Parang yang lebih panjang dan tirus dikenali sebagai labu botol. Buah lamu segar memiliki warna hijau muda licin dan sis putih.\nPokok labu merupakan salah satu pokok yang ditanam di dunia, ditanam bukan sebagai makanan tetapai bagi bekas simpanan. It was named for the calabash tree."
+    },
+    {
+        "id": "013__5",
+        "description": "Bawang perai tergolong dalam genus Allium yakni keluarga bawang. Ia mempunyai rasa seakan-akan bawang, tetapi kurang tajam. Ia banyak digunakan dalam masakan Eropah. Biasanya ia ditumis dalam mentega hingga layu sebelum dicampur bersama masakan lain. Bawang perai merupakan komponen yang penting dalam sajian Perancis iaitu vichyssoise, dan juga sup Scotland seperti bubur Scottish dan cock-a-leekie. Bawang perai merupakan salah satu simbol negeri Wales."
+    },
+    {
+        "id": "0fqlj",
+        "description": "Salad merupakan dalam keluarga daisi Asteraceae. Salad selalunya tumbuh sebagai sayur sayuran berdaun. Di kebanyakan negara, salad dimakan sejuk dan mentah di dalam hidangan salad, hamburger, taco, lain lain hidangan. Di beberapa tempat, seperti di China, salad selalunya dimakan dengan memasak dan pentingnya batang pada sayuran sama seperti pentingnya daun. Nama Inggeris dan nama Latin bagi genusnya asalnya diambil daripada perkataan lac, perkataan Latin untuk \"susu\", merujuk kepada jus tumbuhan tersebut yang \"bersusu\". Salah dijelaskan sejak berabad yang lalu sebagai sejenis tumbuhan penyejuk yang seimbang kepada bahan-bahan lain yang dicampurkan dalam salad.\nDaun salad bukan sahaja digunakan untuk menghiaskan makanan, malahan juga enak dimakan begitu sahaja.Peranan daun salad bukan sahaja berhenti begitu sahaja kerana daun ini juga mempunyai kepentingan dari segi perubatan. Daun salad atau nama sainsnya Lactuca sativa, merupakan penawar kepada masalah insomia atau gangguan tidur. Tumbuhan ini kaya dengan zat besi, kalsium,fosforus, sodium, potasium, vitamin A dan C, mangnasium dan zink itu mengandungi sejenis kompaun yang dikenali sebagai lactucarium yang bertindak sebagai sedatif."
+    },
+    {
+        "id": "025s18p",
+        "description": "Bendi, kacang lendir atau kacang bendir merupakan sejenis buah yang dimakan sebagai sayuran yang banyak ditanam di negara-negara ASEAN yang beriklim panas lembap. Bendi yang ada di Malaysia kini dipercayai berasal dari Afrika Tengah dan banyak di tanam di negeri Johor, Perak, Kelantan serta Pulau Pinang. Di Johor sahaja seluas 390 hektar di tanam pada tahun 2008 iaitu daripada jumlah tersebut seluas 90 hektar ditanam di daerah Muar dengan pengeluaran sebanyak 1,620 metrik tan setahun. Bendi banyak terjual di pasar-pasar termasuk pasar tani, dan pasar sayur. Ia berasal dari sebuah tempat yang kini termasuk dalam Habsyah. Sebelum ini, bendi dikelaskan dalam genus Hibiscus, tapi kini telah ditukar kepada Abelmoschus.\nBendi sesuai ditanam sebagai komoditi komersial dan tanaman keliling rumah dalam pasu atau polibeg sebagai satu program Bumi Hijau.\nBendi dipercayai berasal dari kawasan Asia Tenggara dan telah ditanam merata dunia termasuk Afrika, India dan Brazil. Kebanyakan bendi diguna segar sebagai sayuran dan dibuat jeruk. Biji bendi boleh di buat serbuk kopi sementara daunnya untuk makanan ruminan dan batangnya diproses jadi serat."
+    },
+    {
+        "id": "0dj75",
+        "description": "Terdapat pelbagai jenis bawang seperti berikut :-\n⁕Bawang merah,\n⁕Bawang putih, dan\n⁕Bawang besar.\nBawang tergolong dalam alam tumbuhan.\nBawang banyak digunakan dalam masakan. Bawang merupakan umbi pokok yang tertanam dalam tanah. Bagaimanapun bawang berbeza dengan ubi-ubi lain disebabkan bawang terbentuk daripada lapisan daun-daun yang berpadu membentuk umbi ubi bawang."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Kacang Tanah merupakan sejenis spesies kekacang dari famili Fabaceae yang berasal dari Amerika Selatan. Ia merupakan pokok herba semusim yang tumbuh setinggi 30 hingga 50 cm.\nKacang tanah biasanya dimakan begitu sahaja. Ia boleh disediakan dalam pelbagai cara seperti direbus, digoreng, dibakar, dihancurkan dan bergaram."
+    },
+    {
+        "id": "05vtc",
+        "description": "Kentang ialah tanaman daripada famili Solanaceae yang memiliki ubi. Ubi kentang sekarang menjadi salah satu tanaman makanan yang penting di Eropah walaupun pada awalnya, tumbuhan ini berasal dari Amerika Selatan.\nPenjelajah-penjelajah Sepanyol dan Portugis pertama kali membawa tumbuhan ini ke Eropah dan menanamnya pada abad ke-16. Dengan cepatnya, menu baru ini tersebar ke seluruh Eropah. Dalam sejarah penghijrahan orang Eropah ke Amerika, tanaman ini pernah menjadi pencetus utama penghijrahan bangsa Ireland ke Amerika pada abad ke-19 semasa wabak penyakit ubi merebak di Ireland, akibat kulapuk yang dipanggil ergot."
+    },
+    {
+        "id": "05zsy",
+        "description": "Labu merupakan tumbuhan herba memanjat dan buahnya berbentuk bulat berwarna jingga.\nLabu juga merupakan makanan yang digemari oleh nabi Muhammad S.a.w."
+    },
+    {
+        "id": "016rh7",
+        "description": "Bayam Spinacia ialah sayuran yang digunakan untuk daunnya, dari gen Spinacia. Spinacia tidak sesuai untuk iklim tropika seperti sesebahagian tempat di Asia Tenggara kerana cepat berbunga dan tidak tumbuh banyak daun."
+    },
+    {
+        "id": "015fr",
+        "description": "Brazil, nama rasmi: Republik Persekutuan Brazil, ialah negara terbesar di Amerika Selatan, dan juga negara kelima terbesar di dunia, dari segi keluasan geografi dan jumlah keluasan dengan lebih 190 juta orang penduduk. Brazil merupakan berbahasa Portugis yang tunggal di benua Amerika, dan yang terbesar di dunia.\nDisempadani oleh Lautan Atlantik di timur, Brazil mempunyai garis tepi laut sepanjang lebih 7,491 kilometer. Brazil bersempadan dengan Venezuela, Guyana, Suriname Guiana Perancis di utara; Colombia di barat laut; Bolivia dan Peru di barat; Argentina dan Paraguay di barat daya, dan Uruguay di selatan. Wilayah Brazil juga dilengkapi dengan beberapa gugus kepulauan, seperti Fernando de Noronha, Atol Rocas, Batuan Saint Peter dan Paul, dan Trindade dan Martim Vaz. Brazil bersempadan dengan hampir semua negara Amerika Selatan kecuali Ecuador dan Chile.\nBrazil pernah menjadi tanah jajahan Portugal sejak ketibaan Pedro Álvares Cabral pada tahun 1500 hingga tahun 1815, apabila ia dinaik taraf ke Kerajaan Bersatu bersama Portugal dan Algarves. Ikatan kolonial itu akhirnya renggang pada tahun 1808, apabila ibu negara Negara Beraja Portugal dipindahkan dari Lisbon ke Rio de Janeiro, ekoran serangan Napoleon terhadap Portugal. Kemerdekaan Brazil dari Portugal tercapai pada 1822. Mula-mulanya diasaskan sebagai Empayar Brazil, negara ini menjadi republik pada tahun 1889, namun sistem perundangan dwidewan, kini bergelar Kongres, diasaskan pada tahun 1824, apabila perlembagaan pertama negara diratifikasi. Perlembagaan sekarang mentakrifkan Brazil sebagai sebuah Republik Persekutuan. Persekutuan ini terbentuk oleh kesatuan Wilayah Persekutuan, 26 Negeri, dan 5,564 Kawasan Perbandaran."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanada ialah sebuah negara Amerika Utara yang terdiri daripada sepuluh provinsi dan tiga wilayah. Terletak di bahagian utara benuanya, Kanada menjangkau dari Lautan Atlantik di timur hingga Lautan Pasifik di barat dan Lautan Artik di utara. Ia merupakan negara kedua paling luas di dunia. Sempadan Kanada dengan Amerika Syarikat di selatan dan barat laut adalah yang terpanjang di dunia.\nTanah yang kini menjadi Kanada pernah didiami oleh pelbagai kaum orang asli sejak ribuan tahun dahulu. Bermula pada lewat abad ke-15, misi penjelajahan British dan Perancis menerokai lalu bertempat di sepanjang pantai Atlantik. Perancis menyerahkan hampir kesemua jajahannya di Amerika Utara pada tahun 1763 selepas Perang Tujuh Tahun. Pada tahun 1867, dengan kesatuan tiga jajahan Amerika Utara British secara Pergabungan, Kanada dibentuk sebagai sebuah dominion persekutuan empat provinsi. Dengan ini bermulanya pertambahan provinsi dan wilayah serta proses meningkatkan autonomi dari United Kingdom. Peluasan autonomi ini diserlahkan oleh Statut Westminster 1931 dan memuncak pada Akta Kanada 1982, yang memutuskan sisa-sisa pergantungan undang-undang pada parlimen United Kingdom."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Republik Rakyat China, lebih dikenali dengan nama China sahaja, ialah sebuah negara di Asia Timur yang merupakan negara paling ramai penduduknya di dunia dengan diduduki lebih 1,300 juta orang, iaitu kira-kira satu perlima manusia di bumi. China diperintah oleh Parti Komunis China di bawah sistem satu parti, dan berbidang kuasa di 22 wilayah, lima kawasan berautonomi, empat perbandaran tadbiran langsung, dan dua kawasan pentadbiran khas yang berautonomi tinggi. Ibu negara RRC ialah Beijing.\nPada keluasan kira-kira 9.6 juta kilometer persegi, RRC ialah negara ketiga atau keempat terluas di dunia dari segi keluasan keseluruhan, dan negara kedua terbesar dari segi keluasan daratan. Lanskapnya dipelbagaikan dari tanah hutan steppe dan gurun di bahagian utara yang kering bersebelahan dengan Mongolia dan Siberia di Rusia, hingga ke hutan-hutan subtropika di bahagian selatan yang lembap bersebelahan dengan negara-negara Vietnam, Laos, dan Myanmar. Rupa bumi di bahagian baratnya tinggi dan berceranggah, dengan banjaran-banjaran Himalaya dan Tian Shan yang membentuk sempadan semula jadi China dengan India dan Asia Tengah, berbeza sekali dengan pinggiran laut timur tanah besar China yang bertanah dan digarisi pantai sepanjang 14,500 kilometer di tepi Laut China Selatan di tenggara dan Laut China Timur di timur yang juga terletaknya Taiwan, Korea, dan Jepun."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Cuba, secara rasminya digelarkan Republik Cuba, terdiri daripada pulau Cuba, Isle of Youth, dan pulau-pulau kecil yang berhampiran. Cuba terletak:\n⁕di bahagian utara Caribbean pada pertemuan Laut Caribbean, Teluk Mexico, dan Lautan Atlantik;\n⁕di selatan bahagian timur Amerika Syarikat, dan Bahamas;\n⁕di barat Kepulauan Turki dan Caicos dan Haiti;\n⁕di timur Mexico.\nKepulauan Cayman dan Jamaica terletak di selatan negara Cuba.\nCuba ialah negara yang mempunyai paling banyak penduduk di Caribbean. Budaya dan adat resamnya berasal daripada beberapa sumber, termasuk zaman penjajahan Sepanyol, pembawaan masuk abdi-abdi Afrika, dan secara tidak begitu kuat, kedudukannya yang berhampiran dengan Amerika Syarikat. Pulau ini mempunyai iklim tropika yang disederhanakan oleh perairan disekitarnya; arus panas Laut Caribbean dan kedudukannya di tengah-tengah perairan yang besar juga menyebabkan Cuba kerap kali mengalami hurikan."
+    },
+    {
+        "id": "03shp",
+        "description": "Iran, atau nama rasminya Republik Islam Iran, juga dikenali sebagai Parsi di negara-negara barat, adalah sebuah negara di Asia Barat. Ia bersempadan dengan Armenia, Azerbaijan dan Turkmenistan di utara, Pakistan dan Afghanistan di sebelah timur, dan Turki dan Iraq di sebelah barat. Iran juga berkongsi Teluk Parsi dengan Kuwait, Iraq, Arab Saudi, Bahrain, Oman, Qatar dan juga Emiriah Arab Bersatu. Agama rasminya ialah Islam Syiah dan bahasa rasminya ialah Bahasa Parsi.\nIran merupakan sebuah negara yang menyimpan antara tamadun yang tertua di dunia. Berumur hampir 6000 tahun, Iran terletak di tengah-tengah benua Eurasia dan ini menjadikan ia cukup penting dalam tamadun dunia kerana mempunyai kedudukan geografi yang strategik. Iran juga adalah ahli pengasas Pertubuhan Bangsa-Bangsa Bersatu, Pertubuhan Persidangan Islam, Pertubuhan Negara-negara Pengeksport Petroleum dan Organisasi Kerjasama Ekonomi. Merupakan antara kuasa rantau yang terpenting di Asia Barat Daya, Iran memainkan peranan yang penting dalam ekonomi dunia melalui simpanan minyaknya yang banyak. Nama Iran ini berkait rapat dengan Arya, dan bermaksud \"Tanah Arya\" dalam bahasa Parsi."
+    },
+    {
+        "id": "01znc_",
+        "description": "Republik Turki, secara rasmi dipanggil Republik Turki, ialah sebuah negara Eurasia di Timur Tengah yang terletak di antara benua Eropah dan Asia. Sebahagian besar Turki terletak di Semenanjung Anatolia di Asia dan bahagian kecil wilayahnya terletak di Wilayah Balkan Barat Laut Benua Eropah. Turki bersempadan dengan 8 negara, iaitu Bulgaria di barat laut; Greece di barat; Georgia, Armenia dan Azerbaijan di timur laut; Iran di timur; dan Iraq dan Syria di tenggara. Selain itu, ia menyempadani Laut Hitam di utara, Laut Aegea di barat, dan Laut Mediterranean di selatan. Turki juga mengandungi Laut Marmara yang dipergunakan oleh para ahli geografi untuk menandakan sempadan di antara Eropah dan Asia dan oleh itu, menyebabkan Turki merupakan sebuah negara rentas benua.\nKawasan yang terdiri daripada Turki moden telah melihat kelahiran peradaban-peradaban utama, termasuk Empayar Byzantine dan Empayar Turki Uthmaniyyah. Disebabkan oleh lokasinya yang strategik di persilangan dua buah benua, budaya Turki merupakan campuran budaya Timur dan Barat yang unik yang sering diperihalkan sebagai jambatan antara dua buah peradaban. Dengan kewujudan kawasan yang kuat dari Adriatik ke China di dalam jalur tanah di antara Rusia dan India, Turki telah memperoleh kepentingan strategik yang semakin bertumbuh."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Sweden rasminya Kerajaan Beraja Sweden ialah sebuah negara Nordik di Semenanjung Scandinavia, di Eropah Utara. Negara ini bersempadankan Norway di barat, Finland di timur laut, Skagerrak dan Kattegat di barat daya, dan Laut Baltik dan Teluk Bothnia di timur. Disebabkan penduduknya yang sedikit, Sweden terkenal dengan bentuk muka buminya yang aman dan kaya dengan hutan dan gunung ganang yang belum terusik oleh pembangunan.\nSweden menjadi ahli Kesatuan Eropah sejak 1995. Ibu negaranya Stockholm.\nLuas nya 449,964 km², merupakan negara ke-3 terbesar di di Eropah Barat. Penduduknya sedikit dan 84 % tertumpu di bandar-bandar . Hanya 1.3 % mukabumi digunakan untuk petempatan. Gaya hidup di sana tinggi, moden, liberal, tersusun dan berbudaya kerjasama berbanding dengan negara Anglo-Saxon yang lain. Mereka sangat mengutamakan pemeliharaan alam sekitar, perlindungan hidupan liar dan penggunaan tenaga elektrik yang sistematik. Sweden secara tradisinya pengeluar besi, tembaga dan balak,\nSweden tergolong sebuah 'negara kebajikan' dalam Indek Pembangunan Kemanusiaan PBB. Sweden kaya dengan tenaga air.\nSweden moden dibentuk dari gabungan Kalmar Union pada 1397 oleh Raja Gustav Vasa abad ke-16. Abad ke-17 Sweden berkembang menjadi Empayar Sweden . Beberapa wilayah baru dijajah pada abad 18. Awal abad 19, Finland dan beberapa wilayah lain di Semenanjung Scandinavia telah hilang. Pada 1814 Sweden dan Norway membentuk pakatan sehingga 1905. Sejak 1814, Sweden aman damai, mengamalkan dasar berkecuali dan tidak memihak ketika peperangan."
+    },
+    {
+        "id": "06mkj",
+        "description": "Sepanyol ialah sebuah negara yang terletak di Semenanjung Iberia di barat daya Eropah. Negara ini bersempadan dengan Portugal, Perancis, Andorra, Gibraltar dan Maghribi. Sepanyol mempunyai tanah jajahan yang masih berada di bawah pemerintahanya seperti Kepulauan Balearic di Mediteranean, Pulau Canary di Lautan Atlantik, bandaraya Cueta dan Melilla di utara Afrika, dan beberapa pulau tidak berpenghuni di Selat Gibraltar seperti kepulauan Chafarine, pulau berbatu Velez, pulau berbatu Alhucemas dan Pulau Parsley.\nSepanyol merupakan sebuah negara raja berperlembagaan dan demokrasi berparlimen. Negara ini menyertai Kesatuan Eropah sejak 1986 dan merupakan negara maju dengan ekonomi ke-8 terbesar di dunia."
+    },
+    {
+        "id": "0h7x",
+        "description": "Austria merupakan sebuah negara tanpa pantai yang terletak di Eropah Tengah dan terdiri daripada sembilan negeri. Austria bersempadankan Jerman dan Republik Czech di utara, Slovakia dan Hungary di timur, Slovenia dan Itali di selatan, dan Switzerland dan Liechtenstein di barat."
+    },
+    {
+        "id": "03gj2",
+        "description": "Republik Hungary ialah sebuah negara tanpa pantai yang terletak di Eropah Tengah dan bersempadan dengan Austria, Slovakia, Ukraine, Romania, Serbia, Croatia dan Slovenia. Dalam bahasa tempatan, negara ini dikenali sebagai Magyarország yang bermaksud daerah Magyar. Hungary membentuk kumpulan Visegrád bersama Poland, Slovakia dan Republik Czech."
+    },
+    {
+        "id": "0345h",
+        "description": "Jerman atau secara rasminya Republik Persekutuan Jerman, ialah sebuah negara yang terletak di Eropah Tengah. Negara ini bersempadankan Laut Utara, Denmark dan Laut Baltik di utara; Poland dan Republik Czech di timur; Austria dan Switzerland di selatan; dan Perancis, Luxembourg, Belgium dan Belanda di barat. Negara ini memiliki keluasan sekitar 357,021 km² dan mengalami iklim sederhana bermusim. Dengan lebih 82 juta penduduk, jumlah ini merupakan yang terbesar di dalam Kesatuan Eropah selain kumpulan pendatang antarabangsa ketiga terbesar.\nRekod tentang Germania, iaitu sebuah kawasan yang dihuni oleh orang-orang Jermanik telah dicatatkan sebelum tahun 100 M. Bermula pada abad ke-10 pula, wilayah-wilayah Jerman telah membentuk tulang belakang Empayar Suci Rom yang bertahan sehingga tahun 1806. Ketika abad ke-16, kawasan di utara Jerman menjadi pusat pergerakan Reformasi Protestan. Sebagai sebuah negara bangsa zaman moden, ia kemudiannya disatukan ketika Perang Perancis-Prusia pada tahun 1871. Selepas Perang Dunia II, negara ini telah dipecahkan pula oleh kuasa-kuasa Barat. Akhirnya pada tahun 1990, Jerman Timur dan Jerman Barat telah disatukan semula."
+    },
+    {
+        "id": "05qhw",
+        "description": "Republik Poland ialah sebuah negara di Eropah Tengah, terletak di antara Jerman di barat, Republik Czech dan Slovakia di selatan, Ukraine dan Belarus di timur, dan Laut Baltik, Lithuania dan Rusia di utara. Kedudukannya bermakna negara ini telah melihat banyak peperangan di tanahnya dan sempadannya juga telah berubah beberapa kali."
+    },
+    {
+        "id": "04g5k",
+        "description": "Republik Latvia ialah sebuah negara di timur laut Eropah. Latvia merupakan salah satu negara Baltik, bersama sama Estonia dan Lithuania yang mana bersempadankan negara ini di utara dan selatan. Di timur pula, Latvia berkongsi sempadan dengan Russia dan Belarus.\nPada 20 September 2003, rakyat Latvia memilih untuk menyertai Kesatuan Eropah dan menjadi ahli rasmi oaganisasi tersebut pada 1 Mei 2004. Latvia menjadi anggota NATO pada 29 Mac 2004."
+    },
+    {
+        "id": "012wgb",
+        "description": "Ireland ialah sebuah pulau di barat laut benua Eropah.\nSecara politik, ia terbahagi kepada Republik Ireland dan Ireland Utara."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamaica merupakan sebuah negara pulau di Laut Carribean, Amerika Tengah. Pulau Jamaica termasuk dalam Greater Antilles. Panjangnya 234 kilometer.Lebarnya 80 km. Jarak dari tanah benua ialah 620 km. 145 km dari pulau Cuba. 190 km dari pulau Hispaniola di mana negara Haiti dan Dominica terletak. Mereka bercakap menggunakan bahasa Taino. Nama Jamaica berasal dari istilah Xayman yang bermaksud 'Tanah Air panas' atau 'Tanah kayu dan air'. Tetapi dalam bahasa Sepanyol dipanggil dengan nama 'Santiago' kerana pernah dijajah oleh Sepanyol. Kemudian dijajah oleh Empayar British sebagai salah satu koloni. Negara ini dianggap sebagai negara ketiga 'Anglophone' selepas Amerika Syarikat dan Kanada."
+    },
+    {
+        "id": "01crd5",
+        "description": "Vietnam \/\/, secara rasminya Republik Sosialis Vietnam, ialah negara paling timur di semenanjung Indochina di Asia Tenggara, bersempadan dengan China di utara, Laos di barat laut, dan Kemboja di barat daya. Di pantai timur negara ini adalah Laut China Selatan. Dengan bilangan penduduk mencecah 87 juta, Vietnam ialah negara ke-13 teramai penduduknya di dunia. Negara ini juga tersenarai di kalangan \"sebelas ekonomi yang seterusnya\"; menurut perangkaan kerajaan, kadar kenaikan KDNK mencatat 8.17% pada tahun 2006, iaitu kadar pertumbuhan KDNK kedua terpantas di kalangan negara-negara Asia Timur dan yang terpantas di Asia Tenggara.\nSelama beribu-ribu tahun, Vietnam sebagai sebuah negara pernah diberi pelbagai nama: Văn Lang ketika Dinasti Hùng Vương, Âu Lạc ketika Dinasti An Dương Vương, Vạn Xuân ketika Dinasti Lý Awal, Đại Cồ Việt ketika Dinasti Đinh dan Dinasti Lê Awal. Sejak tahun 1054, Vietnam digelar Đại Việt. ketika Dinasti Hồ, Vietnam memakai nama Đại Ngu tetapi kemudiannya beralih ke Đại Việt semula. Pada tahun 1804, Raja Gia Long merancang untuk menggunakan nama Nam Việt untuk Vietnam tetapi Dinasti Qing di China tidak setuju, lalu menukarnya kpeada Việt Nam. Dari tahun 1839 hingga 1945, Raja Minh Mạng menamakan semula Việt Nam menjadi Đại Nam."
+    },
+    {
+        "id": "015qh",
+        "description": "Bulgaria, secara rasmi digelar Republik Bulgaria, ialah sebuah negara di Balkan di Eropah tenggara. Ia menyempadani lima buah negara, iaitu:\n⁕Romania di utara;\n⁕Serbia dan Republik Macedonia di barat; dan\n⁕Greece dan Turki di selatan.\nLaut Hitam mentakrifkan takat negara di timur.\nBulgaria merangkumi bahagian-bahagian Moesia, Thrace, dan Macedonia yang merupakan provinsi-provinsi Rom."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongolia disebut; Bahasa Mongolia: Audio, secara harfiah Negara Mongol, merupakan negara tanpa pantai atau laut kedua terbesar di Asia Timur dan Asia Tengah. Bersempadan dengan negara Rusia di utara dan China di selatan. Mongolia mengamalkan sistem politik demokrasi berparlimen. Ibu negara dan bandar terbesarnya adalah Ulaanbaatar.\nMongolia adalah pusat Empayar Mongol di kurun ke-13 dan adalah kemudiannya diperintah oleh Dinasti Manchu dari abad 17 sehingga 1911. Merdeka dengan bantuan negara Rusia pada 1924. Dasar komunis mirip Rusia dilaksanakan pada peringkat awal. Apabila komunisme runtuh 1989, Mongolia meninggalkan komunisme dan mendokong perlembagaan demokratik mulai 1992. Jadi Mongolia merupakan negara pengamal demokratik termuda.\nKeluasan 1,564,116 km persegi, Mongolia merupakan negara ke-19 terbesar di dunia.Kebanyakan muka buminya gersang dan kontang, tidak produktif dan dipenuhi rumput steppe, gunung-gunung di sebelah utara dan barat. Gurun Gobi merupakan padang pasir yang luas di sebelah selatan. 30 % penduduknya hidup secara nomad iaitu hidup berpindah-randah dengan membawa khemah dan sedikit peralatan untuk kelangsungan hidup. Majoriti penduduk beragama Buddha Tibet.Etniknya terdiri daripada Mongol, Buriat, Kazakh dan Tuvan tinggal di barat.Satu pertiga penduduk tinggal di Ulaanbaatar."
+    },
+    {
+        "id": "06q1r",
+        "description": "Scotland merupakan sebahagian daripada United Kingdom dan meliputi bahagian utara Pulau Great Britain dan berkongsi sempadan darat di bahagian selatan dengan England. Selain itu, Scotland juga mengandungi lebih daripada 790 buah pulau yang termsuk Pulau Arran, Pulau Orkney, Pulau Skye dan lain-lain.\nBandar-bandar bertaraf bandaraya di Scotland termasuk:\n⁕Glasgow, bandaraya terbesar Scotland\n⁕Edinburgh, ibu negeri Scotland\n⁕Aberdeen\n⁕Dundee\n⁕Inverness\n⁕Stirling\nSebelum ini, Kerajaan Scotland merupakan sebuah negeri yang merdeka sehingga 1 Mei 1707 apabila Kerajaan Scotland disatukan dengan Kerajaan England secara politik membentuk Kerajaan Great Britain melalui Akta Kesatuan 1707. Sejak 1999, Scotland membentuk Parlimen sendiri."
+    },
+    {
+        "id": "0chghy",
+        "description": "Australia disebut, secara rasminya dipanggil Komanwel Australia, ialah sebuah negara di Hemisfera Selatan yang terdiri daripada tanah besar yang merupakan benua yang terkecil di dunia, dan sebilangan pulau di Lautan Selatan, Hindi, dan Pasifik. Negara-negara jirannya termasuk Indonesia, Timor Leste dan Papua New Guinea di utara, Kepulauan Solomon, Vanuatu, dan New Caledonia (wilayah tanggungan Perancis) di timur laut, serta New Zealand di tenggara.\nTanah besar Australia telah dihuni sejak 60,000 tahun lagi oleh orang-orang asli Australia. Setelah lawatan sekali-sekala oleh nelayan-nelayan dari utara serta para penjelajah dan pedagang dari Eropah, namun mulai daripada abad ke-17, sebelah timur tanah besar ini dituntut oleh pihak British pada tahun 1770, dan New South Wales dijadikan sebuah tanah jajahan untuk hukuman secara rasmi pada 26 Januari 1788. Apabila jumlah penduduk bertumbuh dan kawasan-kawasan baru dijelajahi, lagi lima buah kawasan yang lebih merupai Tanah Jajahan penguasaan diri ditubuhkan berturut-turut pada sepanjang abad ke-19.\nPada 1 Januari 1901, enam buah tanah jajahan bergabung menjadi sebuah persekutuan, dan Komanwel Australia dibentuk. Sejak masa itu, Australia telah mengekalkan sistem politik demokratik liberal yang stabil dan tetap merupakan sebahagian Alam Komanwel. Ibu negaranya, Canberra, terletak di Wilayah Ibu Kota Australia. Jumlah penduduk negara yang kini di sekitar 20.6 juta orang tertumpu khususnya di bandaraya-bandarya tepi pantai seperti Sydney, Melbourne, Brisbane, Adelaide, dan Perth."
+    },
+    {
+        "id": "035v3",
+        "description": "Greenland dalam bahasa Inggeris atau Tanah Hijau adalah sebuah pulau di sebelah utara Lautan Atlantik dan timur laut Kanada. Luas wilayah adalah 2,175,000 km² dan merupakan pulau terbesar di dunia. Pulau ini merupakan sebahagian daripada wilayah Denmark. Pada tahun 1979, Greenland diberi kuasa pemerintahan sendiri dan semenjak tahun 1985 tidak lagi termasuk dalam Kesatuan Eropah, akan tetapi Ratu Denmark masih kekal menjadi Ketua Negara. Pada tahun 2008, Greenland telah mengadakan pungutan suara untuk menentukan kemerdekaannya dari Denmark. Ibukota Greenland adalah Nuuk atau Godthab dalam bahasa Denmark."
+    },
+    {
+        "id": "0jgx",
+        "description": "Armenia ialah sebuah negara yang terletak di antara Laut Hitam dan Laut Caspian. Bangsa Armenia juga dikenali sebagai orang Lamender dalam bahasa Melayu lama.\nArmenia terletak di selatan Pergunungan Caucasus. Ini bermakna keseluruhan wilayah Armenia berada di dalam lingkungan Asia. Namun begitu, negara ini bercita-cita untuk menyertai Kesatuan Eropah."
+    },
+    {
+        "id": "03_3d",
+        "description": "Jepun adalah sebuah negara kepulauan di Asia Timur yang terletak di sebelah barat Lautan Pasifik, di sebelah timur Laut Jepun, dan berjiran dengan Republik Rakyat China, Korea dan Rusia. Pulau paling utara terletak di Laut Okhotsk, dan wilayah paling selatan pula merupakan sekelompok pulau kecil di Laut China Timur iaitu kawasan selatan Okinawa yang berjiran dengan Taiwan.\nJepun terdiri daripada 6,852 pulau yang membentuk segugusan kepulauan. Pulau-pulau utama dari utara ke selatan adalah Hokkaido, Honshu, Shikoku, dan Kyushu. Lebih kurang 97% wilayah daratan Jepun berada di keempat-empat pulau terbesarnya. Sebagian besar pulau di Jepun bergunung-ganang, dan sebahagian di antaranya merupakan gunung berapi. Gunung tertinggi di Jepun ialah Gunung Fuji yang merupakan sebuah gunung berapi yang pendam. Penduduk Jepun berjumlah 128 juta orang, menjadikannya negara ke-10 paling ramai penduduknya di dunia. Tokyo ialah ibu negara Jepun yang bertaraf \"kawasan metropolitan\". Tokyo Raya ialah sebutan untuk Tokyo dan beberapa bandaraya lain yang berada di wilayah-wilayah sekelilingnya. Sebagai daerah metropolitan yang terluas di dunia, Tokyo Raya diduduki lebih 30 juta orang."
+    },
+    {
+        "id": "019rg5",
+        "description": "Republik Kenya adalah sebuah negara di Afrika Timur yang bersempadan dengan Ethiopia di utara, Somalia di timur, Tanzania di selatan, Uganda di barat, Sudan di barat laut serta Lautan Hindi di bahagian tenggara. Negara seluas 580,000 km 2 ini berpenduduk seramai 41 juta orang .Bandar terbesarnya adalah Nairobi, yang juga merupakan ibu kotanya.\n\nPerlembagaan Kenya yang baru pada 2010 adalah hasil referandum . Kenya terbahagi kepada 47 daerah yang semi autonomi tadbir urus. Menjelang Ogos 2012, pilihan raya akan diadakan, yang pertama di bawah perlembagaan baru.\nGunung Kenya adalah gunung tertinggi dan menjadi nama negara tersebut.Istilah Kenya dari bahasa Kikuyu .Kenya terkenal dengan kawasan safari yang luas, indah dan menarik. Antaranya ialah Tsavo National Park, Maasai Mara, Nakuru National Park, dan Aberdares National Park. Tasik Victoria adalah tasik ai tawar yang kedua terbesar di dunia. Tasik ini dimiliki oleh dua negara iaitu Uganda dan Tanzania."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Hari Isnin merupakan hari ke-2 dalam seminggu dan terletak antara Ahad dan Selasa. Perkataan Isnin itu berasal dari Bahasa Arab, yang bermakna dua, iaitu hari kedua dalam seminggu. Namun begitu, di sesetengah tempat di Eropah, Isnin dianggap sebagai hari yang pertama.\nWalau bagaimanapun, semua orang bersetuju bahawa hari Isnin adalah hari pertama bekerja. Jadi, sesetengah orang mungkin mengalami rasa malas atau \"sakit\" pada hari ini. Garfield, seekor kucing kartun yang popular, bencikan hari Isnin.\nPenganut agama Kristian biasanya menyambut perayaan Paskah selama dua hari, iaitu pada hari Ahad dan Isnin.\nLihat juga:\n⁕Ahad\n⁕Selasa\n⁕Rabu\n⁕Khamis\n⁕Jumaat\n⁕Sabtu"
+    },
+    {
+        "id": "0f7_n",
+        "description": "Hari Selasa ataupun \"Tuesday\" dalam Bahasa Inggeris, adalah hari ke-3 dalam seminggu dan terletak di antara Isnin dan Rabu. Perkataan Selasa itu berasal dari Bahasa Arab, ﻳﻮﻢ ﺍﻟﺛﻼﺛﺔ yawm al-thalāthah, yang bermakna \"hari tiga\". Nama Inggeris Selasa iaitu Tuesday diambil sempena tuhan Saxon yang bergelar Tyr.\nSelasa adalah hari yang biasanya pilihanraya diadakan di Amerika Syarikat. Pilihanraya Persekutuan diadakan pada Selasa pertama bulan November. Lihat the FAQ from the FECuntuk sejarah dan sebab.\nLihat juga:\n⁕Ahad\n⁕Isnin\n⁕Rabu\n⁕Khamis\n⁕Jumaat\n⁕Sabtu"
+    },
+    {
+        "id": "0f7_4",
+        "description": "Hari Rabu ataupun Wednesday dalam Bahasa Inggeris, merupakan hari ke-4 dalam seminggu dan terletak antara Selasa dan Khamis. Perkataan Rabu itu berasal dari Bahasa Arab, yang bermakna empat, iaitu hari keempat dalam seminggu.\nLambang astrologi planet Marikh melambangkan Rabu, dalam bahasa Roman dies mercurii. Dalam Bahasa Inggeris Rabu dikenali sebagai hari Woden, disebabkan dewa orang Rom Merkury dikaitkan dengan Woden, di Eropah utara.\nHari Rabu juga merupakan pertengahan minggu; dalam bahasa Jerman Rabu adalah \"Mittwoch\".\nLihat juga:\n⁕Ahad\n⁕Isnin\n⁕Selasa\n⁕Khamis\n⁕Jumaat\n⁕Sabtu"
+    },
+    {
+        "id": "0f7zn",
+        "description": "Hari Khamis merupakan hari ke-5 dalam seminggu dan terletak antara Rabu dan Jumaat. Perkataan Khamis itu berasal dari Bahasa Arab, yang bermakna lima, iaitu hari kelima dalam seminggu.\nDi United Kingdom, pilihan raya biasanya diadakan pada hari Khamis. Ini adalah untuk memastikan kehadiran pengundi yang ramai, kerana gaji selalunya dibayar pada hari Jumaat. Jika dibuat pada hari lain, rakyatnya mungkin lebih berminat membeli-belah daripada mengundi.\nLihat juga:\n⁕Ahad\n⁕Isnin\n⁕Selasa\n⁕Rabu\n⁕Jumaat\n⁕Sabtu"
+    },
+    {
+        "id": "0f7z4",
+        "description": "Hari Jumaat merupakan hari ke-5 dalam seminggu dan terletak antara Khamis dan Sabtu. Perkataan Jumaat itu berasal dari Bahasa Arab, yang bermakna banyak\/ramai. Hari ini dinamakan Jumaat kerana pada hari ini orang-orang Islam akan berkumpul dan mengerjakan solat Jumaat di masjid beramai-ramai pada waktu tengahari bagi menggantikan solat Zohor. Bagi mereka, hari ini merupakan hari yang paling istimewa.\nDi negara-negara barat yang kebanyakan penduduknya beragama Kristian, ada sesetengah orang yang percaya akan tahayul percaya jika hari Jumaat jatuh pada 13hb, hari itu dianggap hari yang malang. Di dalam agama Kristian juga, ada satu hari perayaan yang jatuh pada hari Jumaat yang dipanggil Good Friday. Good Friday jatuh pada hari Jumaat sebelum Easter.\nDi Malaysia, hari Jumaat merupakan hari kelepasan am\/hari bekerja bagi negeri Kedah, Kelantan dan Terengganu. Sesetengah syarikat mengamalkan hari berpakaian bersahaja asalkan segak pada hari Jumaat, sebaliknya pada hari-hari kerja yang lain, semua kakitangan dikehendaki berpakaian lebih formal. Ini adalah kerana bagi syarikat-syarikat yang cuma bekerja selama 5 hari dalam seminggu, hari Jumaat adalah hari terakhir."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Hari Sabtu merupakan hari terakhir dalam seminggu dan datang selepas hari Jumaat. Perkataan Sabtu juga berasal dari Bahasa Arab.\nBagi pegawai kerajaan Malaysia, hari Sabtu adalah hari bekerja, kecuali Sabtu pertama dan ketiga setiap bulan. Sambutan hari lahir Senarai Yang Di-Pertuan Agong Malaysia adalah pada Sabtu pertama dalam bulan Jun. Jadi, dalam bulan ini, Sabtu pertama merupakan hari cuti, tetapi Sabtu kedua adalah hari kerja. Oleh kerana hari Sabtu adalah hari yang seluruh rakyat Malaysia bercuti, banyak majlis perkahwinan diadakan pada hari ini.\nBagi orang Yahudi dan mazhab Kristian protestan Seventh-day Adventist Church, hari Sabtu juga dikenali sebagai Sabbath, 'Sabat', iaitu hari rehat dan hari penyembahan dimana mereka pergi ke gereja berdasarkan pada Kitab Suci.\nLihat juga:\n⁕Ahad\n⁕Isnin\n⁕Selasa\n⁕Rabu\n⁕Khamis\n⁕Jumaat"
+    },
+    {
+        "id": "0f6ld",
+        "description": "Ahad adalah hari pertama dalam seminggu. Nama hari Ahad berasal dari Bahasa Arab, yang mana Ahad itu bermakna satu, iaitu hari yang pertama dalam seminggu. Ia merupakan hari kelepasan am pada kebanyakkan negeri di Malaysia kecuali Kelantan, Terengganu, dan Kedah.\nKebanyakan orang yang beragama Kristian pergi ke gereja pada hari ni. Salah satu perayaan utama orang Kristian juga disambut pada hari Ahad iaitu Hari Ahad Easter.\nKebanyakan suratkhabar di Malaysia menerbitkan naskhah yang lebih besar pada hari Ahad. Ini kerana selalunya naskhah pada hari itu memasukkan bahagian kartun, hiburan dan iklan yang lebih."
+    },
+    {
+        "id": "06m_p",
+        "description": "Matahari merupakan bintang terdekat dengan Bumi dengan jarak purata 149,680,000 kilometer. Matahari dan lapan buah planet membentuk Sistem Suria. Matahari mempunyai diameter 1,391,980 kilometer dengan suhu permukaan 5,500 °C dan suhu teras 15 juta °C. Matahari dikelaskan sebagai bintang kerdil jenis G. Cahaya daripada matahari memakan masa 8 minit untuk sampai ke Bumi dan cahaya yang terang ini boleh mengakibatkan sesiapa yang memandang terus kepada matahari, menjadi buta.\nMatahari merupakan satu bebola plasma dengan jisim sekitar 2 x 1030 kg. Untuk terus bersinar, matahari, yang terdiri daripada gas panas menukar unsur hidrogen kepada helium melalui tindak balas gabungan nuklear pada kadar 600 juta tan, dengan itu kehilangan empat juta tan jisim setiap saat. Matahari dipercayai terbentuk pada 5,000 juta tahun lalu. Kepadatan jisim matahari adalah 1.41 berbanding jisim air. Jumlah tenaga matahari yang sampai ke permukaan bumi dikenali sebagai pemalar suria menyamai 1.37 kilowatt semeter persegi setiap saat.\nMatahari berputar 25.04 hari bumi setiap putaran dan mempunyai graviti 27.9 kali graviti bumi. Terdapat julangan gas teramat panas yang boleh mencecah sehingga 100,000 kilometer ke angkasa. Marakan matahari ini boleh mengganggu gelombang komunikasi seperti radio, televisyen dan radar di bumi dan mampu merosakkan satelit atau stesen angkasa yang tidak dilindung. Matahari juga menghasilkan gelombang radio, gelombang ultraungu, sinar inframerah, sinar-X, dan angin suria yang merebak ke seluruh Sistem Suria."
+    },
+    {
+        "id": "09cy8",
+        "description": "Utarid adalah planet yang paling hampir dengan matahari, kira-kira 57.9 juta kilometer dan planet terkecil di dalam sistem suria. Diameter Utarid adalah 40% lebih kecil daripada Bumi, dan 40% lebih besar daripada Bulan. Malahan saiznya juga lebih kecil daripada bulan Musytari, Ganymede dan bulan Zuhal, Titan.\nPermukaan di Utarid adalah lebih kurang sama dengan permukaan Bulan contohnya kawah-kawah asteroid dan tebing yang puluhan kilometer tinggi. Di permukaan Utarid, matahari kelihatan dua setengah kali ganda lebih daripada saiznya di Bumi. Namun, disebabkan ketiadaan atmosfera, cahaya tidak dapat diserakkan. Akibatnya, langit kelihatan gelap seperti di angkasa lepas. Di permukaan Utarid juga, Zuhrah dan Bumi kelihatan seperti bintang yang sangat cerah. Tidak banyak diketahui mengenai planet ini, kapal angkasa yang pertama daripada dua buah kapal yang mendekati planet Utarid adalah Mariner 10 dari tahun 1974 hingga 1975, yang hanya memetakan 45% daripada permukaan planet. Kapal angkasa yang kedua adalah kepal angkasa MESSENGER, yang memetakan lagi 30% permukaan planet semasa penerbangannya pada 14 Januari, 2008. MESSENGER akan membuat dua laluan lagi mengelilingi planet Utarid, diikuti dengan penyertaan orbit pada tahun 2011, dan akan meninjau dan memetakan seluruh planet berkenaan."
+    },
+    {
+        "id": "09bcm",
+        "description": "Zuhrah merupakan planet kedua terdekat kepada Matahari, mengorbitnya pada setiap 224.7 hari bumi. Nama Zuhrah ini diambil daripada bahasa Arab yang bermaksud bunga kerana bentuknya pada waktu pagi atau pada waktu senja seakan-akan bunga. Jika dirujuk pada nama bahasa Inggeris pula, planet ini dinamakan bersempena dewa Venus, dewa cinta Rom. Ia merupakan objek semula jadi yang paling terang di waktu malam, kecuali Bulan, mencapai magnitud kecerahan −4.6. Oleh kerana Zuhrah merupakan planet inferior dari Bumi, ia tidak pernah muncul jauh daripada Matahari: Kelonjongannya mencapai maksimum sebanyak 47.8°. Zuhrah mencapai kecerahan maksimum sebelum matahari naik atau pun terbenam, disebabkan alasan tersebut ia selalunya disebut sebagai Bintang Pagi atau pun Bintang Petang."
+    },
+    {
+        "id": "02j71",
+        "description": "Bumi merupakan planet ketiga daripada matahari. Ia juga boleh dirujuk sebagai Bumi, Planet Bumi atau Terra.\nRumah kepada jutaan spesies, termasuklah manusia, bumi juga merupakan satu-satunya tempat di dalam semesta di mana kehidupan diketahui wujud. Pembuktian saintifik menunjukkan bahawa planet ini telah terbentuk kira-kira 4.54 bilion tahun yang lalu, dan kehidupan muncul di permukaannya di dalam tempoh satu bilion tahun. Bumi dijangkakan telah berusia selama 4,600 juta tahun. Jarak purata Bumi dengan matahari adalah 149.6 juta kilometer.\nBumi mempunyai lapisan udara dan medan magnet yang dipanggil magnetosfera yang melindung permukaan Bumi daripada angin suria, sinaran ultra merbahaya, dan radiasi dari angkasa lepas. Lapisan udara ini menyelitupi bumi sehingga ketinggian 700 kilometer dan yang selebihnya dianggap angkasa lepas. Lapisan udara ini dibahagi kepada Troposfera, Stratosfera, Mesosfera, Termosfera, dan Eksosfera.\nLapisan ozon, setinggi 50 kilometer, wujud di lapisan Stratosfera dan Mesosfera dan melindungi bumi daripada sinaran ultra lembayung. Perbezaan suhu permukaan Bumi adalah di antara -70 °C sehingga 55 °C bergantung kepada iklim tempatan. Sehari di Bumi bersamaan 24 jam dan setahun di bumi bersamaan 365.25 hari. Bumi mempunyai jisim seberat 59,760 juta juta tan, dengan luas permukaan 510 juta km persegi. Ketumpatan Bumi pada 5,500 kilogram setiap meter persegi digunakan sebagai unit perbandingan ketumpatan berbanding planet yang lain, dengan ketumpatan Bumi sebagai 1."
+    },
+    {
+        "id": "09cws",
+        "description": "Marikh merupakan planet ke-4 dari matahari dalam Sistem Suria dan dinamakan sempena nama Dewa Peperangan Tamadun Rom disebabkan warna kemerahannya di langit pada waktu malam. Ia mempunyai 2 bulan iaitu Phobos dan Deimos. Setiap satu bulan tersebut menyerupai asteroid. Planet ini juga merupakan salah sebuah planet dari 8 planet dalam sistem suria. Senarai planet dan jarak purata planet dengan matahari dalam sistem suria adalah seperti berikut :-\nTerdapat juga lingkaran asteroid yang kebanyakannya mengelilingi matahari di antara orbit planet Marikh dan Musytari. Disebabkan oleh putaran, garis pusat pada garis khatulistiwa adalah terpanjang bagi setiap planet dan bintang."
+    },
+    {
+        "id": "09q84",
+        "description": "Musytari adalah planet kelima daripada matahari dan juga planet yang terbesar daripada sembilan planet dalam sistem suria. Senarai planet dan jarak purata planet dengan matahari dalam sistem suria adalah seperti berikut :-\nTerdapat juga lingkaran asteroid yang kebanyakannya mengelilingi matahari di antara orbit planet Marikh dan Musytari. Disebabkan oleh putaran, garis pusat pada garis khatulistiwa adalah terpanjang bagi setiap planet dan bintang."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Zuhal merupakan planet yang keenam dari Matahari dan planet kedua terbesar di dalam Sistem Suria, selepas Musytari. Zuhal, bersama-sama dengan Musytari, Uranus dan Neptun, diklasifikasikan sebagai sebuah planet gergasi bergas.\nZuhal berasal dari bahasa Arab tetapi sekiranya dilihat didalam Bahasa Inggeris, ia dikenali sebagai planet Saturn, diambil sempena tuhan Rom, Saturnus, yang menyerupai Yunani Kronos dan juga Babylon iaitu Ninurta. Simbolnya adalah sabit dewa dalam bentuk ringkas stylized.\nTerdapat juga lingkaran asteroid yang kebanyakannya mengelilingi matahari di antara orbit planet Marikh dan Musytari. Disebabkan oleh putaran, garis pusat pada garis khatulistiwa adalah terpanjang bagi setiap planet dan bintang.\nZuhal mempunyai satu sistem gelang atau cecincin yang utama terdiri kebanyakannya dari air batu dengan sejumlah kecil serpihan batuan dan debu. Sebanyak enam puluh bulan-bulan mengorbit planet berkenaan. Titan, bulan Zuhal yang terbesar, yang merupakan bulan yang lebih besar dari planet Utarid dan ia merupakan satu-satunya bulan di dalam Sistem Solar yang mempunyai kemudahan atmosfera."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Uranus merupakan planet ketujuh daripada matahari. Ia merupakan planet ketiga terbesar dari segi jejarinya dan planet keempat terbesar dari segi jisimnya di Sistem Suria. Planet ini dinamakan sempena dewa langit Yunani purba iaitu Uranus, bapa kepada Cronus dan datuk kepada Zeus. Walaupun ia boleh dilihat dengan mata kasar, planet ini tidak dikenal pasti oleh tamadun purba kerana kesuramannya dan putaran orbitnya yang perlahan. Sir William Herschel mengumumkan penemuannya pada 13 Mac 1781 dan ini menyebabkan garis sempadan yang diketahui dalam Sistem Suria buat pertama kalinya dalam sejarah moden dapat dikembangkan. Uranus juga planet pertama yang ditemui melalui teleskop.\nKomposisi planet Uranus adalah sama dengan Neptun dan kedua-duanya mempunyai komposisi kimia yang berbeza daripada gergasi gas yang lebih besar seperti Musytari dan Zuhal. Ahli falak kadangkala meletakkan mereka di kategori yang berbeza dipanggil \"gergasi ais\". Atmosfera Uranus yang sama dengan Musytari dan Zuhal dalam komposisi utama seperti hidrogen dan helium mengandungi lebih \"ais\" seperti air, ammonia dan metana dengan unsu surih hidrokarbon. Planet ini mempunyai atmosfera yang paling sejuk di Sistem Suria dengan suhu minimum 49 K"
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptun merupakan salah sebuah dari sembilan planet dalam sistem suria. Senarai planet dan jarak purata planet dengan matahari dalam sistem suria adalah seperti berikut :-\n⁕57.9 juta kilometer ke Utarid\n⁕108.2 juta kilometer ke Zuhrah\n⁕149.6 juta kilometer ke Bumi\n⁕227.9 juta kilometer ke Marikh\n⁕778.3 juta kilometer ke Musytari\n⁕1,427.0 juta kilometer ke Zuhal\n⁕2,871.0 juta kilometer ke Uranus\n⁕4,497.0 juta kilometer ke Neptun\n⁕5,913.5 juta kilometer ke Pluto.\nTerdapat juga lingkaran asteroid yang kebanyakannya mengelilingi matahari di antara orbit planet Marikh dan Musytari. Disebabkan oleh putaran, garis pusat pada garis khatulistiwa adalah terpanjang bagi setiap planet dan bintang."
+    },
+    {
+        "id": "02vx4",
+        "description": "Bola sepak ialah sukan sepasukan yang paling banyak dimainkan dan ditonton di dunia, yang dimainkan oleh dua pasukan yang mana setiap - tiap pasukan terdiri daripada 11 orang pemain. Sebelum abad ke-21, sukan ini telah dimainkan oleh lebih daripada 250 juta orang di 200 negara, yang menjadikannya sebagai sukan paling popular di dunia. Bola sepak bertujuan untuk menjaringkan gol sebanyak-banyaknya dengan menggunakan bola kulit ke gol lawan. Bola sepak dilumbakan kat dalam padang yang berbentuk segi empat tepat, di atas rumput atau rumput sintetik. Badan pentadbiran dunia bola sepak ialah FIFA, atau Persekutuan Bola Sepak Antarabangsa.\nPada awamnya, hanya penjaga gol sahaja yang dibenarkan menyentuh bola dengan tangan di dalam wilayah golnya. Manakala, 10 pemain lainnya hanya diizinkan untuk menggunakan semua bahagian badannya selain daripada tangan, biasanya dengan kaki untuk menyepak, dada untuk mengawal, dan kepala untuk menanduk bola. Pasukan yang menjaringkan gol lebih banyak pada akhir perlawanan ialah pemenangnya. Jika sehingga masa berakhir masih berakhir siri, maka boleh dilakukan undian, pembaharuan masa ataupun tendangan penalti, bergantung daripada format penganjuran kejohanan."
+    },
+    {
+        "id": "0jm_",
+        "description": "Bola sepak Amerika merupakan sejenis sukan pasukan yang manggabungkan aspek strategi dan kebolehan fizikal. Matlamat sukan ini adalah untuk menjaringkan mata dengan menggerakkan bola ke zon hujung pasukan lain. Matlamat ini boleh dicapai dengan memegang bola sambil bergerak dengan bola atau melontarkan bola kepada pemain sepasukan. Pasukan menyerang juga boleh mengumpulkan mata melalui cara lain, seperti menendang bola melalui tiang goal di zon hujung pasukan bertahan. Pasukan bertahan pula boleh mengumpul mata dengan menumbangkan pemain yang memegang bola di zon hujungnya sendiri. Pasukan yang mengumpulkan mata terbanyak pada akhir perlawanan menang.\nDi Amerika Syarikat, bola sepak Amerika dimainkan pada tahap sekolah tinggi, institusi pengajian tinggi serta profesional. Cara permainan dalam ketiga-tiga tahap adalah sama tetapi mempunyai peraturan yang berbeza sedikit.\nBadan-badan pentadbiran pada tahap IPT ialah Persatuan Sukan Kolej Negara dan Persatuan Sukan Antara Kolej Negara. Liga profesional utama bola sepak Amerika di seluruh dunia ialah National Football League. Permainan ini juga popular di United Kingdom, Jerman, Itali, Switzerland, Finland, Sweden, Jepun dan Mexico tetapi tidak hampir setaraf Amerika Syarikat."
+    },
+    {
+        "id": "018w8",
+        "description": "Bola keranjang ialah satu sukan di mana dua pasukan yang setiapnya mempunyai 5 pemain berusaha untuk menjaringkan mata antara satu sama lain melalui sebuah keranjang berdasarkan peraturan-peraturan yang telah ditetapkan.\nMata diperolehi dengan melontar bola menerusi keranjang dari atas; dan pasukan yang markahnya lebih banyak apabila tamat permainan dikira pemenang. Lontaran lompat yang biasa dari dalam lengkungan bernilai 2 mata, di luar lengkungan bernilai 3 mata.Boladigerakkan di dalam gelanggan dengan melantunkannya atau menghantarnya kepada rakan sepasukan. Gangguan sentuhan fizikal tidak dibenarkan dan terdapat sekatan bagaimana bola bola dikawal."
+    },
+    {
+        "id": "018jz",
+        "description": "Besbol merupakan sukan jenis \"pukul dan bola\" yang dimainkan oleh dua pasukan. Satu pasukan dianggotai oleh sembilan pemain. Matlamat utama besbol adalah untuk mengumpulkan markah dengan memukul bola yang dilempar menggunakan tongkat pemukul lalu mengelilingi keempat-empat tapak yang terletak di sudut-sudut sebuah segi empat. Pemain-pemain dalam pasukan memukul bergilir-gilir cuba memukul bola yang dilontar oleh pelempar dari pasukan lain, iaitu pasukan pemadang. Pasukan pemadang pula cuba menghalang pasukan pemukul daripada mengumpul markah dengan \"mematikan\" pemukul-pemukul melalui cara-cara tertentu. Kedua-dua pasukan beralih antara memukul dan memadang setiap kali pasukan memadang berjaya mematikan tiga pemukul. Pasukan-pasukan mempunyai sembilan giliran untuk memukul dan memadang. Biasanya, satu perlawanan terdiri daripada sembilan pusingan. Pasukan yang berjaya mengumpulkan markah terbanyak selepas pusingan terakhir menang.\nBesbol dianggap sebagai sukan pasukan yang paling popular di Jepun dan Cuba, serta antara paling popular di Amerika Syarikat. Liga profesional besbol di Amerika Utara dikenali sebagai Major League Baseball. Kejuaraan MLB dipertikaikan antara dua pasukan dalam satu siri perlawanan yang dikenali sebagai World Series. Besbol menjadi sukan Olimpik pada pada 1992 tetapi dikeluarkan sejak 2008. Sejak 2005, Klasik Besbol Dunia diadakan setiap empat tahun dan merupakan kejohanan dunia antara pasukan negara utama dalam sukan ini."
+    },
+    {
+        "id": "07bs0",
+        "description": "Tenis ialah sejenis permainan yang menggunakan raket dan bola dan dimainkan di sebuah gelanggang yang dibahagi dua oleh sebuah jaring."
+    },
+    {
+        "id": "01cgz",
+        "description": "Tinju ialah sejenis sukan yang dua orang peserta sama berat melawan antara satu sama lain dengan menggunakan penumbuk dalam siri tempoh satu hingga tiga minit yang dikenali sebagai pusingan. Dalam divisyen Sukan Olimpik dan profesional, peserta mengelakkan tumbukan lawan sementara cuba menumbuk lawannya. Markah diberikan untuk tumbukan padu yang tepat pada kawasan sah di bahagian hadapan tubuh lawan atas pinggang, dengan tumbukan pada kepala dan tubuh amat bernilai.\nPeninju yang memperolehi mata tertinggi selepas pusingan yang ditetapkan akan diumumkan sebagai pemenang. Kemenangan juga boleh dicapai sekiranya lawan dikalah mati dan tidak dapat bangun sebelum pengadil membuat sepuluh kiraan, atau sekiranya lawan dianggap terlalu cedera untuk meneruskan perlawanan. Untuk simpanan rekod, TKO disamai dengan KO, dengan frasa \"kalah mati teknikal\" biasa digunakan untuk rencana berita sezaman."
+    },
+    {
+        "id": "03tmr",
+        "description": "Hoki ais ialah sejenis sukan berpasukan yang dimainkan di atas ais. Tujuannya cuba memasukkan \"puck\" menggunakan kayu pemukul ke dalam gol lawan. Sukan ini biasanya berlangsung di dalam dewan. Persekutuan sukan ini ialah Persekutuan Hoki Ais Antarabangsa. Amerika Syarikat, Kanada, Republik Czech, Finland, Rusia, Slovakia, dan Sweden merupakan antara pasukan terhebat.\nBentuk permainan di sukan ini hampir serupa dengan hoki padang. Permainan ini dimainkan dengan cara menggunakan kayu pemukul dan puck."
+    },
+    {
+        "id": "07_53",
+        "description": "Bola tampar merupakan satu sukan Olimpik di mana dua pasukan yang dipisahkan oleh satu jaring tinggi menggunakan tangan atau bahagian badan lain untuk memukul atau menampar sebiji bola melangkaui jaring kepada lawan. Setiap pasukan yang mempunyai enam pemain dibenarkan memukul bola tersebut tiga kali berturut-turut. Mata dikira apabila bola jatuh ke dalam gelanggang lawan, lawan melakukan kesalahan atau lawan gagal mengembalikan bola dengan betul.\nBola tampar merupakan satu sukan aktif. Disebabkan banyak serangan memerlukan pemain menyentuh bola di atas jaring, kebolehan melompat ditekankan dalam permainan ini.\nSukan bola tampar di Malaysia bermula sekitar tahun 1920-an di Pulau Pinang. Ia dipopularkan oleh pelajar-pelajar yang baru pulang daripada Universiti Chi-Nan, Shanfhai, sebelum berkembang di Selangor dan negeri-negeri lain."
+    },
+    {
+        "id": "037hz",
+        "description": "Golf adalah satu sukan di mana pemain mengguna pelbagai jenis kelab termasuk kayu, besi-besi, dan putters, mencuba untuk memukul bola ke setiap lubang dalam padang golf dalam jumlah pukulan terendah."
+    },
+    {
+        "id": "03_8r",
+        "description": "Judo adalah seni tempur, sukan dan falsafah yang berasal dari Jepun. Judo dimajukan dari Jujutsu, dan diasaskan oleh Dr. Jigoro Kano pada 1882. Sukan ini menjadi model bagi seni tempur Jepun moden, gendai budo, dimajukan dari sekolah koryu lama."
+    },
+    {
+        "id": "0d38m",
+        "description": "Sukan marathon adalah sukan tertua dalam sejarah Olimpik purba. Acara marathon bermula pada tahun 490 SM, apabila seorang askar Greek berlari membawa berita kemenangan dari medan peperangan Marathon ke Athens, yang mana jaraknya sejauh 26 batu, iaitu bersamaan 41.8 kilometer."
+    },
+    {
+        "id": "0194d",
+        "description": "Badminton merupakan sejenis sukan raket yang dimainkan oleh sama ada dua orang pemain bertentangan ataupun dua pasangan bertentangan, yang mana posisi pemain ialah bertentangan di dalam sebuah gelanggang empat segi yang dibahagikan oleh jaring. Pemain dapat memungut mata melalui pukulan bulu tangkis menggunakan raket mereka jadi ia dapat melepasi atas jaring dan jatuh di kawasan pihak lawan. Pukulan rali berhenti selepas bulu tangkis jatuh di atas lantai, dan bulu tangkis hanya boleh dipukul sekali bagi setiap sisi sebelum ia melepasi atas jaring.\nBadminton ialah acara sukan Olimpik dengan lima disipin yang kompetitif perseorangan lelaki dan wanita, beregu lelaki dan wanita, dan beregu campuran, yang mana setiap pasangannya ialah lelaki dan perempuan. Bagi tahap tinggi permainan, sukan ini memerlukan penjagaan kesihatan yang cemerlang: pemain memerlukan stamina aerobik, ketangkasan, kekuatan, kelajuan, dan ketelitian. Ia juga merupakan sebuah sukan teknikal, yang memerlukan koordinasi badan yang baik, kemahiran teknikal, dan kecanggihan kemahiran penggunaan raket."
+    },
+    {
+        "id": "07jbh",
+        "description": "Ping-pong merupakan sejenis sukan dan permainan dalam yang popular. Pemain akan memukul bola berulang-alik di atas sebuah meja yang mempunyai jaring di tengahnya menggunakan pemukul atau bet. Pemain cuma boleh memukul bola tersebut setelah ia melantun sekali di bahagiannya, dan mesti mengembalikannya supaya ia melantun di bahagian lawan. Permainan ini boleh dimainkan secara perseorangan atau beregu. Permainan ini laju dan memerlukan reaksi pantas. Permain yang mahir boleh memberikan \"putaran\" pada bola, yang membuatkannya melantun pada arah yang sukar dijangka, sekaligus menyukarkannya dibalas.\nPing pong amat popular di Asia Timur dan merupakan antara sukan yang paling banyak jumlah pemainnya. Ping pong kini menjadi salah satu sukan utama yang terbaru."
+    },
+    {
+        "id": "087zy",
+        "description": "Yoga merupakan disiplin-disiplin fizikal dan mental tradisional yang berasal dari India; matlamat yang dicapai disiplin-disiplin ini; dan salah satu dari enam fahaman ortodoks dalam falsafah Hindu.\nCabang-cabang yoga utama termasuk Raja Yoga, Karma Yoga, Jnana Yoga, Bhakti Yoga, dan Hatha Yoga. Raja Yoga yang disusun dalam Sutra Yoga Patanjali, dan dikenali sebagai yoga begitu sahaja dalam konteks falsafah Hindu, merupakan sebahagian tradisi Samkhya. Banyak lagi kitab Hindu yang membincangkan aspek-aspek yoga, termasuk Veda, Upanishad, Bhagavad Gita, Hatha Yoga Pradipika, Shiva Samhita dan pelbagai Tantra.\nIstilah yoga dalam bahasa Sanskrit banyak maknanya seperti \"menggabung\", \"menyatukan\", \"kesatuan\", \"gabungan\", atau \"kaedah\" serta diterbit dari kata akar yuj, yang bererti \"mengawal\", \"menyangga\" atau \"menyatukan\". Di luar India, istilah yoga sering disamakan dengan Hatha Yoga dan asananya atau bentuk senaman. Seorang pengamal Yoga dipanggil Yogi atau Yogini.\nMajlis Fatwa Kebangsaan Malaysia telah memutuskan amalan yoga secara sistematik iaitu yang membabitkan gerakan fizikal, bacaan mantera dan matlamat penyatuan diri dengan Tuhan"
+    },
+    {
+        "id": "0397w",
+        "description": "Gimnastik adalah satu sukan yang melibatkan prestasi pergerakan yang berulang-ulang, malah ia memerlukan kekuatan fizikal, kebolehlenturan, dan kesedaran kinestetik seperti hambur tangan dan dirian tangan."
+    },
+    {
+        "id": "036vg6",
+        "description": "Gusti merupakan sesuatu pergerakan yang melibatkan pertempuran fizikal antara dua orang, yang mana setiap ahli gusti mahu memiliki kelebihan atau kawalan ke atas lawannya semasa bertempur. Teknik fizikal yang merangkumi gaya gusti ialah memeluk, memegang, mengunci dan mengumpil."
+    },
+    {
+        "id": "04xsv",
+        "description": "Seni pertahankan diri merupakan satu kesenian yang timbul sebagai satu cara seseorang itu mempertahankan diri. Ia merupakan kaedah berlawan tradisi dengan atau tanpa senjata dan selalunya tanpa menggunakan senjata api atau senjata moden yang lain. Seni bela diri telah lama wujud dan pada mulanya ia berkembang di medan pertempuran sebelum secara perlahan-lahan apabila peperangan telah berkurangan dan penggunaan senjata moden mula digunakan secara berleluasa, seni bela diri mula berkembang di kalangan mereka yang bukannya anggota tentera tetapi merupakan orang awam.\nBoleh dikatakan seni bela diri terdapat di merata-merata di dunia ini dan hampir setiap negara mempunyai seni bela diri yang berkembang sama ada secara tempatan atau diubah suai daripada seni bela diri luar yang meresap masuk. Sebagai contoh seni silat adalah seni bela diri yang berkembang di negara ASEAN dan terdapat di Malaysia, Indonesia, Thailand, dan Brunei.\nBagaimanapun kemudahan perhubungan dan komunikasi yang ada pada masa ini memudahkan perkembangan idea dan seni bela diri tidak lagi terhad di tanah asalnya tetapi telah berkembang keseluruh dunia.\nSeni bela diri juga terbahagi kepada beberapa jenis daripada seni tempur bersenjata tajam, senjata tidak tajam seperti kayu, dan seni tempur tangan kosong. Di antara jenis-jenis seni bela diri yang popular adalah seperti berikut :-"
+    },
+    {
+        "id": "03_ly",
+        "description": "Januari merupakan bulan pertama dalam sebuah tahun dalam kalendar Gregory. Bulan ini mempunyai 31 hari. Asalnya nama Januari ialah daripada nama dewa Rom Janus, iaitu dewa pintu.\nHari pertama bulan ini, 1 Januari dipanggil Hari Tahun Baru, dan merupakan cuti am di kebanyakan negara, termasuklah Malaysia.\nJanuari bermula pada hari yang sama dengan bulan Oktober pada tahun biasa dan bulan April dan Julai pada tahun lompat."
+    },
+    {
+        "id": "02xx5",
+        "description": "Februari adalah bulan kedua dalam sebuah tahun dalam kalendar Gregory. Ia merupakan bulan terpendek dengan cuma 28 hari. Februari dinamakan bersempena dewa Rom Februus, dewa penyucian.\nFebruari bermula pada hari yang sama dengan bulan Mac dan November pada tahun biasa dan bulan Ogos pada tahun lompat."
+    },
+    {
+        "id": "04wzr",
+        "description": "Mac adalah bulan ketiga dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 31 hari. Mac dinamakan bersempena dewa Rom Mars, dewa perang.\nPada asalnya, Mac merupakan bulan pertama dalam kalendar Rom. Kemudian pada tahun 45 SM, Julius Caesar menambahkan bulan Januari dan Februari di hadapannya.\nMac bermula pada hari yang sama dengan Februari pada tahun biasa dan bulan November pada semua tahun."
+    },
+    {
+        "id": "0lkm",
+        "description": "April adalah bulan keempat dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu dari empat bulan yang mempunyai 30 hari.\nNama \"April\" berasal daripada bahasa Latin aprilis, sama ada dari perkataan Latin aperire yang bererti \"membuka\", kemungkinannya merujuk kepada pokok-pokok berkembang pada musim bunga, ataupun daripada nama Aphrodite\/Apru, dewi cinta orang Yunani.\nApril bermula pada hari yang sama dengan Januari pada tahun lompat dan bulan Julai pada semua tahun."
+    },
+    {
+        "id": "04w_7",
+        "description": "Mei adalah bulan kelima dalam tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 31 hari. Nama bulan ini berasal dari nama dewi kesuburan orang Yunani, Maia.\nHari pertama bulan ini, 1 Mei dipanggil Hari Pekerja, dan merupakan cuti am di kebanyakan negara termasuklah Malaysia.\nTiada bulan yang bermula pada hari yang sama dengan bulan Mei."
+    },
+    {
+        "id": "040fb",
+        "description": "Jun adalah bulan keenam dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 30 hari. Nama bulan ini berasal dari nama dewi Rom Juno.\nTiada bulan yang bermula pada hari yang sama dengan bulan Jun."
+    },
+    {
+        "id": "040fv",
+        "description": "Julai adalah bulan ketujuh dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 31 hari.\nBulan ini dinamakan \"Julai\" kerana Julius Caesar dilahirkan pada bulan ini. Sebelumnya, ia dipanggil Quintilis, yang bererti \"kelima\" dalam bahasa Latin, kerana pada asalnya kalendar Rom bermula pada bulan Mac.\nJulai bermula pada hari yang sama dengan Januari pada tahun lompat dan bulan April setiap tahun."
+    },
+    {
+        "id": "0ll3",
+        "description": "Ogos adalah bulan kelapan dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 31 hari.\nBulan ini dinamakan \"Ogos\" bersempena Augustus Caesar dan mempunyai 31 hari supaya sama dengan bulan Julai. Sebelumnya ia dipanggil Sextilis, yang bererti \"keenam\" dalam bahasa Latin.\nDi Malaysia, 31 Ogos merupakan Hari Kebangsaan negara Malaysia.\nOgos bermula pada hari yang sama dengan Februari pada tahun lompat."
+    },
+    {
+        "id": "06vkl",
+        "description": "September adalah bulan kesembilan dalam satu tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 30 hari. Nama bulan ini berasal dari bahasa Latin Septem, yang bererti \"ketujuh\". September merupakan bulan ketujuh dalam kalendar Rom sehinggalah 153 SM.\nSeptember bermula pada hari yang sama dengan Disember pada setiap tahun."
+    },
+    {
+        "id": "05lf_",
+        "description": "Oktober adalah bulan kesepuluh dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 31 hari. Nama bulan ini berasal dari bahasa Latin Octo, yang bererti \"kelapan\". Oktober merupakan bulan kelapan dalam kalendar Rom sehinggalah 153 SM.\nOktober bermula pada hari yang sama dengan Januari pada tahun biasa."
+    },
+    {
+        "id": "05cw8",
+        "description": "November adalah bulan kesebelas dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 30 hari. Nama bulan ini berasal dari bahasa Latin Novem, yang bererti \"kesembilan\". November merupakan bulan kesembilan dalam kalendar Rom sehinggalah 153 SM.\nNovember bermula pada hari yang sama dengan bulan Februari dan bulan Mac pada setiap tahun kecuali pada tahun lompat."
+    },
+    {
+        "id": "028kb",
+        "description": "Disember adalah bulan keduabelas dalam sebuah tahun dalam kalendar Gregory dan merupakan salah satu bulan yang mempunyai 31 hari. Nama bulan ini berasal dari bahasa Latin Decem, yang bererti \"kesepuluh\". Disember merupakan bulan kesepuluh dalam kalendar Rom sehinggalah 153 SM.\nDisember bermula pada hari yang sama dengan September pada setiap tahun."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Utara adalah sebuah arah dalam kompas. Utara merupakan arah yang, dalam budaya Barat, dianggap sebagai arah utama. Ia digunakan untuk menjelaskan arah-arah lainnya. Kerana itulah dalam peta arah utara selalu ditunjukkan dengan sebuah tanda panah. Utara biasanya berada di sebelah atas peta.\nUtara berlawanan arah dengan Selatan."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Selatan adalah salah satu arah mata angin dalam kompas. Ia berlawanan arah dengan utara. Selatan biasanya berada di bahagian bawah suatu peta. Hal ini dapat dipastikan pada lembar peta dengan adanya tanda panah yang menunjuk huruf U besar atau utara\nAda dua jenis selatan, iaitu:\n⁕Selatan asli, dan\n⁕Selatan magnetik."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Timur ialah arah dalam bidang geografi. Ia merupakan salah satu daripada empat arah kardinal atau mata angin yang bertentangan dengan barat dan bersudut tegak dengan utara dan selatan. Timur ialah arah yang Bumi berputar pada paksinya dan justera itu, Matahari dan Bulan terbit dari timur. Bagaimanapun, dalam bidang astronomi, bahagian timur Matahari ditakrifkan sebagai bertentangan dengan arah putarannya.\nMengikut kelaziman, peta bumi biasanya diorientasikan supaya bahagian kanannya menunjukkan sebelah timur bumi. Justera itu, negara-negara di Asia juga digelar negara-negara Timur. Kelaziman ini telah wujud sejak Zaman Pembaharuan Eropah. Bagaimanapun, banyak peta Zaman Pertengahan diorientasikan dengan Timur di atas and justera itu, Timur juga digelar Orient dalam bahasa Inggeris."
+    },
+    {
+        "id": "0j0k",
+        "description": "Benua Asia ialah sebuah kawasan yang meliputi Arab Saudi di barat, Russia di utara, Kepulauan Maldives di selatan, dan Jepun di timur. Sempadan Asia-Eropah dikatakan terletak di Laut Caspia, Laut Hitam, Pergunungan Caucus, Laut Marmara, Sungai Ural dan Pergunungan Ural. Manakala sempadan Asia-Afrika ialah Terusan Suez, dan Asia-Australia terletak di sempadan Papua, Indonesia dan Papua New Guinea.\nAsia merupakan benua yang terbesar di dunia iaitu 55.8 juta km persegi.\nBenua ini menempatkan jumlah penduduk paling ramai, iaitu lebih kurang 60% daripada populasi dunia."
+    },
+    {
+        "id": "059g4",
+        "description": "Amerika Utara merupakan sebuah kawasan yang terdiri dari negara-negara berikut:\n⁕Kanada\n⁕Amerika Syarikat\n⁕Mexico\nKadangkala Amerika Utara dianggap merupakan benua tersendiri, terpisah dari Amerika Selatan. Perbatasan antara Amerika Utara dan Amerika Selatan terletak di Panama."
+    },
+    {
+        "id": "06n3y",
+        "description": "Amerika Selatan ialah sebuah benua. Ada dua benua yang mengunakan nama 'Amerika' iaitu benua Amerika Utara dan Amerika Selatan.\nDari segi sejarah, Christhoper Columbus dipercayai telah menjumpai benua Amerika. Suatu ketika dahulu, ahli pelayaran menyangka bumi berbentuk sekeping papan dan sesiapa pelayar yang pergi ke hujung dunia akan jatuh. Terjumpanya benua Amerika. Ingauan ngeri tentang dunia berbentuk sekeping papan telah berubah.\nBaru-baru ini, sejarawan merumuskan ahli pelayaran China yang telah menemui benua Amerika. Ini disokong pelbagai artifak yang berkaitan terutama mangkuk Dinasti Ming. Malahan Laksamana Cheng Ho sendiri adalah ahli pelayaran yang mendahului Vasco Da Gama, Ferdinand Magellan, Alfonso D' Albuquerque.\n\nRalat petik: Tag <ref> ada tetapi tag <references\/> tidak disertakan"
+    },
+    {
+        "id": "02j9z",
+        "description": "Eropah ialah sebuah benua yang yang berada antara Lautan Atlantik di barat, Laut Artik di utara, Pergunungan Ural dan Sungai Ural di timur, Laut Kaspia, Pergunungan Caucasus dan Laut Hitam di Tenggara, dan Laut Mediterranean di selatan.\nDari segi keluasan, Eropah ialah benua yang kedua terkecil di dunia, iaitu 10, 400, 000 km² yang menjadikannya luas sedikit berbanding Australia. Dari segi populasi, Eropah mempunyai penduduk ketiga teramai selepas Asia dan Afrika. Bilangan penduduk di Eropah pada 2001 dikatakan berjumlah 666, 498, 000. Terdapat lebih kurang 50 buah negara di Eropah."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Afrika merupakan benua yang kedua terbesar selepas Asia, sama ada dari segi keluasan atau jumlah penduduk. Luasnya adalah kira-kira 30,244,050 km² termasuk kepulauan di sekitarnya, meliputi 20.3% dari jumlah daratan di bumi dan didiami lebih daripada 900 juta orang pada 2005, atau sekitar 14% populasi manusia di bumi.\nBenua Afrika disempadani:\n⁕di sebelah utara: Eropah, oleh Laut Mediterranean dan Selat Gibraltar\n⁕di sebelah timur, Asia, oleh Terusan Suez dan teluk, dan juga Lautan Hindi\n⁕di sebelah barat: Lautan Atlantik\nKata Afrika berasal dari bahasa Rom kuno, Africa terra — \"tanah Afri\" — untuk menunjukkan bahagian utara benua tersebut, iaitu Tunisia sekarang, wilayah jajahan Rom Afrika. Asal perkataan \"Afer\" mungkin adalah dari bahasa Funisia, 'afar yang bererti debu; atau dari puak Afridi, yang mendiami bahagian utara benua dekat Carthage; atau dari bahasa Greek aphrike yang bererti tanpa dingin; atau dari bahasa Latin aprica yang bererti cerah."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antartika adalah benua bumi selatan, merangkumi Kutub Selatan. Ianya terletak di wilayah Antartika dari belahan bumi selatan, hampir seluruhnya selatan Lingkaran Antartika, dan dikelilingi oleh Samudra Selatan. Pada 14,0 juta km2, Antartika adalah benua terbesar kelima di daerah setelah Asia, Afrika, Amerika Utara, dan Amerika Selatan. Sekitar 98% dari Antartika ditutupi oleh ais, yang rata-rata minimal 1,6 kilometer dalam ketebalan.\nAntartika, rata-rata, adalah, terdingin terkering, dan benua berangin, dan memiliki ketinggian rata-rata tertinggi dari semua benua. Antartika dianggap gurun, dengan curah hujan tahunan hanya 200 mm di sepanjang pantai dan jauh lebih pedalaman. Tidak ada penduduk manusia permanen, tetapi di mana saja dari 1.000 menjadi 5.000 orang tinggal sepanjang tahun di stasiun penelitian yang tersebar di seluruh benua. Hanya dingin-tanaman diadaptasi dan hewan bertahan hidup di sana, termasuk penguin, anjing laut, nematoda, tardigrades, tungau, banyak jenis ganggang dan mikroorganisme lainnya, dan vegetasi tundra. Meskipun mitos dan spekulasi tentang sebuah Terra Australis tanggal kembali ke kuno, penampakan dikonfirmasi pertama benua umumnya diterima telah terjadi pada 1820 oleh ekspedisi Rusia Fabian Gottlieb von Bellingshausen dan Mikhail Lazarev. benua, bagaimanapun, sebagian besar tetap diabaikan selama sisa abad ke-19 karena lingkungan yang tidak bersahabat, kurangnya sumber daya, dan isolasi. Penggunaan resmi pertama dari nama \"Antartika\" sebagai nama benua pada tahun 1890 adalah disebabkan oleh kartografer John Skotlandia George Bartholomew. Nama Antartika adalah versi diromanisasi senyawa kata Yunani ἀνταρκτική, feminin ἀνταρκτικός, yang berarti \"berlawanan dengan utara\". Perjanjian Antartika ditandatangani pada tahun 1959 oleh dua belas negara, untuk tanggal, empat puluh enam negara telah menandatangani perjanjian. Perjanjian itu melarang kegiatan militer dan pertambangan mineral, mendukung penelitian ilmiah, dan melindungi ecozone di benua itu. percobaan yang sedang berlangsung akan dilakukan oleh lebih dari 4.000 ilmuwan dari berbagai negara dan dengan kepentingan penelitian."
+    },
+    {
+        "id": "09pkq0",
+        "description": "Australia adalah benua yang terdiri daripada tanah besar Australia, Tasmania, Seram, kebanyakan New Guinea, dan beberapa pulau-pulau jiran yang lain. Benua kadang-kadang dikenali dalam konteks teknikal oleh nama-nama Sahul, Australinea atau Meganesia, untuk membezakan ia daripada tanah besar Australia. Ia adalah yang terkecil daripada tujuh benua tradisional dalam konsep Inggeris. New Zealand tidak adalah sebahagian daripada benua Australia, tetapi benua berasingan, tenggelam Zealandia. Zealandia dan Australia kedua-duanya adalah sebahagian daripada kawasan yang lebih luas yang dikenali sebagai Australasia dan Oceania."
+    },
+    {
+        "id": "05p553",
+        "description": "Filem komedi ialah satu genre filem yang mempunyai jenaka sebagai unsur utama. Filem-filem ini direka untuk mengetawakan penonton. Komedi secara umumnya drama riang dan dibuat untuk menghibur penonton. Genre komedi kerap sekali melebih-lebihkan keadaan, cara pertuturan, atau aksi dan watak dengan jenaka."
+    },
+    {
+        "id": "03npn",
+        "description": "Filem seram merupakan filem-filem genre seram yang dicipta khas untuk mencungkil perasaan seram, jijik atau ketakutan daripada para penonton. Dalam plot filem seram, semangat-semangat jahat, kejadian ngeri, ataupun wataknya sendiri yang bersifat jahat, merupakan beberapa elemen kebiasaan dalam dunianya."
+    },
+    {
+        "id": "0hcr",
+        "description": "Animasi ini bertukar sebanyak 10 kali sesaat.\n\nAnimasi ini bertukar sebanyak 2 kali sesaat. Anda dapat melihat pergerakannya.\nAnimasi ialah paparan pantas susunan imej-imej seni 2-D atau posisi model agar menghasilkan ilusi gerakan. Animasi ialah sejenis ilusi optik pergerakan disebabkan kejadian penerusan penglihatan, dan boleh dihasilkan dan didemonstrasi dalam pelbagai cara. Kaedah persembahan animasi yang paling laris ialah sebagai program wayang gambar atau video, namun juga terdapat cara-cara lain untuk mempersembahkan karya animasi."
+    },
+    {
+        "id": "06n90",
+        "description": "Cereka sains merupakan satu genre cereka luas yang sering melibatkan spekulasi berdasarkan sains dan teknologi sekarang dan masa hadapan. Cereka sains boleh dijumpai dalam buku, seni, televisyen, filem, permainan video, teater dan media lain.\nDalam konteks organisasi atau pemasaran, cereka sains boleh sinonim dengan makna yang lleih luas bagi cereka spekulatif, melingkungi karya kreatif yang mengandungi unsur imaginatif yang tidak ditemui dalam realiti kontemporari; ini termasuklah fantasi dan seram."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Genre aksi merupakan sebuah kelas karya-karya kreatif dikategorikan oleh penglibatan adegan-adegan aksi yang menarik perhatian penonton lebih daripada pembangunan perwatakan watak-watak ataupun penceritaan. Genre ini terbahagi kepada kategori-kategori seperti filem aksi, permainan video aksi dan media-media lain seperti manga ataupun anime."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Fantasi ialah satu genre yang menggunakan kuasa ajaib dan bentuk kuasa ghaib lain sebagai unsur utama plot, tema dan\/atau latar. Banyak karya dalam genre ini terjadi di dunia atau planet rekaan di mana kuasa ajaib adalah biasa."
+    },
+    {
+        "id": "04t36",
+        "description": "Filem muzikal ialah sejenis genre filem yang menjalinkan beberapa lagu dinyanyikan oleh watak-wataknya dalam sebuah penceritaan. Lagu-lagunya sebenarnya digunakan untuk memajukan plot atau mengembangkan watak-watak filem."
+    },
+    {
+        "id": "06by7",
+        "description": "Rock ialah sejenis muzik popular yang menonjolkan nyanyian, gitar elektrik, gitar bes, serta rentak genap yang kuat. Alat muzik yang lain, seperti keyboard saksofon, trompet, trombon) biasa juga digunakan dalam sesetengah gaya, tetapi hon tidak lagi digunakan dalam subgenre muzik rock yang lebih baru sejak 1990-an. Bilangan genre rock adalah banyak, dan sempadannya ditakrifkan secara kurang tepat, dengan genre-genre yang tidak begitu berkaitan, seperti muzik soul, kekadang juga dimasukkan.\nSatu pengaruh pembentukan rock yang utama ialah rock 'n' roll, sehingga kedua-dua istilah kekadang digunakan dengan saling boleh tukar. Pada awal 1960-an ketika rock 'n' roll tidak menjadi fesyen lagi, permulaan rock British telah menyebabkan desakan untuk menggunakan istilah muzik rock. Dengan \"Penaklukan British\" itu, gaya muzik yang dicergaskan semula ini tersebar kembali ke Amerika Syarikat, dan menjadi fenomena kebudayaaan antarabangsa yang berpanjangan dengan kesan sosial kepada dunia. Tuntutan-tuntutan yang bersaingan telah menghargai muzik ini kerana menamatkan perang-perang dan menyebabkan keamanan dan toleransi, tetapi ada juga yang mendakwa bahawa muzik rock tidak berakhlak dan merosakkan moral, termasuk juga persetubuhan secara rambang. Rock kini telah menjadi popular di kebanyakan negara di seluruh dunia, dan telah berkembang dengan banyak gaya yang amat berbeza."
+    },
+    {
+        "id": "064t9",
+        "description": "Muzik Pop ialah sejenis genre yang penting dalam muzik popular yang dibezakan daripada muzik klasikal atau muzik seni, serta daripada muzik rakyat. Istilah ini menunjukkan sifat-sifat stilistik yang khusus, tetapi genre ini juga merangkumi seniman-seniman yang menggunakan banyak gaya, seperti rock, hip hop, ritma dan blues, dan lagu rakyat Amerika. Oleh itu, \"muzik pop\" bolehlah dikatakan satu kategori yang fleksibel. Selain itu, istilah \"muzik pop\" juga boleh digunakan untuk merujuk kepada rock lembut atau pop\/rock."
+    },
+    {
+        "id": "03_d0",
+        "description": "Jaz merupakan gaya muzik yang berasal pada permulaan abad ke-20 dalam kalangan komuniti Amerika Afrika di Selatan Amerika Syarikat. Ia lahir daripada campuran tradisi muzik Afrika dan Eropah. Dari perkembangan awalnya sehingga sekarang, jaz telah menggabungkan muzik dari muzik popular Amerika abad ke-19 dan 20."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hip hop ialah satu aliran muzik rap yang berasal dari bandar raya New York di Amerika pada 1970-an oleh kaum kulit hitam, khususnya orang Amerika Afrika dan Amerika Latino.\nAntara artis hip hop terkenal adalah ialah Timbaland, Akon, Snoop Dogg, Nate Dogg, Dr Dre, Chris Brown dan Usher."
+    },
+    {
+        "id": "03lty",
+        "description": "Heavy metal ialah sejenis aliran muzik rock yang berkembang pada akhir 1960-an dan awal 1970-an. Dengan aliran muzik dalam blues rock dan psychedelic rock, band yang menciptakan logam berat maju, bunyi yang tebal dan besar-besaran, yang dicirikan oleh herotan yang sangat dikuatkan, gitar solo dilanjutkan, denyutan tegas, dan kenyaringan keseluruhan. Lirik-lirik heavy metal dan gaya prestasi secara amnya dikaitkan dengan kejantanan dan machismo. Kumpalan heavy metal pertama seperti Led Zeppelin, Black Sabbath dan Deep Purple menarik penonton yang besar, walaupun mereka sering dicerca kritikal, status biasa sepanjang sejarah genre. Dalam pertengahan tahun 1970-an Judas Priest membantu merangsang evolusi genre oleh membuang banyak pengaruh blues; Motörhead memperkenalkan satu perasaan halus punk rock dan penekanan yang lebih kepada kelajuan. Pancaragam di New Wave of British Heavy Metal seperti Iron Maiden diikuti dalam nada yang sama. Sebelum akhir dekad ini, logam berat telah menarik perkara-perkara berikut di seluruh dunia peminat yang dikenali sebagai \"metalheads\" atau \"headbangers\". Pada tahun 1980-an, glam metal menjadi kuasa besar perdagangan dengan kumpulan-kumpulan seperti Motley Crüe dan Poison. Adegan bawah tanah menghasilkan pelbagai gaya, yang lebih ekstrem dan agresif: thrash metal berpecah ke dalam arus perdana dengan band seperti Metallica, Megadeth, Slayer, dan Anthrax, manakala gaya yang lain seperti death metal dan black metal kekal fenomena subbudaya. Sejak pertengahan tahun 1990-an, gaya popular seperti nu metal, yang sering menyelitkan unsur-unsur grunge dan hip hop dan metalcore, yang menggabungkan ekstrem metal dengan hardcore punk, telah memperluaskan lagi definisi genre."
+    },
+    {
+        "id": "05r6t",
+        "description": "Rock punk merupakan genre muzik yang bermula dari atittuted dan fahaman anti-establishment dalam sekitar 60-an. Momentum besarnya meledak pada lewat 70-an dalam dunia muzik. Kehadiran muzik rock punk pada lewat 70-an telah membawa ledakan muzik yang besar hingga ke hari ini. Band yang memulakan rock punk, The Ramones telah membawa dimensi baru muzik rock dalam eranya. Rock n roll yang pantas dan tidak kompleks, tidak banyak polishing bunyian dan berkarat. Seterusnya Sex Pistol di Britain dan the Clash membuka lembaran rock dalam suasana punky dan rebelious, dan mempopularkan budaya punk. Bad Religion yang politikal, Nofx yang sarkastik, The exploited yang anarki sehinggalah kepada R.E.M yang puitis."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Muzik klasikal ialah satu istilah yang memberi tiga makna yang berbeza:\n⁕Muzik tradisi eropah yang berkaitan dengan kebudayaan yang sangat tinggi nilainya; yang amat berbeza dengan muzik popular moden atau muzik tradisi lama.\n⁕Tradisi Eropah begitu juga yang hampir sama dengan sesetengah tradisi bukan eropah.\n⁕Satu bahagian yang terperinci dalam pembangunan tradisi muzik seni eropah yang berakar umbi dari akhir kurun ke-18.\nIstilah muzik klasikal tidak muncul sehingga awal abad ke-19. Ia diperkenalkan di dalam usaha untuk membawa era Bach hingga ke Beethoven sebagai salah satu \"seni\" di dalam zaman kegemilangan seni ukiran arca, seni bina dan antikuiti klasik. Ini adalah kerana, kebiasaannya seni muzik tidak kekal hayatnya. Semenjak dari itu, istilah ini digunakan sebagai penggunaan genre muzik yang bermaksud bukan muzik popular atau muzik tradisi lama.\nBahasa Inggeris memberi penjelasan terperinci mengenai perbezaan classic dan classical; di mana classic ialah istilah umum untuk semua bidang seperti \"motor klasik\", \"rekod klasik\", \"lagu klasik\", \"lampu klasik\", \"perabot klasik\" dan sebagainya, manakala \"classical\" ialah istilah yang spesifik merujuk kepada muzik simfoni orkestra sahaja."
+    },
+    {
+        "id": "0155w",
+        "description": "Blues adalah sejenis muzik vokal serta instrumental berdasarkan penggunaan nada blue. Ia muncul di kalangan komuniti Afrika-Amerika di Amerika Syarikat daripada keagamaan, nanyian kerja, field hooler, jerit serta sorak, dan karangan balada ringkas berirama. Penggunaan nada blue dan corak panggil-dan-jawab yang menonjol serta senikata menunjukkan pengaruh Afrika. Blues kemudiannya mempengaruhi muzik popular Amerika dan Barat terkemudian, di mana ia menjadi akar kepada jazz, rythm and blues, rock and roll, bluegrass, hip-hop, dan bentuk-bentuk muzik popular lainnya."
+    },
+    {
+        "id": "06cqb",
+        "description": "Rege ialah genre muzik pertama kali dikembangkan di Jamaica pada akhir 1960-an. Kadang-kadang digunakan dalam erti kata yang lebih luas ke hampir semua jenis Muzik Jamaica, istilah rege sebenarnya lebih melambangkan stail muzik tertentu yang berasal daripada perkembangan ska dan rocksteady."
+    },
+    {
+        "id": "02w4v",
+        "description": "Lagu Kedaerahan merujuk kepada sesebuah lagu yang mempunyai irama khusus bagi sesebuah daerah. Terdapat lagu-lagu kedaerahan yang telah menjadi popular diseluruh negara hasil pendedahan oleh radio dan television."
+    },
+    {
+        "id": "0199g",
+        "description": "Basikal ialah sejenis kenderaan berkuasa manusia yang mempunyai dua roda yang dipasang ke rangka. Diperkenalkan buat pertama kali di Eropah pada abad ke-19, basikal telah berkembang dengan begitu pantas menjadi reka bentuk biasa pada hari ini. Berjumlah melebihi 1,000,000,000 di seluruh dunia pada hari ini, basikal memberikan satu cara pengangkutan yang utama di banyak kawasan serta sebagai bentuk pengangkutan rekreasi yang popular di kawasan yang lain.\nBasikal ialah salah satu daripada rekaan manusia yang ketara. Bentuk dan tatarajah asas bagi rangka, roda, pengayuh, tempat duduk, dan hendal tidak banyak bertukar sejak model pemacu rantai pertama diperkembangkan di sekitar 1885, walaupun banyak perbaikan perincian yang penting telah dibuat, khususnya kebelakangan ini, dengan menggunakan bahan-bahan moden dan reka bentuk terbantu komputer.\nBasikal telah memberikan kesan yang penting terhadap sejarah dalam alam budaya dan perindustrian. Pada tahun-tahun yang awal, pembinaan basikal mempergunakan teknologi yang sedia ada; pada masa kebelakangan ini, teknologi basikal sebaliknya telah menyumbang kepada bidang-bidang yang lebih baru."
+    },
+    {
+        "id": "019jd",
+        "description": "Perahu atau bot merupakan sejenis kenderaan air yang biasanya lebih kecil dari kapal. Sesetengah perahu boleh dibawa di atas kapal atau darat menggunakan treler - malah salah satu pengertian perahu ialah sejenis lancang air yang boleh dibawa oleh kapal.\nPerahu mempunyai struktur pengapungan yang dipanggil hul dan sistem dorongan seperti kipas, dayung, galah, layar dan jet air."
+    },
+    {
+        "id": "01bjv",
+        "description": "Bas merupakan sebuah kenderaan jalan raya yang besar serta direka bentuk untuk membawa penumpang yang ramai sebagai tambahan kepada pemandu dan kadang-kadang konduktor bas. Perkataan bas berasal daripada perkataan Latin omnibus, yang bermaksud 'untuk semua'. Nama penuh bas ialah 'Kenderaan Omnibas' - bermaksud 'kenderaan untuk semua'."
+    },
+    {
+        "id": "0k4j",
+        "description": "Kereta ataupun automobil ialah kenderaan bertayar empat yang mempunyai enjin. Pada masa dahulunya ia dikenali sebagai kenderaan bermotor kerana 'motor' merujuk kepada enjin. Kereta mempunyai tempat duduk untuk pemandu dan sekurang kurangnya satu tempat duduk untuk penumpang dan selebih-lebihnya 7 orang.\nSehingga 2002, terdapat 590 juta kereta penumpang di seluruh dunia."
+    },
+    {
+        "id": "09ct_",
+        "description": "Helikopter ialah sejenis pesawat udara yang diangkat dan didorong menggunakan satu atau lebih pemutar mendatar. Helikopter telah dikelaskan sebagai pesawat sayap putar untuk membezakannya dengan pesawat sayap kaku yang biasa. Perkataan \"helikopter\" berasal daripada gabungan perkataan Greek, heliks dan pteron. Helikopter pemutar tunggal serta terkawal penuh yang dikeluarkan secara besar-besaran buat pertama kali dibina oleh Igor Sikorsky pada tahun 1942.\nHelikopter lebih kompleks berbanding pesawat kepak kaku, dan mempunyai kos pengendalian dan kos operasi yang lebih tinggi. Helikopter juga mempunyai kelajuan yang rendah berbanding pesawat kepak kaku serta mempunyai jarak penerbangan yang lebih dekat. Daya angkatan helikopter juga terhad. Tetapi helikopter boleh dikendalikan untuk melakukan pergerakan yang tidak mungkin dibuat oleh pesawat kepak kaku, seperti terbang terkatung-katung di atas sesuatu tempat, terbang ke arah belakang dan berlepas serta mendarat secara menegak.\nTertakluk kepada kemudahan pengisian minyak dan pengehadan beban berat, helikopter boleh terbang ke mana sahaja dan boleh mendarat di mana-mana pelantar yang hanya mempunyai ruang legar dua kali ganda keluasan rotor helikopter tersebut."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motosikal adalah sejenis kenderaan berodua dua yang berenjin serta boleh dilesenkan untuk digunakan di atas jalan raya. Sebuah motosikal berupaya membawa seorang penunggang serta seorang pembonceng. Motosikal lazimnya digerakkan oleh enjin petrol kecil sama ada 2 lejang atau 4 lejang dengan kapasiti enjin antara 50 cc sehingga sebesar 2000 cc. Kebanyakan motosikal mempunyai tangki minyak berbentuk air mata di bahagian atas hadapan motosikal antara bar pemegang dan tempat duduk penunggang, tetapi motosikal jenis skuter dan kapcai pula mempunyai tangki minyak di bawah tempat duduk.\nMotosikal bergerak berasaskan hukum giroskopik sebagaimana basikal. Melalui hukum ini, motosikal hanya akan tegak apabila bergerak. Ketika di selekoh, daya emparan yang terhasil akan menjejaskan kestabilan motosikal, oleh itu penunggang perlu menunggang condong sedikit mengikut arah selekoh bagi mengimbangi daya emparan tersebut.\nSelain kestabilan, kelemahan utama motosikal ialah tiada perlindungan terhadap cuaca buruk serta penunggang motosikal amat mudah terdedah kepada risiko kemalangan jalan raya. Sungguhpun demikian, motosikal adalah satu bentuk pengangkutan yang tetap diminati oleh sebahagian pengguna jalan raya kerana menjimatkan bahan api, murah, mudah dimiliki serta penunggang boleh mencelah ketika jalan raya sesak."
+    },
+    {
+        "id": "06q74",
+        "description": "Kapal, seperti perahu\/bot, merupakan kenderaan direka untuk laluan atau pengangkutan merentasi air. Kapal biasanya cukup besar untuk membawa bot kecil seperti bot keselamatan, atau bot sangkut. Secara kebiasaannya kapal boleh membawa bot tetapi bot tidak boleh membawa kapal. Saiz sebenar di mana sesebuah bot dipanggil kapal selalunya ditakrifkan oleh undang-undang dan peraturan tempatan."
+    },
+    {
+        "id": "01pz3b",
+        "description": "Keretapi Bawah Tanah New York adalah sistem transit pantas yang terdapat di Bandaraya New York, Amerika Syarikat dan disewakan kepada Lembaga Transit Bandaraya New York, anak syarikat milik Lembaga Pengangkutan Metropolitan atau juga dikenali sebagai MTA New York City Transit. Sistem pengangkutan awam ini merupakan salah satu yang tertua dan terluas di dunia dengan 468 stesen yang sedang beroperasi dengan laluan sepanjang 209 batu. Pada thun 2010, perkhidmatan kereta api ini telah menghantar 1.604 bilion penumpang dengan anggaran lima juta pada hari minggu, lebih tiga juta pada hari Sabtu dan lebih dua juta pada hari Ahad."
+    },
+    {
+        "id": "0pg52",
+        "description": "Teksi ialah sejenis kenderaan sewa yang dipandu oleh seorang drebar untuk mengangkut seorang atau sebilangan kecil penumpang, ke destinasi pilihan mereka, berbeza sekali dengan pengangkutan awam lain yang mana lokasi turun naik ditetapkan oleh pengendali perkhidmatan, bukannya penumpang.\nIstilah teksi berasal daripada istilah taxicab, iaitu singkatan taximeter cab yang dicipta oleh Harry N. Allen, yang mengimport kereta teksi pertama ke Bandaraya New York dari Perancis. Perkataan cab ialah singkatan untuk cabriolet, iaitu sejenis kereta kuda.\nSelain itu, taximeter diadaptasi dari perkataan Perancis taximètre, yang diterbitkan dari taxameter dalam bahasa Jerman, yang berasal dari Bahasa Latin Pertengahan iaitu taxa yang bererti 'cukai', digabungkan dengan perkataan meter dari metron dalam bahasa Yunani yang bermaksud 'ukuran'."
+    },
+    {
+        "id": "07jdr",
+        "description": "Kereta api, atau tren terdiri daripada beberapa kenderaan berlandasan yang boleh bergerak bersama untuk membawa muatan atau penumpang dari satu tempat ke tempat yang lain melalui laluan tertentu. Landasan kereta api selalunya terdiri daripada rel konvensional. Pada masa kini, sesetengah kereta api menggunakan sistem monorel atau maglev. Daya tujahan kereta api datang dari pelbagai sumber. Biasanya lokomotif atau unit dorong diri digunakan. Kereta api di Malaysia pada permulaannya digunakan bagi mengangkut bijih timah. Ia mula berkhidmat pada 1 Jun 1885 dari Taiping ke Port Weld."
+    },
+    {
+        "id": "07r04",
+        "description": "Lori adalah kenderaan berat komersial yang digunakan untuk mengangkut barangan dengan kuantiti yang besar melalui jalan raya.\nIstilah lori yang digunakan di dalam Bahasa Melayu dipinjamkan daripada Bahasa Inggeris British, lorry; manakala perkataan trak dipinjamkan daripada Bahasa Inggeris Amerika. Secara umumnya, istilah lori lebih banyak merujuk kepada lori-lori sederhana dan berat, manakala istilah trak adalah lebih umum dan merangkumi semua jenis lori.\nDi Malaysia, pemandu lori diwajibkan memiliki lesen memandu kelas E serta GDL iaitu Lesen Vokasional dengan satu catatan bersendi sekiranya hendak memandu lori treler. Untuk memohon lesen kelas E, calon pemandu hendaklah berumur 21 tahun ke atas serta sudah memiliki lesen memandu kelas D selama sekurang-kurangnya 5 tahun."
+    },
+    {
+        "id": "0ddnl",
+        "description": "Feri adalah sebuah bot atau kapal membawa penumpang, dan kemungkinannya kenderaan mereka, pada laluan yang berkala jarak dekat.\nFeri memainkan peranan penting dalam sistem pengangkutan awam bagi kebanyakan bandar persisiran pantai, membenarkan transit langsung antara destinasi dengan kos lebih kecil berbanding jambatan ataupun terowong.\nFeri pejalan kaki dengan banyak hentian, seperti di Venice, kadang kala dikenali sebagai bas air atau teksi air.\nDi Malaysia, dua pengkalan feri yang terletak di Pulau Pinang dan Butterworth telah dibuka dengan rasminya oleh Tunku Abdul Rahman, Perdana Menteri Persekutuan Tanah Melayu pada 23 Sep 1959. Pengkalan ini telah diberi nama Pengkalan Raja Tun Uda di Pulau Pinang dan Pengkalan Sultan Abdul Halim di Butterworth."
+    },
+    {
+        "id": "09g5h",
+        "description": "Kapal angkasa lepas ialah sejenis kenderaan atau mesin yang direka untuk penerbangan di angkasa lepas."
+    },
+    {
+        "id": "074d1",
+        "description": "Kapal selam adalah kenderaan yang bergerak di bawah air, selalunya untuk tujuan ketenteraan. Kebanyakan tentera laut \"navy\" memiliki kapal selam. Kapal selam juga digunakan untuk kajian sains laut dan air tawar dan untuk bertugas di kedalaman yang tidak sesuai untuk penyelam manusia. U-boot ialah ringkasan bagi Unterseeboot iaitu nama Jerman untuk kapal selam Jerman"
+    },
+    {
+        "id": "057gn",
+        "description": "Kenderaan Serba Guna, juga dikenali sebagai minivan, merupakan sejenis kereta dengan bentuk badan yang hampir serupa dengan van yang direkabentuk untuk kegunaan persendirian. Lazimnya, MPV lebih tinggi daripada kereta sedan, hatchback ataupun kereta estet serta direka dengan ruangan dalaman yang maksimum."
+    },
+    {
+        "id": "0342h",
+        "description": "Gitar adalah sejenis alat muzik bertali yang telah lama digunakan dalam pelbagai jenis gaya muzik, dan juga salah satu alat solo klasik. Ia banyak digunakan sebagai alat utama dalam muzik blues, desa, flamenco, rock dan banyak jenis pop. Gitar biasanya terdiri daripada satu batang leher yang panjang dan terdapat ruas-ruas yang dipanggil \"fret\". Badannya seakan-akan berbentuk biola. Pada kebiasaannya juga terdapat enam tali yang boleh dimainkan dengan memetik tali tersebut sama ada dengan jari ataupun plektrum. Namun terdapat juga gitar dengan empat, tujuh, lapan, sepuluh dan dua belas tali. Gitar dibuat dan dibaiki oleh tukang lut. Gitar boleh dimainkan secara akustik atau boleh bergantung pada penguat yang selalunya membolehkan manipulasi nada secara elektrik. Gitar elektrik baru sahaja diperkenalkan pada abad ke-20, dan telah memberi kesan yang mendalam pada budaya popular."
+    },
+    {
+        "id": "013y1f",
+        "description": "Organ ialah alat muzik keyboard yang dimain dengan bod pedal, dan satu atau lebih keyboard manual. Ia mempergunakan salah satu daripada dua cara untuk menghasilkan bunyi yang tetap dan tidak terputus-putus semasa kekunci ditekan, iaitu: menyalurkan angin ke dalam paip yang diperbuat daripada logam atau kayu; dan\/atau menggunakan pengayun atau bunyi organ tersampel. Bunyinya yang berbeza-beza dari segi timbre dan kelantangannya, dibahagikan menurut tingkat dan dikawal dengan menggunakan penghenti. Keyboardnya tidak ekspresi dan tidak mempengaruhi dinamik. Saiz organ amat berbeza dari seela persegi sehingga lima tingkat tingginya. Ia ditempatkan terutamanya di gereja, dewan konsert dan rumah. Organ merupakan salah satu alat muzik tertua dalam tradisi muzik Barat, dan membawa sejarah sembahyang Kristian dan istiadat awam yang kaya."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Seruling ataupun flut ialah sebuah alat muzik dari famili alat tiup kayu atau woodwind. Berlainan dengan alat rid, seruling ialah sebuah alat aerofon atau alat tiup tanpa rid yang mengeluarkan bunyi daripada aliran udara yang merentasi lubang. Ia diperbuat daripada buluh satu ketika dahulu. Namun kini seruling moden ada yang diperbuat daripada logam aluminium dan plastik. Cara memainkannya adalah dengan meniup. Akan tetapi cara meniup seruling hendaklah betul bagi mengeluarkan bunyi yang baik. Mengikut klasifikasi instrumen muzik Hornbostel-Sachs, seruling atau flut dikategorikan sebagai alat tiupan pinggir.\nSelain suara manusia, seruling merupakan alat muzik yang tertua. Beberapa seruling berusia 35,000 ke 43,000 tahun diketemu di wilayah Swabian Alb Jerman. Seruling-seruling ini menunjukkan tradisi muzik kehadiran manusia moden yang terdapat di Eropah."
+    },
+    {
+        "id": "05r5c",
+        "description": "Piano iaitu alat muzik yang dimain melalui keyboardnya. Ia menghasilkan bunyi apabila tali kelulinya dimain dengan penukul kain felt. Penukul itu melantun dengan serta-merta dan membenarkan tali keluli terus bergetar pada frekuensi resonansnya. Getaran ini dipindahkan melalui kekuda ke bod suara untuk menguatkan bunyinya."
+    },
+    {
+        "id": "0mn6",
+        "description": "Arkitek atau jurubina ialah orang yang telah dilatih untuk merancang, mereka bentuk bangunan dan menyelia pem­binaan­nya."
+    },
+    {
+        "id": "09jwl",
+        "description": "Seorang pemuzik ialah seseorang individu yang menulis atau memainkan muzik. Ahli-ahli pemuzik boleh diklasifikasikan menurut peranan mereka dalam mencipta atau memainkan muzik:\n⁕Seorang Pemain Alat Muzik memainkan sejenis alat muzik.\n⁕Seorang penyanyi menggunakan suara manusia sebagai alat muzik.\n⁕Seorang penggubah, penyusun dan pencipta lagu menghafal dan mengajar secara oral, atau merakam komposisi muzik mereka dalam bentuk notasi tradisional atau rakaman suara.\n⁕Seorang konduktor muzik mengetuai sebuah perhimpunan muzikal. Seorang konduktor muzik boleh bertindak secara serentak sebagai pemain alat muzik dalam perhimpunana."
+    },
+    {
+        "id": "01d30f",
+        "description": "Guru ataupun dikenali juga sebagai pengajar, pendidik, Mudarris dan pengasuh merupakan tenaga pengajar dalam institusi pendidikan seperti sekolah atau tiusyen. Dalam zaman modern ini guru juga merupakan istilah yang digunakan untuk seorang yang pakar dalam sesuatu bidang misalnya management guru merujuk kepada seorang yang pakar dan handal dalam bidang pengurusan. Di peringkat universiti, guru diberi gelaran tutor atau pensyarah. Lazimnya guru perlu mahir dalam sesuatu mata pelajaran serta diperkukuhkan pula dengan pengetahuan dalam bidang pedagogi atau sains prinsip pengajaran.\nDari segi agama pula misalnya agama Hindu dan Sikh, guru mempunyai maksud yang lebih tinggi. Ia biasanya merujuk kepada para pendita yang mempunyai ilmu mendalam dalam hal-hal kerohanian."
+    },
+    {
+        "id": "0d1pc",
+        "description": "Peragawan atau model ialah individu yang dibayar untuk memaparkan atau mempromosikan fesyen pakaian, produk, atau bagi tujuan pengiklanan dan promosi, serta mereka yang bergaya untuk seni."
+    },
+    {
+        "id": "01c72t",
+        "description": "Penggubah merujuk kepada seseorang yang menulis notasi muzik; iaitu sistem yang mewakili aura muzik melalui penggunaan simbol-simbol tertentu, yang membolehkan ahli muzik memainkan nota tersebut sebagai muzik tersusun. Inilah yang membezakan seorang penggubah daripada seorang ahli muzik yang mengimprovisasi atau bermain alat muzik.\nIstilah \"penggubah\" atau \"komposer\" kerap digunakan untuk merujuk kepada muzik tradisi barat iaitu muzik klasikal. Untuk lagu-lagu biasa seperti muzik popular, lagu-lagu rakyat dan lain-lain, istilah yang biasa dipanggil adalah penulis lagu kerana kebiasaanya muzik popular mengambil bentuk sebagai satu lagu dan juga kerana skala penulisan nota muzik yang kecil, berbanding dengan penggubah atau komposer muzik klasikal yang biasanya dikaitkan dengan gubahan besar seperti simfoni orkestra. Namun sejak kebelakangan ini, kebanyakan penulis lagu muzik popular digelarkan sebagai penggubah atau komposer.\nTahap perbezaan antara penggubah dan ahli muzik juga adalah berbeza-beza. Perbezaan ini kadang-kala boleh memberi kesan negatif seperti isu hak cipta dan kecenderungan penghormatan untuk tafsiran individu dalam satu perincian bahagian muzik. Sebagai contohnya, dalam pembangunan muzik klasikal atau opera di Eropah, fungsi penggubah muzik pada asalnya tidak dianggap penting berbanding dengan fungsi persembahan muzik."
+    },
+    {
+        "id": "05xls",
+        "description": "Pengatur cara komputer merupakan seseorang yang mempunyai kebolehan atau keupayaan dalam menulis sesuatu atur cara ataupun perisian. Seseorang yang melaksanakan tugas atau bekerja dalam mengatur cara juga dikenali sebagai penganalisis atur cara. Seseorang pengatur cara komputer boleh berbicara sekurang-kurangnya dalam satu bahasa pengaturcaraan untuk membolehkannya mengatur cara sesebuah atur cara atau perisian. Pengatur cara juga boleh dirujuk sebagai pembangun perisian, jurutera perisian, saintis komputer atau juruanalisis perisian.\nNamun tidak semua yang membina atur cara adalah seorang pengatur cara. Sesiapa pun boleh membina sebuah atur cara dengan menyalin kod daripada seorang pengatur cara sebenar tanpa mengetahui makna kod tersebut. Golongan seperti ini selalunya digelar script kiddie.\nAntara bahasa atur cara yang sering digunakan adalah C, C++, Assembly, Java, C#, VB.NET, Ruby, PHP dan banyak lagi bergantung kepada tujuan perisian itu diciptakan. Bahasa atur cara juga dibahagikan kepada bahasa level tinggi dan juga bahasa level rendah. Bahasa level rendah sering digunakan untuk membangunkan perisian sistem komputer seperti Sistem Operasi Komputer. Manakala bahasa level tinggi sering digunakan untuk membangun applikasi sistem untuk kegunaan organisasi besar seperti sistem inventori, bank dan sebagainya."
+    },
+    {
+        "id": "03l9g",
+        "description": "Tukul atau penukul ialah alat yang digunakan untuk mengetuk sesuatu. Contohnya untuk memasukkan paku ke dalam objek seperti kayu dan memecahkan benda. Tukul memiliki pemegang panjang, manakala kepalanyanya mempunyai permukaan mendatar dan berat."
+    },
+    {
+        "id": "05b_nc",
+        "description": "Gergaji puting merupakan sebarang gergaji tangan yang memiliki belakang tegar yang diperkukuh pada bahagian berlawanan dengan mata memotong, membenarkan kawalan lebih baik dan pemotongan lebih jitu berbanding gergaji jenis lain. Gergaji puting biasa digunakan dalam bertukang kayu untuk kerja tepat, seperti memotong bajang, penjuru, atau puting dalam pembuatan kabinet dan tanggaman."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Gunting ialah sejenis alat yang digunakan untuk memotong bahan yang nipis seperti:\n⁕kertas\n⁕kertas perak\n⁕plastik nipis\n⁕rambut\n⁕makanan\n⁕pakaian\n⁕tali\n⁕kabel.\nGunting lebih baik daripada pisau untuk beberapa penggunaan, seperti memotong rencana akhbar mahupun gambar. Berbanding pisau, gunting memiliki dua bilah yang tajam.\nMenggunakan prinsip tuas, sebahagian besar jenis gunting tidak terlalu tajam. Gunting kanak-kanak biasanya tidak tajam, dan sering dilindungi dengan plastik.\nGunting sesuai digunakan untuk orang kidal mahupun orang yang tidak kidal. Menggunakan gunting di tangan yang salah sukar buat kebanyakan orang.\nTerdapat juga gunting khas yang digunakan untuk memotong plat besi atau zink, seperti yang digunakan oleh jabatan bomba dan penyelamat."
+    },
+    {
+        "id": "04nmy9",
+        "description": "Cek ialah perintah bertulis kepada institusi kewangan supaya membayar jumlah khusus dalam sesuatu mata wang seperti yang dinyatakan."
+    },
+    {
+        "id": "06qrr",
+        "description": "Minuman ringan ialah minuman yang tidak mengandungi alkohol. Ia seringnya berkarbonat dan juga biasanya diminum secara sejuk. Minuman ringan yang paling umum ialah kola, air berperisa, air membuih, teh ais, teh manis, lemonad, skuasy, dan punc buah.\nIstilah \"ringan\" digunakan sebagai lawan kepada istilah \"keras\", iaitu minuman beralkohol. Umumnya, istilah itu juga membayangkan minuman yang tidak mengandungi susu atau hasil tenusu. Namun coklat panas, teh panas, kopi, air paip, jus, dan susu kocak juga tidak tergolong dalam minuman ringan.\nBanyak minuman ringan berkarbonat kini disediakan dalam dua versi, iaitu dipermanis dengan gula atau dipermanis dengan pemanis tak berkalori."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Garpu ialah alat untuk makan. Berbeza dengan sudu, garpu memiliki cabang yang disebut gigi. Sebahagian besar garpu memiliki 3 atau 4 gigi. Beberapa garpu hanya mempunyai 2 gigi. Gigi garpu itu membantu anda mengambil makanan. Garpu lebih banyak digunakan di Barat, di Asia Timur, penyepit lebih biasa digunakan.\nKebanyakan garpu diperbuat daripada logam. Ada juga diperbuat daripada plastik atau kayu."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Hamburger adalah sejenis hidangan sandwic yang terdiri daripada daging burger yang dimasak sama ada digoreng, dikukus, dipanggang atau disalai, serta selalunya dihidangkan dengan pelbagai inti atau \"topping\" di dalam roti burger yang dibelah dua. Selalunya daging burger diperbuat daripada daging lembu, melainkan jika dinyatakan sebaliknya.\nHamburger juga merujuk kepada daging burger yang dimasak itu sendiri. Perkataan hamburger berasal daripada bandar bernama Hamburg dan bukannya merujuk kepada daging khinzir."
+    },
+    {
+        "id": "0cmx8",
+        "description": "Sudu adalah alatan untuk makan. Sejenis kutleri, sudu biasanya digunakan untuk mengambil makanan dan juga boleh digunakan untuk mengukur dan mengacau ramuan. Sudu moden lazimnya dibuat daripada logam dan plastik."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Kopi adalah minuman yang dicampurkan dengan air panas yang disedia daripada benih panggang, biasanya dipanggil biji kopi, bagi tumbuhan kopi. Disebabkan kandungan kafeinnya, kopi mempunyai kesan perangsang pada manusia. Hari ini, kopi adalah satu daripada minuman paling disukai itu di seluruh dunia.\nKopi adalah pertama diminum dalam abad kesembilan, apabila ia telah ditemui di tanah tinggi Etiopia. Dari situ, ia merebak ke Mesir dan Yemen, dan pada abad ke-15, telah sampai Armenia, Farsi, Turki, dan di utara Afrika. Dari dunia Islam, penyebaran kopi ke Itali, dan seluruh Eropah, dan ke Amerika."
+    },
+    {
+        "id": "09cx8",
+        "description": "Jari tangan ialah bahagian anggota tubuh badan yang keluar dari tangan. Setiap manusia normal mempunyai lima jari tangan. Lima jari ini mempunyai nama:\n⁕Ibu jari\n⁕Jari telunjuk\n⁕Jari hantu\n⁕Jari manis\n⁕Jari kelengkeng"
+    },
+    {
+        "id": "0hz0h",
+        "description": "Gigi merupakan struktur putih kecil yang terdapat di dalam mulut manusia dan juga haiwan vertebrat. Gigi digunakan untuk mengoyak, mengikis, memotong dan mengunyah makanan. Sesetengah haiwan, terutamanya karnivor, juga menggunakan gigi untuk memburu atau mempertahankan diri. Akar gigi diselaputi oleh gusi."
+    },
+    {
+        "id": "037p5b",
+        "description": "Pipi merupakan bahagian muka di antara pelipis dengan dagu."
+    },
+    {
+        "id": "031n1",
+        "description": "Kaki adalah struktur biologikal yang dijumpai dalam banyak haiwan yang digunakan untuk daya bergerak."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Bibir merupakan lapisan daging lembut yang berisi pada tepi mulut manusia dan kebanyakan haiwan yang dapat ditaup-taupkan."
+    },
+    {
+        "id": "0mhy4",
+        "description": "Pada anatomi vetrebra, tekak merupakan bahagian anterior bagi leher, di hadapan saraf tunjang. Ia terdiri dari pharynx dan larynx. Satu ciri penting tekak adalah epiglottis, injap yang mengasingkan esophagus dengan trachea dan menghalang makanan dan minuman memasuki saluran pernafasan.\nTekak memiliki pelbagai saluran darah, pelbagai otot pharyngeal, trachea dan esophagus. Tulang hyoid dan clavicle merupakan satu-satunya tulang yang terletak pada tekak mamalia.\n Jugulum merupakan bahagian bawah tekak, betul-betul di atas dada. The term is reflected in the external and internal jugular vein, which pass through this region."
+    },
+    {
+        "id": "0dzdr",
+        "description": "Dada adalah bahagian anatomi pada manusia dan haiwan. Pada hominidae, termasuk manusia, dada adalah bahagian tubuh antara leher dan perut, termasuk organ-organ dalaman dan isi lain seperti otot, arteri dan vena, tulang, dll. Isi dada sebahagian besar dilindungi dan disokong oleh tulang rusuk, tulang belakang, dan tulang bahu. Pada manusia, bahagian dada yang terlindung oleh tulang rusuk disebut juga dengan istilah toraks."
+    },
+    {
+        "id": "025kyy",
+        "description": "Dahi adalah bahagian depan kepala dalam anatomi manusia."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Mulut merupakan organ badan yang berbentuk bukaan pada badan yang membenarkan sesuatu organisma menerima makanan."
+    },
+    {
+        "id": "01d_ff",
+        "description": "Jari kaki ialah bahagian anggota tubuh badan yang beruas terletak di hujung kaki."
+    },
+    {
+        "id": "0f9swq",
+        "description": "Dagu adalah bahagian paling bawah wajah manusia. Dagu berada di bawah mulut dan merupakan perluasan dari rahang yang lebih atau kurang besar bergantung pada orang. Walaupun perubahan morfologi utama ini, masih dianggap sebagai penting pada manusia, kecuali untuk kes-kes patologi."
+    },
+    {
+        "id": "03q69",
+        "description": "Rambut merupakan anggota badan yang terletak di atas kepala. Lazimnya rambut berwarna hitam. Namun sesetengah orang rambutnya berwarna perang terutamanya pada mereka yang tinggal di Barat."
+    },
+    {
+        "id": "0dzd8",
+        "description": "Leher adalah bahagian yang menghubungkan kepala dengan tubuh. Pada beberapa haiwan, leher dapat tumbuh panjang, misalnya pada zirafah. Walau bagaimanapun, tulang leher tetap mempunyai tujuh tulang. Di dalam leher terdapat saluran-saluran pernafasan dan pencernaan."
+    },
+    {
+        "id": "0fjkt",
+        "description": "Lidah merupakan satu bungkusan otot rangka pada dasar mulut yang menangani makanan bagi mengunyah dan menelan. Ia juga merupakan deri utama bagi rasa. Sebahagian besar permukaan lidah diselitupi dengan bud perasa. Lidah dengan kebolehan banyak pergerakan, membantu membentuk bunyi dalam pertuturan. Ia sensitif dan sentiasa dilembapkan oleh kelenjar air liur, dan kaya dengan deria dan salur darah bagi membenarkan ia bergerak.\nPembelit lidah \"tongue twister\" adalah farsa khas bagi menyukarkan ia disebut. Contoh pembelit lidah adalah : Gajah lalu lalang layu. Satu contoh lain adalah Buaya biawak Contoh bahasa Inggeris: \"She sells seashells by the seashore\", atau \"Peter Piper picked a peck of pickled peppers. If Peter Piper picked a peck of pickled peppers, how many pickled peppers did Peter Piper pick?\" Pembelit lidah bertujuan membelit lidah anda."
+    },
+    {
+        "id": "039xj_",
+        "description": "Telinga merupakan sebuah organ badan yang mampu mengesan bunyi dan juga berperanan dalam keseimbangan dan kedudukan tubuh. Telinga pada haiwan vertebrata memiliki dasar yang sama daripada ikan hingga manusia, dengan beberapa kepelbagaian bergantung kepada fungsi dan spesies.\nSetiap vertebrata memiliki satu pasang telinga, kedua-duanya terletak bersimetri pada bahagian yang berlawanan di kepala, untuk menjaga keseimbangan dan kedudukan bunyi.\nBunyi adalah bentuk tenaga yang bergerak menerusi udara, air, atau benda lain, dalam bentuk gelombang. Walaupun telinga yang mengesan bunyi, fungsi pengenalan dan tafsiran dilakukan di otak dan sistem saraf pusat. Rangsangan bunyi disampaikan ke otak melalui saraf yang menyambungkan telinga dan otak."
+    },
+    {
+        "id": "0k65p",
+        "description": "Tangan adalah bahagian badan pada hujung lengan manusia dan haiwan primat. Tangan merupakan organ utama yang digunakan untuk memanipulasi persekitaran. Kebanyakan manusia mempunyai dua belah tangan, biasanya dengan empat jari dan satu ibu jari. Bahagian dalam tangan dikenali sebagai telapak tangan. Apabila semua jari digenggam erat, tangan membentuk penumbuk. Sambungan antara jari dipanggil sendi."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Hidung merupakan bahagian badan pada manusia dan haiwan vertebrat untuk mencium atau menyedut udara, terdapat pada bahagian muka atas sedikit daripada mulut."
+    },
+    {
+        "id": "027n3_",
+        "description": "Bulu kening, kening atau alis ialah bulu yang halus dan tebal di atas kelopak mata dan di bahagian bawah dahi.\nBulu kening adalah bulu-bulu halus di atas mata yang mengikuti bentuk margin yang lebih rendah daripada tulang bulu kening beberapa mamalia . Fungsi utama adalah untuk melindungi mata dan juga penting untuk komunikasi manusia dan memberikan ekspresi wajah .Mengubahsuai bulu kening dengan cara penambahan rambut, membuang, make up, atau bertindik akan mengubah operasi bulu kening dari kedudukan dan rupa asalnya yang tepat.\nFungsi utama dari bulu kening adalah untuk mengelakkan kelembapan, kebanyakan masin peluh dan hujan, dari mengalir ke mata. Bentuk melengkung khas bulu kening dan arah dimana rambut bulu kening yang menyungkit untuk mempastikan bahawa air mempunyai kecenderungan untuk mengalir ke samping di sekitar mata, sepanjang sisi kepala dan sepanjang hidung. Tulang bulu kening agak menonjol juga memainkan peranan penyokong dalam proses ini, juga membantu untuk membuat ekspresi muka. Bersama dengan tulang bulu kening, bulu kening juga menaungi mata dari sinar matahari. Bulu kening juga mencegah kotoran seperti ketombe dan benda-benda kecil yang lain daripada jatuh ke dalam mata, serta memberikan rasa yang lebih sensitif untuk mengesan benda-benda berada di dekat mata, seperti serangga kecil."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Dalam anatomi, kepala adalah bahagian rostral yang biasanya terdiri dari otak, mata, telinga, hidung, dan mulut. Beberapa haiwan yang sangat sederhana tidak memiliki kepala, tetapi haiwan yang berbentuk simetri bilateral lazimnya memiliki kepala."
+    },
+    {
+        "id": "031974",
+        "description": "Pinggang merupakan bahagian badan di antara tulang rusuk dengan pinggul."
+    },
+    {
+        "id": "014sv8",
+        "description": "Mata merupakan organ yang telah terbentuk untuk mengesan cahaya. Mata yang paling ringkas hanya berfungsi mengesan sama ada keadaan sekeliling terang atau gelap. Mata yang lebih rumit berfungsi untuk memberikan deria penglihatan."
+    },
+    {
+        "id": "032b3c",
+        "description": "Jaket Biru merupakan sebuah filem Melayu yang diterbitkan di Malaysia pada 1991. Filem Jaket Biru diterbitkan dalam bentuk filem warna.\nFilem Jaket Biru mula ditayangkan pada 1991 di pawagam seluruh negara. Menampilkan Ebby Saiful, Raja Noor Baizura dan ramai lagi."
+    },
+    {
+        "id": "06rrc",
+        "description": "Kasut adalah sejenis alas kaki biasanya diperbuat daripada getah, kulit, kain, dan lain-lain yang menutupi bahagian kaki manusia. Tujuannya untuk melindungi dan memberikan keselesaan kepada kaki ketika melakukan pelbagai aktiviti."
+    },
+    {
+        "id": "0142wf",
+        "description": "Pijama atau baju tidur adalah sejenis pakaian longgar untuk tidur yang terdiri daripada seluar panjang dan baju."
+    },
+    {
+        "id": "013s93",
+        "description": "Kemeja-T ialah baju yang dipakai dengan menyarungnya dari kepala ke bawah untuk melitupi sebahagian besar badan manusia. Ia biasanya tidak berbutang, tidak berkolar, atau tidak bersaku, dan memiliki leher bulat serta lengan pendek. Lengan kemeja-T menjangkau sekurang-kurangnya sehingga bahu tetapi tidak melitupi siku. Baju dengan lengan yang lebih panjang atau lebih pendek daripada itu tidak tergolong dalam kemeja-T.\nKemeja-T biasanya diperbuat daripada serat kapas atau serat poliester yang dikait sebagai fabrik jersi untuk memberikan tenunan kemeja-T tersendiri yang lembut. Kemeja-T boleh dihiasi dengan teks dan\/atau gambar, dan kekadangnya dipergunakan untuk pengiklanan.\nFesyen kemeja-T termasuk gaya untuk kedua-dua lelaki dan wanita, serta untuk semua kumpulan umur, termasuk saiz bayi, budak, dan dewasa."
+    },
+    {
+        "id": "0fly7",
+        "description": "Jean ialah seluar panjang yang diperbuat daripada denim yang tebal dan tahan lasak. Sebahagian jean biru Amerika Syarikat terawal dibuat oleh Jacob Davis, Calvin Rogers, dan Levi Strauss pada 1873. Bermula pada 1950-an, jean, mulanya direka untuk pekerja, menjadi popular di kalangan remaja. Jenama bersejarah termasuklah Levi's, Lee, dan Wrangler.\nJean sekarang ini merupakan pakaian kasual yang amat popular di seluruh dunia, sudah berdekad-dekad. Jean mempunyai banyak gaya dan warna; walau bagaimanapun, \"jean biru\" dikaitkan dengan budaya Amerika, terutamanya American Old West."
+    },
+    {
+        "id": "0216vm",
+        "description": "Selipar merujuk kepada alas kaki separa tutup yang digunakan di luar atau dalam rumah. Selipar lembut dan ringan berbanding dengan kasut lain."
+    },
+    {
+        "id": "01v229",
+        "description": "Baju hujan ialah baju yang direka khas untuk mengelakkan diri daripada terkena hujan kerana hujan boleh mengakibatkan demam. Baju hujan juga direka untuk tidak membiarkan baju yang dipakai basah kerana hujan.\nTerdapat pelbagai jenis baju hujan, dan kebanyakan baju hujan diperbuat dengan warna terang untuk memudahkan pemakainya dilihat semasa hujan lebat, ketika jarak penglihatan berurangan. Terdapat juga baju hujan yang memiliki penanda cahaya bagi tujuan yang sama."
+    },
+    {
+        "id": "07mhn",
+        "description": "Seluar panjang ialah sejenis pakaian yang dipakai di bahagian bawah badan dari pinggang ke pergelangan kaki, menutupi kedua belah kaki berbeza. Seluar pendek pula hanya sampai ke takat sekitar lutut."
+    },
+    {
+        "id": "0174n1",
+        "description": "Sarung tangan merupakan bahan pelapik tangan yang biasanya dibuat daripada kain atau getah. Terdapat pelbagai fungsi sarung tangan. Harga dan bahan asas juga berbeza."
+    },
+    {
+        "id": "01n4qj",
+        "description": "Kemeja adalah sejenis baju potongan Barat yang berlengan panjang atau pendek yang biasanya dipakai oleh orang lelaki. Kemeja boleh dipakai untuk majlis rasmi mahupun tidak."
+    },
+    {
+        "id": "01zzs",
+        "description": "CD-ROM atau nama penuhnya compact disk read-only memory ialah sejenis cakera padat yang menyimpan data yang boleh dibaca oleh komputer. Pada asasnya pemacu cakera padat boleh membaca data yang terkandung di dalam sesebuah cakera padat. Kini, dengan teknologi terbaru pemacu cakera padat bukan sahaja boleh membaca malah ia juga boleh merekodkan data ke dalam cakera padat melalui teknologi laser."
+    },
+    {
+        "id": "01m2v",
+        "description": "Papan kekunci merupakan peranti yang selalu digunakan dan paling popular untuk memasukkan data ke dalam komputer.\nPapan kekunci hari ini pada amnya menggunakan litar bersepadu untuk menjalankan empat fungsi-fungsi tertentu seperti di bawah.\n⁕menentukan gabungan 1 dan 0,iaitu kod perduaan, untuk dihantar ke CPU bergantung kepada kekunci yang ditekan.\n⁕bersaling tukar antara kekunci besar dan kekunci kecil.\n⁕mengulangi kod kekunci jika kekunci tersebut ditekan lama.\n⁕menyimpan secara sementara atau \"menimbal\" masukan jika kekunci ditaip terlalu pantas.\nPenyusunan papan kekunci yang memberikan piawaian kepada kebanyakan papan kekunci adalah penyusunan QWERTY, yang diberi nama mengikut huruf pertama pada baris atas di sebelah kiri. Ia biasanya mempunyai 101 kekunci.\nPenyusunan ini dibuat bertujuan untuk melambatkan jurutaip yang mahir, kerana penaipan yang terlalu pantas akan merosakkan kekunci mekanik pada mesin taip. Untuk memperlahankan jurutaip, huruf-huruf yang paling biasa digunakan diletakkan berserak di atas papan kekunci, menyebabkan gabungan yang biasa digunakan sukar dan lambat ditaip. Penyusunan papan kekunci QWERTY ini telah digunakan hampir satu abad yang lalu.\nPapan kekunci mempunyai pengawal dan penimbal kekunci. Segala yang ditaip akan disimpan dalam penimbal dan kemudiannya akan diimbas oleh pemproses komputer setelah menerima isyarat sampukan daripada pengawal kekunci."
+    },
+    {
+        "id": "020lf",
+        "description": "Tetikus ialah peranti input ke komputer yang berfungsi mengawal gerakan penunjuk atau kursor pada skrin paparan. Ia merupakan peranti kecil yang bergerak di atas permukaan keras dan rata.\nTetikus ini amat diperlukan terutamanya sekali apabila menggunakan sistem pengendalian tetingkap seperti Microsoft Windows, Linux dll. Tetikus memudahkan seseorang pengguna untuk mengendalikan perisian animasi, grafik, dan atur cara penerbitan meja. Apabila tetikus digerakkan, penunjuk pada skrin paparan akan bergerak dalam arah yang sama dan ia akan berubah mengikut lokasi di mana tetikus tersebut berada.\nInput tetikus juga biasanya digunakan untuk domain atur cara penggunaan yang khusus. Dalam grafik tiga dimensi interaktif, gerakan tetikus seringnya ditukar secara langsung menjadi perubahan orientasi kamera maya. Misalnya, dalam permainan genre penembak diri pertama, pemain biasanya menggunakan tetikus untuk mengawal arah yang dihadap oleh \"kepala\" pemain maya. Menggerakkan tetikus ke arah atas skrin akan menyebabkan pemain melihat ke atas dan mendedahkan pemandangan di atas kepala pemain.\nMouse, nama tetikus dalam bahasa Inggeris, dicipta oleh Institut Penyelidikan Stanford dan berasal daripada persamaan model tetikus yang awal dengan tikus. Penerbitan perkataan mouse pertama yang diketahui adalah dalam terbitan Computer-Aided Display Control oleh William English pada tahun 1965."
+    },
+    {
+        "id": "02bc6",
+        "description": "Pangkalan data merupakan satu sistem simpanan data yang tersusun, biasanya dalam bentuk elektronik.\n\nSistem Pemprosesan Fail Tradisional Sistem yang dilaksanakan secara manual atau tradisi. Data dan maklumat disimpan di dalam fail-fail kertas yang kemudiannya disimpan di dalam kabinet-kabinet khas. Fail yang disimpan adalah mengikut turutan abjad dan nombor rujukan supaya pencarian fail dapat dilakukan dengan sempurna.\nPangkalan Data Himpunan data-data berkaitan yang dikongsi bersama oleh pelbagai kategori pengguna untuk memenuhi kehendak dan keperluan maklumat sesebuah organisasi.\nSistem Pengurusan Pangkalan Data Sistem perisian yang membolehkan pengguna mentakrif, mencipta, mengemaskini, mengurus, mencipta dan menyelenggara pangkalan data. SPPD turut mengawal capaian terhadap data dalam pangkalan data.\nAplikasi Pangkalan Data Satu program yang berinteraksi dengan pangkalan data pada masa-masa execution.PASCAL,COBOL,atau C++ adalah antara contoh bahasa pengaturcaraan yang boleh digunakan untuk tujuan menulis aturcara penggunaan aplikasi pangkalan data."
+    },
+    {
+        "id": "029kh",
+        "description": "Sistem digital ialah satu teknologi data yang menggunakan nilai-nilai diskrit. Berlawanan dengan sistem bukan digital yang menggunakan julat nilai-nilai yang selanjar untuk mewakili maklumat. Walaupun pewakilan digital adalah diskrit, maklumat yang boleh diwakilkan adalah sama ada diskrit; misalnya nombor, huruf atau arca, atau selanjar; misalnya bunyi, imej, dan lain-lain pengukuran sistem selanjar.\nPerkataan digital datang dari sumber yang sama dengan perkataan digit yakni digitus, perkataan Latin untuk \"jari\", kerana jari digunakan untuk pengiraan diskrit.\nPerkataan ini paling sering digunakan dalam pengkomputeran dan elektronik, terutamanya di mana maklumat dunia sebenar ditukarkan kepada bentuk perduaan sebagaimana di dalam audio digital dan fotografi digital."
+    },
+    {
+        "id": "020s1",
+        "description": "Fail komputer ialah satu jujukan bit yang disimpan sebagai suatu unit tunggal dalam bentuk yang boleh dibaca oleh komputer, biasanya di dalam sesuatu sistem fail dalam cakera atau pita magnet. Fail komputer merupakan padanan moden kepada dokumen kertas yang secara tradisi disimpan di dalam fail pejabat dan perpustakaan."
+    },
+    {
+        "id": "02nf_",
+        "description": "Mel elektronik ialah satu kaedah mengarang, menghantar, menyimpan dan menerima mesej melalui sistem komunikasi elektronik. Istilah \"e-mel\" membawa maksud sistem e-mel Internet berasaskan Protokol Pemindahan Mel Mudah dan juga sistem-sistem X.400, serta sistem-sitem intranet yang membolehkan para pengguna dalam satu organisasi mengirim e-mel sesama sendiri. Selalunya, organisasi kerjasama kumpulan kerja sebegini boleh menggunakan protokol Internet atau X.400 untuk perkhidmatan e-mel dalaman. E-mel sering digunakan untuk mengirim mesej secara besar-besaran tanpa diminta yang dipanggil \"spam\", namun adanya program penapis untuk memadamnya, bergantung kepada situasi."
+    },
+    {
+        "id": "03rlt",
+        "description": "Secara amnya, Internet ialah rangkaian komputer yang berhubung menerusi beberapa rangkaian. Manakala Internet ialah sistem komputer umum, yang berhubung secara sejagat dan menggunakan TCP\/IP sebagai protokol pertukaran paket. Rangkaian internet yang terbesar dinamakan Internet. Cara menghubungkan rangkaian dengan kaedah ini dinamakan internetworking."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "Pengkomputeran awan ialah pembangunan dan penggunaan teknologi komputer berasaskan internet. Mengikut konsep, ia adalah suatu anjakan paradigma di mana perincian diabstrakkan daripada pengguna yang tidak lagi perlukan pengetahuan, kepakaran dalam, mahupun mengawal infrastruktur teknologi \"di dalam awan\" yang menyokong mereka. Ia selalunya melibatkan peruntukan sumber-sumber yang boleh diskalakan secara dinamik dan sering kali dimayakan sebagai satu perkhidmatan di Internet.\nIstilah awan digunakan sebagai satu metafora bagi Internet, berdasarkan cara Internet digambarkan di dalam gambar rajah rangkaian komputer dan merupakan pengabstrakan bagi infrastruktur yang disembunyikan di sebaliknya. Perkhidmatan pengkomputeran awan biasa membekalkan penggunaan perniagaan lazim di atas talian yang dicapai melalui pelayar web, sementara perisian dan datanya tersimpan di pelayannya.\nPerkhidmatan-perkhidmatan ini dibahagikan kepada kategori-kategori berikut: Perisian sebagai sebuah Perkhidmatan, Pengkomputeran Utiliti, Perkhidmatan Web, Pelantar sebagai sebuah Perkhidmatan, Pembekal Khidmat Terurus, Perdagangan Perkhidmatan, dan Integrasi Internet."
+    },
+    {
+        "id": "07wcf",
+        "description": "Bas Bersiri Semesta memberikan piawai bas bersiri untuk peranti penyambung, biasanya untuk komputer peribadi dan Apple Macintosh, dan digunakan semakin meluas juga untuk konsol permainan video seperti Microsoft Xbox 360, Nintendo Wii, Sony PlayStation 2, dan PDA, serta untuk perkakas seperti televisyen dan kelengkapan stereo rumah. Pelaksanaan USB berdasarkan spektrum radio dikenali sebagai USB Wayarles atau WUSB.\nVersi terbaru USB adalah versi 3.0. Perbezaan paling ketara antara versi baru dan lama dalah kepantasan pemindahan data yang jauh meningkat."
+    },
+    {
+        "id": "0mynm",
+        "description": "Webcam merupakan peranti video yang disambung kepada komputer atau rangkaian komputer, sering kali melalui port USB atau, jika bersambung dengan jaringan, ethernet atau Wi-Fi. Sesetengah komputer riba memiliki webcam bersepadu yang boleh membawa masaalah kerana ia tidak boleh dilumpuhkan secara fizikal, sekiranya dirampas oleh perisian Trojan Horse \/ pengintip.\nKegunaan paling popular adalah bagi videotelephony, membenarkan komputer bertindak sebagai videophone atau stesyen persidangan video. Ini boleh digunakan dalam perisian perutusan seperti perkhidmatan perutusan Windows Live Messenger, Skype dan Yahoo!. Kegunaan popular lain, yang termasuk rakaman fail video malah gambar, boleh dicapai melalui banyak perisian, applikasi dan peranti komputer.\nWebcams terkenal kerana kos pengilangan rendah dan kepelbagai guna, menjadikan ia bentuk telefon video termurah.\nIstilah 'webcam' juga boleh digunakan dalam bentuk asal kamera video bersambung kepada Web berterusan untuk tempoh masa yang tidak ditetapkan, dan bukannya intuk sesi tertentu, biasanya memberikan pemandangan bagi sesiapa yang melawat laman webnya melalui Internet. Sesetengah darinya, sebagai contoh, yang digunakan sebagai kamera trafik di talian, adalah kamera video profesional yang mahal, dan lasak."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook ialah sebuah tapak web rangkaian sosial yang dikendali dan dimiliki secara persendirian oleh Facebook, Inc. Sejak 2006, sesiapa yang berumur 13 tahun ke atas dan memiliki alamat e-mel yang sah boleh menjadi pengguna Facebook. Facebook lebih menyasarkan golongan belia berbanding dewasa. Pengguna boleh menambah rakan dan saling menghantar mesej, serta mengemaskini profil peribadi mereka sebagai makluman kepada rakan-rakan. Selain itu, pengguna juga boleh menyertai rangkaian yang dianjurkan oleh tempat kerja, sekolah, atau kolej. Nama Facebook berasal daripada timangan yang digunakan untuk buku-buku yang diserahkan oleh pihak pentadbiran universiti kepada para penuntut pada permulaan tahun akademik di AS dengan tujuan membantu penuntut saling mengenali.\nFacebook diasaskan oleh Mark Zuckerberg bersama teman-teman sebiliknya dan rakan-rakan sekursus sains komputer Eduardo Saverin, Dustin Moskovitz dan Chris Hughes. Pada mulanya, keahlian tapak web ini terhad kepada penuntut Harvard, tetapi kemudian beransur-ansur diperluaskan kepada kolej-kolej lain di kawasan Boston, Liga Ivy, dan Universiti Stanford. Selepas itu, Facebook berkembang lagi untuk merangkumi mana-mana pelajar universiti, kemudian pelajar sekolah tinggi, dan akhirnya, sesiapa sahaja yang berumur 13 ke atas. Kini, tapak web ini dianggotai oleh lebih 400 juta pengguna aktif seluruh dunia."
+    },
+    {
+        "id": "0508p",
+        "description": "Papan induk, juga dikenali sebagai papan utama atau papan sistem, merupakan pusat atau papan litar bercetak utama yang terdiri daripada sistem eletronik rumit, seperti komputer.\nKomputer biasa dibina dengan mikropemproses, ingatan komputer utama, dan komponen asas lain pada papan induk. Komponen lain komputer seperti ruang simpan luaran, litar pengawal bagi paparan video dan bunyi, dan perkakasan persisian biasanya dilekatkan pada papan induk melalui kabel atau penyambung.\nTerdapat maklumat lanjut mengenai komputer peribadi serasi IBM di papan induk PC."
+    },
+    {
+        "id": "07g0_",
+        "description": "The Hague adalah sebuah gemeente, kota pemerintahan Belanda dan tempat parlimen, serta ibu kota provinsi Zuid-Holland. Di kota ini juga terdapat kedutaan besar negara-negara asing. Meskipun demikian, Den Haag bukan ibu kota Belanda; ibu kota Belanda adalah Amsterdam.\nKota The Hague memiliki penduduk sebanyak 475,580 orang dalam keluasan kira-kira 100 km². Nama lain The Hague ialah 's-Gravenhage.\nKota The Hague sudah ada sejak tahun 1248, tetapi baru mendapat taraf bandar pada tahun 1806. Hal ini menyebabkan The Hague tidak memiliki sebuah universiti."
+    },
+    {
+        "id": "02_286",
+        "description": "New York merupakan bandaraya yang paling ramai penduduk di Amerika Syarikat dan juga pusat kawasan metropolitan New York, salah sebuah kawasan metropolitan yang teramai penduduknya di dunia. Sebagai sebuah bandar raya global utama, New York memancarkan pengaruh hebat terhadap perdagangan, kewangan, media, kebudayaan, kesenian, fesyen, penyelidikan, pendidikan dan hiburan sedunia. Sebagai tuan rumah Ibu Pejabat Pertubuhan Bangsa-Bangsa Bersatu, ia juga menjadi pusat siasah antarabangsa yang penting. Bandaraya ini dipanggil Bandaraya New York untuk membezakannya daripada negeri New York di mana terletaknya bandaraya ini.\nBandaraya New York yang terletak di sebuah pelabuhan semula jadi yang besar di pantai Atlantik Amerika Syarikat Timur Laut ini, terdiri daripada lima daerah perbandaran, iaitu The Bronx, Brooklyn, Manhattan, Queens dan Staten Island. Pada tahun 2009, dianggarkan bahawa jumlah penduduknya menghampiri 8.4 juta, di atas tanah berjumlah keluasan 305 batu persegi, Bandaraya New York ialah bandar raya utama yang paling padat dengan penduduk di AS. Jumlah penduduk di seluruh kawasan metropolitan New York juga yang terbesar di negara itu ialah kira-kira 19.1 juta orang yang menduduki tanah seluas 6,720 batu persegi."
+    },
+    {
+        "id": "0430_",
+        "description": "Baitulmuqaddis, juga dieja sebagai Baitulmaqdis atau Jerusalem ialah sebuah kota lama yang terletak di Timur Tengah dan juga merupakan Ibukota dan Bandar raya terbesar bagi Negara Palestin yang kini ditadbir oleh Pertubuhan Bangsa-Bangsa Bersatu. Baitulmuqaddis memainkan peranan penting bagi Agama Islam, Agama Kristian, dan juga Agama Yahudi. Ia merupakan kota paling suci bagi Agama Kristian dan serta Agama Yahudi dan juga merupakan tempat ketiga paling suci dalam Agama Islam.\nBaitulmuqaddis ialah sebuah kota yang kaya dengan tamadun dan budaya. \"Kota Lama\" Baitulmuqaddis dikelilingi dengan tembok yang dibina sejak kurun ke-15 lagi. Kota lama ini terbahagi kepada empat kawasan: Islam, Kristian, Yahudi, dan Armenia.\nKedudukan kota ini hangat diperkatakan. Perjanjian yang ditandatangani pada tahun 1949 di antara Israel dan Jordan menyebabkan kota ini terbahagi kepada dua. Baitulmuqaddis Barat menjadi milik Israel manakala Baitulmuqaddis Timur menjadi milik Palestin. Sejak kemenangan Israel pada perang tahun 1967, Israel menguasai kesuluruhan kota tersebut dan menuntut hak kedaulatan undang-undang terhadap Baitulmuqaddis. Israel juga menjadikan Baitulmuqaddis sebagai ibu negara tetapi pengisytiharan ini tidak diiktiraf oleh masyarakat sedunia. Palestin juga menuntut supaya kesuluruhan Baitulmuqaddis ataupun sebahagian daripadanya yakni Baitulmuqaddis Timur menjadi ibu negaranya."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kaherah, yang bermaksud \"berjaya\", adalah ibu negara dan bandar terbesar di Mesir. Ia merupakan Dunia Arab terbesar serta bandar yang paling padat penduduk di Afrika."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Seoul ialah ibu negara dan bandar raya terbesar Korea Selatan, dan juga salah sebuah bandar raya terbesar di dunia dengan lebih 20 juta penduduk. Kawasan Ibu Negara Seoul ialah kawasan metropolitan kedua terbesar di dunia dengan lebih 24.5 juta penduduk, termasuklah metropolis Incheon dan sebahagian besar wilayah Gyeonggi. Hampir separuh penduduk Korea Selatan tinggal di Kawasan Ibu Negara Seoul, dan lebih kurang satu suku di Seoul sahaja, menjadikannya pusat ekonomi, politik dan kebudayaan terutama di negara ini.\nSeoul sudah sekian lama menjadi petempatan manusia yang utama sejak pengasasannya sekitar tahun 18 SM, apabila salah sebuah daripada Tiga Kerajaan Korea, iaitu Baekje, menubuhkan ibu kotanya di kawasan yang kini diduduki oleh Seoul tenggara. Ia kekal sebagai ibu kota negara Korea sepanjang Wangsa Joseon dan Empayar Korea. Di Kawasan Ibu Negara Seoul letaknya empat Tapak Warisan Dunia UNESCO: Changdeokgung, Kubu Hwaseong, Kuil Jongmyo dan Kuburan Diraja Wangsa Joseon.\nKini, Seoul dianggap sebagai sebuah bandar raya global peneraju yang dinilai di kalangan sepuluh bandaraya global terunggul di Indeks Bandar Raya Global 2010. Ia merupakan salah sebuah pusat kewangan dan perdagangan terunggul di dunia, dan pangkalan bagi berbilang syarikat konglomerat multinasional seperti Samsung, LG dan Hyundai-Kia. Pada tahun 2008, Seoul dinamakan sebagai bandaraya yang keenam paling berkuasa dari segi ekonomi oleh majalah Forbes."
+    },
+    {
+        "id": "031y2",
+        "description": "Florence merupakan sebuah ibu kota bagi wilayah Florence dan daerah Tuscany di Itali. Ia merupakan bandar paling ramai penduduk di Tuscany dengan penduduk seramai 364,779.\nBandar ini terletak di Sungai Arno dan dikenali dengan sejarah dan kepentingannya semasa Zaman Pertengahan dan Zaman Pembaharuan, terutamanya karya-karya seni dan seni bina. Sebagai sebuah pusat perdagangan dan kewangan zaman pertengahan Eropah, bandar ini sering kali dianggap sebagai tempat lahir Renaissance Itali; secara faktanya, ia telah dipanggil sebagai Athens dari Zaman Pertengahan. Florence berada lama di bawah pemerintahan de facto dari keluarga Medici. Bermula pada 1865 sehingga 1870, bandar ini juga menjadi ibu negara bagi kerajaan Itali.\nPusat bersejarah Florence terus menarik minat jutaan para pelancong pada setiap tahun dan diistiharkan sebagai Tapak Warisan Dunia oleh UNESCO pada tahun 1982."
+    },
+    {
+        "id": "0156q",
+        "description": "Berlin ialah ibu negara Jerman yang merupakan bandar raya terbesar di negara itu dari segi keluasan dan jumlah penduduk, serta bandar raya yang kedua terbesar dan yang terpadat di Kesatuan Eropah.\nKini, Berlin merupakan salah satu daripada pusat-pusat politik, budaya, dan sains Eropah yang terpengaruh. Bandar raya ini bertindak sebagai persimpangan yang penting dalam pengangkutan negara dan benua, dan merupakan destinasi pelancongan dan membeli-belah yang utama serta dikenali untuk berbagai-bagai tempat konvensyen dan saluran keluar media. Berlin ialah tempat asal untuk sebilangan universiti, pusat pendidikan penyelidikan, teater, dan muzium yang terutama di dunia.\nMetropolis ini yang berubah dengan begitu pesat kini telah mencapai reputasi antarabangsa untuk perayaan, hiburan malam, seni bina semasa dan seni-seni avant-garde. Sebagai tempat tinggal untuk pelbagai orang daripada melebihi 180 buah negara, Berlin ialah magnet untuk orang-orang yang tertarik kepada gaya hidup yang liberal, eklektisisme bandar, dan kebebasan kesenian.\nDicatatkan buat pertama kalinya pada abad ke-13, Berlin merupakan ibu kota Kemaharajaan Prusia pada tahun 1701, Empayar Jerman pada tahun 1871, dan terus memainkan peranan sebagai ibu kota semasa Republik Weimar serta Pemerintahan Ketiga sehingga 1945. Pada masa pembahagian, Republik Demokratik Jerman menuntut Berlin Timur sebagai ibu negaranya, sedangkan Berlin Barat merupakan pulau demokrasi yang dikelilingi oleh Jerman Timur. Menyusul Penyatuan semula Jerman pada tahun 1990, Berlin sekali lagi menjadi ibu negara Jerman."
+    },
+    {
+        "id": "05qtj",
+        "description": "Paris adalah ibu negara Perancis dan juga negeri Île-de-France. Bersama dengan bandar satelit dan kawasan luar bandar, Paris mempunyai anggaran penduduk sebanyak 11.5 juta penduduk. Paris adalah kawasan bandar yang mempunyai penduduk paling tinggi di dalam Kesatuan Eropah dan metropolitan kedua terbesar di Eropah iaitu sama dengan penduduk London dan hampir menyamai penduduk Moscow, dan juga dianggar mempunyai penduduk metropolitan ke-20 teramai di dunia.\nParis dikenali dengan gelaran la Ville Lumière dan adalah destinasi pelancong utama di dunia.\nKeunikannya ialah setiap malam, Paris selalu akan bermandikan cahaya lampu yang terang-benderang, maka dengan itulah digelari La Ville Lumiére ole pelancong asing"
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdam, ibu negara Belanda, terletak di perairan Teluk IJ dan sungai Amstel. Dijumpai pada akhir abad ke-12 sebagai satu perkampungan nelayan di muara sungai Amstel, dewasa ini ia menjadi bandar terbesar di negara berkenaan dan ia menjadi pusat kewangan dan kebudayaan. Pada 2005, jumlah penduduk bandar raya ini adalah 742,951; populasi keluasan lebih kurang 1.5 juta.\nAmsterdam mempunyai salah satu pusat bersejarah terbesar di dalam Eropah, tetapi kebanyakkannya bertarikh daripada abad ke-17, the Tahun Keemasan bagi Belanda, yang merupakan titik fokusnya. Pasa masa ini, satu siri sepusat, semibulatan terusan telah dibina di sekeliling pusat bandar raya lama, yang masih dikekalkan susun atur dan wajahnya. Banyak rumah cantik dan pangapuri diletakkan di sepanjang terusan, kebanyakan orang tinggal di dalamnya, yang lainnya menjadi pejabat dan beberapa bahagian menjadi bangunan-bangunan awam. Beberapa daripada rumah batu-bata tersebut semakin tenggelam disbabkan mereka dibina di atas kepingan kayu untuk menghadapi dan menatasi tanah-tanih yang berpaya.\nWalaupun Amsterdam merupakan ibu kota Belanda, ia bukannya ibu kota negara atau negeri dalam wilayah di mana ia terletak, Belanda Utara, bukan juga kerusi dalam kerajaan Belanda atau."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakar adalah ibu negara sekaligus bandar terbesar Senegal. Penduduknya berjumlah 2,700,000 orang pada tahun. Dakar juga dikenal sebagai tempat finis balap mobil tahunan yang terkenal, Reli Paris-Dakar."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Janeiro merupakan bandar raya utama di tenggara Brazil dan ibu negeri Rio de Janeiro. Bandar ini pernah menjadi ibu negara Brazil sebelum dipindahkan ke Brasilia. \"Rio\" juga pernah menjadi ibu kota Empayar Portugal.\nRio de Janeiro terkenal kerana perayaan Carnival, samba, pantai seperti Copacabana dan Ipanema dan juga jurang sosial yang besar. Di kawasan kejiranan orang miskin, jenayah keganasan dan pengedaran dadah sering berlaku. Di atas bukit Corcovado terdapat patung gergasi Jesus. Di Gunung Pão de Açúcar pula terdapat kereta kabel. Rio juga mempunyai stadium terkenal di Maracanã. Hutan Tijuca yang terletak di dalam bandar raya ini merupakan hutan bandar yang terbesar di dunia.\nRio de Janeiro terletak pada 22 darjah, 54 minit latitud selatan, 43 darjah 14 minit longitud barat. Jumlah penduduk bandar ini ialah 6,094,183, di kawasan seluas 1,182.3 kilometer persegi, manakala jumlah penduduk metropolitan ialah 11 juta orang. Rio de Janeiro ialah bandar kedua terbesar di Brazil."
+    },
+    {
+        "id": "01fdzj",
+        "description": "Menara ialah sebuah struktur buatan manusia yang ketinggiannya mengatasi kelebarannya. Menara selalunya dibina untuk menjadi sebuah mercu tanda sesebuah organisasi. Justeru itu ia dibina dengan indah dan cantik. Tetapi matlamat utama pembinaan menara adalah untuk menjimatkan ruang dan tanah. Kalau dulu menara dijadikan kemegahan dan mercu tanda, namun selain itu dizaman sekarang ini menara juga di bina untuk faedah komersial dan sebagai alat prasarana yang penting."
+    },
+    {
+        "id": "06gfj",
+        "description": "Jalan raya ialah jalan besar atau main road yang menghubungkan satu kawasan dengan kawasan yang lain. Biasanya jalan besar ini mempunyai ciri-ciri berikut:\n⁕Digunakan untuk kenderaan bermotor\n⁕Digunakan untuk orang awam\n⁕Dibiayai oleh badan awam\n⁕Pengunaannya tertakluk kepada undang-undang pengangkutan\nSecara umumnya sistem jalan raya bagi sesebuah negara diklasifikasikan kepada:-\n⁕Lebuhraya\n⁕Jalan raya kebangsaan ataupun laluan persekutuan\n⁕Jalan raya negeri atau wilayah\n⁕Jalan perbandaran\n⁕Jalan-jalan lain termasuk jalan kampung dan jalan estet\nDi sini harus diingatkan bahawa bukan semua jalan yang dapat dilalui oleh kenderaan bermotor itu jalan raya. Contohnya denai-denai di dalam estet. Di Malaysia jalan raya yang sah haruslah diwartakan oleh pihak bekuasa."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Hospital ialah tempat pesakit menerima rawatan daripada doktor, pembantu perubatan, jururawat, bidan atau petugas kesihatan yang lain. Saiz pusat pesihatan ini lebih besar daripada poliklinik, klinik, pusat kesihatan atau klinik desa.\nSemenjak zaman Rasulullah s.a.w, pasukan perubatan telah mengiringi tentera Islam yang tercedera. Pasukan perubatan ini dianggap sebagai 'hospital' terawal dalam sejarah Islam.\nDengan berkembangnya ilmu dan kepakaran Islam dalam bidang perubatan, lebih banyak hospital didirikan.\nHospital-hospital ini menyediakan perkhidmatan dan rawatan kepada orang umum tanpa mengira penyakit atau darjat. Pesakit hanya diasingkan mengikut jantina. Jururawat wanita merawat pesakit wanita, jururawat lelaki merawat pesakit lelaki.\nDi Malaysia, hospital yang terbesar dan terpenting ialah Hospital Besar Kuala Lumpur. Lain-lain hospital ialah Hospital Selayang, Hospital Serdang, Hospital Universiti Kebangsaan Malaysia, Hospital Putrajaya, Hospital Universiti dan lain-lain.\nHampir setiap bandar mempunyai hospital yang dibina dan dibiayai oleh kerajaan dan boleh dikatakan semua perkhidmatan adalah percuma sehingga kini.\nWujud juga hospital swasta yang tumbuh bagaikan cendawan tumbuh selepas hujan. Kumpulan JCorp banyak membina hospital swasta"
+    },
+    {
+        "id": "0k05r",
+        "description": "Mahkamah ialah tempat dimana seseorang itu mendapat keadilan berdasarkan undang-undang yang sedia ada. Di Malaysia. Mahkamah Persekutuan merupakan mahkamah tertinggi dan mahkamah terakhir untuk membuat rayuan. Di negara ini sistem kehakiman terbahagi kepada dua iaitu mahkamah tinggi dan mahkamah rendah. Mahkamah-mahkamah rendah termasuklah mahkamah majistret dan mahkamah sesyen, manakala yang tinggi adalah mahkamah tinggi di Semenanjung dan Sabah dan Sarawak serta Mahkamah Rayuan dan Mahkamah Persekutuan. Mahkamah Persekutuan pada awalnya dikenali sebagai Mahkamah Agung tetapi digantikan selepas 24 Jun, 1994. Sistem Kehakiman di Malaysia adalah melibatkan undang-undang sivil. Manakala Mahkamah Syariah pula akan mengadili perkara berkaitan dengan undang-undang Islam."
+    },
+    {
+        "id": "06zdj",
+        "description": "Sekolah merupakan sebuah bangunan atau tempat yang berfungsi untuk memberikan ilmu kepada pelajar, yang merujuk sesiapa yang belajar di situ. Struktur sekolah moden mungkin dilengkapi dengan kemudahan teknologi maklumat atau sekadar bilik darjah sahaja. Selain itu, sekolah biasanya mempunyai beberapa tenaga pengajar atau guru untuk mendidik dan membimbing pelajar.\nBiasanya seorang itu akan melalui beberapa jenis sekolah dan institusi pendidikan bermula dari tadika, sekolah rendah, sekolah menengah dan akhirnya ke universiti.\nNamun demikian, sekolah tidak semestinya bangunan yang lain dari rumah seseorang. Misalnya di Amerika Syarikat, seseorang itu tidak semestinya belajar di sekolah kerana pelajar tersebut boleh belajar di rumah. Kaedah ini juga dikenali sebagai home-schooling.\nKebanyakan negara mempunyai sistem pendidikan formal, yang biasanya wajib. Dalam sistem ini, pelajar bergerak melalui beberapa siri sekolah. Nama sekolah-sekolah ini berbeza di setiap negara, tetapi secara umumnya, sekolah rendah dan sekolah menengah yang masing-masing dikhaskan untuk kanak-kanak kecil dan remaja yang sudah tamat pendidikan rendah, disenaraikan."
+    },
+    {
+        "id": "019cfy",
+        "description": "Stadium merupakan sebuah binaan yang umumnya digunakan untuk mengendalikan acara-acara sukan seperti bola sepak, hoki, acara olahraga dan sebagainya. Di dalamnya terdapat lapangan atau pentas yang dikelilingi tempat berdiri atau duduk bagi penonton. Stadium tertua yang diketahui ialah Stadium Olympia yang terletak di Peloponnesos, Yunani yang telah mengendalikan sukan Olimpik kuno sejak tahun 776 SM.\nKebanyakan stadium moden mempunyai bumbung di tempat duduk penonton, namun terdapat juga stadium yang tidak berbumbung sama sekali. Terdapat juga stadium yang mempunyai bumbung menutupi keseluruhan stadium yang berbentuk seperti kubah.\nDi Malaysia, stadium yang mempunyai muatan terbesar ialah Stadium Nasional Bukit Jalil yang terletak di Bukit Jalil, Kuala Lumpur, yang mampu menampung sehingga 100,200 penonton bagi satu-satu masa."
+    },
+    {
+        "id": "06zdj",
+        "description": "Sekolah merupakan sebuah bangunan atau tempat yang berfungsi untuk memberikan ilmu kepada pelajar, yang merujuk sesiapa yang belajar di situ. Struktur sekolah moden mungkin dilengkapi dengan kemudahan teknologi maklumat atau sekadar bilik darjah sahaja. Selain itu, sekolah biasanya mempunyai beberapa tenaga pengajar atau guru untuk mendidik dan membimbing pelajar.\nBiasanya seorang itu akan melalui beberapa jenis sekolah dan institusi pendidikan bermula dari tadika, sekolah rendah, sekolah menengah dan akhirnya ke universiti.\nNamun demikian, sekolah tidak semestinya bangunan yang lain dari rumah seseorang. Misalnya di Amerika Syarikat, seseorang itu tidak semestinya belajar di sekolah kerana pelajar tersebut boleh belajar di rumah. Kaedah ini juga dikenali sebagai home-schooling.\nKebanyakan negara mempunyai sistem pendidikan formal, yang biasanya wajib. Dalam sistem ini, pelajar bergerak melalui beberapa siri sekolah. Nama sekolah-sekolah ini berbeza di setiap negara, tetapi secara umumnya, sekolah rendah dan sekolah menengah yang masing-masing dikhaskan untuk kanak-kanak kecil dan remaja yang sudah tamat pendidikan rendah, disenaraikan."
+    },
+    {
+        "id": "09cmq",
+        "description": "Muzium merujuk kepada bangunan tempat menyimpan khazanah sejarah purba atau yang lalu. Muzium penting sebagai tempat kita merujuk sekiranya kita ingin mengatahui tentang sejarah lampau.\nIstilah 'Muzium', bahasa Inggerisnya 'Museum' dan bahasa Yunaninya 'Mouseion' . Istilah ini bermaksud rumah suci 'Muse' iaitu Tuhan atau kumpulan sembilan dewi lambang ilmu dan kesenian. Di Malaysia, muzium disebut sebagai 'sekolah gambar' kerana banyak gambar dipamerkan.\nAbad ke-3 sebelum masehi Muzium Iskandariah dibina bagi memaparkan kehebatan kerajaan Firaun, Piramid dan Sphinx di pelabuhan Iskandariah, Mesir merupakan muzium pertama di dunia.\nMuzium dikaitkan dengan aktiviti :\n⁕Pemuliharaan, pameran dan Pusat Arkib\n⁕Pemuliharaan dan pengekalan alam semulajadi\n⁕Arkeologi, Ethnologi, Monumen dan Tapak Tanah bersejarah\n⁕Pameran benda hidup seperti Taman Botani, Zoologi,Akuarium dan sebagainya.\n⁕Pusat Sains dan Planetarium"
+    },
+    {
+        "id": "017ql",
+        "description": "Jurubank atau bank adalah sebuah institusi kewangan di mana aktiviti utama adalah bagi bertindak seperti satu ejen pembayaran untuk para pelanggan dan untuk meminjamkan wang. Ia adalah sebuah institusi untuk menerima, menyimpan, dan pinjaman wang.\nBank moden pertama telah ditubuhkan dalam Itali di Genoa pada 1406, namanya adalah Banco di San Giorgio.\nKata bank berasal dari bahasa Italia banca, yang diambil dari bahasa Jerman dan bermakna bangku. Ini adalah kerana pada awalnya, peminjam wang di utara Itali biasanya memberikan khidmat di tempat awam, dan mempunyai kerusi dan meja sendiri. Kata bankrap pula berasal dari banca rotta, yang bermakna bangku pecah.\nBiasanya bank menghasilkan untung dari bayaran pinjaman atas khidmat yang diberikan dan faedah dari pinjaman."
+    },
+    {
+        "id": "02p0qmm",
+        "description": "Kolej merupakan sejenis institusi pendidikan atau sebahagian daripada komponen tersebut. Kolej boleh menjadi sebuah institusi pendidikan tinggi, sebahagian daripada universiti berkolej atau institusi yang menyediakan pendidikan vokasional."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Pasaran atau pasar merujuk kepada pelbagai sistem, institusi, prosedur, perhubungan sosial dan infrastruktur di mana berlaku jual beli, pertukaran barang dan perkhidmatan, yang membentuk sebahagian daripada ekonomi."
+    },
+    {
+        "id": "03nybl",
+        "description": "Balai polis ialah bangunan yang berfungsi sebagai pusat operasi untuk pegawai polis dan ahli-ahli kakitangan lain. Bangunan-bangunan ini mengandungi pejabat dan tempat penginapan untuk kakitangan dan kenderaan, bersama dengan bilik gerobok, lokap dan bilik wawancara\/soal siasat."
+    },
+    {
+        "id": "09cjl",
+        "description": "Lapangan terbang adalah satu lokasi di mana pesawat seperti kapal terbang, helikopter, dan kapal udara berlepas dan mendarat. Pesawat mungkin juga disimpan atau dikekalkan pada satu lapangan terbang. Sebuah lapangan terbang mempunyai sekurang-kurangnya satu permukaan seperti satu landasan terbang, satu landas helikopter, atau air untuk berlepas dan pendaratan, dan sering termasuk bangunan-bangunan seperti hangar dan bangunan terminal.\nLapangan terbang yang lebih besar mungkin mempunyai pengkalan kekal pengendali perkhidmatan, limbungan pesawat laut dan tanjakan, kawalan trafik udara, kemudahan penumpang seperti restoran dan ruang menunggu, dan perkhidmatan kecemasan. lapangan terbang ketenteraan adalah dikenali sebagai satu pangkalan udara atau stesen udara. Istilah airfield, airstrip dan aerodrome juga mungkin digunakan untuk merujuk lapangan terbang, dan istilah heliport, pangkalan pesawat laut, dan STOLport merujuk kepada lapangan terbang yang secara eksklusif untuk helikopter, kapal terbang laut, atau perlepasan dan pendaratan pendek pesawat."
+    },
+    {
+        "id": "053rd",
+        "description": "Perlombongan ialah aktiviti mengeluarkan galian berharga atau bahan geologi lain dari bumi. Pelombong bermaksud orang yang mengerjakan lombong. Lombong bermaksud lubang atau gelombong iaitu sebuah lubang seperti terowong dari sebuah bukit atau dari sebuah tebing."
+    },
+    {
+        "id": "029g_vk",
+        "description": "Telekomunikasi pada dasarnya merupakan komunikasi elektronik jarak jauh, sama ada satu atau dua hala. Ini termasuklah komunikasi menggunakan, radio, televisyen, telefon dan komputer.\nBanyak jenis maklumat boleh dihantar melalui sistem telekomunikasi termasuk suara dan muzik, gambar dan gambar boleh bergerak, fail komputer dan aplikasi serta data telegraf.\nPusat telekomunikasi moden terlibat dalam masalah penghantaran jumlah maklumat yang banyak dalam jarak yang jauh tanpa mangalami kerosakan data disebabkan oleh faktor bising dan gangguan.\nSistem telekomunikasi merupakan semua sistem atau komponen yang terlibat dalam proses penghantaran maklumat tersebut."
+    },
+    {
+        "id": "01mf0",
+        "description": "Perisian komputer terdiri daripada program-program, dokumentasi pengguna, dokumentasi sistem dan data konfigurasi data-data yang diperlukan atau parameter \"setting\" yang membolehkan perisian tersebut beroperasi supaya komputer dapat melakukan sesuatu tugas yang diarahkan pengguna atau ditentukan oleh pembangun perisian tersebut."
+    },
+    {
+        "id": "011s0",
+        "description": "Iklan merupakan salah satu cara untuk memperkenalkan barangan, perkhidmatan, peluang pekerjaan, inspirasi dan maklumat kepada yang ingin disampaikan.\nWalaupun periklanan bukan saluran media massa tetapi sejarah dan perkembanganya berkait rapat dengan sejarah dan perkembangan media massa. Revolusi percetakan dan penciptaan alat cetak oleh Johannes Gutenberg pada 1440 merupakan peristiwa paling penting dalam permulaan kegiatan periklanan di dunia.\nRevolusi dan penciptaan ini membolehkan penerbitan iklan massa dalam bentuk poster bercetak, iklan akhbar, helaian dan bil. Iklan poster bercetak yang pertama diterbitkan pada 1472. Sementara iklan akhbar yang pertama muncul di London pada 1625. Akhbar-akhbar harian awal seperti Daily Courant, Revue, Examiner, Tatler dan Spectator di Barat menyiarkan pelbagai iklan barangan termasuk iklan kopi, coklat, teh, ubat-ubatan serta iklan peribadi.\nIklan pertama di Amerika Syarikat muncul pada 1704 dalam Boston Newsletter, manakala agen periklanan yang pertama ditubuhkan oleh Volney Palmer di Massachusetts. Beliau membeli ruang-ruang iklan daripada pemilik-pemilik akhbar pada kadar potongan dan kemudiannya menjual ruang-ruang itu kepada pengiklan dengan harga yang lebih tinggi. Pada waktu itu, para pengiklan biasanya menyediakan iklan mereka sendiri."
+    },
+    {
+        "id": "01ftz",
+        "description": "Teknologi biologi merujuk kepada teknologi berasaskan biologi, terutama apabila ia digunakan dalam bidang pertanian, sains makanan dan perubatan. Persidangan mengenai kepelbagaian Biologi Pertubuhan Bangsa-Bangsa Bersatu telah membuat satu takrifan bagi bioteknologi:\nSebelum 1970-an, istilah, bioteknologi, kebanyakannya digunakan dalam industri pemprosesan makanan dan pertanian. Semenjak 1970-an, ia mulai digunakan oleh badan saintifik Barat untuk merujuk kepada teknik berasaskan makmal yang dibangunkan dalam penyelidikan biologi, seperti pengabungan semula DNA atau proses berasaskan penkulturan tisu. Malah istilah ini boleh digunakan dalam erti lebih meluas bagi menggambarkan keseluruhan kaedah, yang silam atau moden, bagi memanipulasi organik bagi memenuhi kehendak manusia. Dengan itu istilahnya boleh ditakrifkan sebagi, \"Penggunaan pengetahuan tempatan dan\/atau saintifik bagi pengurusan mikroorganisma, atau sel dan tisu organisma peringkat tinggi, agar ia membekalkan barangan dan perkhidmatan bagi manusia.\nBanyak orang telah bercakap - dan melabur - dalam bidang bioteknologi dengan harapan ubat ajaib dapat dihasilkan. Walaupun kini terdapat sebilangan kecil ubat mujarab, secara umumnya revolusi tidak terjadi dalam bidang farmaseutikal. Akan tetapi, perkembangan terbaru dalam ubat berasaskan antibodi monoklon mengesyorkan bahawa bioteknologi kini telah mempunyai fungsi dalam penjualan farmaseutikal."
+    },
+    {
+        "id": "0hz28",
+        "description": "Penerbit adalah orang yang di dalam proses menerbitkan dan menyerbarkan kesusasteraan atau maklumat – aktiviti membuatkan maklumat dapat diperolehi kepada pandangan umum. Di dalam beberapa kes, pengarang mungkin menjadi penerbitnya sendiri, bermaksud: Pengasas dan pembina kandungan juga menyediakan media untuk menghantar dan memaparkan kandungan. Tradisinya, istilah berkenaan merujuk kepada pengagihan kerja percetakan seperti buku-buku dan suratkhabar. Dengan kemunculan sistem maklumat digital dan Internet, ruang lingkup penerbitan telah diperluaskan kepada sumber-sumber elektronik, seperti versi buku-buku elektronik dan majalah, seperti juga penerbitan mikro, laman, blog-blog, permainan video dan lain-lain sepertinya."
+    },
+    {
+        "id": "0191_7",
+        "description": "Peruncitan ialah penjualan barang atau dagangan dari sesuatu tempat yang tetap atau menerusi pos, dalam kumpulan atau longgok yang kecil untuk penggunaan pembeli. Tempat tetap boleh merupakan kedai serbaneka, butik, atau gerai, dengan tempat tetap itu boleh terletak di:\n⁕tepi jalan kawasan kediaman;\n⁕di jalan membeli-belah yang tidak mempunyai banyak atau langsung tidak mempunyai rumah kediaman yang berhampiran; atau\n⁕kawasan membeli-belah.\nJalan membeli-belah kekadang hanya mengkhususkan pelanggan pejalan kaki. Jalan jenis itu kekadang menyediakan bumbung penuh atau bumbung sebahagian untuk melindungi pelanggannya daripada curah hujan. Peruncitan dalam talian, sejenis perdagangan elektronik yang digunakan untuk urus niaga perniagaan ke pengguna, dan pesanan pos merupakan bentuk peruncitan tanpa kedai. Peruncit merupakan akhir rantaian bekalan, dengan perkhidmatan yang disediakan kekadang merangkumi perkhidmatan sampingan seperti penghantaran.\nDalam bidang perdagangan, \"peruncit\" membeli barang atau produk dalam jumlah yang besar daripada pengilang atau pengimport, baik secara langsung atau melalui pemborong, lalu menjualnya pada jumlah yang lebih kecil kepada pengguna akhir. Para pemasar perkilangan melihat proses peruncitan sebagai sebahagian yang penting dalam keseluruhan strategi pengedaran mereka. Istilah \"peruncit\" juga merangkumi pembekal perkhidmatan yang melayani keperluan sebilangan individu yang besar, misalnya utiliti awam seperti kuasa elektrik."
+    },
+    {
+        "id": "0h61",
+        "description": "Arkeologi atau juga dikenali sebagai kaji purba merupakan satu bidang sains yang melakukan kajian mengenai kebudayaan pra-sejarah dengan cara penggalian dan penghuraian kesan-kesan tinggalan.\nArkeologi pada masa sekarang merangkumi pelbagai bidang yang berkait dan pelbagai. Sebagai contoh, penemuan mayat yang ditanam akan menarik minat pakar dari pelbagai bidang untuk mengkaji tentang pakaian dan jenis bahan digunakan, bentuk seramik dan cara penyebaran, kepercayaan melalui apa yang dikebumikan bersama mayat tersebut, pakar kimia yang mampu menentukan usia tapak galian melalui pereputan unsur seperti karbon 14, pakar genetik yang ingin mengetahui pergerakan manusia purba, dan pelbagai bidang lainnya."
+    },
+    {
+        "id": "034dj",
+        "description": "Judi ialah permainan yang melibatkan pertaruhan harta ataupun penaruhan \"nilai\". Dalam perjudian, pihak yang kalah dalam permainan harus membayar sejumlah nilai kepada pihak yang menang. Biasanya ia menghabiskan tempoh masa yang singkat untuk mendapatkan hasil keputusan sama ada menang atau kalah.\nTerdapat banyak jenis permainan yang boleh dianggap sebagai perjudian. Contohnya:\n⁕Nombor Ekor\n⁕Sabung Ayam\n⁕Judi Bola\nPada lazimnya, perjudian dianggap sebagai amalan yang buruk kerana ia merupakan satu bentuk pengagihan harta yang tidak adil: Dalam perjudian, pihak yang menang akan mendapat harta tanpa melakukan apa-apa yang produktif. Lebih-lebih lagi kemenangan dalam perjudian biasanya bergantung kepada nasib."
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotografi ialah proses untuk menghasilkan gambar foto melalui tindakan cahaya. Pola-pola cahaya yang dipanculkan atau dipancarkan oleh objek-objek dirakamkan pada perantaraan peka atau cip storan melalui pendedahan tempoh tertentu. Proses ini dilaksanakan melalui peranti-peranti mekanik, kimia atau digit yang dikenali sebagai kamera.\nPerkataan fotografi datang daripada perkataan Greek, iaitu φως phos, dan γραφις graphis, atau γραφη graphê yang bersama-sama bermaksud \"pelukisan dengan cahaya\" atau \"lukisan\". Secara tradisi, hasil daripada fotografi dipanggil \"gambar foto\". Dalam fotografi digit, istilah \"imej\" telah bermula menggantikan istilah \"gambar foto\"."
+    },
+    {
+        "id": "064rk",
+        "description": "Tembikar adalah sejenis barangan yang diperbuat daripada tanah liat yang telah diproses, dibentuk dan kemudiannya dibakar bagi mengekalkan rupa bentuk tembikar tersebut. Tembikar yang telah dibakar di dalam tanur memiliki kekuatan yang lebih dan kalis air.\nSalah satu tembikar yang terkenal di Malaysia ialah labu-labu yakni alat untuk menyimpan dan menyejukan air minuman."
+    }
+]

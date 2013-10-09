@@ -1,0 +1,254 @@
+[
+    {
+        "id": "0345h",
+        "name": "Alemanha"
+    },
+    {
+        "id": "03_3d",
+        "name": "Japão"
+    },
+    {
+        "id": "05p553",
+        "name": "Comédia"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Drama"
+    },
+    {
+        "id": "0hcr",
+        "name": "Animação"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Fantasia"
+    },
+    {
+        "id": "0pg52",
+        "name": "Táxi"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Queijo"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Fábrica\/marca de cerveja"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Cerveja"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Chá"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Bebida"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Barra de chocolate"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Prato"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingrediente"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurante"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Chefe culinário"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Culinária"
+    },
+    {
+        "id": "046cz33",
+        "name": "Destilaria"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Denominação"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vinha"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Vinho"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Dieta"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Receita"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Alimento"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Nutriente"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Citação"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptação"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Objecto da dedicatória"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Autor da dedicatória"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publicação"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Crítica"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Autor"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Entrevista"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Tradução"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Entrevistado"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Entrevistador"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Tradutor"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Excerto"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Ilustrador"
+    },
+    {
+        "id": "04gc2",
+        "name": "Advogado"
+    },
+    {
+        "id": "05t4q",
+        "name": "Médico"
+    },
+    {
+        "id": "0mn6",
+        "name": "Arquitecto"
+    },
+    {
+        "id": "09jwl",
+        "name": "Músico"
+    },
+    {
+        "id": "01d30f",
+        "name": "Professor"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Modelo"
+    },
+    {
+        "id": "01pxg",
+        "name": "Químico"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinário"
+    },
+    {
+        "id": "01c72t",
+        "name": "Compositor"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Cozinheiro"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Polícia"
+    },
+    {
+        "id": "05xls",
+        "name": "Programador"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentista"
+    },
+    {
+        "id": "099md",
+        "name": "Soldado"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Motorista de camião"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seul"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdão"
+    },
+    {
+        "id": "023907r",
+        "name": "Bens imobiliários"
+    },
+    {
+        "id": "011s0",
+        "name": "Publicidade"
+    },
+    {
+        "id": "0hz28",
+        "name": "Indústria editorial"
+    },
+    {
+        "id": "0191_7",
+        "name": "Venda a retalho"
+    },
+    {
+        "id": "05wkw",
+        "name": "Fotografia"
+    }
+]

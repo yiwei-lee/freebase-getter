@@ -1,0 +1,1086 @@
+[
+    {
+        "id": "0_k2",
+        "description": "A hangyák család közösségalkotó rovarok. A méhek és a darazsak rokonai, ezekkel együtt tartoznak a Hymenoptera rendbe. Több mint 12 000 fajuk ismert, a trópusokon nagyobb változatosságot mutatnak. A társaséletű hártyásszárnyúak rendjébe tartozik. Különleges életmódjuk – szervezett államuk, bámulatos építményeik, vándorlásaik, csatáik – sok hasonlóságot mutatnak az emberi társadalmakkal. Telepeikben igen nagy rendszerezettség figyelhető meg; némelyikükben több millió egyed él. Az egyes hangyák lehetnek steril nőstények, termékeny hímek és termékeny nőstények.\nEgy telep nagy territóriumot igényelhet. A hangyabolyt egyes kutatók szuperszervezetnek tekintik, mivel egy-egy boly működik egységként. Ha az összes hangya tömegét megmérnénk, a szárazföldi állati biomassza kb 15-25%-át tennék ki. A termeszeket néha fehér hangyának nevezik, bár ők nincsenek szoros kapcsolatban a hangyákkal, de hasonló a társadalmi szerveződésük."
+    },
+    {
+        "id": "01dws",
+        "description": "A medvefélék a ragadozók rendjének egy családja. Mivel a mai rendszerek az óriáspandát is a medvefélék közé sorolják, így 5 nem és 8 ma élő faj tartozik a családba.\nA medvefélék nagy testű, erőteljes, lomha mozgású ragadozó emlősök, azonban veszély esetén vagy vadászatkor rendkívül gyorsan képesek futni. Egész talpuk érinti a talajt, talponjárók. Fejük nagy, orruk megnyúlt, farkuk erőteljesen visszafejlődött, rövid. Tépőfoguk nem alakult ki, zápfogaikon tompa dudorok találhatók. Vakbelük nincs, teljesen visszafejlődött. Többségük mindenevő.\nA medvefélék képviselői széles körben elterjedtek a világon. Eurázsia és az amerikai kontinens lakói, Afrikában, Ausztráliában és az Antarktiszon viszont nem fordulnak elő. Nagytestű, erőteljes felépítésű fajok tartoznak ide, melyek táplálkozásukat tekintve igen változatos állatcsoportot alkotnak, hiszen ragadozókat, mindenevőket és elsősorban növényevőket egyaránt sorolnak a családba. A medvefélék elsősorban magányos életmódúak."
+    },
+    {
+        "id": "015p6",
+        "description": "A madarak meszes héjú tojással szaporodó, meleg vérű gerinces állatok. Mellső végtagjaik szárnyakká módosultak. A madárfajok nagy része ma is repülő életmódot folytat. Testüket tolltakaró borítja. Csontjaik üregesek, légzsákokat tartalmaznak. Fogak helyett csőrrel rendelkeznek.\nA madarak mintegy 10 ezer fajjal a gerincesek második legnépesebb osztálya. Ebből Magyarországon közel 400 faj fordul elő."
+    },
+    {
+        "id": "01x_v",
+        "description": "A teve a következő két párosujjú patás fajra utal a Camelus nemen belül: a dromedárra vagy egypúpú tevére és a kétpúpú tevére vagy ázsiai tevére. Az előbbi Észak-Afrika, Délnyugat-Ázsia, India, és Ausztrália száraz és sivatagos területein él, az utóbbi pedig Közép-Ázsiában. A tevék a tevefélék családjába tartoznak, tehát ahová dél-amerikai rokonaik: a láma, az alpaka, a guanakó és a vikunya.\nA latin Camelus név a görög kamelosz szóból származik, az pedig az arab dzsamal vagy a héber gahmal szavakból, melyek mindegyike „tevét” jelent."
+    },
+    {
+        "id": "01yrx",
+        "description": "A macska egy kisebb termetű húsevő emlősállat, amely a macskafélék családján belül a Felis nem Felis silvestris fajához tartozik, a vadmacska alfaja, bár a mai rendszertanban inkább kezdik külön fajként kezelni az állatot, ugyanis nagyon sok dologban eltér az őseként tekintett fajtól. Ügyes ragadozó, több mint 1000 faj tekinthető a zsákmányának. Emellett meglehetősen intelligens, beidomítható egyszerű parancsok végrehajtására vagy szerkezetek működtetésére.\nKörülbelül 10 000 évvel ezelőtt kezdett az ember társaságában élni, háziasításának ábrázolása mintegy 4000 éve Egyiptomban történt.\n2004-ben Jean-Denis Vigne és kollégái jelentése a macska háziasítására vonatkozó legkorábbi tárgyi bizonyíték feltárásával foglalkozik. A lelet egy ciprusi emberi sírból került elő, melyben egy meghatározatlan nemű felnőtt ember és egy macska csontjai találhatók. A lelet mintegy 9500 éves. A sírból a csontok mellett kőszerszámok, vasoxid-maradványok, maroknyi tengeri kagyló és a saját sírjából egy nyolc hónapos macska csontváza került elő, melyet az emberrel megegyezően nyugati irányba nézve fektettek. Mivel a macska nem őshonos a Mediterrán medence szigetein, ezért csak a szárazföldről kerülhetett oda, minden bizonnyal a közeli levantei partokról. A lelet az ember és a macska tudatos együttélésének bizonyítéka kb. 10 000 évvel ezelőttről a mai Közel-Keletnek nevezett területen. Ez összhangban van a genetikai kutatások eredményeivel is, melyek szintén ezt a földrajzi és időbeli eredetet erősítik. Úgy tűnik, a macska háziasítása az első emberi települések létrejöttének idején, a neolitikus korban történhetett a Termékeny félholdként ismert területen."
+    },
+    {
+        "id": "09b5t",
+        "description": "A házityúk a bankivatyúk háziasított változata, amely a fácánfélék családjába tartozik. Gazdaságilag a baromfikhoz sorolják őket.\nMind húsát, mind tojásait előszeretettel fogyasztják az emberek. Mára számos tyúkfajtát tenyésztettek ki.\nA gall kakas Franciaország nemzeti madara."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "A szarvasmarha párosujjú patás állat, kérődző. Háziasított alakja a házi szarvasmarha vagy házimarha, amely a ma már kihalt őstuloktól származik. A házi szarvasmarhák genetikai állományuk alapján két alfajba sorolhatók, az Ázsia nagy területén elterjedt úgynevezett \"brahman\" típusnak vagy zebunak vállpúpja van, míg a világ többi részén a púp nélküli közönséges szarvasmarha a megszokott. A házi szarvasmarhát korábban az őstuloktól eltérő külön fajnak tartották."
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Az elefántfélék három ma élő faja az ormányosok rendjének egyetlen ma is élő családját alkotja. Nemrég, genetikai vizsgálatok nyomán bizonyosodott csak be, hogy az erdei elefánt nem az afrikai elefánt alfaja, mint addig hitték a tudósok, így az ázsiai elefánttal együtt háromra emelkedett az elefántfajok száma. A család többi tagja – így a mamutok és a Stegodon nem tagjai is, illetve a hatalmas Elephas recki – már régebben kihalt.\nAz elefántfélék hímjét, nőstényét, illetve kicsinyét a bika, tehén és borjú szavakkal jelöljük."
+    },
+    {
+        "id": "03k3r",
+        "description": "A ló az emlősök osztályának a páratlanujjú patások rendjéhez, ezen belül a lófélék családjához tartozó faj. Ma már csak háziasított vagy háziasítottból visszavadult formáiban ismert. Legközelebbi rokona a vadló. Egyes nézetek szerint a ló és a vadló egyazon faj, az Equus ferus eltérő alfajai. Ebben az esetben a ló fogalmát tágabban használhatjuk, amelybe beleértjük a vadlovat is, amelytől a háziasított alfajt a háziló névvel különböztethetjük meg."
+    },
+    {
+        "id": "08pbxl",
+        "description": "A majomalkatúak az emlősök osztályába a főemlősök rendjébe az orrtükör nélküliek alrendjébe tartozó alrendága.\nA hinduizmusban – ez a vallás többnyire Indiában terjedt el – a majmokat istenként tisztelik."
+    },
+    {
+        "id": "07bgp",
+        "description": "A juh vagy birka az ember által egyik legrégebben háziasított állatfaj, melynek gyapja, teje és húsa is felhasználható. A párosujjú patások rendjébe tartozik.\nA juh kérődző állat és szinte a füvön is megél – ezért lett a gyengébb legelők első számú hasznosítója. Természetes körülmények között is könnyen szaporodik. Amerikába először a spanyolok vitték a 16. században."
+    },
+    {
+        "id": "02g2w1",
+        "description": "A mississippi aligátor vagy más néven csukaorrú aligátor a hüllők osztályába a krokodilok rendjébe és a aligátorfélék családjába tartozó faj."
+    },
+    {
+        "id": "0qqk",
+        "description": "A disznóparéj vagy amaránt a szegfűvirágúak rendjébe tartozó disznóparéjfélék családjának névadó nemzetsége. A világ számos részén elterjedt. Körülbelül 100 faj tartozik ide. Ezek a fajok sok szempontból hasonlítanak a celózia nemzetség fajaira. A legtöbb disznóparéj egyéves növény.\nA növény tudományos neve a görög amarantos szóból származik, melyek jelentése: ami sose hervad, vagy a nem hervadó."
+    },
+    {
+        "id": "047v4b",
+        "description": "Az articsóka Észak-Afrikában őshonos fészkesvirágú zöldség- és gyógynövény, Európában termesztik. A görögök óta népszerű zöldségféle. Magyarországon sokáig dísznövényként tartották."
+    },
+    {
+        "id": "0cjs7",
+        "description": "A közönséges spárga a spárgavirágúak rendjébe és a spárgafélék családjába tartozó faj. Népies nevei: csirág, nyúlárnyék."
+    },
+    {
+        "id": "0hkxq",
+        "description": "A brokkoli a vadkáposzta egy termesztett változata. Közeli rokona a karfiol és a fejes káposzta. A brokkoli sok vitamint tartalmaz, leginkább béta-karotint, folsavat és aszkorbinsavat, de jelentős a tiamin, riboflavin, niacin, kalcium, és vastartalma is. Fontos szerepe van a rákmegelőző étrendben.\nA brokkolit már a rómaiak is ismerték és termesztették, Brassicának nevezték, ezt a nevet vette át az olasz nyelv is. Már az idősebb Caius Plinius Secundus megemlékezik egy hasonló növényről. Ez nagyon hasonlított a ma is ismert brokkolihoz. Ez is bizonyítja, hogy Itália területén termesztették és fogyasztották ezt a zöldséget, a római korban. A brokkoli neve megemlítésre került Apicius szakácskönyvében is. Majd az 1560-as években találunk rá utalást Franciaországban. Ebben az időben Angliában még teljesen ismeretlen, mint termesztett növény. A 19. században az olasz bevándorlók vitték be Amerikába, de a növény csak az 1920-as években vált igen népszerűvé. Magyarországon, bár már régóta ismert zöldségnövény, nagyobb mértékben csak az utóbbi 20 évben terjedt el, a brokkolit immár sokféleképpen használják a háztartásokban. Kuktafazékban készítve megóvhatjuk a benne lévő vitaminokat, és mélyhűtésre is alkalmas. Nem csak rózsája, hanem szára is ehető."
+    },
+    {
+        "id": "0fbw6",
+        "description": "A fejes káposzta vagy édes káposzta a vadkáposzta egy termesztett változata. Szinte egész évben fogyasztható. A káposztát már több mint 4000 éve termeszti az ember.\nC-vitamin-tartalma 40–50 mg\/100 g. A télre eltett savanyított káposzta nyersen fogyasztva szinte a teljes C-vitamin-tartalmát megőrzi, miként a B1- és B2-vitamint is, ezért nagyon fontos vitaminforrásunk. Az első évben növeszti a fejet, amit megeszünk, a másodikban pedig a becőtermést a magokkal, amikről szaporítható.\nA hideget jól tűri, de a −4 °C alatti hőmérsékletet csak az úgynevezett áttelelő fajták viselik el. Az árnyékot, félárnyékot nem tűri. A hibrid fajtákat öntözni kell. Nagy termést csak tápanyagdús talajon hoz.\nA tenyészidő hossza szerint négy típusát különböztetjük meg:\n⁕a rövid tenyészidejű fajtákat korai, friss fogyasztásra termesztik;\n⁕a közepes tenyészidejű nyári fajtákat szintén friss fogyasztásra termesztik;\n⁕az őszi és téli fajtákat ipari feldolgozásra és téli tárolásra;\n⁕az áttelelő fajtákat ősszel ültetik ki és tavasszal takarítják be.\nA káposztatermelés hagyományait bemutató egyik legnagyobb magyarországi rendezvény a Demecseri Káposztás Napok."
+    },
+    {
+        "id": "0fj52s",
+        "description": "A sárgarépa fontos zöldségnövény, jelentős vitaminforrás, régóta ismerjük és termesztjük. A vadon előforduló, Európában és Délnyugat-Ázsiában őshonos vadmurok háziasított alfaja. A nemesített változat a vadhoz képest jóval nagyobb répatesttel rendelkezik, ízletesebb és kevésbé fásodó szerkezetű.\nPliniustól tudjuk, hogy ez a négyezer éves kultúrnövény eredetileg vékony, kemény gyökér volt, és a késő római időkben kezdték nemesíteni. Magyar elnevezése a narancssárga színnel azonosítja, bár lila, piros, fehér, sárga színű változatai is elterjedtek, főként Ázsiában. A XVII. században jelent meg a narancssárga nemesített fajta.\nErdély egyes vidékein murok a neve."
+    },
+    {
+        "id": "015w7p",
+        "description": "A karfiol a vadkáposzta egy termesztett változata. Elsősorban Európában népszerű zöldség, amelynek húsosan megvastagodott fehér virágait lapátszerű zöld levelek veszik körül. Akkor jó minőségű, ha teljesen fehér és rózsái szorosan illeszkednek. Magas C-vitamin tartalmát mélyhűtött állapotában is megőrzi. Ásványi sókban is gazdag. Húspótló ételként rántva, vagy darált hússal dúsítva rakott karfiolként, levesnek, előfőzve saláták alkotórésze is lehet, de savanyúságnak eltéve is igen kitűnő."
+    },
+    {
+        "id": "01xj_",
+        "description": "A zeller gyógy-, és fűszernövény.\nVilágszerte három változata terjedt el, Magyarországon a gumós változatot termelik. A halványított vagy szárzeller és metélő zeller levélnyelében 30–50 mg\/100g C-vitamint is tartalmaz, míg a gumós változat, csak elenyésző mennyiséget. Ennek levele és gumója adja az illatos, aromás édeskésen fanyar ízű fűszert. Kiváló idegerősítő és nemi hormonképző hatása van. Jelentős a mész, és foszfor tartalma, de inkább ízanyagai teszik közkedveltté. Fogyókúrás hatása is számottevő."
+    },
+    {
+        "id": "02nm6c",
+        "description": "A mángold a disznóparéjfélék családjába, a répaformák alcsaládba tartozó konyhazöldség, legközelebbi rokona a cékla. Nevezik „leveles répának” is.\nBár a Földközi-tenger környékén már az i. e. V-IV. században ismerték, mégis mára Európában szinte ismeretlen növényről van szó. Lágy szárú kétéves növény, az első évben a gyökere és lombozata, a második évben a magszára fejlődik ki, azonban mivel konyhai célra leveleit használjuk, általában az első évben leszüreteljük őket. A növény termése a gomoly. Több fajtája van: a legelterjedtebbnek levelei mélyzöldek vagy halványabbak, és a növény akár 60-80 centiméteresre is megnőhet. Formája egy megnyúlt kínai kelhez hasonlít. Talajban nem válogatós, de igényli a sok napsütést és a vizet, melyből egy nap akár 2 dl-t is elhasznál. Tavasz végén vetik, és júliustól késő őszig növeszt ízletes leveleket."
+    },
+    {
+        "id": "02nm75",
+        "description": "A takarmánykáposzta, népies nevén marhakáposzta, leveles káposzta vagy óriás káposzta a vadkáposzta egy termesztett változata. Késő őszi, kora téli zöldtakarmány.\nNémetországban kezdték termeszteni a 19. században, onnan terjedt át Angliára, a Németalföldre és Franciaországra. Magyarországon a 20. század elején jelent meg, leginkább a Dunántúlon terjedt el.\nKarógyökere dúsan elágazik. Igen magas a C-vitamin-tartalma. Felaprítva nemcsak összetett gyomrú állatoknak, hanem sertésnek, baromfinak is adható."
+    },
+    {
+        "id": "053wn",
+        "description": "A kukorica vagy népies nevein tengeri, törökbúza, málé a perjefélék családjába tartozó, lágy szárú, egylaki, váltivarú, egynyári növény. Két méter magasra is megnő, csöves szemtermést hoz. Amerikában őshonos, Európába a gyarmatosítással került. Onnan a 16. században a spanyol, portugál kereskedők vitték, terjesztették el Ázsiába, Afrikába. A hollandok, angolok kezdték termeszteni később Ausztráliában. Ma a legnagyobb területen termesztett szántóföldi növényünk."
+    },
+    {
+        "id": "015x4r",
+        "description": "Az uborka vagy népiesen ugorka a tökvirágúak rendjébe, a tökfélék családjába tartozó növényfaj. Ugyanabba a nemzetségbe tartozik, mint a sárgadinnye. Számos nemesített változata létezik. Termését fogyasztják, aminek C-vitamin tartalma 10–20 mg\/100 g, és sok magnéziumot, kalciumot, káliumot, foszfort, nátriumot és vasat tartalmaz.\nTáplálkozási értékét azzal növeli, hogy kedvező hatású a gyomor működésére, nagy káliumtartalma vízhajtó hatású.\nLevét reumatikus fájdalmak ellen is jó hatásúnak tartják, illetve kozmetikumként az uborkakrém, -szesz üdébbé teszi a bőrt, így fiatalító hatású.\nFőként salátaként, dunsztolva téli savanyúságként, vagy nyersen fogyasztják."
+    },
+    {
+        "id": "0cdk2",
+        "description": "A padlizsán vagy tojásgyümölcs a burgonyafélék családjába, a csucsor nemzetségbe tartozó növényfaj, zöldségnövény."
+    },
+    {
+        "id": "022p79",
+        "description": "Az endívia vagy endíviasaláta a őszirózsafélék családjába, a cikória nemzetségbe tartozó növényfaj. Ugyanígy, vagy salátakatáng-nak nevezik a mezei katáng levélzöldségként termesztett fajtáját is. Európában őshonos növény, már a középkorban jól ismerték. A vadon növő endíviasaláta kétéves növény, ám egyévesként termesztik. Több fajtája is ismert."
+    },
+    {
+        "id": "017dqv",
+        "description": "Az édeskömény a zellerfélék népes családjából a Foeniculum növénynemzetség legelterjedtebb és legismertebb tagja.\nA növény fűszer és gyógynövény is egyben. Az édeskömény, mint növény a termesztése óta fokozatosan elkülönülő alfajokra osztható, így ide tartozik a közönséges édeskömény, a római édeskömény és az olasz édeskömény.\nEgyéb elnevezése ánizskapor, fennel, ismert olasz neve finocchio."
+    },
+    {
+        "id": "0dbrl",
+        "description": "A fokhagyma az amarilliszfélék családjába tartozó faj. Gyógy-, és fűszernövény, melynek hagymagumója fogyasztható; felvágva erőteljes aromával rendelkezik. Népies neve „foghagyma” vagy „büdös hagyma”.\nAlfajai:\n⁕A. s. ophioscorodon, ide tartozik az évelő fokhagyma vagy rocambol is\n⁕A. s. sativum."
+    },
+    {
+        "id": "03lp1_",
+        "description": "A lopótök, más neveken butykos tök, nyakas tök, szívótök, sáritök, flaskatök a tökfélék családjába tartozó kétszikű növény. Ázsiából vagy Afrikából származik. Ez az egyetlen olyan tökfajta, amit Európában már Amerika felfedezése előtt is termesztettek. Merítőedény és csörgő, hímvessző-öltözék és étel, húros hangszer és borlopó – az élet szinte minden területén hasznosítható környezetbarát módon. Népi mondás a lopótök kapcsán: Az Isten mindönt mekterömtöt, csak az embör csinálla rá."
+    },
+    {
+        "id": "02r5_b",
+        "description": "A fodros kel vagy leveles kel a vadkáposzta egy termesztett változata.\nA kelkáposztára emlékeztet. Hosszú szárán fodros, jellegzetes leveleket hoz. Sokoldalúan felhasználható a főzésben, bár többnyire főzelék vagy levesféle készül belőle, rakott kelnek is jó. Dekoratív külleme miatt dísznövényként is termesztik.\nGyökere gyorsan fásodó karógyökér, amely alul néhány vastagabb oldalgyökérre ágazik. A mélyre hatoló gyökérzet biztos tartást ad a nagy zöldtömegnek. A szár hossza fajtánként változó: 80–170 cm. 14–20 levelet hoz a szár hosszán egyenletesen. Levélnyele majdnem olyan hosszú, mint maga a kékeszöld, viaszos levél. A második évben hoz virágot és magot; a virágszár akár 2 m-re is megnőhet. A méhek nagyon kedvelik a virágát, mert sok pollent, sok és nagyon cukros nektárt termel. Magjai körülbelül 1 mm-esek, gömb alakúak, sötétbarnák.\nA bimbós kel mellett a másik leghidegtűrőbb káposztaféle. A nyári meleget is jól tűri, fejlődését a hőmérséklet ingadozása alig befolyásolja. Hazánkban a leghidegebb teleken sem fagy ki. Félárnyékban vagy vonuló árnyékban is megmarad. A káposztafélék közül a legkevesebb vizet igényli; helyenként akár öntözés nélkül is termeszthető. Szinte bármilyen talajon termeszthető. Tápanyagigénye jelentős."
+    },
+    {
+        "id": "04bk6",
+        "description": "A karalábé a káposztafélék családjába tartozó zöldségnövény. Magas B1-, B2-, B6-, és C-vitamin tartalma miatt ajánlatos a nyers fogyasztása. Tartalmaz még kalciumot, káliumot, magnéziumot, vasat, valamint meszet és foszfort is. Nem savanyítható, konzerválásra is alkalmatlan. Viszont egész évben termeszthető, és már tyúktojás nagyság elérésekor szedhető. A karalábé magas vitamintatalma miatt méregtelenítő hatású."
+    },
+    {
+        "id": "0fqlj",
+        "description": "A fejes saláta mérsékelt égövi egy- vagy kétéves növény, a őszirózsafélék családjába tartozó faj. Többnyire levélzöldségként termesztik. Sok országban nyersen és hidegen fogyasztják, például salátákban, hamburgerekben vagy tacóban. Más országokban, pl. Kínában a fejes salátát főve fogyasztják, és a szár felhasználása épp olyan fontos, mint a levélé. A nemzetség tudományos neve a latin lac, azaz tej szóból származik, ami az ide tartozó növények tejnedvére utal. Enyhe íze miatt évszázadokon keresztül a saláták egyéb összetevői mellett közömbösítő szerepe volt.\nEgyike a legrégebben termesztett zöldségnövényünknek. A saláta gyűjtőnéven szereplő zöldségfélék közül ez a legkedveltebb.\nTápértéke, a magas C-vitamin, de sok B-vitamint, meszet, fehérjét, kalciumot, káliumot, foszfort, és vasat tartalmaz.\nÍzanyagai jó hatással vannak a gyomor működésére, ritkán főzelék készítésére is felhasználjuk. Cukorbetegek, túlsúlyosak is fogyaszthatják."
+    },
+    {
+        "id": "01xfpd",
+        "description": "A pasztinák a kétszikűek osztályának az ernyősvirágzatúak rendjébe, ezen belül a zellerfélék családjába tartozó faj, amely a sárgarépával rokon és Európában őshonos gyökérzöldség. Már az ókorban ismerték, és csak a burgonya érkezése után szorult vissza. Népies nevei: fehérrépa, peszternák, paszternák, olaszrépa, latin nevéből pasztinák, helytelenül édesgyökér-nek is nevezik.\nA gyökér és a mag a petrezselyemhez hasonló ízű, csak kissé édesebb. A magja hasonló célt szolgál, mint a kapormag, levelét nem használják. A petrezselyemnél nagyobb tápértékű, ezért ezt az újra közkedvelt növényt a konzervipar is használja. A 16-22 centiméter hosszú gyökér a petrezselyemnél gazdaságosabb, édeskés, sima felületű és fűszeres ízű."
+    },
+    {
+        "id": "0g5s7",
+        "description": "A borsó vagy veteményborsó, kerti borsó, kultúrborsó, termesztett borsó a pillangósvirágúak családjába tartozó növényfaj. Tápláléknövény, az emberiség egyik legrégibb kultúrnövénye. Fontos fehérjeforrásnak számít az emberi táplálkozásban, manapság elsősorban zöldségként és állateledelként kerül felhasználásra. Magyarországon a veteményes kertekben mindenütt megtalálható kedvelt zöldségféle. Szántóföldi paraszti termesztése elsősorban a Tiszántúlon, illetve a Dunántúl némely körzeteiben alakult ki. Termesztett változatai több vad őstől származnak. Termesztésbe vétele i. e. 4–5000 évvel Közép-Ázsia központi és déli területein történhetett és a neolitikus kultúrákkal terjedt el Európában. A bronzkorból bőséges régészeti leletek bizonyítják Kárpát-medencei és nyugat-európai ismeretét. A magyarság még a vándorlása idején ismerhette meg. A magyar borsó szó ótörök eredetű."
+    },
+    {
+        "id": "0fg0m",
+        "description": "A földimogyoró vagy amerikai mogyoró a kétszikűek osztályába a hüvelyesek rendjébe és a pillangósvirágúak családjába tartozó faj."
+    },
+    {
+        "id": "05vtc",
+        "description": "A burgonya, a köznyelvben krumpli, tájnyelvi nevén kolompér, krompé vagy pityóka. A burgonyafélék családba tartozó növény, amit keményítőben gazdag gumójáért termesztenek világszerte."
+    },
+    {
+        "id": "015x5n",
+        "description": "A retek, népies nevén kerti retek vagy réparetek a káposztafélék családjába tartozó élelmiszernövény-faj.\nA retket már az ókorban is ismerték és termesztették, több fajtáját kedveljük. Magas C-vitamin tartalma miatt a téli, vitaminban szegény időszakban nagyon hasznos lehet. Nyersen vagy sózva használjuk, vajas- vagy zsíros kenyérre, saláták alkotórészeként, de az ételek díszítésére is.\nCsípős íze és illata a hagymával rokon illóolajtól származik, régebben gyógyszerként is használták."
+    },
+    {
+        "id": "016rh7",
+        "description": "A spenót vagy paraj a disznóparéjfélék családjába tartozó, világszerte elterjedt kultúrnövény. Közép- és Délnyugat-Ázsiában őshonos. Ismert nevei még: spinót, spenát, spinát, spinác, barátparéj.\nValószínűleg Perzsiából származik, innen vitték a mórok Spanyolországba. Angliában a 16. században, Medici Katalin udvarában vált népszerűvé. Magyarországra korán eljutott, Szikszai Fabricius Balázs Nomenclaturájában már említi a spinácz nevű levélzöldséget.\nA parajszövőmoly fő gazdanövénye, de az nem okoz érdemleges kárt kultúráiban – annál inkább a levéltetvek és a spenótperenoszpóra."
+    },
+    {
+        "id": "02d9p2",
+        "description": "Az orvosi vízitorma a kétszikűek osztályának a keresztesvirágúak rendjébe, ezen belül a káposztafélék családjába tartozó faj. Vízinövény"
+    },
+    {
+        "id": "05jsyz",
+        "description": "A búzafű a frissen kihajtott búza, amikor annak még csak sziklevele jelent meg. A búzafű sokféle hasznos anyagot tartalmaz.\nA búzafű pár napos hajtásait learatva és préselve nyerjük a búzafű levét. Préselés azért szükséges, mert míg a zöld búzafű növényi rostjait az állatok gyomra meg tudja emészteni, addig az emberi gyomor erre képtelen. A búzafűlé készülhet tönkölybúzából vagy más fajtákból is."
+    },
+    {
+        "id": "0jtc5",
+        "description": "A közönséges cickafark a őszirózsafélék családjába tartozó növényfaj, a cickafark nemzetség legismertebb tagja. Egyéb megnevezései: orvosi cickafark, cickóró, cickafarkkóró, egérfarkúfű, ezerlevelűfű, patikai ezerlevelűfű, pulykafű, cickafarkkóró. Európa és Ázsia rétjein, legelőin, útjai mentén tömegesen fordul elő."
+    },
+    {
+        "id": "015fr",
+        "description": "A Brazil Szövetségi Köztársaság Dél- és Latin-Amerika legnépesebb és legnagyobb kiterjedésű országa. Délen Uruguay-jal, délnyugaton Argentínával, Paraguay-jal és Bolíviával, nyugaton Peruval és Kolumbiával, északon Venezuelával, Guyanával, Suriname-mal és Francia Guyanával határos. Fővárosa 1960-tól az újonnan épített Brazíliaváros."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanada az észak-amerikai kontinens nagy részén elterülő ország. Az ország területe az Atlanti-óceántól a Csendes-óceánig terjed, északon pedig a Jeges-tengerig ér. Délen és északnyugaton az Amerikai Egyesült Államokkal határos, a két ország közötti határ a világ leghosszabb nem védett határa. Kanada a világ második legnagyobb országa a teljes terület alapján számolva.\nA napjainkban Kanada által elfoglalt földön évezredekig az őslakosok különböző csoportjai éltek. A 15. század végén a britek és a franciák felfedező utakat indítottak a területre, melyeket később az atlanti parton való letelepedés követett. 1763-ban a parttól nyugatabbra fekvő földek birtoklásáért vívott hétéves háborút követően Franciaország majdnem az összes észak-amerikai gyarmatát elvesztette. 1867-ben három brit gyarmat konföderációjával létrejött Kanada, egy négy tartományból álló, szövetségi alapon szervezett domínium. Ezzel megkezdődött az újabb tartományok és területek bekebelezése, és az Egyesült Királysággal szembeni nagyobb autonómia megszerzésének folyamata, melynek csúcspontja az 1931-es westminsteri statútum volt, ami a brit parlamenttől való maradék jogi függést megszüntető Canada Act 1982-vel fejeződött be."
+    },
+    {
+        "id": "01p1v",
+        "description": "Chile, hivatalosan a Chilei Köztársaság független köztársaság Dél-Amerikában, az Andok hegyvonulatai és a Csendes-óceán között, észak-déli irányban hosszan elnyúlva. Nyugatról az óceán, északról Peru, északkeletről Bolívia, keletről Argentína, délről pedig a Drake-átjáró határolja."
+    },
+    {
+        "id": "0d05w3",
+        "description": "A Kínai Népköztársaság, ismertebb nevén csak Kína Kelet-Ázsia legnagyobb országa, amely egyben túlmutat régióján, mivel mind Közép-Ázsiában, mind a tengeren vannak területei. Az ország 1949-től kezdve kettéosztva él: a Kínai Népköztársaság, Peking fővárossal, illetve a Tajvan szigetéből és annak környékéből álló Kínai Köztársaság, Tajpej fővárossal. Eleinte az utóbbit ismerték el nemzetközileg, ám az 1970-es években tapasztalt amerikai–kínai közeledés után megváltozott a helyzet. Bár ma nem tekintik önálló államnak Tajvant, az amerikai erők mindeddig megakadályozták, hogy a Kínai Népköztársaság bekebelezze.\nA két állam eltérően fejlődött a 20. század végén. Az élet rengeteg terén más-más szokások alakultak ki. Míg a szárazföldön Mao Ce-tung által 1956 és 1958 között folyamatosan bevezetett egyszerűsített kínai írásmódot használják, Tajvanban még mindig a hagyományos írásjelekkel írnak.\nKína a világ legősibb folyamatos civilizációja, amely már az ókorban önálló kulturális egységet alkotott, és igen fejlettnek számított. Számos, Európában csak jóval később megismert találmány már az ókorban ismert volt Kínában. Az egységes birodalom megalakulása óta lényegében egységben, a különböző dinasztiák vezetésével és a többi kultúrától elzárva fejlődött egészen a 19. századig, amikor is az angolok félgyarmati sorba taszították. Egészen a 20. század közepéig a különböző nagy- és középhatalmaknak kiszolgáltatva, közben egy rendszerváltást átélve, 1949-ben a szárazföldön ismét beköszöntött az egység, megalakult a jelenleg is fennálló Kínai Népköztársaság, s az ellenzék kiszorult Tajvan szigetére."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Kuba egy karibi szigetország, területéhez Kuba szigetén túl – mely a Nagy-Antillák legnagyobb tagja – hozzátartozik még 1600 kisebb szárazulat is, amelyek közül méretével kiemelkedik a Pinos-sziget. Az egykori spanyol gyarmat ma a legnépesebb karibi ország, egyben a világ egyik utolsó szocialista berendezkedésű állama. 1972 és 1991 között a KGST tagja. A Egyesült Államok az országtól bérli a haditengerészeti támaszpontjáról és börtönéről hírhedt Guantánamói-öblöt."
+    },
+    {
+        "id": "03shp",
+        "description": "Irán, teljes néven Iráni Iszlám Köztársaság közel-keleti ország, mely Délnyugat-Ázsiában található."
+    },
+    {
+        "id": "01znc_",
+        "description": "Törökország állam, amelynek területe kisebbik részben Európában, nagyobbik részben Ázsia délnyugati részén fekszik. A Fekete-tenger és a Földközi-tenger között elhelyezkedő Anatóliai-félsziget alkotja az ország fő területét. Északról Grúzia, és Örményország, keletről Irán és egy kis részen az Azerbajdzsánhoz tartozó Nahicseván, délről Irak és Szíria, míg nyugatról az Égei-tenger szigetei, Görögország és Bulgária határolja.\nTörökország kultúrája az ország különleges, európai-ázsiai fekvésének és történelmének köszönhetően igen változatos, ötvözi a keleti és a nyugati tradíciókat. Földrajzi fekvésének köszönhetően az ország mind politikailag, mind gazdaságilag fontos stratégiai pontnak számít.\nTörökország demokratikus, szekuláris, az alkotmánya szerint magát nemzetállamként meghatározó ország, de élnek más kisebbségek is az ország területén. 1923. október 29. óta köztársaság. Politikai rendszerének alapjai Mustafa Kemal Atatürk irányítása alatt az 1920-as és 30-as években szilárdultak meg, az Oszmán Birodalom felbomlása, illetve az első világháború után."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "A Svéd Királyság Skandináviában, Észak-Európában található. Nyugaton Norvégia, északkeleten Finnország, délkeleten a Skagerrak- és a Kattegat-szoros, keletről pedig a Balti-tenger és a Botteni-öböl határolja. Mivel alacsony a népsűrűség, a svéd táj a nyugalmáról, nagy erdőiről és hegyes vadonjairól ismert."
+    },
+    {
+        "id": "06mkj",
+        "description": "Spanyolország, hivatalosan Spanyol Királyság független állam Dél-Európában, illetve Észak- és Nyugat-Afrikában. A spanyol szárazföld délről és keletről a Földközi-tenger, északról a Vizcayai-öböl és nyugatról az Atlanti-óceán alkot vele határt. A szárazföldön Portugáliával, Franciaországgal, Andorrával, Gibraltárral és Marokkóval határos. Spanyolország a legnagyobb a három független államból, amelyek az Ibériai-félszigeten fekszenek. Fővárosa Madrid.\nA modern Spanyolország mai területén több nép is letelepedett, mint például a kelták, az ibériaiak, a rómaiak, a vizigótok és a mórok. A középkorban, több mint öt évszázadig, nagy területek voltak iszlám uralom alatt, melyeknek egy töredéke 1492-ig állt fenn, amikor az Aragónia és Kasztília keresztény királyságai 770 év után elszakadtak a móroktól. Ugyan abban az évben, Kolumbusz Kristóf elérte az Újvilágot, amivel megalakította a világuraló Spanyol Birodalmat. Spanyolország vált Európa legerősebb államává, de a háborúk és más belső gondok lesüllyesztették az országot. A 20. század közepén Francisco Franco alakított ki diktatúrát Spanyolországban, és demokratikus állam csak 1978-ban alakult ki. Az ország 1986-ban belépett az Európai Unióba, ezután Spanyolország gazdasági és kulturális reneszánszát élte egészen a 2008-ban kirobbant gazdasági világválságig, ekkor ugyanis gazdasága súlyos válságba került."
+    },
+    {
+        "id": "0h7x",
+        "description": "Az Osztrák Köztársaság közép-európai állam. Északról Németország és Csehország, keletről Szlovákia és Magyarország, délről Szlovénia és Olaszország, nyugatról pedig Svájc és Liechtenstein határolja. Fővárosa Bécs.\nLegjelentősebb folyója a Duna, vízgyűjtő területe az egész ország 96%-ára terjed ki.\n1955. május 15-én Bécsben aláírták az államszerződést, melyben az ország visszakapta szuverenitását. A megszállók kivonulása után Ausztria örökös semlegességét az alkotmányban rögzítették. Az államszerződés lehetőséget teremtett arra, hogy Ausztria független, semleges országként a saját útját járja.\nAusztria és főleg Bécs, Salzburg neve szorosan összekapcsolódik a komolyzenével és a zenei rendezvényekkel. Klasszikus zeneszerzők: Joseph Haydn, Wolfgang Amadeus Mozart, Franz Schubert, Richard Strauss.\nAz ország 1955 óta tagja a ENSZ-nek és 1995 óta az Európai Uniónak is. További szervezeti tagságai: WTO, Békepartnerség, NYEU, EBESZ, IMF, OECD."
+    },
+    {
+        "id": "03gj2",
+        "description": "Magyarország Közép-Európában, a Kárpát-medencében fekvő, tengerparttal nem rendelkező ország. Az országot északról Szlovákia, északkeletről Ukrajna, keletről és délkeletről Románia, délről Szerbia és Horvátország, délnyugatról Szlovénia, nyugatról Ausztria határolja.\nFő- és egyben legnépesebb városa Budapest. 100 000 lakosnál népesebb városai még Debrecen, Szeged, Miskolc, Pécs, Győr, Nyíregyháza, Kecskemét és Székesfehérvár.\nAz ország 1955 óta ENSZ, 1990-től az Európa Tanács, 1996 óta – egyebek között – az OECD, 1999 óta a NATO, 2004 óta az Európai Unió, 2007. december 21-e óta pedig a schengeni övezetnek is tagja, és egyik alapítója az úgynevezett Visegrádi Együttműködés szervezetnek.\nAz ország és az állam hivatalos neve 2011. december 31-ig az alkotmány szerint Magyar Köztársaság volt, 2012. január 1. óta az Alaptörvény szerint Magyarország. Államformája köztársaság."
+    },
+    {
+        "id": "0345h",
+        "description": "A Német Szövetségi Köztársaság Európa vezető, s a világ negyedik vezető ipari és gazdasági nagyhatalma, Közép-Európában fekszik. Északon az Északi-tenger, Dánia és a Balti-tenger, keleten Lengyelország és Csehország, délen Ausztria és Svájc, nyugaton pedig Franciaország, Luxemburg, Belgium és Hollandia határolja. Nyugat-Németország az Európai Unió egyik alapító tagja volt. Fővárosa Berlin, jelentős nagyvárosok még München, Köln, Hamburg, Frankfurt am Main és Stuttgart. 357 021 km² területével Európa hatodik legnagyobb, 82 431 390 lakosával Európa második legnépesebb országa. Jelentős szerepet játszott az első-és a második világháború kirobbantásában, ez utóbbi után az országot két részre osztották, a Német Szövetségi Köztársaságra és a Német Demokratikus Köztársaságra. Az egykori NDK területén újraalakított tartományok 1990. október 3-án csatlakoztak a Németországi Szövetségi Köztársasághoz."
+    },
+    {
+        "id": "05qhw",
+        "description": "A Lengyel Köztársaság közép-európai állam a Balti-tenger partján, amely szárazföldön nyugaton Németországgal, délen Csehországgal és Szlovákiával, keleten Ukrajnával, Fehéroroszországgal és Litvániával, északon Oroszországgal határos. Tengeri határ választja el Dániától és Svédországtól. Fővárosa Varsó. Hivatalos nyelve a lengyel.\nA lengyel állam több mint 1000 éves. A 16. században, a Jagelló-dinasztia uralkodása idején Lengyelország Európa egyik leggazdagabb és legerősebb országa volt. 1791. május 3-án a Lengyel-Litván Unió elfogadta Lengyelország májusi alkotmányát, amely Európa első és a világ második írott alkotmánya volt. Röviddel később Lengyelországot felosztották szomszédai. Lengyelország 123 év után, 1918-ban nyerte vissza államiságát az első világháború lezárultával. A második világháború után a Szovjetunió befolyási övezetéhez tartozott. 1989-ben az ország második világháború utáni történetének első részlegesen szabad választásai zárták le a Szolidaritás mozgalom szabadság iránti törekvéseit. Lengyelország 1999-től a NATO, 2004-től az Európai Unió tagja."
+    },
+    {
+        "id": "04g5k",
+        "description": "Lettország állam Északkelet-Európában. A Balti-tenger mellett fekvő Lettország a balti államok egyike Észtország és Litvánia mellett, amelyek északon és délen határolják Lettországot. Keleten Oroszországgal és Fehéroroszországgal határos.\n2003. szeptember 20-án a lettek népszavazással az Európai Unióhoz történő csatlakozás mellett döntöttek, ami 2004. május 1-jén be is következett. Lettország a NATO-nak is tagja, 2004. március 29. óta."
+    },
+    {
+        "id": "012wgb",
+        "description": "Az Ír-sziget a Brit-szigetek része, Európa harmadik legnagyobb szigete. Az európai kontinenstől északnyugatra, a Brit-szigettől nyugatra fekszik.\nPolitikailag a sziget öthatodát elfoglaló független Ír Köztársaságra és az Egyesült Királysághoz tartozó, a sziget északkeleti részében fekvő Észak-Írországra osztható.\nAz ír név az ír Ériu szóból származik, ez a modern ír nyelvben Éire alakú.\nA sziget lakossága valamivel kevesebb mint 6 millió, ebből valamivel több mint 4,2 millió az Ír Köztársaságban él."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamaica egy, a Nagy-Antillák szigetcsoporthoz tartozó, 240 kilométer hosszú és 80 kilométer széles szigetország. A Karib-tengerben fekszik, a közép-amerikai szárazföldtől 680 kilométerre keletre, Kubától 150 kilométerre délre, és a Hispaniola nevű szigeten lévő Haititől pedig 180 kilométerre nyugatra.\nA sziget neve az őslakos taíno indiánok „xaymaca” szavából származik, aminek jelentése „A források szigete”. Felfedezése után spanyol birtok volt, majd az angolok kezére került.\nAz ország lakossága meglehetősen kevert, azonban túlnyomó többsége az Afrikából áthurcolt rabszolgák leszármazottja. Jamaica az amerikai szubkontinens harmadik legnépesebb, tisztán angol anyanyelvű országa az Egyesült Államok és Kanada után. Innen ered a rasztafariánus mozgalom. Jamaica a reggae zene őshazája, Bob Marley is itt született."
+    },
+    {
+        "id": "01crd5",
+        "description": "A Vietnami Szocialista Köztársaság délkelet-ázsiai ország. Északról Kína, nyugatról Laosz és Kambodzsa, keletről pedig a Vietnami-öböl határolja.\nVietnam tagja az ENSZ-nek, a Frankofónia Nemzetközi Szervezetének, az ASEAN-nak, az APEC-nek és a WTO-nak."
+    },
+    {
+        "id": "015qh",
+        "description": "Bulgária a Fekete-tenger partján fekvő állam Délkelet-Európában. Nemzetközi tagsága: EU, ENSZ, EBESZ, Fekete-tengeri Gazdasági Együttműködés, Nemzetközi Valutaalap, WTO, NATO. Az ország 2007. január 1. óta az Európai Unió tagja.\nAz ország területének 57%-a tartozik a Fekete-tenger vízgyűjtő területébe. Az ország többi részéről a vizek az Égei-tengerbe tartanak.\nBulgária háromszor volt független a történelem során. Először 632–1018 között, majd 1185–1396 között, végül 1878 óta."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongólia Belső-Ázsiában található köztársaság, északról Oroszország, délről a Kínai Népköztársaság határolja, tengerpartja nincsen. Területének nagy része füves puszta, északon és nyugaton magas hegyekkel, délen a Góbi-sivataggal. Fővárosa Ulánbátor, itt él a népesség egyharmada. Teljes határvonala 8220 km, ebből 3643 km jut Oroszországra és 4677 km Kínára."
+    },
+    {
+        "id": "06q1r",
+        "description": "Skócia Nyugat-Európában található, Nagy-Britannia második legnagyobb országrésze terület és népesség alapján. A Brit-sziget északi harmadát foglalja el, délről Anglia, keletről az Északi-tenger, északról és nyugatról az Atlanti-óceán határolja, délnyugatról pedig az Északi-csatorna és az Ír-tenger. Mintegy 790 sziget tartozik hozzá.\nFővárosa, Edinburgh Európa egyik legnagyobb pénzügyi központja. A skót felségvizek nagy területet szakítanak ki az észak-atlanti vizekből és az Északi-tengerből, és alattuk rejlik az Európai Unió egyik legnagyobb nyersolajtartaléka.\nA skót királyság 1707. május 1-jéig független állam volt, ekkor azonban az Acts of Union politikai unióba vonta az angol királysággal, és ezzel létrejött Nagy-Britannia. Skócia továbbra is külön állam, és saját törvénykezéssel rendelkezik. A skót törvények, a skót oktatási rendszer és a Church of Scotland volt az a három sarokkő, amelyek biztosították a skót kultúra és a skót nemzeti öntudat fennmaradását.\nEgyedi jelenség, hogy Skócia zászlaja azonos az egyik kis városa, St. Andrews zászlajával. Az azonosság annyira teljes, hogy e kis városban egyetlen közös zászlót tesznek ki a két eltérő célra."
+    },
+    {
+        "id": "0chghy",
+        "description": "Ausztrália politikai értelemben az Ausztrál Államszövetség köznapi elnevezése. Az Ausztrál Államszövetség a hatodik legnagyobb területű ország a Földön; az egyetlen olyan, amely egy egész kontinensre kiterjed, Ausztrália és Óceánia legnagyobb országa. Új-Zéland tőle délkeletre, Indonézia, Pápua Új-Guinea és Kelet-Timor északra helyezkedik el. Az Egyenlítőtől délre, a 10. és a 40. szélességi kör között található."
+    },
+    {
+        "id": "035v3",
+        "description": "Grönland a Föld legnagyobb szigete, a világ negyedik legnagyobb közigazgatási egysége terület szerint.\nFöldrajzilag Észak-Amerikához, politikailag a dán fennhatóság miatt Európához tartozik. 1973 és 1985 között része volt az Európai Közösségnek, de egy 1982-es népszavazás után 1985. január 1-jén kilépett. A grönlandiak ennek ellenére továbbra is európai állampolgároknak minősülnek, azonban az európai választásokon nincs szavazati joguk.\nA grönlandi és a dán kormány megállapodást dolgozott ki a sziget autonómiájának kibővítéséről, mely szerint többek között népként ismerik el a grönlandiakat, megkapják az ellenőrzést az ásványkincsek fölött, és nyelvüket hivatalos nyelvként ismerik el. A 2008. november 25-én megtartott népszavazáson a grönlandi szavazók 75,54 százaléka támogatta, 23,57 százaléka pedig ellenezte a tervezetet. A megállapodást 2009. május 19-én a dán parlament is megszavazta, így június 21-én életbe lépett."
+    },
+    {
+        "id": "0jgx",
+        "description": "Örményország kis hegyvidéki ország Ázsiában, Kis-Ázsiától keletre. Területének északkeleti - kisebb - részét a Kis-Kaukázus, nagyobb részét az Örmény-felföld teszi ki. Északon Grúzia, keleten Azerbajdzsán, délkeleten Irán, nyugaton Törökország határolja."
+    },
+    {
+        "id": "03_3d",
+        "description": "Japán szigetország Kelet-Ázsiában. Nyugaton a Japán-tenger, északon az Ohotszki-tenger, keleten a Csendes-óceán és délen a Kelet-kínai-tenger mossa partjait. A 6852 szigetéből a négy legnagyobb Hokkaidó, Honsú, Kjúsú és Sikoku, ezeket nevezik főszigeteknek. A nagy múltra visszatekintő Japán ma a harmadik legnagyobb gazdasági hatalom az Amerikai Egyesült Államok és Kína után, a Föld leggazdagabb országainak egyike, számos nemzetközi szervezet tagja. Fővárosa és legnagyobb városa Tokió, a világ legnépesebb várostömörülése. A fővároson kívül még 11, milliós nagyváros található Japánban."
+    },
+    {
+        "id": "019rg5",
+        "description": "A Kenyai Köztársaság egy Kelet-Afrikában, az Egyenlítő mentén fekvő ország. Északról Etiópia, északnyugatról Dél-Szudán keletről Szomália, délről Tanzánia, nyugatról Uganda és délkeletről az Indiai-óceán határolja."
+    },
+    {
+        "id": "0f6kx",
+        "description": "A hétfő a hét – a napjainkban általános, Európa keresztény részein szokásos felosztás szerinti – első napja, másképp a „hét feje” vagy eleje. A bibliai hagyomány szerint a hét második napja, s többek között az arab országokban, az Egyesült Államokban, Görögországban, Grúziában, Iránban, Izraelben, Kanadában, Örményországban és Portugáliában ma is annak számít.\nA hétfő a bibliai teremtéstörténet második napja, ennek megfelelően a római katolikus naptár is „Feria Secunda” néven hivatkozik rá, görög neve pedig Δευτέρα, azaz „második”.\nA római hagyomány a hétfőhöz a Holdat rendeli, ezért a legtöbb nyelvben ez a nap „a Hold napja”"
+    },
+    {
+        "id": "0f7_n",
+        "description": "A kedd a hétfő és szerda közötti nap, Magyarországon a hét második napja. Jelentésének eredete: a hét ketted napja. A 'kettedik' szóból vált és rövidült az idők folyamán 'kedd'-re."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Szerda: a kedd és a csütörtök közé eső nap, a hét harmadik napja.\nA magyar 'szerda' szó szláv eredetű. A szláv nyelvekben etimológiailag a 'közép' jelentésű szóra vezethető vissza, ami arra utal, hogy a hét közepe.\nAz asztrológiában a szerdát a Merkúr bolygóhoz, illetve az azt megszemélyesítő Merkúr istenhez kötik."
+    },
+    {
+        "id": "0f7zn",
+        "description": "A csütörtök a hét szerda és péntek közé eső napja. Általában a negyedik nap, de azokban az országokban, ahol vasárnappal kezdődik a hét, az ötödik.\nMagyar neve a szlávból származik, jelentése: „negyedik”. Az újlatin nyelvekben neve Jupiter római isten nevéből ered, a germán nyelvekben pedig Thor nevéből."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Péntek a hét – a napjainkban általános, Európa keresztény részein szokásos felosztás szerinti – ötödik napja.\nA szó szláv eredetű, eredetileg ötödiket jelent.\nAz ortodox egyház szerint böjti, a katolikus egyház szerint bűnbánati nap.\nAz asztrológiában a nap a Vénusz bolygóhoz, illetve az azt megszemélyesítő Vénusz istennőhöz kötődik. A germán nyelvekben Vénusz istennő germán megfelelője, Freya nevéhez hasonulnak a nap helyi elnevezései.\nPéntek 13.-a egy, a keresztény kultúrkörben elterjedt babona szerint baljós nap."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Szombat: a hét hatodik napja."
+    },
+    {
+        "id": "0f6ld",
+        "description": "A vasárnap a hét – a napjainkban általános, Európa keresztény részein szokásos felosztás szerinti – hetedik, záró napja.\nA Bibliában az Ószövetség szerint a hét első napja: a teremtés hetének kezdőnapja.\nKorábban Európában is a hét első napjaként tartották számon, s többek között az arab országokban, az Egyesült Államokban, Grúziában, Iránban, Izraelben, Kanadában, Örményországban és Portugáliában ma is az.\nAz Újszövetség szerint ugyancsak a hét első napja: húsvét vasárnapja, amelyen Krisztus feltámadt, ezért a keresztény egyházak minden vasárnapot Krisztus feltámadása ünnepeként ülnek meg.\nAz asztrológiában a vasárnapot a Naphoz kötik.\nAz ókorban a napokat a hét akkor ismert bolygónak rendelték alá. Az ókori latin és germán népek pedig isteneikről nevezték el őket, vagyis a Nap, mint a legfőbb isten napja lett a vasárnap. A kialakuló keresztény egyház – részben azért, mert hangsúlyozni akarta különbözőségét a zsidóságtól – az Úr pihenőnapját is a legfőbb napon, vasárnapon ünnepelte. Ezt a módosítást egyes keresztény közösségek, elsősorban az adventisták az ószövetségi törvény meghamisításának tartják."
+    },
+    {
+        "id": "06m_p",
+        "description": "A Nap a Naprendszer központi csillaga. Körülötte kering a Föld, valamint a Naprendszerhez tartozó bolygók, törpebolygók, kisbolygók, üstökösök, stb.. A Földtől körülbelül 150 millió km távolságra van, ami fénysebességgel 8,3 perc. A Nap tartalmazza a Naprendszer anyagának 99,8%-át, átmérője 109 földátmérő. 73,5%-ban hidrogénből áll, amely a központjában zajló magfúzió során héliummá alakul. Az ennek során felszabaduló, majd a világűrbe szétsugárzott energia nélkülözhetetlen a legtöbb földi élőlény számára: fénye a növények fotoszintézisét, hője pedig az elviselhető hőmérsékletet biztosítja. Éltető ereje miatt a Nap kiemelkedő kulturális és vallási jelentőséggel is bír. Fénye és hője mellett különböző tudományágak szempontjából kiemelt jelentőséggel bír, mert bizonyos jelenségeket nem tudunk előállítani, csak a Napon megfigyelni. Ezek a tudományágak: plazmafizika, magnetohidrodinamika, atomfizika, részecskefizika.\nA Nap egy G2V színképtípusú csillag, a mintegy 10 milliárd évig tartó fősorozatbeli fejlődésének a felénél jár. A fűtőanyagát jelentő hidrogén elhasználása után, 5 milliárd év múlva vörös óriássá duzzad, majd a külső rétegeiből planetáris köd képződik, magja pedig magába roskadva fehér törpévé alakul."
+    },
+    {
+        "id": "09cy8",
+        "description": "A Merkúr a Naprendszer legbelső és legkisebb bolygója, a Nap körüli keringési ideje 88 nap. A Merkúr a Földről nézve fényesnek látszik, magnitúdója −2,0 és 5,5 között változik, azonban nehéz észlelni, mert a Földről nézve a Naptól mérhető legnagyobb szögtávolsága csak 28,3°. Reggel vagy este szürkületkor lehet megfigyelni. A bolygóról viszonylag keveset tudunk.\nA Merkúrt meglátogató két űreszköz közül az első a Mariner–10 volt, amely 1974-1975-ben a bolygó felszínének csupán 45%-át térképezte fel. A második a MESSENGER, mely további 30%-ot mutatott meg a bolygó felszínéből,amikor 2008. január 14-én elrepült mellette. Ez az űreszköz 2008. október 6-án és 2009. szeptember 29-én még kétszer elhaladt a bolygó mellett, 2011. március 19-én bolygó körüli pályára állt, mintegy 200 kilométerre a felszíntől – adatokat gyűjt, azokat a Földre továbbítja, miután a maximális magasságba került, 15 000 kilométerre a felszíntől. Ekkortól tovább tanulmányozza és feltérképezi az egész égitestet.\nA Merkúr sok tekintetben hasonlít a Holdra: felszínét számos kráter borítja, nincs természetes holdja, és nincs állandó légköre. Azonban a Holddal ellentétben nagy, vasat tartalmazó magja van, melynek következtében rendelkezik mágneses mezővel, melynek erőssége a földinek körülbelül 1%-a. Magjának relatív mérete miatt kivételesen nagy a bolygó sűrűsége. Felszíni hőmérséklete 90 és 700 K között változik, Ahol a Nap éppen merőlegesen éri a felszínt, ott van a legmelegebb, és a sarkokhoz közeli kráterek mélyén mérik a leghidegebbet."
+    },
+    {
+        "id": "09bcm",
+        "description": "A Vénusz a második bolygó a Naptól, keringési ideje 224,7 földi nap. Nevét Venusról, a szerelem római istennőjéről kapta. A Hold után a legfényesebb objektum az éjszakai égbolton, legnagyobb látszólagos fényessége -4,6 magnitúdó. Maximális fényességénél még nappal is észrevehető. Mivel a Vénusz közelebb van a Naphoz, mint a Föld, és kering körülötte, ezért néhány hónapig a Naptól keletre, később néhány hónapig a Naptól nyugatra látható, változó távolságra. A keringés mindkét szélső pontjának látszólagos távolsága a Naptól, azaz a bolygó legnagyobb kitérése 47,8°, vagyis a Napot legfeljebb három órával követi, illetve előzi meg az égen.\nA kalauzcsillagok közé tartozik, hiszen segítette az embereket utazásaik során a tájékozódásban. Emiatt nagyon kedvelt volt és szívesen adtak különféle hangzatos neveket neki, külön a reggel látható és külön az esti Vénusz számára, mint például a Hajnalcsillag és Esti csillag nevet, amelyből keletkezett a jól ismert Esthajnalcsillag elnevezése. A régi görögök a kettőt még két külön égitestnek hitték, Heszperosz és Foszforosz néven ismerték. Magyar neveit főleg a szabad ég alatt élő pásztoroktól kaphatta. A bolygó \"csillag\" elnevezése természetesen csak nem csillagászati értelemben, hanem általános, népies szóhasználatban állja meg a helyét."
+    },
+    {
+        "id": "02j71",
+        "description": "A Föld a Naprendszernek a Naptól számított harmadik bolygója. A Föld a Naprendszer bolygóinak nagyság szerinti sorrendjében az ötödik. A Föld a legnagyobb átmérőjű, tömegű és sűrűségű Föld-típusú bolygó.\nTöbb millió faj, köztük az ember élőhelye is. A Föld a világegyetem egyetlen olyan bolygója, amelyről tudjuk, hogy életet hordoz. Jelenlegi ismereteink szerint 4,44–4,54 milliárd éve alakult ki, és a felszínén mintegy egy milliárd év múlva az élet is megjelent. Azóta a bioszféra jelentősen megváltoztatta az atmoszférát, és más, biotikus összetevőit. Ezzel lehetőség nyílt az aerob organizmusok osztódásos szaporodására, és létrejött az ózonréteg ami megszűri az ártalmas ultraibolya sugárzást. A Naprendszer külső körülményei a várakozások szerint még mintegy 1,5 milliárd évig támogatják az élet jelenlétét, de ezután a mind fényesebbé váló Nap el fogja tüntetni a bioszférát.\nA földkéreg több különálló részre, tektonikai lemezekre töredezett, és ezek az elmúlt évmilliók során, és jelenleg is folyamatosan mozognak egymáshoz képest. A felszín nagyjából 71 százalékát sós vizű óceánok, a fennmaradó területet kontinensek és szigetek foglalják el. Nem tudunk más olyan bolygóról, aminek felszínén folyékony víz található, márpedig az a földi élet elengedhetetlen feltétele. A Marson valaha volt víz, de ma már csak legfeljebb nyomokban, jéggé fagyva fordulhat elő. A Föld belseje aktív maradt. Részei a Goldschmidt-modell szerint:"
+    },
+    {
+        "id": "09cws",
+        "description": "A Mars a Naptól számított negyedik bolygó a Naprendszerben. Szabad szemmel is könnyedén látható az éjszakai égbolton. A római hadistenről nevezték el, de gyakran hívják \"vörös bolygónak\" is színe miatt, amit a Mars felszínét meghatározó vas-oxid okoz. A Mars a harmadik legnagyobb kőzetbolygó, számos rendkívüli felszíni képződménnyel.\nKét természetes holdja van, a Phobos és a Deimos, mindkettő kicsi és szabálytalan alakú, valószínűleg befogott kisbolygók. Továbbá jelenleg három mesterséges hold kíséri útján: Mars Odyssey, Mars Express és a Mars Reconnaissance Orbiter.\nA Mars nagy hatást gyakorol az emberi képzeletre, mivel egy hibás fordítást követően elterjedt, hogy a Marson idegen civilizáció létezik. Sok történet született a marslakókról. Legismertebb talán H. G. Wells: Világok harca című irodalmi műve. Jelen tudásunk szerint amennyiben van élet a Marson, az legfeljebb egyszerűbb élőlényekre, mikroorganizmusokra korlátozódik."
+    },
+    {
+        "id": "09q84",
+        "description": "A Jupiter az ötödik bolygó a Naptól, és messze a legnagyobb bolygó a Naprendszerben. Óriásbolygó, tömege két és félszerese az összes többi bolygó együttes tömegének. A többi óriásbolygóval együtt gyakran Jupiter-típusú, vagy külső bolygóknak nevezik.\nA Földről nézve maximális fényessége -2,94 magnitúdó, ezzel átlagosan a harmadik legfényesebb égitest az éjszakai égbolton, a Hold és a Vénusz után.\nA Jupiter főként hidrogénből áll, tömegének egynegyedét hélium teszi ki, sziklás magja nehezebb elemeket tartalmazhat. Gyors forgása miatt alakja forgási ellipszoid. A külső atmoszférája láthatóan számos sávra oszlik a különböző szélességi körökön, turbulenciát és viharokat okozva ezek határain. Kiemelkedő látványosság a Nagy Vörös Folt, egy óriási vihar, amit már a 17. században is megfigyeltek.\nA bolygót halvány planetáris gyűrűrendszer és erős magnetoszféra vesz körül. Legalább 64 holdja van, köztük a négy legnagyobbat Galilei-holdaknak nevezzük, amelyeket 1610-ben fedezett fel névadójuk.\nA Jupitert számos űrszonda vizsgálta már, legismertebbek ezek közül a Pioneer és Voyager közelrepülések és később a Galileo űrszonda."
+    },
+    {
+        "id": "0c3s8",
+        "description": "A Szaturnusz a hatodik bolygó a Naptól számítva, a második legnagyobb a Naprendszerben a Jupiter után. Egyike annak az öt bolygónak, ami a Földről szabad szemmel is látható. A Szaturnusznak látványos, jégből és törmelékekből álló gyűrűrendszere van. Szaturnuszról, a római istenről nevezték el. Jele az isten sarlójának stilizált képe."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Az Uránusz a Naprendszer hetedik bolygója. Óriásbolygó, a harmadik legnagyobb átmérőjű és a negyedik legnagyobb tömegű.\nAz Uránusz felfedezését 1781. március 13-ától számítjuk, mert ekkor pillantotta meg először Sir William Herschel. Azóta tudjuk, hogy a bolygót előzőleg 1690 és 1771 között legalább hússzor regisztrálták, de mindannyiszor csillagnak vélték. Az elmozdulását pedig mérési hibának. Herschel eleinte nem volt tisztában vele, hogy a Naprendszer egy eddig ismeretlen bolygóját fedezte fel, először üstökösként azonosította az égitestet.\nNem tartott sokáig, mire a csillagászok felismerték e felfedezés jelentőségét. Sir William eredetileg támogatójáról, III. György angol uralkodóról nevezte el a bolygót, a Georgium Sidus név azonban nem talált lelkes fogadtatásra a világ többi részén. Lalande azt javasolta, hogy a felfedezőről nevezzék el, végül Johann Bode német csillagász elképzelése kerekedett felül, az Uránusz, ami így jobban illeszkedett a többi bolygó ógörög-latin elnevezéseinek sorába. Uránosz az atyja Kronosznak, amely Szaturnusz görög megfelelője, az ég ura.\nHerschel hat évvel később felfedezte az Uránusz két legnagyobb holdját: a Titániát és az Oberont. Az Arielt és az Umbrielt 1851-ben Lassell találja meg. A Mirandát csak 1948-ban fedezi fel Gerard Kuiper."
+    },
+    {
+        "id": "0c31h",
+        "description": "A Neptunusz a Naptól számítva a nyolcadik, legkülső bolygó a Naprendszerben. A negyedik legnagyobb átmérőjű, és a harmadik legnagyobb tömegű, de a legkisebb méretű óriásbolygó. Színe miatt Neptunusról, a tengerek római istenéről nevezték el. Jele az isten háromágú szigonyát jelképezi. 14 ismert holdja van, ezek közül a két ismertebb a Nereida és a Triton."
+    },
+    {
+        "id": "0jwy",
+        "description": "A Kos egy csillagkép, egyike a 12 állatövi csillagképnek."
+    },
+    {
+        "id": "07cqw",
+        "description": "A Bika egy csillagkép, egyike a 12 állatövi csillagképnek. A téli égbolt egyik meghatározó csillagképe. Nyugaton a Kos, keleten az Ikrek, északon a Perseus és a Szekeres, délkeleten az Orion, délnyugaton pedig a Cet és az Eridanus csillagképek határolják."
+    },
+    {
+        "id": "077r8d",
+        "description": "Az Ikrek egy csillagkép, egyike a 12 állatövi csillagképnek. Jele: ."
+    },
+    {
+        "id": "0qck6",
+        "description": "A Rák egy csillagkép, egyike a 12 állatövi csillagképnek."
+    },
+    {
+        "id": "04h2q",
+        "description": "Az Oroszlán egy csillagkép, egyike a 12 állatövi csillagképnek. Jele: ."
+    },
+    {
+        "id": "07yt9",
+        "description": "A Szűz egy csillagkép, egyike a 12 állatövi csillagképnek."
+    },
+    {
+        "id": "04h36",
+        "description": "A Mérleg egy csillagkép, egyike a 12 állatövi csillagképnek."
+    },
+    {
+        "id": "06pgz",
+        "description": "A Skorpió egy csillagkép, egyike a 12 állatövi csillagképnek."
+    },
+    {
+        "id": "06pgg",
+        "description": "Nem tévesztendő össze ezzel: Nyíl csillagkép\nA Nyilas egy csillagkép, egyike a 12 állatövi csillagképnek. Az állatöv kilencedik jegye, ahol a Nap elhagyja a téli napfordulót. 73, szabad szemmel is látható csillagból áll, melyek között egy másodrendű és hat harmadrendű csillag van.\nAziron kentaur jelképének tekintették, már Eudoxus és Aratus említik munkáikban. Régi csillagtérképeken félig ló, félig emberként ábrázolják, felvont íjjal."
+    },
+    {
+        "id": "01nk9",
+        "description": "A Bak egy csillagkép, egyike a 12 állatövi csillagképnek."
+    },
+    {
+        "id": "0jxf",
+        "description": "A Vízöntő a tizenkét állatövi csillagkép egyike."
+    },
+    {
+        "id": "05s7n",
+        "description": "A Halak egy csillagkép, a 12. állatövi csillagkép."
+    },
+    {
+        "id": "02vx4",
+        "description": "„Puskás nem osztotta Heisenberg nézetét, ő mindig egyszerre tudván tudta a labda helyét is, sebességét is.”\n– Esterházy Péter\nA labdarúgás egy labdajáték, amelyet a pályán két, egyenként 11 labdarúgóból álló csapat játszik egymás ellen. A játék célja, hogy a rendelkezésre álló idő alatt a labdát az ellenfél kapujába juttassák, és így minél több gólt szerezzenek.\nA játékot főleg lábbal játsszák, de a játékos minden testrészét használhatja a labda irányítására, kivéve a két karját. Ez alól csak a kapusok kivételek, akiknek a tizenhatos vonalon belül nincs tiltott testrésze, azon kívül viszont ők is rendes mezőnyjátékosok.\nA Nemzetközi Labdarúgó-szövetség felmérése szerint a játékot világszerte több mint 240 millió ember játssza rendszeresen több mint 200 országban. Hétvégenként több millió néző követi nyomon kedvenc csapatának játékát a helyszínen vagy televízión keresztül.\nAz egyszerű szabályok és a minimális sportszerigény kétségtelenül hozzájárult a játék elterjedéséhez.\nEurópa, Latin-Amerika, valamint egyre inkább Afrika, illetve Ázsia lakosainak életében fontos szerepet játszik ez a játék, néhol rajonganak a játékosok és helyi csapatok iránt."
+    },
+    {
+        "id": "0jm_",
+        "description": "Az amerikai futball – vagy ahogy az USA-ban és Kanadában egyszerűen hívják: futball – a rögbiből kifejlődött csapatjáték. A játék célja, hogy a labdát az ellenfél endzone-jába vigyék, és ezzel pontokat szerezzenek. A labdát lehet hordani vagy passzolni, esetenként rúgni. Pontot többféleképpen lehet szerezni: a labda gólvonal mögé vitelével, a gólvonalon áthaladt csapattársnak való passzal, vagy kapura rúgással. A játékot az a csapat nyeri, amely a játékidőn belül a legtöbb pontot szerzi.\nA sportágat az Amerikai Egyesült Államokon kívül az amerikaifutball névvel különböztetik meg a hagyományos labdarúgástól, amit ott soccernek neveznek, valamint a rögbitől. Az amerikaifutball a 19. század végén alakult ki a rögbiből. Az arena football az amerikaifutball egyik változata, amely úgy viszonyul az amerikaifutballhoz, mint a futsal a labdarúgáshoz: ugyanaz a játék, teremben, nagyobb irammal, több ponttal. A kanadaifutball szorosan kapcsolódik az amerikai futballhoz, noha pár fontos pontban el is tér attól."
+    },
+    {
+        "id": "018w8",
+        "description": "A kosárlabda egy olyan labdajáték, melyet két öt főből álló csapat játszik. A játékosok célja, hogy a labdát az ellenfél csapatának kosarába dobják, illetve megakadályozzák ugyanebben a másik csapatot.\nA játéknak nemzetközileg elfogadott szabályai vannak, de ezeknek a szabályoknak több eltérő ága létezik kontinensek, korcsoportok és nemek szerint. Elsősorban teremsport, de szabadtéri változatai is ismertek. Ezeknek teljesen eltérő a szabályai, mint az NBA-nek vagy a FIBA előírásai szerint Európában is leginkább játszott változatnak.\nA kosárlabdát sebessége és variációs lehetőségei a nézői számára is rendkívül látványossá teszik, ezért napjainkra az egyik legnépszerűbb sportággá vált világszerte. Az NBA eltérő szabályokkal rendelkezik, mint az általunk megszokott kosárlabda. Az NBA csapataiban vegyesen vannak az egész világból játékosok. Az NBA az egyéni játékról és a látványos trükkökről, dobásokról és nem utolsó sorban zsákolásokról híres, míg a kosárlabda öreg kontinensen játszott változatára inkább a csapatjáték, az összjáték jellemző."
+    },
+    {
+        "id": "018jz",
+        "description": "A baseball két csapat által játszott labdajáték. A játék során a pitcher névre hallgató labdadobó egy ökölnyi méretű labdát hajít a másik csapat játékosa felé, akinek azt egy ütővel kell megütnie. A játék pontozása futásból és a játékterületen található jelzések megérintéséből adódik. Magát a labdát baseball-labdának hívják. Az amerikai angolban a baseball-t még hardball-nak, azaz „kemény labdának” is nevezik. A játék egyik variánsa softball, ami nagyjából a baseball szabályait követi, de puhább és nagyobb labdával játsszák, illetve a labdát is mindig alulról dobják.\nA baseball az amerikai kontinens és Kelet-Ázsia országaiban népszerű. Japánban, a Dominikai Köztársaságban, Kubában, Panamában, Dél-Koreában és egyéb országokban is ez a legnépszerűbb sport. Az Egyesült Államokban a baseballt egyenesen nemzeti sportnak kiáltották ki – a Major League Baseball meccseinek látogatottsága nagyobb, mint az összes többi sportágé együttesen. Bár Észak-Amerikában a labdajátékok örvendenek a legnagyobb népszerűségnek, a baseball népszerűsége olyan magas, hogy a „ballgame” kifejezést szinte kizárólag a baseballra használják és a „ballpark” csakis baseball pálya lehet. Az amerikai tévénézők körében azonban az amerikai futball és az autóversenyek nagyobb népszerűséget élveznek."
+    },
+    {
+        "id": "07bs0",
+        "description": "A tenisz ütős labdajáték, közkedvelt sport. Két változata van, az egyéni és a páros. A játék célja pályán tartani a labdát, lehetőleg úgy, hogy az ellenfél erre ne legyen képes. Ennek két módja lehetséges: olyan helyre helyezni a labdát a pályán, ahol az ellenfél már nem éri el, vagy erős, jól helyezett ütésekkel hibára kényszeríteni az ellenfelet. A játékos akkor hibázik, ha a pályán kívülre, vagy ha a hálóba üti a labdát.\nA teniszben vannak játékok és játszmák. Az, hogy mikor van vége a teniszmeccsnek, függhet a játékosok nemétől, a torna típusától, és a párosok játékszabályai is sok tekintetben különböznek."
+    },
+    {
+        "id": "01cgz",
+        "description": "Az ökölvívás vagy boksz egy sportág, a legrégebbi olimpiai küzdősportok egyike."
+    },
+    {
+        "id": "03tmr",
+        "description": "A jégkorong két csapat által, jégpályán, ütővel játszott labdajáték.\nA játék a következő országokban a legnépszerűbb: Kanada, USA, Svédország, Finnország, Csehország, Szlovákia, Oroszország. A felsorolásból kitűnik, hogy általában azokban az országokban dívik, ahol jellemző a hideg idő, lehetőséget adva a természetes jégfelületek kialakulására. Bár a felsorolt országok mindegyikében működik professzionális liga, az Észak-Amerikai Profi Jégkorongliga, ismertebb nevén NHL jelenti a sportág csúcsát."
+    },
+    {
+        "id": "07_53",
+        "description": "A röplabda csapatsport, amelyet két, egymástól egy magas hálóval elválasztott csapat játszik egy labdával, amit főleg kézzel és karral érintve tartanak mozgásban a pálya légterében. Mindkét csapat háromszor érintheti meg a labdát, mielőtt továbbítja azt a másik térfélre. Pontot a következő helyzetek érnek: ha a labda földet ér az ellenfél térfelén, ha valamelyik csapat a vonalon kívülre üti a labdát, ha az ellenfél hibázik, vagy ha a labda fennakad a hálón. A röplabda igen aktív sport, különösen alkalmas rugalmas, gyors feladatok gyakorlására. Fejleszti a szem-kéz-koordinációt és az önuralmat is"
+    },
+    {
+        "id": "037hz",
+        "description": "A golf egy füves pályán játszható sport. Ez a labdajáték nagy hagyományokkal rendelkezik, a játékosok számát világszerte 50 millióra becsülik."
+    },
+    {
+        "id": "01sgl",
+        "description": "A kerékpározás a kerékpárral való közlekedés, amelyre számos KRESZ-szabály vonatkozik. A városi közlekedésben is terjed a gépjárművekkel való közlekedés korlátozásával. Összefügghet a turizmussal is. Sportágként is jelentős."
+    },
+    {
+        "id": "03_8r",
+        "description": "A cselgáncs vagy dzsúdó a 19. század végén kialakult japán küzdősport. Jellemzői a test-test elleni harc, az ellenfél földre dobása, gáncsolása, földön való leszorítása, karjának feszítése, illetve az ellenfél fojtó fogással való ártalmatlanná tétele"
+    },
+    {
+        "id": "0d38m",
+        "description": "A maraton 42 195 méter távú futóverseny. A táv teljesítése sokak szerint emberfeletti teljesítményt jelent, ezért e sportág a kitartás egyik szimbólumává vált."
+    },
+    {
+        "id": "0194d",
+        "description": "A tollaslabda ütővel játszott játék, melyet egymással szemben álló két játékos, vagy két-két játékos játszik. Az ellenfelek egy téglalap alakú pálya két felén foglalják el helyüket, amelyeket háló választ egymástól.\nA játékban használt labda egy tollakkal ellátott, nyílszerű tárgy, amelynek különleges aerodinamikai tulajdonságai vannak. Különleges tollazása miatt más labdákhoz viszonyítva sokkal hamarabb veszít sebességéből. Mivel repülését erősen befolyásolja a szél, a versenyeket mindig teremben rendezik. Létezik hobbiváltozata is, amelyet szabadtéren is játszhatnak, kertekben, strandokon.\nA tollaslabda az 1992. évi nyári olimpiai játékok óta hivatalosan is olimpiai sportág, jelenleg öt versenyszámmal: férfi és női egyes, férfi és női páros, vegyes páros."
+    },
+    {
+        "id": "07jbh",
+        "description": "Az asztalitenisz egy labdajáték, amelyben kettő vagy négy játékos üt egy labdát egymás közt ütőkkel. A játékot egy asztalon játsszák, amelyet háló választ ketté. A játék adogatással indul"
+    },
+    {
+        "id": "087zy",
+        "description": "A jóga a keleti bölcselet egy formája, ami Indiában fejlődött ki a hinduizmus és a buddhizmus kulturális közegében. A jóga művelője a jógi. A jóga célja a testi és a szellemi erők felébresztése. Eszerint alapvetően kétféle jógát különböztetünk meg: testi és szellemi jógát. A jógának több változata ismert, amelyeket a különböző személyiségtípusokhoz fejlesztettek ki. Indián kívül először a hatha jóga vált népszerűvé a 20. századi nyugati világban, ma már azonban Európában is szinte minden ága elérhető a jógaközpontok által."
+    },
+    {
+        "id": "0397w",
+        "description": "A torna különböző jellegű és különböző szereken bemutatott gyakorlatokból álló összetett sportág, amelyet férfiak és nők egyaránt űznek, részben eltérő szereken. A szertornán kívül a szervezett tornasportok közé tartozik még a ritmikus gimnasztika, a trambulin, az akrobatikus torna és az aerobik. A férfi szertorna gyakorlatai: talaj, gyűrű, korlát, lólengés, ugrás és nyújtó. A női versenyeken is megvan a talaj és az ugrás, további szereik a gerenda és a felemás korlát. Az egyes gyakorlatfajtákból egyéni versenyeket rendeznek, de a valamennyi gyakorlatot tartalmazó összetett versenyek és a csapatversenyek is a megmérettetés részei. A sportág hazai irányító szerve a Magyar Torna Szövetség, európai szerve az Union Européenne de Gymnastique, nemzetközi szerve pedig a Fédération Internationale de Gymnastique."
+    },
+    {
+        "id": "036vg6",
+        "description": "A birkózás olyan küzdősport, ahol tilos bármilyen eszközhasználat, ütés vagy rúgás, csak az ellenfél földhöz szorításával, vagy „fogások” végrehajtásával lehet győzelmet elérni. A puha, kör alakú küzdőtéren két versenyző küzd egymás ellen, testhezálló ruhában és cipőben. Az ókori olimpiák óta közkedvelt sport."
+    },
+    {
+        "id": "04xsv",
+        "description": "A harcművészet és a küzdősport szót általában ugyanabban a jelentésben használják. Mégis ha megfigyeljük a különböző küzdősportok\/harcművészetek ágait, elég könnyedén megkülönböztethetünk két fő irányvonalat, melyet sokan önkényesen, de nem minden alap nélkül egyik vagy másik névhez rendelnek.\n⁕Így harcművészetnek inkább azokat az ágakat és formákat nevezik, melyek mögött egy spirituális és\/vagy szellemi rendszer is áll, illetve amelyek nem a küzdést és az abban való győzedelmeskedést helyezik a fókuszba. Másképp megfogalmazva ez valódi művészet, a művész pedig az alkotást és az önmegvalósítást tartja művészete céljának. Versenyről itt is beszélhetünk, de az nem a ringben, hanem inkább a az életben játszódik. Fontosabb a harcművészetben a kibontakozás és valamiféle magasabbrendű elvvel való harmónia kialakítása.\n⁕A harcművészet egy tipikus leírása a festővel való összehasonlítás. A festőnek rendelkezésére áll a paletta az alapszínekkel, valamint a vászon és az ecset. A felhasznált színeket viszont ő maga keveri ki, és a vonalakat is ő húzza, mindezt a saját stílusában, a saját látásmódja, érzései és érzelmei által vezérelve. A harcművésznek rendelkezésére állnak a technikák és formák, amelyeket szabadon módosít és kombinál a saját célja, valamint az adott helyzet szerint."
+    },
+    {
+        "id": "03_ly",
+        "description": "Január az év első, 31 napos hónapja a Gergely-naptárban. Nevét Janusról kapta, aki a kapuk és átjárók istene volt az ókori római mitológiában. A népi kalendárium szerint január neve Boldogasszony hava. A 18. században a magyar nyelvújítók a januárnak a zúzoros nevet adták. Az Arvisurák szerint Fergeteg hava.\nA január és a február volt az utolsó két hónap, amit utólag hozzáadtak a római naptárhoz, mivel az ókori rómaiaknál ez a téli időszak eredetileg nem kapott hónapot. Bár egy ideig még március volt az év első hónapja, hamarosan a január vette át ezt a helyet. Ezt követően a konzulok is január 1-jén léptek hivatalba.\nA hónap első napja a mindenki által ismert újév napja."
+    },
+    {
+        "id": "02xx5",
+        "description": "Február az év második hónapja a Gergely-naptárban, szabályos években 28 napos, szökőévekben pedig 29 napos. Háromszor fordult elő a történelemben február 30-a. A 18. századi nyelvújítók a februárt az enyheges névre keresztelték át. Az Arvisurák szerint Jégbontó hava. A népi kalendáriumban böjt előhava néven szerepel. Az Arvisurák szerint\nA január és a február volt az utolsó két hónap, amit hozzáadtak a római naptárhoz, mivel az ókori rómaiaknál ez a téli időszak eredetileg nem kapott hónapot. Február a nevét Februusról, a megtisztulás római istenéről kapta, illetve a hozzá kapcsolódó Februa ünnepről, amely február 15-én zajlott.\nHagyományosan februárra esik a farsang időszakán belül a legtöbb bál, mulatság, lakoma."
+    },
+    {
+        "id": "04wzr",
+        "description": "Március az év harmadik, 31 napos hónapja a Gergely-naptárban. Március nevét Marsról, a háború római istenéről kapta. Az ókori Rómában szerencsét hozónak tartották, ha a háborút ez idő tájt indítják. A 18. századi nyelvújítók szerint a március: olvanos. Az Arvisurák szerint Kikelet hava. A népi kalendárium Böjt máshavának nevezi."
+    },
+    {
+        "id": "0lkm",
+        "description": "Április az év negyedik, 30 napos hónapja a Gergely-naptárban. A hónapot Mars kedveséről, Venusról nevezték el, Venust ugyanis Aperirének is hívták. A név a latin aperire szóból származik, melynek jelentése „megnyitni” – ez valószínűleg utalás az ekkor kinyíló természetre. Az Arvisurák szerint Szelek hava. A 18. századi nyelvújítók szerint az április: nyilonos. A népi kalendárium Szent György havának nevezi."
+    },
+    {
+        "id": "04w_7",
+        "description": "Május az év ötödik hónapja a Gergely-naptárban, 31 napos. Nevét Maia görög istennő római alakjáról, Maia Maiestasról kapta, aki ősi termékenységistennő volt a római mitológiában. A 18. századi nyelvújítók szerint a május: zöldönös. Az Arvisurák szerint Ígéret hava. A népi kalendárium Pünkösd havának nevezi. Az Ikrek havának is nevezik."
+    },
+    {
+        "id": "040fb",
+        "description": "Június az év hatodik hónapja a Gergely-naptárban, és 30 napos. Nevét Junóról kapta, aki Jupiter felesége volt. A 18. századi nyelvújítók szerint a június: termenes. Az Arvisurák szerint Napisten hava. A népi kalendárium Szent Iván havának nevezi."
+    },
+    {
+        "id": "040fv",
+        "description": "Július az év hetedik hónapja a Gergely-naptárban, és 31 napos. A római naptárban kezdetben ez az ötödik hónap volt. Ennek megfelelően latinul eredetileg Quintilis volt a hónap neve, csak később Julius Caesarról nevezték át júliusra. A 18. századi nyelvújítók szerint a július: kalászonos. Az Arvisurák szerint Áldás hava. A népi kalendárium Szent Jakab havának nevezi.\nEgészen a 18. századig a nagyon hasonló női keresztnévből, a Júliából származtatták."
+    },
+    {
+        "id": "0ll3",
+        "description": "Augusztus az év nyolcadik hónapja a Gergely-naptárban, és 31 napos. Nevét a híres római császárról Augustus Octavianusról kapta. Az, hogy ez a hónap – különös módon – a július után szintén 31 napos, annak köszönhető, hogy Augustus császár ugyanannyi napot akart, mint amennyi a Caesarról elnevezett júliusban van. Augustus ezt a hónapot odahelyezte, amikor Kleopátra meghalt. Mielőtt Augustus átnevezte ezt a hónapot augusztusra, latinul Sextilis volt a neve, utalva arra hogy eredetileg ez volt a hatodik hónap a római naptárban, amely kezdetben még a márciussal kezdődött.\nA 18. századi nyelvújítók szerint az augusztus: hévenes. Az Arvisurák szerint 'Újkenyér hava. A népi kalendárium Kisasszony havának nevezi."
+    },
+    {
+        "id": "06vkl",
+        "description": "Szeptember az év kilencedik hónapja a Gergely-naptárban, és 30 napos. E hónap neve a latin septem szóból ered melynek jelentése hét, mivel szeptember eredetileg az év hetedik hónapja volt a római naptárban. Az ókori görög kultúrában a szeptembert Βοηδρομιών-nak hívták. A 18. századi nyelvújítók szerint a szeptember: gyümölcsönös. A népi kalendárium Szent Mihály havának nevezi. Az Arvisurák szerint Földanya hava."
+    },
+    {
+        "id": "05lf_",
+        "description": "Október az év tizedik hónapja a Gergely-naptárban. A latin octo szóból származik, melynek jelentése nyolc – utalva arra hogy eredetileg ez volt a nyolcadik hónap a római naptárban, mielőtt a január és február hónapokat hozzáadták az évhez. A 18. századi nyelvújítók szerint az október: mustonos. A népi kalendárium Mindszent havának nevezi, a protestánsok pedig gyakran reformáció hónapjának. Az Arvisurák szerint Magvető hava."
+    },
+    {
+        "id": "05cw8",
+        "description": "November az év tizenegyedik hónapja a Gergely-naptárban, és 30 napos. Neve a latin novem szóból származik melynek jelentése kilenc, mivel eredetileg az év kilencedik hónapja volt a római naptárban, mielőtt a január és február hónapokat hozzáadták az évhez. A 18. századi nyelvújítók a novembernek a gémberes szót javasolták. Az Arvisurák szerint Enyészet hava. A népi kalendárium Szent András havának nevezi.\nA november szó jelenti az N betűt a NATO fonetikus ábécéjében."
+    },
+    {
+        "id": "028kb",
+        "description": "December az év tizenkettedik hónapja a Gergely-naptárban, és 31 napos. Neve a latin decem szóból származik, melynek jelentése tíz – utalva arra, hogy eredetileg ez volt a tizedik hónap a római naptárban, mielőtt a január és február hónapokat hozzáadták az évhez. A 18. századi nyelvújítók szerint a december: fagyláros. Az Arvisurák szerint Álom hava. A népi kalendárium Karácsony havának nevezi."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Észak a négy fő égtáj egyike."
+    },
+    {
+        "id": "0k7ny",
+        "description": "Dél a négy fő égtáj egyike."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Nyugat a négy fő égtáj egyike."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Kelet a négy fő égtáj egyike."
+    },
+    {
+        "id": "0j0k",
+        "description": "Ázsia a legnagyobb és legnépesebb kontinens. Területe 44,4 millió km². Ez a Föld teljes területének 8,7%-át teszi ki, a szárazföldeknek pedig a 29,8%-át. A humán populáció mintegy 60%-a itt él.\nÁzsia átnyúlik a déli féltekére is, kiterjedése észak-déli irányban 11 000 km; kelet-nyugati irányban 9000 km. Európával együtt alkotja Eurázsiát, amelynek Ázsia a négyötöd részét teszi ki."
+    },
+    {
+        "id": "059g4",
+        "description": "Észak-Amerika az északi félgömbön és nagyrészt a nyugati félgömbön található geológiai kontinens, amelyik az észak-amerikai kéreglemezen fekszik. A kéreglemez kis része Kamcsatka és Csukcsföld révén az eurázsiai kontinens része. Ugyanakkor Észak-Amerikához tartozik Kaliforniának a Szent András-törésvonal és a Csendes-óceán közötti része, amely geológiilga a csendes-óceáni kéreglemez része.\nTársadalmi–politikai–kulturális értelemben Amerika kontinens északi részét alkotja.\nÉszakon a Jeges-tenger határolja, keleten az Atlanti-óceán és a Karib-tenger, nyugaton a Csendes-óceán. Területe nagyjából 24 500 000 km², ezzel elfoglalja bolygónk 4,8%-át. Lakossága körülbelül 514 600 000 fő, ezzel a negyedik legnépesebb földrész."
+    },
+    {
+        "id": "06n3y",
+        "description": "Dél-Amerika geológiai értelemben önálló kontinens a nyugati féltekén, a Csendes-óceán és az Atlanti-óceán között. Túlnyomó többsége a dél-amerikai kéreglemezen fekszik, míg Venezuela és Kolumbia északi parti sávja a karibi kéreglemezen. Legnagyobb része a déli félgömbön található. Társadalmi-politikai-kulturális értelemben Amerika kontinens része Észak- és Közép-Amerikával együtt.\nDél-Amerikához 12 független ország tartozik + 1 külbirtok. Ezen kívül egy terület európai ország területének része. Dél-Amerika területe 17 840 000 km² a Föld felszínének kb. 3,5%-a. 2005-ös adat szerint népessége több mint 371 000 000. Területe alapján a negyedik legnagyobb kontinens, népessége alapján az ötödik."
+    },
+    {
+        "id": "02j9z",
+        "description": "Európa Földünk egyik kontinense, amelynek határai nyugaton az Atlanti-óceán, északon a Jeges-tenger, keleten az Urál hegység, az Urál-folyó és a Kaszpi-tenger, délkeleten a Kaukázus és a Fekete-tenger, délen pedig a Földközi-tenger. Európa Ázsiával együtt alkotja Eurázsiát, amelynek Európa a nyugati ötöd részét teszi ki.\nTerület szerint Európa a második legkisebb kontinens, 10 508 000 négyzetkilométerrel, amivel kissé meghaladja Ausztrália területét. Így az összes szárazföld közel tizenötödét teszi ki.\nNépesség alapján a negyedik helyen áll Ázsia, Afrika és Amerika után. 2001-ben Európa népességét körülbelül 666 és fél millió főre becsülték, ami a Föld népességének hetede.\nAz európai civilizáció a gyarmatosítás és az európai népek kivándorlása révén más kontinensekre is kiterjedt, így az európai kultúrkör fogalma Európán kívül az észak-amerikai geopolitikai régió, valamint Ausztrália és Új-Zéland kultúráját is magában foglalja."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Afrika a maga 30 300 000 km²-nyi területével Föld harmadik legnagyobb kontinense, a szárazföldi területek 20,3%-át fedi le. Több mint 1 milliárd fős népességével egyben a második legnépesebb is, melyet 5 tenger vagy óceán határol.\nA kontinens lakói többek közt az arabok, berberek, bantu népek, busmanok, pigmeusok, szudanid népek és európaiak, akik főleg a mezőgazdaságból élnek annak ellenére, hogy a megművelt területek aránya csak 6%. A népesség gyorsan nő, melynek egyik példája Kairó, mely a földrész legnépesebb városa, ugyanakkor kiemelkedő a szegénység is, mivel a kontinens lakóinak fele kevesebb mint napi egy dollárból él.\nFöldrajza rendkívül változatos, legmagasabb pontja a Kilimandzsáró, melynek magassága 5895 méter, ugyanakkor a Szahara sivatagos területe 90-szer nagyobb hazánkénál. Leghosszabb folyója a Nílus, legnagyobb szigete pedig Madagaszkár. Színes növény- és állatvilágát számos nemzeti parkban védik."
+    },
+    {
+        "id": "0jfx",
+        "description": "Az Antarktika az Antarktisz földrajzi zónában elhelyezkedő kontinens. A szárazföldet összefüggő jégtakaró borítja, amelynek átlagos vastagsága meghaladja a 2000 m-t, s melynek eredményeképpen az Antarktisz Földünk legmagasabb földrésze. Legnagyobb jégvastagsága 4775 m. A szárazföld körüli óceán egy részét is jég, úgynevezett selfjég takarja. Nagyobb selfjegei: Ross selfjég, Filchner-Ronne selfjég, Larsen B selfjég. A Föld jégkészletének 90%-a az Antarktisz jégtakarójában van, amely az édesvíz 70%-át tárolja.\nLegmagasabb pontja a Winson Massif, amely 5140 m magas. Hegységeiből és magasföldjeiről a Föld leghosszabb gleccserei ereszkednek alá, amelyek a következők:\n⁕Lambert-gleccser – 434 km\n⁕Rennick-gleccser – 257 km\n⁕Beardmore-gleccser – 161 km\nItt található a Föld legdélebbi aktív vulkánja, az 3795 m magas Mt. Erebus. Forró vizes oldataiból naponta 80 g arany kerül a felszínre."
+    },
+    {
+        "id": "09pkq0",
+        "description": "Ausztrália természetföldrajzi értelemben, azaz az összefüggő szárazulatok kiterjedését tekintve a legkisebb jelenkori kontinens. Legek kontinense: legkisebb, legalacsonyabb, legidősebb, legszárazabb, leglefolyástalanabb, legjégtelenebb, legkülönösebb állat- és növényvilággal rendelkezik, legtávolabbi, legutoljára felfedezett lakott kontinens."
+    },
+    {
+        "id": "05p553",
+        "description": "A komédia vagy vígjáték olyan drámai műfaj, amelyben a világot komikusan ábrázolják, ezzel a nézőt nevetésre ösztönözve. Ellentétekre épül: valóság-látszat, értékes-értéktelen. Az ilyen művekben gyakori egy-egy élethelyzet humoros ábrázolása, emellett a félreértések is fontos szerepet kapnak."
+    },
+    {
+        "id": "03npn",
+        "description": "A horror olyan irodalmi műfaj, amelynek középpontjában a félelem áll. Habár alapvetően irodalmi művekről van szó, megjelenhet más ágazatokban is, melyek közül a legtipikusabb a film."
+    },
+    {
+        "id": "03npn",
+        "description": "A horrorfilm egy olyan alkotás, melyben a főhősöknek szembe kell nézniük a borzalmakkal, és gyakran áldozat lesz belőlük. A filmek végét általában nem zárja megnyugtató lezárás, győzelem vagy happy end."
+    },
+    {
+        "id": "0jtdp",
+        "description": "A dokumentumfilm széles kategóriája azon filmeknek amelynek célja a valóság \"dokumentálása\". Ez lehet vizuális ábrázolás is szavak, cselekményes történet nélkül; de leggyakrabban valós eseményekről és emberekről szól, tényeken alapul. Utóbbi eredete a filmhíradókban gyökerezik.\nA műfaj megnevezése a francia Documentaire kifejezésből származik, amelyet eredetileg útifilmekre használtak.\nSok esztéta szerint az igazi dokumentumfilmnek tartalmaznia kell a szociális értékeket, azzal a céllal, hogy a társadalmi és gazdasági körülményeken javítani lehessen."
+    },
+    {
+        "id": "06n90",
+        "description": "A sci-fi az angol science fiction kifejezés rövidítése. Jelentése eredetileg kb: tudományos írás, tudományos irodalom de magyarul a tudományos-fantasztikus megnevezés használatos. A tudományos-fantasztikus mű olyan művészeti alkotás, mely legtöbbször valódi vagy képzeletbeli tudománynak a társadalomra, vagy egyes egyénekre gyakorolt hatását mutatja be. Ezeknek a műveknek a közös jellemzői, hogy zömében egy lehetséges jövőben játszódó képzeletbeli történetek. Megnyilvánulási formájuk lehet könyv, képregény, festmény, televíziós sorozat, film, rajzfilm, játék, színdarab és egyéb média."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Az akciófilm a tömegfilm egyik jellegzetes műfaja, melynek már a tízes években felbukkan az egyik műfaji őse, a hajszafilm, melyben képtelen és komikus üldözéssorozatok váltják egymást. Az akciófilmekben hagyományosan megtalálhatók a robbanások, az ökölharcok, a lövöldözések és az autós üldözések. Az akciófilmhez közel álló műfajok a kaland és a thriller filmek, de találhatóak benne a kémfilmekben lévő elemek is. A műfaj igazán csak az 1970-es években kezdett kibontakozni."
+    },
+    {
+        "id": "01jfsb",
+        "description": "A thriller elsősorban filmes műfaj, neve az angol „thrill” szóból jön, ami borzongást jelent. Ennek megfelelően az ismeretlentől való félelemet, ezt az archetipikus élményt idézi fel, mely az ősidőktől kezdve hat az emberre. Többnyire igaz a műfaj szereplőire, hogy megéreznek egy bizonyos bajt, mely fenyegeti őket, de sokáig nem szembesülnek azzal – ahogy a néző sem –, ezzel jön létre a kívánt feszültség, izgalom a nézőben.\nJeles képviselője, s egyben formálója, megalkotója is volt a műfajnak a méltán híres Alfred Hitchcock."
+    },
+    {
+        "id": "01hmnh",
+        "description": "A fantasy a fantasztikus irodalom egyik műfaja, illetve a műfaj köré szerveződő filmes, szabadidős kultúra. Régebben a kritikusok nem tekintették „irodalmi” műfajnak a szó klasszikus értelmében; és az irodalmi lexikonokban sem szerepelt címszóként; mára a legkiemelkedőbb, e műfajba tartozó remekeket vita nélkül szépirodalmi műveknek mondhatjuk. Az Aurin Fantasy Enciklopédia nyomán e műfajt a következőképpen határozzuk meg:\nA fantasy a huszadik század fordulóján induló, és a század második felében kibontakozó fantasztikus irodalmi, képzőművészeti, és iparművészeti stílus, amely az angolszáz irodalomban fejlődött először önálló irányzattá, de mára eltérő formákban más európai nemzetek művészeteiben is jelentkezett. Fő jellemzője, hogy a tartalma többnyire olyan elképzelt, mitikus jellegű, valamilyen tekintetben mindig irreális, az író által teremtett, csak annak fantáziájában létező alternatív világokba mint keretbe van ágyazva, mely felépítésében, fizikai és etikai törvényeiben, értékeiben, élőlényeiben, rokonságot mutat a vallások és mítoszok által megteremtett képzeletbeli világokkal. A fantasy ezek felépítésében – írótól, műtől függően – egyaránt merít a gótikus romantika történeteiből, a középkori lovagvilág hősi énekeiből és lovagregényeiből, az ókori és kora középkori – különösen az északi, kelta, germán, skandináv – mítoszokból és eposzokból, illetve a vele rokon science-fiction műfaj által teremtett világokból. A fantasy műfaj köré egész kultúra szerveződött, melyben vannak szerepjátékok, filmek, „világépítő” klubok, kizárólag fantasyt forgalmazó könyvkiadók, és hasonlók."
+    },
+    {
+        "id": "0g65_",
+        "description": "A kalandjáték a számítógépes játékok egyik fajtája. Elsősorban a játékos kreativitását és logikáját veszi igénybe. Egy történetet mesél el, amelynek főszereplőjét a játékos irányítja, emiatt szokás interaktív rajzfilmnek\/filmnek is nevezni. A feladat általában egy rejtély megoldása, illetve szervezkedő gonosz erők legyőzése. Jellegzetes eleme tárgyak összegyűjtése és megfelelő célra való felhasználása.\nIrányítása általában egérrel történik, erre a játékmódra használatos elnevezés a point and click. Ritkábban, de előfordulnak kizárólag billentyűzettel irányítható kalandjátékok is. A felhasználható tárgyaknál lehetőség van megvizsgálásra és felvételre, illetve használatra. A felvételt követően egy eszköztárba kerülnek, itt szintén megtekinthetők és felhasználhatók, valamint egyes esetekben egymással is kombinálhatók. Ha a játékos nem megfelelő célra akarja felhasználni a tárgyat, a szereplő a legtöbbször megszólal, akár annyit mondva, hogy Nem jó ötlet, Nem így gondoltam, Inkább ne!, akár vicces megjegyzést téve. A játék folyamán gyakran beszélgetni is kell más szereplőkkel az előrejutás céljából, a játéktól függően előre megírt mondatokból vagy a témára utaló ikonokból választva irányítható a társalgás."
+    },
+    {
+        "id": "06by7",
+        "description": "A rock egy könnyűzenei műfaj, mely a második világháborút követő politikai feszültségek korában tört utat magának, egész kulturális forradalmat indítva.\n1954. április 12-én Bill Haley a Rock Around The Clock című számának stílusa, megszólalása éles ellentétben állt a korra jellemző lágy, fülbemászó, érzelmes dallamok stílusával; az ilyen előadók egyike volt például Frank Sinatra. A rockzene társadalmi hatásai közül a legkomolyabb, hogy megnövelte a szakadékot a háború után felnövekvő tinédzserek és szüleik között. Lehetőséget adott a fiatal generációnak a bennük lévő lázadó életérzés kifejezésére, hiszen ez a zene csak nekik szólt, az ő életérzésüket hirdette. A zenei megújulást követte az öltözködési stílus és a teljes viselkedéskultúra megváltozása. A rock futótűzként terjedt az Egyesült Államokban, majd Nagy-Britannia után egész Európában, végül az 1960-as évekre meghódította az egész világot."
+    },
+    {
+        "id": "064t9",
+        "description": "A popzene manapság az egyik leggyakrabban használt összefoglaló kifejezés a népszerű könnyűzene, illetve a szórakoztató zene modern stílusirányzataira. Nem tartozik a fogalma alá:\n⁕A dzsessz, de a határterületen a jazz-rock igen;\n⁕A népzene, de a folknak nevezett irányzat igen;\n⁕A blues, de bizonyos irányzatai igen;\n⁕Az alternatív vagy underground stílusok,\n⁕A klasszikus zene átdolgozása általában, de bizonyos feldolgozások igen."
+    },
+    {
+        "id": "03_d0",
+        "description": "A dzsessz egy zenei stílus, amelyre jellemző a blue note-ok, szinkópák, szvingelés és párhuzamos ritmusok alkalmazása. A stílus legfontosabb jellegzetessége az improvizáció, az előadók sokszor rögtönzött szólót játszanak vagy válaszolgatnak egymás játékára. Ez az első olyan művészeti stílus, amely az Amerikai Egyesült Államokban alakult ki.\nA dzsessz gyökerei a nyugat-afrikaiak kulturális és zenei kifejezésmódjában, az afroamerikai zenei hagyományokban valamint az európai katonai zenekarok zenéjében találhatóak meg. A 20. század elején az amerikai néger közösségekből indult ki és az 1920-as évekre vált nemzetközileg is ismertté. Innentől kezdve fokozatosan vált meghatározó zenei stílussá a világban, amely jelentős hatással volt\/van a többi zenei irányzatra is.\nA dzsessz ma is folyamatosan fejlődik, egyre újabb stílusok jelennek meg.\nWynton Marsalis Pulitzer-díjas afroamerikai zeneszerző, klasszikus- és dzsessztrombitás a következőt mondta a dzsesszről:\nMaga a jazz szó, a dzsessz eredeti alakja, az amerikai szlengből ered és valószínűleg szexuális jelentéssel bír, bár számos más magyarázata is van."
+    },
+    {
+        "id": "01lyv",
+        "description": "A countryzene az Amerikai Egyesült Államok déli részén élő, főleg skótok, írek zenéje, akik a saját népzenéjüket az Amerikában hallott blues-zal keverték. A stílusnak ezen kívül gospel gyökerei is vannak. A country amerikai „farmerzene”, mely elsősorban a fehérek körében népszerű. Kezdetben a gyapotföldeken dolgozók zenéje volt, munkadalok formájában.\nAz első úttörők a countryzene atyjának is nevezett Jimmie Rodgers és a Carter Family voltak, akik 1927-ben az első country lemezfelvételt készítették.\nKereskedelmi verziója a szinte mérhetetlenül kedvelt és sok mai fiatal által erősen lenézett, nashville-i tömeggyártású kortárs country. Külön változata az ausztráliai country, melynek híres előadója Slim Dusty. Ma már külön értéknek számít a „klasszikus” vagy 'outlaw\"-nak is nevezett country.\nA countryhoz legközelebb álló rokonzenei műfaj a bluegrass, atyja Bill Monroe, ismertebb tradicionális előadók Lester Flatt & Earl Scruggs. Jelenlegi jelentősebb képviselői Rhonda Vincent, Alisson Krauss.\nA countryzenére táncolás a linedance, azaz formatánc.\nA magyar countryzene legjelentősebb képviselői: Bojtorján, 100 Folk Celsius.Country Road"
+    },
+    {
+        "id": "0glt670",
+        "description": "A hiphop egy zenei műfaj és egy életstílus is egyben, ami magában foglal megannyi dolgot, például a zenét, az öltözködést, a szlenget. A hiphop az Egyesült Államokból, Bronxból indult.\nA hiphop elsősorban egy szubkultúra, mivel van saját zenei stílusa, ami az MCing\/emszízés = ütemre szövegelés, rappelés és a DJing\/Scratch = lemez-karcolás, van saját tánckultúrája is, ami a break, rajz\/festői stílusa a graffiti, valamint rengeteg sport, ami még hozzá köthető, pl. a kosárlabda és a streetball. A hiphop alkotások témája, hangulata, a műfaj bármelyik területén laza, határozott, agresszív, néhol bolondos. Ez arra vezethető vissza, hogy a stílus Amerikából származik, főleg azokból az időkből, amikor az afroamerikaiakat elnyomták."
+    },
+    {
+        "id": "03lty",
+        "description": "A heavy metal rockzenei műfaj, amely 1968 és 1974 között jött létre. A heavy metalt életre hívó, blues-rock- és pszichedelikusrock-gyökerekkel rendelkező együttesek gitár- és dobközpontú, vastag, kemény hangzást alakítottak ki, melyet erős torzítás és gyors gitárszólók jellemeznek. A heavy metal a könnyűzenei műfajok egyik legextrémebb formája.\nBár már a korai heavy metal együttesek, mint a Led Zeppelin, Deep Purple és a Black Sabbath is hatalmas közönséget vonzottak, ugyanakkor folyamatosan támadták őket a műfajon kívülről, ami azóta is végigkíséri a metalzene történetét. Mikor a heavy metal együttesek első hulláma kezdett kifáradni, az 1970-es évek végén felbukkant a brit heavy metal új hulláma, amely sokkal inkább eltávolodott az eredeti blueshatásoktól, és beolvasztotta a műfajba a punkrock fogósságát.\nA heavy metal az 1980-as években vált igazán népszerűvé világszerte, amikor sok, ma már szélesebb körben elterjedt alműfaja először kifejlődött. A metal korábban ismert formáinál jóval agresszívebb és extrémebb variációk jobbára csak az underground közönség figyelmét keltették fel, de például a glam metal és kisebb mértékben a thrash metal is már komoly kereskedelmi sikereket arattak."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "A klasszikus zene fogalma alatt három, különböző jelentéstartalmat értünk.\nLegtágabb értelmében – ekkor komolyzenének is nevezzük – a zene legáltalánosabb felosztási kategóriája szerinti terület a dzsessz, a könnyűzene, az alkalmazott zene és a népzene mellett. E jelentésében évezredes múltú, folyamatos és határozott tradícióval bíró, szilárdan megalapozott, mégis dinamikus esztétikai szempontrendszerrel bíró művészet, amely művelői, a zeneszerzők és az előadók útján műalkotásokat hoz létre.\nEsztétikai értelemben bármely, a legkülönbözőbb értelemben vett – társadalmi vagy szakmai közmegegyezés szerinti – magas kvalitással bíró zene. Ez értelemszerűen nem csak a komolyzenére vonatkozik, hiszen beszélünk „klasszikus dzsessz”ről, a „rockzene klasszikusai”ról és „klasszikus magyar népdal”ról. Ilyen alkalmazásában tulajdonképpen nem zenei terminus, esztétikai normaként rendkívül széles körben használjuk: példaszerű, mintaszerű, a maga nemében tökéletes stb.."
+    },
+    {
+        "id": "02lkt",
+        "description": "Az elektronikus zene gyűjtőnév mindenfajta olyan zenei műalkotás, ill. zeneipari termék számára, amelyben a hangok generálása elektronikus technikai eszközök segítségével történik, és ezek az eszközök dominálnak a komponálásban és\/vagy az előadásban. Elektronikus zenéről csak nagyjából a 19. század közepétől beszélhetünk, és kísérleti jellegű korszakát is csak az 1970-es évek végén lépte túl. Mára a popzene egyik uralkodó irányzata lett."
+    },
+    {
+        "id": "0155w",
+        "description": "A blues egyszerre egy zenei forma és egy zenei műfaj, amely a 19. századi, Egyesült Államok-beli mélydéli afro-amerikai közösségektől származik, spirituális- és munkadalokból, hollerekből, üvöltésekből, kántálásokból és ritmikus elbeszélő-balladákból áll. A blues alapját a tipikus akkordmenet és a blue note jellemzi. A tizenkét-ütemes blues az egyik legelterjedtebb akkordmenet, de ezek a tulajdonságok megtalálhatók a dzsesszben, a rhythm and blues-ban és rock and roll-ban is.\nA blues-t nem csak az alapvető ismertetőjegyei jellemzik, hanem az ének, a basszusmenet és a hangszerek is. Számos alműfaja létezik, a vidéki blues-tól kezdve a városi blues-ig, ahol többé-kevésbé népszerű volt a 20. század különböző időszakaiban, de a legismertebb a Delta-, a Piedmont-, a Jump- és a Chicago blues. A második világháború után az akusztikust felváltotta az elektromos blues és még ismertebb lett. Az 1960-as és az 1970-es években kifejlődött a blues-rock műfaj.\nA „the blues” angol kifejezés a „the blue devils”-t jelenti, amely a fájdalmasságra és a szomorúságra utal. Ezt a kifejezést George Colman, Blue Devils című 1798-as egyfelvonásos komédiájában lehetett először hallani. Viszont meglehet, hogy a kifejezés máshonnan ered: az afro-amerikai zenét játszó Hart Wand Dallas Blues című 1912-es száma volt a legelső bejegyzett blues-zenemű. A szám szövegében gyakran feltűnik a depressziós hangulat."
+    },
+    {
+        "id": "06cqb",
+        "description": "A reggae egy könnyűzenei műfaj, amely az 1960-as években fejlődött ki Jamaicában.\nA reggae megnevezést tágabb értelemben szokták használni az összes jamaicai zenére, beleértve a ska, rocksteady, dub, dancehall és ragga műfajokat is. Ez a kifejezés használatos még egy külön stílusra ami az 1960-as évek végén jött létre. A reggae alapját egy különleges ritmus adja, aminek fő jellemzője a taktusok közötti hullámzás amit a gitáros játszik, ezt úgy hívják hogy \"bang\". A dobos gyakran üt egy harmadik ütemet a taktusok között. Ezt úgy ismerik, hogy \"one drop\". Jellegzetessége, hogy ez az ütem itt lassabb, mint a reggae előfutárainál a ska-nál, és a rocksteady-nél.\nA reggae-t gyakran összefüggésbe hozzák a rasztafári mozgalommal, ami befolyással volt számos kiemelkedő reggae zenészre a '70-es, és '80-as években. A reggae számok sok egyéb témát is felölelnek a rasztafarinizmuson kívül. Ilyen például a szerelem, a szexualitás, és olykor a társadalom kemény bírálata."
+    },
+    {
+        "id": "02w4v",
+        "description": "A népzene a nép által önkéntelenül kialakított zene, amelynek szerzői, keletkezésének helye, ideje, vagy egyéb körülményei a megfoghatatlanság ősiségébe vész.\nA népzene a műzene ellentétjeként is meghatározható, amely valaki által tudatosan megalkotott, kitalált zenét jelent.\nA kettő határán mozog a népies műzene, illetve a folklorizálódott műzene.\nNépies műzenének a népzenei ihletésű műzenét nevezzük, folklorizálódott műzenének pedig azokat az műzenéket, amelyek a népzene világába kerülve, ott átformálódva elnépiesedtek az ízlésformáló közösség igényei szerint.\nMinden fejlettebb civilizáció kialakította a maga népi és műzenéjét. A kettő egymást kiegészíti. A népzenét naiv művészek játsszák és a helyi közösségek formálják ízlésükkel. A műzenét az előkelő körök hivatásos művészei, zeneszerzői, előadóművészei és az előkelőkre vonatkozó hagyományok, divatok formálják.\nA hagyományos népi kultúrát, amelytől nem elválasztható a népzene, szerves műveltségnek szokás nevezni, utalva arra, hogy az egy szerves, egész világnézetre épül.\nA mai, átformálódott társadalmunkban a fejlett országokban megjelent a könnyűzene fogalma, amely a népzenét formáló helyi kulturális közösségek fölbomlását és új egységes társadalom kialakítását segíti elő. Népzenévé azonban a tömegtájékoztató eszközök, a szórakoztató ipar befolyása és a helyi kulturális közösségek fölbomlása miatt nem válhat. Ezzel együtt a népzene fokozatosan elhal, ahogyan az a társadalmi forma is, amelyben gyökerezik. Ezen folyamatok fölismerése indította az értelmiségieket az eltűnőben lévő hagyományok lejegyzésére, megőrzésére. A népzenekutatás a teljes népi kultúrának csak egy részét vizsgálja."
+    },
+    {
+        "id": "02x8m",
+        "description": "A funk egy amerikai eredetű zenei stílus, amely az 1960-as évek végén alakult ki, amikor afroamerikai zenészek a soul, a soul jazz és a rhythm and blues elemeit vegyítették egy ritmikus, táncolható új zenei formába. A funk csökkentette a dallam és a harmóniák szerepét, és előtérbe tolta a dobok és az elektromos basszusgitár „húzós” ritmusjátékát. A funkdalok gyakran egyetlen akkordból épülnek fel, a soultól és a rhythm and bluestól eltérően akkordmenetekbe rendezve.\nMint sok afrikai eredetű zene, jellemzően a funk is komplex groove-okból áll, amit olyan ritmushangszerek szolgáltatnak, mint a ritmusgitár, a basszusgitár, a Hammond-orgona, és a dobok, amelyek egyszerre hozzák az egybe olvadó ritmust. A funkegyüttesek néha fúvós szekcióval kiegészülve állnak fel.\nA műfaj leghíresebb zenekarainak többsége disco és soul dalokat is játszik. A funkzene nagy hatással volt a disco és az afrobeat kialakulásában, és a funk-hangminták a hip hop, a house és a drum and bass stílusok többségében is felfedezhetőek. A funk a go-go zenére is jelentős hatással bírt."
+    },
+    {
+        "id": "0ggx5q",
+        "description": "A dance a modern, többnyire elektronikus eszközökkel – szintetizátorokkal vagy számítógéppel – előállított tánczenei műfajok gyűjtőneve. Jellemzői az elektronikus, gépies hangzás, a legkülönfélébb mesterséges, futurisztikus hangeffektusok, gyors – 145 BPM körüli – ritmus, illetve az alapütemet adó, jellegzetes elektronikus dobgép. A műfaj eredete az 1970–1980-as évek diszkózenéje, ennek modern változata, amelyet kifejezetten a zenés szórakozóhelyekre, klubokra fejlesztettek ki. Több alfaja ismeretes, ilyenek a house, rave, techno, trance, eurodance, Hardstyle stb. Ezen kívül természetesen léteznek az egyéb popzenei stílusokkal kevert fajták is, az akusztikus és elektronikus zene ötvözetei."
+    },
+    {
+        "id": "0199g",
+        "description": "A kerékpár egy emberi erővel hajtott kétkerekű jármű. 19. századi kifejlesztése után fokozatosan nyerte el a mai fomáját. Egykerekű típusát monociklinek, háromkerekű változatát pedig triciklinek hívják. Kerékpár szavunkat a világhírű magyar sportember, az első magyar úszó, első magyar sportlap alapító és első Balaton-átúszó Szekrényessy Kálmán alkotta, kiben egyik első hazai kerékpározónkat is tisztelhetjük. A „kerékpár” szó szinonimái: bicikli, bringa, bicaj, bicó, canga, kera, drótszamár."
+    },
+    {
+        "id": "019jd",
+        "description": "A csónak minden olyan hajónál kisebb vízi jármű, mely a helyi kisebb hajózási forgalom közvetítésére szolgál.\nÚgy nagyságra, mint alakra és az építési rendszerek minőségére nézve a csónakok nem egyformák, valamint az őket mozgató hajtóerő is különböző, amiért evezős, vitorlás, robbanómotoros, villamos és hidraulikus gépezettel ellátott csónakokat különböztetünk meg. Mindezen csónakok vagy hosszúra és keskenyre, vagy rövidre és szélesre vannak építve és fedélzet nélküliek, a csónakűrben árbocfészkekkel a vitorlázáshoz, ülő- és evezőpadokkal, a hátsó részén pedig kormánylapáttal. A nehezebb csónakokban minden evezőpadon két evező, a könnyebbekben csak egy evező van, számuk a csónak nagyságához mérten 2-18 között váltakozik. Míg a folyókon használt csónak feneke többnyire lapos, addig a tengeri csónakok feneke ékre, tőre van építve, hogy ezáltal a hullámcsapásoknak jobban ellenálljanak és a felborulás veszélyének is minél kevésbé legyenek kitéve. Ezen ékre épített csónak közelebbi elnevezése összefügg a csónaktest alakjával, dimenzióinak egymáshoz viszonyított arányával, a hajtóerő minőségével és azzal a céllal, melyre szolgálnak, igen sokféle. Hogy mennyi csónakkal kell egy hajót felszerelni, az a hajó nagyságától, céljától, és legénységének számától függ. Hajókon a csónakok számát és nagyságát úgy határozzák meg, hogy az szükség esetén a teljes utasszámnak megfeleljen."
+    },
+    {
+        "id": "01bjv",
+        "description": "Az autóbusz olyan szárazföldi tömegközlekedési eszköz, amelyet erőgép hajt, magától helyváltoztatásra képes, egyterű és legalább 10 fő szállítására alkalmas. A busz szó a latin omnibus szóból ered, olyan közforgalmú közlekedési eszközként, amit „mindenki” használhat."
+    },
+    {
+        "id": "0k4j",
+        "description": "Az autó egy olyan, földön közlekedő, kerekeken guruló jármű, amely képes önálló mozgásra, nem egy másik jármű vagy állat mozgatja.\nHétköznapi jelentésében az autó a gépkocsi, egy kerekeken guruló, saját motorja által hajtott jármű. A legtöbb meghatározás olyan szabályszerűségekkel írja le mint elsősorban aszfaltútra tervezték, 1-8 utast szállíthat, jellemzően négy kerékkel rendelkezik, és felépítése a személyszállításra jobban alkalmassá teszi, mint áruszállításra. Mindazon által a leírások pontossága nem tökéletes, az eltérő feladatokra létrehozott számos különböző gépkocsi típus miatt."
+    },
+    {
+        "id": "09ct_",
+        "description": "A helikopter olyan aerodinamikus légi jármű, amely motor segítségével forgatott szárnyakkal tudja önmagát a levegőbe emelni. Repülési magasságát és irányát nem szárnyakkal és vezérsíkokkal, hanem a forgószárnyak állásszögének változtatásával tudja szabályozni. A helikopter szó a görög helix és pteron szavakból keletkezett. A motor meghajtású helikoptert a szlovák származású Jan Bahyl találta fel. Az első stabil, sorozatban gyártott típust Igor Sikorsky tervezte. Asbóth Oszkár mérnök az I. világháború után a merev légcsavarral való hosszú kísérletezés eredményeként megépítette helikopterét, amely először 1928. szeptember 9-én szállt fel egy helyből, függőleges irányban a magasba. Gépe vízszintes irányban is kormányozható volt. Sikerei Európa-szerte új lendületet adtak a korábban megoldhatatlan problémának tekintett helikopterkutatásnak. Kísérleteinek úttörő szerepét és jelentőségét a nemzetközi szakirodalom is elismerte.\nA merevszárnyú gépekhez képest a helikopterek sokkal összetettebbek, drágábbak, körülményesebb a fenntartásuk és kisebb a teherbírásuk. Jelentős előnyük, hogy a helikoptert a levegőben tartó felhajtóerő megteremtéséhez a helikopternek nem kell viszonylag nagy sebességgel mozognia, mint a repülőgépeknek: a helikopter képes egy helyben függeszkedni, hátrafelé haladni, és mindenek felett függőlegesen egészen kis helyen is le- és felszállni. Pusztán a töltőállomások helye korlátozza mozgásterét."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motorkerékpár, egynyomtávú, kétkerekű motoros közlekedési eszköz. Különböző célokra – így pl. hosszútávú utazásra, sűrű városi forgalomra, cirkálásra, versenyzésre és terepre – eltérő modellek alkalmasak. A világ számos pontján a motorozás a közlekedés legmegfizethetőbb formája, a motor a leghétköznapibb motorizált közlekedési eszköz. Világszerte kb. 200 millió darab van használatban beleértve a mopedeket, a robogókat és más géperővel hajtott két- és háromkerekűeket. A motorkerékpárok a KRESZ értelmében két vagy három kerekű járművek, melyeknek tömege 400 kg alatti, motorjuk pedig 50 cm³ feletti, amivel 45 km\/h-t meghaladó a tervezett sebességük. A 2000-es évekre azonban elterjedtek a négykerekű motorkerékpárok is, leginkább a quadok, amik főleg terepen való közlekedésre készült járművek.\nA két kerék egy sorban van. A magasabb sebességeknél a motorkerékpár a giroszkóp effektus miatt nem dől el. A motorkerékpárnak oldalkocsija is lehet."
+    },
+    {
+        "id": "06q74",
+        "description": "A hajó a csónaknál nagyobb, a tutajnál pedig összetettebb felépítésű vízi jármű.\nA hajó az emberiség egyik legrégebben használt járműve. Jelentősége az évszázadok során nem csökkent, a hajózás a modern kori világgazdaság kiemelkedően fontos tényezője. A világkereskedelemben mozgó áruk, nyersanyagok 90%-át szállítja a több mint 50 000 kereskedelmi hajó. Folyamatosan növekvő népszerűségre tettek szert a modern, hosszújáratú üdülőhajók, a cruiser-ek is. Egymilliónál több ember szolgál, dolgozik korunkban hajókon.\nA hajónak a kikapcsolódás, rekreációs tevékenységek és a sport terén is jelentős szerepe van. A kedvtelési célú hajók száma, kedveltsége évről évre nő. A versenyvitorlások rendkívüli fejlődésen mentek keresztül a 20. század során, és ez a fejlődés azóta is töretlen. A Föld hajóval történő megkerülésének legújabb világrekordját egy hatalmas trimarán, a francia Loick Peyron által kormányzott Banque Populaire V. állította be, 2012. január 6-án. A nagyobb vitorlásversenyek a hajózást kedvelő országokban a Forma 1-hez hasonló népszerűségnek örvendenek.\nA hajókat már a kezdetektől használták hadicélokra. A tengeri hatalmak modern hadiflottái a katonai erő legfontosabb elemei napjainkban is. A modern repülőgép-hordozó és az atommeghajtású tengeralattjáró korunk nagyhatalmi érdekérvényesítésének fontos eszközei."
+    },
+    {
+        "id": "01pz3b",
+        "description": "A New York-i metró a világ egyik legtöbb viszonylatot számláló metróhálózata. Összesen 468 állomás található az 1355 km hosszú vonalakon. Azon kevés közlekedési eszközök közé tartozik, amelyen az üzemidő non-stop, az év 365 napján. Utasszám tekintetében csak a 10. legforgalmasabb hálózat a világon. A metróvonalak közel 40%-a a felszínen fut, nagy részük magasvasút."
+    },
+    {
+        "id": "07jdr",
+        "description": "A vasúti közlekedésben vonatnak nevezik egy- vagy több vasúti jármű olyan szerelvényét, ami a vasúti pálya vonalán együtt közlekedve személy- vagy teherszállításra alkalmas. A vonat erőforrása vagy vontatójárműve általában a mozdony, amely vasúti kocsikat vontat, de vannak olyan vasúti járművek is, amelyek saját motorral képesek önmagukat mozgatni vagy vonatokat vontatni. A vonat erőforrása általában dízel motor, vagy a sín mentén elhelyezett vezetékből származó elektromos áram. Hosszú időn át lóvontatta, gőzgéphajtotta, széntüzelésű vonatok jártak. Lengyelországban, Kínában, Indiában azonban még napi rendszereséggel is közlekednek gőzösök. A vasúttörténelem során számtalan más erőforrást is használtak."
+    },
+    {
+        "id": "07r04",
+        "description": "A tehergépkocsi a személygépkocsit, az autóbuszt, a trolibuszt, és a mezőgazdasági vontatót kivéve minden gépkocsi. Többnyire teherszállításra alkalmas közúti jármű, de lehet különleges felépítménye is. Általában merev kerettel rendelkezik. A nagyobb, általában pótkocsival rendelkező tehergépkocsikat kamionnak is nevezik.\nFelépítése általában a következő: egy erős váz, egy megfelelő meghajtóstruktúra, vezetőfülke, illetve a rakomány számára hely, vagy a pótkocsi vontatásra kialakított szerkezet."
+    },
+    {
+        "id": "07kfm",
+        "description": "A villamos kötött pályán haladó, elektromossággal működő közlekedési eszköz. Elődeivel, a lóvasúttal és a gőzvontatású városi vasúttal együtt, melyeket a 20. század közepére szorított ki, a közúti vasutak körébe tartozik."
+    },
+    {
+        "id": "0ddnl",
+        "description": "A komp folyókon, tavakon, vagy tengeren történő átkelésre szolgáló közlekedési eszköz, különleges hajó, amit személyek, állatok és különböző járművek szállítására használnak.\nFolyókon kompot legtöbbször ott használnak, ahol a forgalom nem teszi szükségessé állandó híd megépítését vagy a híd építése nem gazdaságos.\nA szállítási feladatnak megfelelően van:\n⁕személyszállító komp, átkelőhajó\n⁕teherkomp\n⁕vasúti komp"
+    },
+    {
+        "id": "0f6pl",
+        "description": "A trolibusz olyan közúti tömegközlekedési villamos jármű, amely áramszedők segítségével kapcsolódik a felső vezetékéhez, és így kapja a mozgáshoz szükséges energiát. Funkciója általában a közforgalmú autóbuszéhoz hasonló."
+    },
+    {
+        "id": "09g5h",
+        "description": "Űreszköznek nevezünk minden mesterséges égitestet, amelyet mesterséges módon juttattak ki a világűrbe.\nIde tartoznak:\n⁕műholdak – a Föld vagy más bolygó körül keringő űreszközök;\n⁕űrszondák – a Föld gravitációs terét végleg elhagyó űreszközök;\n⁕mesterséges bolygók – a Nap vagy más csillagok körül keringő űreszközök;\n⁕űrhajók – embereket szállító űreszközök;\n⁕űrállomások – emberek tartós befogadására alkalmas űreszközök;"
+    },
+    {
+        "id": "074d1",
+        "description": "A tengeralattjáró tartós víz alatti tevékenységre alkalmas hajó, amelyet elsősorban katonai feladatokra alkalmaznak. Léteznek kutatási és mentési feladatokra épített tengeralattjárók is. Jelentős számban az 1900-as évek elején jelent meg."
+    },
+    {
+        "id": "0342h",
+        "description": "A gitár a húros hangszerek, ezen belül a pengetős hangszerek csoportjába tartozó hangszer. Megszólaltatása pengetővel, illetve ujjal történik. Általában hat húrja van, ezek hangolása E-A-d-g-h-e'. Mint láthatjuk, a húrok nagy része kvart távolságra van egymástól, kivétel a g-h, ez nagyterc; így a gitáros több mint három oktáv hangterjedelem fölött rendelkezik.\nA gitár kivitele szerint lehet klasszikus, akusztikus, elektromos vagy elektro-akusztikus. A gitár napjainkra hihetetlen népszerűségre tett szert. Szinte minden zenei stílusban képviselteti magát valamilyen formában. Ez leginkább sokoldalúságának köszönhető, hiszen az egyes gitárok típusuktól és zenei stílustól függően betölthetnek szólista szerepet, de megállják helyüket a ritmusszekcióban is. Gitáron éppúgy előadhatók klasszikus darabok, mint napjaink modern popzenéi, sőt a rock például elképzelhetetlen lenne e hangszer nélkül.\nA gitárkészítés – bár napjainkban már tömeggyártásról beszélünk – megőrizte a kézműves hangszerkészítők hagyományait. A gitárok fejlődése napjainkban is tart, köszönhetően annak, hogy a zenészek és mérnökök egymással karöltve aknázzák ki a hangszer felépítésében rejlő lehetőségeket. Jó példa erre az elektromos gitárok megjelenésében úttörő szerepet vállaló Leo Fender, aki rádiómérnöki tudását kamatoztatva vett részt a mágneses hangszedő kifejlesztésében, illetve a zenész Les Paul, aki saját zenei elvárásainak megfelelően alakította ki hangszerét."
+    },
+    {
+        "id": "0319l",
+        "description": "A kürt a tölcséres fúvókájú, más néven rézfúvós hangszerek családjába tartozik. Kör alakban meghajlított, hosszú, vékony csőből és hirtelen kiszélesedő tölcsérből áll. A vadászkürtből alakult ki, a modern kürt szelepekkel van ellátva. A szimfonikus és a fúvószenekarok fontos tagja, a fúvósötösben is szerepet kap.\nGyakran kürtök néven nevezik a tölcséres fúvókájú hangszerek családját általában, vagy azon belül a kónikus, kúpszerűen táguló furatú hangszerek összességét, például a jelzőkürtök hangszercsaládjának tagjait."
+    },
+    {
+        "id": "02hnl",
+        "description": "A dobfelszerelés különféle dobokból és cintányérokból áll, melyeket többször más ütős hangszerek egészíthetnek ki. A dobok elrendezése lehetővé teszi, hogy a dobos azokat egyszerre szólaltassa meg. A dobos dobverőt használ, hogy a dobbőrt megüsse, ezzel rezgést keltve. A lábdob megszólaltatására lábgéppel mozgatott „bumszlit”, azaz üstdobverőt használnak. A lábcint pedállal és dobverővel vegyesen szólaltatják meg. A mozgató szerkezet az állványba van beépítve."
+    },
+    {
+        "id": "013y1f",
+        "description": "Az orgona összetett aerofon hangszer, hangját ajaksípok és nyelvsípok adják. A sípok egy vagy több, kézzel működtethető klaviatúrával – azaz manuállal – és legtöbbször egyetlen pedálsorral szólaltathatók meg. A sípok levegőellátásáról mechanikus szerkezet gondoskodik."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Az ajaksípos hangszerek olyan fúvós hangszerek, amelyek peremhangos hangforrásként működő fúvóka segítségével szólalnak meg. A fúvóka rendszerint hengeres üregű hangszertesthez, csőrezonátorhoz csatlakozik, a hangsorok előállítása, a dallamjáték a legtöbbször hangszertesten lévő hanglyukak segítségével történik.\nAz ajaksípos hangszerek legismertebb képviselői a furulya, a fuvola, az okarina, a pánsíp, ilyen elven működnek az orgona ajaksípjai.\nA hangszerek Sachs–Hornbostel-féle osztályozása a hangszereknek ezt a csoportját fuvolák néven említi."
+    },
+    {
+        "id": "05r5c",
+        "description": "Zongorán azt a hangszert értjük, amelyben egy billentyűsorral összeköttetésben álló, kis kalapácsokkal megütött, hangszekrényben kifeszített fémhúrok adják a zenei hangot. A zongora billentyűs, polifón húros hangszer, hangképzése mechanikus, a kezelése a többi hangszerhez képest egyszerű, viszonylag könnyen és gyorsan elsajátítható. Népszerűségének oka az is, hogy egy játékos több szólamot képes egyidejűleg megszólaltatni rajta, így zenekari vagy kórusműveket, de akár operákat is könnyen előadhatunk segítségével. Ilyen szempontból a zeneszerzők és karmesterek fontos segédeszköze. Ugyanakkor hangolásának szükségszerűen kompromisszumos mivolta nem mindig teszi lehetővé a tiszta intonációt. Sokan ezért nem is tekintették teljes értékű hangszernek, például Kodály Zoltán sem."
+    },
+    {
+        "id": "0mkg",
+        "description": "A harmonika az aerofon hangszerek családjába tartozik. A szabad nyelvsípokba a harmonika közepén található lamellás kialakítású légszekrény húzásával és vonásával lehet levegőt juttatni. Hogy mely sípba jusson levegő, az – a harmonika típusától függően – gombokkal vagy billentyűkkel szabályozható.\nA modern harmonika három fő részből áll, a sípokat és a mechanikát tartalmazó két oldalsó részből és az általuk közrefogott légszekrényből. A mai harmonikák bal oldala kivétel nélkül a basszus számára szolgál, míg a jobb oldalalt a melódia játszására alakították ki. A két szélső elem tartalmazza a gombokat vagy billentyűket, melyekkel a sípok nyitását-zárását végezhetjük. A legtöbb mai harmonikát úgy alakítják ki hogy képesek legyenek akkordok megszólaltatására egyetlen billentyű lenyomásával is. Kivételek közé tartozik a concertina, és bizonyos kíséretre szolgáló harmonikák. A billentyűk ill. gombok általában a légszekrény mozgására merőlegesen mozdulnak el, ha megnyomják őket. Kivétel például a concertina vagy a bandoneón.\nE hangszereknél a gombok megnyomása a légszekrény mozgásával párhuzamos, ezenkívül nincs lehetőség akkordok megszólaltatására egyetlen gomb megnyomásával. Ezek belső anyagai, gyártása, mechanikája és hangszíne jelentősen eltér a többi harmonikától, de a hang létrehozásának metódusát tekintve a hangszerek ugyanazon családjába tartoznak. A harmonikák elengedhetetlen része még a lefújó gomb, mely egy szelepet nyit a felesleges levegő kiáramlásához, és a regiszterváltók, melyek az összetett sípokba jutó levegő útját szabályozzák."
+    },
+    {
+        "id": "04gc2",
+        "description": "Az ügyvéd a jogászi foglalkozások egyike. Az ügyvéd a hivatásának gyakorlásával - törvényes eszközökkel és módon - elősegíti megbízója jogainak érvényesítését és kötelezettségeinek teljesítését, valamint közreműködik abban, hogy az ellenérdekű felek a jogvitáikat megegyezéssel intézzék el. Jogállásukra Magyarországon az 1998. évi XI. törvény vonatkozik."
+    },
+    {
+        "id": "05t4q",
+        "description": "Az orvos a beteg emberek gyógyításával, a betegségek megelőzésével hivatásszerűen foglalkozó szakember, aki az orvostudományi egyetemet sikeresen elvégezte, ott diplomát szerzett."
+    },
+    {
+        "id": "0mn6",
+        "description": "Az építész tevékenységét a legáltalánosabban úgy lehet megfogalmazni, hogy ő az a szereplő, aki az építtető akaratát a természeti környezettől elhatárolt három dimenziós terek együtteseként megfogalmazza, egyben meghatározva azoknak a díszítőelemeknek, szerkezeteknek a jellemzőit is, amelyek a terek határolására funkcionálisan alkalmasak, de valamilyen típusú esztétikai élményt is nyújtanak- elsősorban esztétikai és kényelmi szempontok alapján. A különbség az építő- és az építészmérnök között nagy vonalakban annyi, hogy az építőmérnök általában vonalas létesítményeket épít, az építész pedig emberi tartózkodásra alkalmas építményeket - azaz házakat."
+    },
+    {
+        "id": "01pxg",
+        "description": "A vegyész a kémiával foglalkozó tudós. A kémikusok az anyagok összetételét és tulajdonságait vizsgálják, és új anyagokat kísérleteznek ki az így szerzett ismeretek alapján."
+    },
+    {
+        "id": "01hbsc",
+        "description": "Az állatorvos dolga, ha gyógyítással foglalkozik, nagyjából ugyanaz mint az orvosoké, de azért vannak jelentős különbségek. A klinikus állatorvos önmagában több szakorvosi teendőt is ellát, így belgyógyász, sebész, sőt radiológus és patológus is lehet egyszemélyben, az adott körülményektől függően. A feladatai közé tartozik az is, hogy ha szükséges, ivartalanítsa, és néha az is, hogy elaltassa az állatokat. Az állatorvosok között azonban sokan vannak, akik nem közvetlenül az állatok gyógyításával foglalkoznak, hanem az élelmiszer-előállítás területén ügyelnek arra, hogy az emberek elé csak biztonságos termékek kerülhessenek fogyasztásra, vagy az állatorvosi gyógyszerforgalmazásban dolgoznak, netán kutatómunkát végeznek egy intézetben.\nMa Magyarországon sok tekintetben megváltozott az igény az állatorvosok iránt, és a meglévő praxisok – különösen a haszonállatvonalon – sok helyen vannak veszélyben. Ennek legfőbb oka a mezőgazdaság megváltozott helyzetében keresendő, abban, hogy sok helyen nem gazdaságos az állattartás, csökkent az állatlétszám, amiből következően ma már vidéken is gyakran a kutyák és a macskák, vagyis a kisállatok ellátása adja az állatorvos munkájának zömét."
+    },
+    {
+        "id": "01c72t",
+        "description": "A zeneszerző alkotóművész, aki zenét alkot, komponál, vagyis zenei kompozíciót hoz létre. A fogalom használata legtöbbször feltételezi azt, hogy a zene létrehozásának folyamatában a zene gondolatban való megszerkesztésének, kidolgozásának tevékenysége elkülönül annak előadásától, megszólaltatásától. Ebben az esetben a zeneszerző a művét valamilyen formában lejegyzi, megszólaltatása ennek alapján egy vagy több erre szakosodott személy, zenei előadóművész – hangszeres zenész, énekes – feladata.\nA népszerű zenében, szórakoztatózenében, dzsesszben gyakran nincs szükség bonyolult szerkesztési tevékenységre, ilyenkor a zeneszerző – dalszerző – dallamát, zenei ötletét, témáját egyszerűen hallás alapján is reprodukálhatják, sőt újraalkothatják a zenészek. A zenei kompozíció e műfajokban részben vagy teljes egészében kollektív alkotófolyamat gyümölcse is lehet. A zeneszerző személyének ezekben az esetekben sokszor inkább szerzői jogi, mint alkotóművészi jelentősége van.\nA zeneszerző lehet ismeretlen is, függetlenül attól, hogy zeneművét lejegyezte valaki vagy sem. Jó példa erre a népdal, de találunk ismeretlen szerzőt a klasszikus zeneirodalomban is."
+    },
+    {
+        "id": "02tx6q",
+        "description": "A hangmérnök feladata a hang mechanikai vagy elektronikus úton való rögzítése, módosítása és megszólaltatása. A hangmérnöki munka sok tudományterületet érint: elektronika, akusztika, pszichoakusztika, mechanika és zeneelmélet. Ez egy kreatív tevékenység, hiszen a rögzítés módja\/eszközei, az utómunka vagy a hangsávok keverése, stb. szabad teret enged az egyéni megoldásoknak és lehetőséget a művészi kifejezésnek is.\nEgy hangmérnöknek értenie kell sokféle hangtároló formátumhoz, többsávos analóg vagy digitális rögzítőkhöz és munkaállomásokhoz, hang módosítását szolgáló eszközökhöz, végerősítőkhöz, valamint számítógépes ismeretekkel is kell rendelkeznie."
+    },
+    {
+        "id": "099md",
+        "description": "A katonák egy ország nemzeti szárazföldi fegyveres erőinél szolgálatot teljesítő emberek. Nem összetévesztendők a zsoldosokkal, akik fizetség ellenében idegen ország hadseregénél szolgálnak.\nA katona jelenthet még rendfokozat nélküli, fegyveres szolgálatot ellátó személyt – Magyarországon használt elnevezése a honvéd."
+    },
+    {
+        "id": "03l9g",
+        "description": "A kalapács az a szerszám, melynek közvetve vagy közvetetlenül ható ütéseivel más tárgy idomítását vagy valamely más tárgynak valamely harmadik tárgyba való behatolását célozzuk. A kalapács hatása a kalapács tömegétől és sebességéből függ, tehát a kalapács elevenereje mv²; ez azt mondja, hogy kisebb tömegű kalapáccsal is érhetünk el olyan hatást, mint a nagyobb tömegűvel, ha annak sebességét megfelelően növeljük; ez azonban a gyakorlatban nem egészen így van. A kis sebességgel dolgozó nehéz kalapácsok ütése a munkadarab belsejére is hat, mig a nagy sebességgel dolgozó könnyű kalapácsok inkább a munkadarab felszínét formálják. Az idomításra használt kalapács felszine kemélyebb legyen, mint a megmunkálandó tárgy s hogy a kalapácsban felhalmozott eleven erőnek minél nagyobb részét fordíthassuk a tárgy alakítására, az utóbbit az üllőre fektetjük. Az üllő rendesen az üllőtőkén áll, melyet nagy kalapácsok használata esetén fagerendákon álló öntöttvas-tuskó pótol. Vannak kézzel és géppel dolgozó kalapácsok, szerkezetükre nézve pedig megkülönböztetünk nyeles és keretes kalapácsokat."
+    },
+    {
+        "id": "02bbbj",
+        "description": "A gyalu a faanyag felületének kisimítására szolgáló szerszám.\nAlkotó részei: a tok, a talp, a forgácslyuk, a száda vagy forgácskés, a gyaluvas és ennek tartó készüléke az ék vagy sróf. A tok többnyire fából, néha vasból is, a talp fából, vasból, csontból, stb. készülhet. A kés élének alakja szerint van egyenes, ives, tört élű, s egyenes és íves vonalakból vegyesen összeállított gyalu. A vas szerkezete szerint van egyszerű és fedővassal felszerelt gyalu. A fedővas arra való, hogy az a fa gyalu jó forgácsolásra beállított késétől elválasztott forgácsokat, mielőtt még a fa rugalmassága folytán a munkafelület irányában tovább kihasadhatnának, eltörje. A fedővas mindig egy kissé hajlott kovácsvasból való vaslemez, melyet sróffal vagy más módon a gyalukés fele elé állítható.\nMűködésmódja és rendeltetése szerint sokféle a gyalu. Egyenes, síkfelület finomra való gyalulásánál a művelet a következő: A keskeny, íves élű vassal ellátott nagyológyaluval eltávolítjuk nagyjában a felület durvaságait és fölösleges anyagának legnagyobb részét; folytatólagosan az egyszerű simítógyaluval vagy simító eresztőgyaluval egyengetjük, még inkább pedig a fedővasú gyaluval vagy fedővasu eresztőgyaluval. A párkánygyalut éles sarkok kitisztítására, a fogas gyalut az összeenyvezendő felületek fölborzolására, a szántalpú gyalut homorú felületekhez, a fenékgyalut mélyedések fenekének simítására, az alj- vagy sánc gyalut aljak készítésére, az eresztvényes gyalut eresztvény, az eresztékes gyalut ereszték készítésére használják. Falazatgyalut hátfalak, lemezelő gyalu ajtó-, stb. bélletek széleinek alakítására; tapaszaljgyalu ablakok rámafáinak egyszeri gyalulására való kialakítására. Utóbbi gyaluk gyakran lényeges méreteikkel elállíthatók. Ráma- és párkány-lécek készítésére egyes vagy összetett párkányelemek szerint alakított, késsel felszerelt gyalukat használunk."
+    },
+    {
+        "id": "01lsmm",
+        "description": "Az olló egy vágó-, pontosabban egy nyírószerszám. Két élesre fent acéllemezből áll, ezek egy forgatható tengelyen helyezkednek el, és szorosan egymáshoz simulva mozgathatók, s ez által az éleik közé eső tárgyat ketté szelik. Céljai szerint az ollók nagysága, alakja és elnevezése is változik, van papírvágó, gyapjúnyíró, posztóvágó, szabó-, ólomvágó, kertész-, sebész-, drótvágó, stb. olló. A közönséges ollók készítése a késipar egyik ága, de a kis, olcsó ollókat nem kovácsolják, hanem öntik, vagy acélbádogból vágják ki."
+    },
+    {
+        "id": "04nmy9",
+        "description": "A csekk köznapi nyelven:\n⁕Bankban beváltható, készpénzt helyettesítő fizetési eszköz\n⁕Postai készpénz befizetésre szolgáló nyomtatvány\n⁕Egyéb, ilyen néven kiadott, speciális felhasználású utalvány vagy \"bón\", amely bizonyos esetekben fizető eszközként is használható\nJogilag:\nJogszabályban meghatározott tartalommal rendelkező, hitelviszonyt megtestesítő értékpapír, amely elsősorban vállalkozások egymás közötti elszámolásainak, fizetéseinek elősegítésére szolgál."
+    },
+    {
+        "id": "03m7wd",
+        "description": "A Sacher-torta egy csokoládétorta sárgabaracklekvárral és csokoládébevonattal. Franz Sacher bécsi cukrászról kapta a nevét, aki 1832-ben megalkotta Metternich herceg számára. Bár Sacher ekkor mindössze 16 éves volt, a torta azóta is az egyik legkedveltebb bécsi specialitásnak számít."
+    },
+    {
+        "id": "06qrr",
+        "description": "Üdítőitalnak nevezzük az alkoholmentes, ásványvizeket, gyümölcsleveket, teákat, és más ízesített folyadékokat. Egy felnőtt ember testének 60-70%-a víz, tehát természetes szükségleteinek egyik legfontosabbja a folyadékbevitel, az ivás. A víz az egyik alapvető lételem, míg az ember élelmiszer nélkül 4-6 hetet bír ki, víz nélkül csak néhány napot."
+    },
+    {
+        "id": "0dt3t",
+        "description": "A villa egy nyélből és kettő vagy több fogból álló evőeszköz. A villát, mint evőeszközt, elsősorban a nyugati kultúrákban használták, míg a Távol-Keleten elsősorban az evőpálcika használata népszerű. A történelmi különbségek ellenére ma a villa használata egyre jobban elterjed az ázsiai országokban.\nA villa anyaga lehet fa, fém vagy műanyag. Evés közben a villára lehet felszúrni falatokat és azt a szájhoz emelni, vagy a tányéron lefogni az ételt, hogy késsel fel lehessen vágni. Az ételt a villa fogaira felszúrva, vagy a fogak enyhe görbületét kihasználva lehet felemelni. Utóbbi esetben az európai etikett szerint a villa fogai lefelé néznek, míg az amerikai etikett szerint felfelé.\nA villa eredete nem ismert, de feltehetően az ókori Görögországban vagy a Római Birodalom idején alakultak ki, mindenesetre a rómaiak már széles körben alkalmazták. A személyes használatra szánt evőeszközt a Bizánci Birodalomban vezették be, innen terjedt el a Közel-Keleten, majd onnan Dél-Európában, illetve Kr. u. 10. században Európa északi részén is. A villát itt elsősorban konyhai eszközként használták, evőeszközként a 18. század előtt nem terjedt el, míg Észak-Amerikában a 19. századig tartott, amíg a villa elnyerte méltó helyét az asztalnál."
+    },
+    {
+        "id": "0cdn1",
+        "description": "A hamburger grillezett, fűszeres marhahúsmassza, lapos, enyhén pogácsa formájú a mi fasírtunkhoz hasonló ételféleség, amelyet zsemle formájú péksüteménybe helyeznek. A gyorséttermek jellegzetes kínálata. Sokan az Amerikai Egyesült Államokhoz kötik a hamburger feltalálását, azonban valójában igen hosszú utat járt be, és három kontinens, Ázsia, Európa és Amerika is szerepet játszott a létrejöttében."
+    },
+    {
+        "id": "0cmx8",
+        "description": "A kanál fémből, műanyagból, fából, csontból, porcelánból vagy üvegből készített folyadékmerítő eszköz, melyet a folyadék felvételére szolgáló homorú rész és az ennek tartására való nyél alkot."
+    },
+    {
+        "id": "01c6xf",
+        "description": "Az ivóvíz az ember által fogyasztásra alkalmas víz, amely megfelel az ivóvíz szabványok előírásainak. Amennyiben oldott ásványianyag tartalma meghaladja az 500 mg\/l-t, ásványvíznek minősül, és „ásványvíz” felirattal palackozható.\nIvóvíz hagyományosan artézi kútból, természetes forrásból, tavakból, folyókból, tengerből nyerhető. A talajvíz Magyarország legnagyobb részén jelentős biológiai és vegyi elszennyezése miatt ivásra évtizedek óta alkalmatlan.\nA Föld ivóvízkészletét csökkenti a népességrobbanás, a víz pocsékolása és elszennyezése. A Föld egyes részein nagy probléma az ivóvízhiány. 2006-ban a mezőgazdaság használta fel a globális vízfogyasztás mintegy 80%-át. Egyes források szerint 2025-re az emberiség 66%-ának nem lesz elegendő jó ivóvize.\nA globális felmelegedés és az éghajlat változása miatt egyre többet beszélnek az úgynevezett ivóvízbázisokról, mint amelyek felértékelődés konfliktusok okává válhat."
+    },
+    {
+        "id": "02vqfm",
+        "description": "A kávé egyrészt azon termékeknek a megnevezése, melyeket bizonyos kávéfajok magjainak feldolgozásával állít elő a mezőgazdaság és az ipar, másrészt annak a kesernyés ízű, élénkítő hatású italnak a megnevezése, melyet az előbb említett termékekből készítenek, s amely világszerte népszerű élvezeti cikk. A kávé fő hatóanyaga a koffein, de ma már létezik olyan kávé is, amelyben – többségében vegyipari módszerekkel – csökkentett koffeintartalom található; ennek neve a „koffeinmentes kávé”."
+    },
+    {
+        "id": "09cx8",
+        "description": "Az ujj az emlősök, így például a főemlősök közé tartozó emberek végtagjain található tapintószerv."
+    },
+    {
+        "id": "0hz0h",
+        "description": "A fog egy látható korona és egy, az állcsontokban rögzülő gyökér alkotta kemény szerv. A gerinceseknél fejlődött ki. Fő funkciójuk a táplálék megragadása, és – az emlősöknél – az emésztést megkönnyítő felaprózása, a rágás. Az embernél szerepet kapnak a beszédhangok képzésében, az esztétikai megjelenésben, egyes állatoknál pedig fegyverként szolgálnak. A törzsfejlődés során ezen funkcióknak megfelelően alakultak ki a különböző fogmorfológiák. Például a növényevőknek több az őrlőjük, és a ragadozóknak jól fejlett szemfoguk van.\nA fogak színe a világossárgától a szürkésfehérig bármilyen lehet. Idővel viszont sötétebbek, sárgábbak lesznek mivel az átlátszó zománc kopik és az alatta lévő dentin színe érvényesül.\nAz emberi szervezetben két rend fogazat fejlődik ki. Az első rend, az ún. tejfogazat, a születés után hat hónappal kezd megjelenni, a maradandó fogak pedig a hatodik életév után. Embernél a tejfogak száma 20, a maradandó fogaké 32. Egyes állatokban csak egy rend fog fejlődik ki, másoknál az élet egész folyamán cserélődnek."
+    },
+    {
+        "id": "031n1",
+        "description": "A láb az állatok egy részénél a szilárd aljzaton való helyváltoztatás szerve melyet neveznek mozgásszervnek vagy végtagnak is. Az állatvilágban változatos formái alakultak ki. Tágabb értelemben a gerinctelenek lábtípusai is ide sorolhatók. A szárazföldi gerincesek főként járásra szolgáló lábai általában ötujjúak. Szűkebb értelemben a láb az emlősállatok mellső és hátsó, és az ember hátsó végtagjának a bokától az ujjak hegyéig tartó szakasza."
+    },
+    {
+        "id": "0dzdr",
+        "description": "A mellkas az emberi test, az emlősök és bizonyos más állatokfajok testének része. Az ember törzsének nyak és has közötti része. Az emberben olyan védett üregrendszert, a kétoldali, páros mellhártyaüreget és a tüdőket, és a középső, páratlan gátort határolja, amelyek életfontos szerveket tartalmaznak. A mellkasfal mechanikailag védi ezeket a szerveket a külső behatásoktól. A mellkas aktív mozgásival és rugalmasságával fontos szerepet játszik a légzésben. A légzőizmok nagy része a bordákon rögzül. A bordaközökben is légzőizmok vannak, nevezetesen: a külső bordaközi izmok, amelyek belégző izmok, és a belső bordaközi izmok, amelyek kilégző izmok."
+    },
+    {
+        "id": "025kyy",
+        "description": "A homlok az arc felső, a szemöldökök felső szélétől a hajkorona alsó széléig terjedő része. Alapját a homlokcsont pikkelyrésze képezi. Csontos koponyán a homlokcsont pikkelyrészének szemöldökív feletti részét soroljuk ide. Kétoldali szimmetrikus részek varratának összecsontosodásával jön létre. A varrat maradványa esetenként a csont orrgyök fölötti részén megfigyelhető.\nEmberi test\nKoponya\nArc"
+    },
+    {
+        "id": "0283dt1",
+        "description": "A száj vagy szájüreg a tápcsatorna felvevő része, amelyen keresztül az ezzel rendelkező élőlények az ivóvizet és az ételeket képesek magukhoz venni. A száj segítségével történik meg a táplálék megragadása, letépése, emésztésre való előkészítése, majd lenyelése. Az előkészítés felaprózásból és nyállal való átitatásból áll. A szájüregben az emésztés is elkezdődik a nyálban található enzimek által."
+    },
+    {
+        "id": "03q69",
+        "description": "A haj az emberi fejen található szőrzet, amely mechanikailag is védi a koponyát. Emellett a kinézetünk meghatározó tényezője, a dús hajon, frizurán is múlik, hogy szépnek látjuk-e a másikat. Hajunk minőségét szüleinktől örököljük, de környezeti tényezők és a táplálkozás is jelentősen befolyásolják állapotát. Bár hajunk fényét elsősorban egészségi állapotunk és hangulatunk határozza meg, azért hajápolási szokásainkon is sok múlik."
+    },
+    {
+        "id": "0dzd8",
+        "description": "A nyak a fejet a törzstől elválasztó anatómiai képlet. A nyak csak a szárazföldi gerincesekre jellemző, a mozgatható nyak a hüllőknél alakult ki. Felső vége elöl az állkapocs-csont és hátul a nyakszirti bütyök, alul az első hátgerinci és az utolsó nyakcsigolya ízesülése határolja."
+    },
+    {
+        "id": "0fjkt",
+        "description": "A nyelv található jellegzetes alakú, nyálkahártával borított, izmos képződmény. Meghatározó szerepe van a rágásban és falatképzésben, a beszédben, bizonyos arckifejezések létrehozásában. Az emberi nyelv két részből áll: az elülső részéből (pars papillaris linguae), amely a külső csíralemezből (ectodermából) származik, valamint a hátsó részből (pars follicularis linguae), amely a belső csíralemezből (endodermából) származik. Ez utóbbit nevezzük nyelvmandulának is (tonsilla lingualis). Ennek sajátossága, hogy nyiroktüszőit az alatta, a nyelv állományába beágyazott nyálmirigyek tisztán nyákos (mucinosus) mirigyek kivezető csövei átöblítik. Ez megakadályozza a kórokozókat tartalmazó anyagok pangását, így ennek a mandulának a gyulladásai gyakorlatilag nem fordulnak elő. A két részt egy enyhén V-alakban széttérő határbarázda (sulcus terminalis) határolja."
+    },
+    {
+        "id": "039xj_",
+        "description": "A fül az ember és az emlősök páros halló és egyensúly-érzékelő érzékszerve. Részei a külső fül, a középfül és a belső fül, ami a halláson kívül az egyensúly-érzékelést is szolgálja."
+    },
+    {
+        "id": "0k65p",
+        "description": "A kéz a főemlősök felső végtagjának fogószerve. A legtöbb főemlős hüvelykujjának szembeállíthatósága a pontos fogást segíti. A többi szárazföldi állat megfelelő testrészét inkább mellső lábnak, vagy mancsnak nevezik."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Az orr a gerincesek fején található testrész, amely a felső légutak első szakaszát alkotja. Az orr teszi lehetővé a légzést. Az emlősöknél egyúttal a szaglásra szolgáló érzékszervet, a szaglószervet is tartalmazza."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Az anatómiában egy állat feje a test rosztrális részén található, általában az agyat és a szemeket, a füleket, orrot és szájat tartalmazó testrész. A nagyon egyszerű állatok egy részének nincsen feje, de a legtöbb kétoldalian szimmetrikus állatnak van."
+    },
+    {
+        "id": "014sv8",
+        "description": "A szem tágabb értelemben olyan érzékszerv, amely a lehetséges ingerületek közül az elektromágneses sugárzás fény tartományának, a 200-től 10 000 nanométerig terjedő spektrumának érzékelésére alkalmas. Az emberi szem ennek a tartománynak csak egy töredékét képes érzékelni. A szem a mai állatvilágban rendkívül sokféle lehet. Az evolúció során a legegyszerűbb fényérzékelő sejtek bonyolult képalkotó szervekké váltak egyes csoportokban. Fényérzékelésre a növények is képesek, de nem szem révén."
+    },
+    {
+        "id": "06rrc",
+        "description": "A cipő a lábviseletek egyik fajtája, alapvető feladata az emberi láb védelme a külvilág hatásaival szemben. A cipőknek meglehetősen sok eltérő változata alakult ki a rendeltetésük és a viselő társadalmi szerepének függvényében. Hasonlóan összetett képet mutatnak az efféle lábbelik megjelenésük alapján: sarkuk lehet sima vagy magas – az utóbbit a nyugati társadalmak a nőies öltözködés egyik jelképének tartják –, készülhetnek bőrből vagy vászonból is, valamint az edzőcipők talpa lehet műanyag."
+    },
+    {
+        "id": "019b80",
+        "description": "A pulóver olyan, viszonylag vastagabb ruhadarab, amely az emberi test törzsének és karjainak a melegítésére és védelmére szolgál. Rendszerint póló, ing, blúz vagy más felsőruházat felett hordják. Régebben leginkább gyapjúból készítették, manapság azonban már a pamut és a különféle műszálas anyagok, illetve ezek keveréke a meghatározó. Kezelése mosással, vasalással, mágikus hengerrel és boholytalanítóval történik."
+    },
+    {
+        "id": "01b638",
+        "description": "A csizma hosszúszárú lábbeli. Külön speciálitás a női csizma, némely vidéken még a piros csizma, melyet a jobbmódú paraszt nők viseltek, továbbá a díszmagyarhoz való színes csizmák stb., melyeknek elkészítésében a magyar mesteremberek kiváló ügyességet tanusítanak. A csizmák formája és minősége különben a különböző osztályok igényeihez alkalmazkodik s másforma csizmát visel a földműves, jobbat a földes gazda, másneműt a mesterember s finomabbat az úri osztály. E cikk nagy kelendőségénél fogva a csizmadiák a magyar városokban nagy számban voltak s egyes tiszta magyar vidékeken nagy számban találhatók voltak még 1900 körül is, úgy ahogy hajdan a céhekben, úgy később az ipartestületben, illetve más társulati kötelékben sok helyütt domináló szerepet vittek."
+    },
+    {
+        "id": "013s93",
+        "description": "A T-ing eredetileg amerikai találmány. Rövid ujjú, kerek nyakkivágású, gallér, gombolás és zseb nélküli kötött ing, hossza általában kissé a csípő alá ér, az ujja hossza nem éri el a könyököt. Anyaga általában pamut, esetleg pamut-poliészter keverék. A klasszikus T-ing egyszínű, de a divat hatása alatt különbözőképpen mintázott változatai is elterjedtek. Eredetileg alsóruházatként viselték, újabban azonban a szabadidő-viselet nélkülözhetetlen ruhadarabja és egyben divatcikk is. A köznyelv rendszerint póló néven hivatkozik rá, de a - teljes nevén - pólóing más formájú ruhadarab."
+    },
+    {
+        "id": "01xygc",
+        "description": "A kabát egy általában csípőn alul érő, esetleg derékban szabott, hátul hasított vagy toldott, szögletes szárnyú, gyakran kétsorgombos ruhadarab. Nők és férfiak egyaránt használják. Általában sötét színű szövetből készülnek, ritkábban bársonyból, vagy báránybőrből. Kihajtható gallérja gyakran prémes."
+    },
+    {
+        "id": "0fly7",
+        "description": "Az eredeti farmernadrág egy bizonyos fajta sávolykötésű pamutszövetből, a „denim”- ből készül, jellemzően kék színű. A magyaron kívül finnül és szerbül is „farmer”-nek nevezik; számos nyelvben ezzel szemben átvették az amerikai „jeans” [dʒiːnz] elnevezést, esetleg az adott nyelvben alkalmazott kiejtés szerinti átírással, vagy valami más szóval jelölik, aminek jelentése többnyire „cowboynadrág”, vagy erre utaló más kifejezés.\nA farmernadrág eredete a 19. századra nyúlik vissza, amikor munkaruhaként hordták, de a 20. század második felében – az 1960–70-es évektől – már divatcikk lett és más ruhadarabokat, sőt cipőfelsőrészt, táskát stb. is készítettek a farmerszövetből. Ma a szabadidő-ruházat és a hétköznapi viselet szerves részét képezi.\nA napjainkig fennmaradt legrégebbi Levi’s farmernadrág az 1880-as években készült és 1998-ban egy ásatásnál került elő Nevadában."
+    },
+    {
+        "id": "07mhn",
+        "description": "A nadrág a láb és az altest takarására és melegen tartására viselt elágazó ruhadarab, a mai ember számára általános ruhakellék, az ókori lovasnomád népektől származik. A magyarok történelme során mindig alapvető ruhadarab volt, Nyugat-Európában azonban csak a 16. század óta általános a használata."
+    },
+    {
+        "id": "0174n1",
+        "description": "A kesztyű a kézre felhúzva viselt ruhadarab, amit az emberek már a legősibb időkben is használtak a hideg ellen és kezük védelmére."
+    },
+    {
+        "id": "01n4qj",
+        "description": "Az ing a ruházati iparhoz tartozó iparcikk, mely az emberi test közvetetlen befedésére szolgál. Az ing rendesen széles szabású, mely a férfiaknál rövidebb, elől nyílt, hosszú ujjakkal, a nőknél hosszabb, és rendesen vagy ujjak nélkül, vagy csak nagyon rövid váll-ujjakkal. Az ing manapság nagy mértékben alá van vetve a divatnak. Készül vagy tiszta lenszövetből, amely a legdrágább és legfinomabb, vagy pamutszövetből. Újabb időben felkapták a Jäger-féle gyapjúingeket is. Az ingről legrégibb adataink a VIII. századból vannak, ahol először történik arról említés és így valószínű, hogy csak akkor kezdették viselni. De hogy mily fényűzéshez tartozhatott ez még a későbbi századokban is, arra nézve bizonyságot szolgáltat azon körülmény, hogy Franciaországban a XV. században VII. Károly király nejének volt az első lenvászon inge. A rendes ruházati tárgyat képező ingen kivül van még páncéling, mely védelmi eszközül szolgált, s amely acélból vagy más fémekből készült; miseing, mely egyházi célokra szolgál stb."
+    },
+    {
+        "id": "01xyhv",
+        "description": "Az öltöny jellemzően férfiak által viselt két- vagy háromrészes öltözet, amely zakóból, nadrágból és mellényből áll. A zakó gombolásától függően beszélünk egy-, illetve kétsoros öltönyről. Különbséget teszünk a sportos és a klasszikus öltönyszabás között, továbbá attól függően, hogy milyen alkalomból viselik, megkülönböztetünk szabadidős, utcai, üzleti és városi öltönyt, valamint reprezentációs öltönyöket. Az aktuális évszaknak megfelelően van nyári és téli öltöny is."
+    },
+    {
+        "id": "01767_",
+        "description": "A harisnya egy ruhadarab, amelynek célja a lábfej és a termék kivitelétől függő magasságig a lábszár öltöztetése és védelme. Ennek megfelelően esztétikai és funkcionális szerepe van, és kivitelét egyrészt a mindenkori divat, másrészt a betöltendő védelmi illetve egészségügyi szerep határozza meg. Sokféleségét még annak is köszönheti, hogy megjelenése, viselési kényelme, tartóssága függ az előállítás módjától is.\nA harisnya rövidebb szárú változata a zokni.\nA Magyar Értelmező Kéziszótár meghatározásai szerint:\n⁕harisnya: a lábra simuló, térden felül érő kötött páros ruhadarab;\n⁕térdharisnya: a térd aljáig érő harisnya;\n⁕harisnyanadrág: nadrág és harisnya kombinációjából álló ruhadarab;\n⁕zokni: térden alul, bokán felül érő rövid harisnya;\n⁕bokazokni: a bokánál nem sokkal feljebb érő zokni;\n⁕titokzokni: a cipőből ki sem látszó, vékony zokni.\nMegemlítendő még a lábtyű is, amely a kesztyűhöz hasonló ötujjas harisnya vagy zokni.\nA „harisnya” a magyar köznapi szóhasználatban ma gyakorlatilag a női finomharisnyát jelenti, azaz azt a harisnyatípust, amely nagyon vékony, ma már kizárólag szintetikus filamentfonalból készül. A textilipari szaknyelvben azonban a „harisnya” általánosabb fogalom, a „harisnyagyártás”, „harisnyakötőgép”, „harisnyaipar” stb. magában foglalja a harisnyák, zoknik, sőt a harisnyanadrágok előállítását, illetve az ezekhez szükséges gépeket és eljárásokat egyaránt. A különböző harisnyák és zoknik a kötőipar legfontosabb, legnagyobb mennyiségben előállított termékei közé tartoznak."
+    },
+    {
+        "id": "01m2v",
+        "description": "A számítógépes billentyűzet vagy egyszerűen billentyűzet az írógép mintájára kialakított számítógépes beviteli eszköz. A billentyűzet az írott szöveg bevitelére szolgál, valamint befolyásolható vele a számítógép működése. Fizikailag a billentyűzet a főleg négyszög alakú billentyűk, más néven gombok elrendezéséből áll. A gombokra különböző karakterek és feliratok vannak gravírozva vagy nyomtatva; a legtöbb gomb esetében a gomb minden lenyomása megfelel az adott szimbólum leírásának. Egyes szimbólumok leírásához azonban egyszerre több gomb lenyomására is szükség lehet, míg bizonyos gombok lenyomása csak a számítógép vagy a billentyűzet működésére van befolyással, és nem ír le semmilyen jelet vagy karaktert. A billentyűzet gyakori kiegészítője a modern számítógépeken az egér.\nA szimbólumok elrendezése a billentyűzet gombjain igen változó. A különböző billentyűzetkiosztások azért alakultak ki, mert más embereknek más szimbólumokra volt szükségük, többnyire a különböző nyelvek különböző betűi miatt. Hazánkban legelterjedtebb a Qwertz billentyűzetkiosztás. De léteznek speciális billentyűzetek matematikai, gazdasági és programozási célokra is."
+    },
+    {
+        "id": "020lf",
+        "description": "A számítógépes egér kézi mutatóeszköz számítógépekhez, egy kis, kézhezálló tárgy egy vagy több gombbal. Az egér belsejében található érzékelő felismeri és továbbítja a számítógép felé az egér mozgását egy sima felületen. Az egér mozgatása többnyire a monitor képernyőjén megjelenő egérmutató helyzetét befolyásolja. Az egér gombjainak használatát kattintásnak nevezik. Az egér a billentyűzet mellett az egyik legfontosabb beviteli eszköz. Többféle típusa van: mechanikus, görgős, hanyattegér, infra vagy optikai, és lézertechnikával működő.\nAz egér név onnan ered, hogy az első ilyen eszközök alakja a zsinórral együtt emlékeztetett az egér nevű rágcsálóra."
+    },
+    {
+        "id": "02bc6",
+        "description": "Az adatbázis azonos minőségű, többnyire strukturált adatok összessége, amelyet egy tárolására, lekérdezésére és szerkesztésére alkalmas szoftvereszköz kezel.\nAz adatbázis fogalma nem keverendő össze az adatbázis-kezelővel, amely az adatbázis működtetésére, rendszerszintű és felhasználói folyamatainak szervezésére szolgál. Sok esetben azonban mégis egymás szinonimájaként használjuk, ha ez félreértésre nem ad okot.\nAz adatbázisok célja adatok megbízható, hosszú távon tartós tárolása, és viszonylag gyors visszakereshetőségének biztosítása."
+    },
+    {
+        "id": "029kh",
+        "description": "Digitális: valamely változó jelenségnek, vagy fizikai mennyiségnek diszkrét, megszámlálhatóan felaprózott, s így számokkal meghatározható, felírható értékeinek halmaza.\nA digitális rendszerek sokkal inkább számokat használnak bevitelhez, feldolgozáshoz, átvitelhez, tároláshoz, vagy megjelenítéshez, mint az értékek folytonos spektrumát, vagy a nem-numerikus szimbólumokat, mint a betűk, vagy ikonok.\nA különbség a „digitális” és az „analóg”, vagy „szimbolikus” között a bevitelnek, az adatok tárolásának, és az átvitelnek, egy műszer belső működésének, vagy a megjelenítés fajtájának módjában rejlik. A szó a latin digit, digitus szavakból ered. A szavak jelentése ujj, mert akkoriban az ujjakat lehetett használni diszkrét számolás céljára.\nA „digitális” szót leggyakrabban a számítástechnika és az elektronika területén használják, különösen azokon a területeken, ahol a való világ információit konvertálják át bináris számokká. Ilyenek például a digitális hang és a digitális fényképezés. A digitális adat-átvivő jelek az elektronikus, vagy optikai impulzus két lehetséges értéke közül az egyiket vehetik fel. A logikai 1 vagy 0 értékeket."
+    },
+    {
+        "id": "020s1",
+        "description": "Állománynak vagy fájlnak nevezzük a logikailag összefüggő adatok halmazát, tömbjét. Tárolásuk bármilyen adathordozón történhet. Két féle fájlt különböztetünk meg. Az első a processzor által végrehajtható utasításokat tartalmazó futtatható állomány. A második típus az adatállomány, mely a futtatható programok számára képes értelmezhető adatot, adatokat biztosítani."
+    },
+    {
+        "id": "02nf_",
+        "description": "Az e-mail az angol electronic mail kifejezésből származik, ami „elektronikus posta”-ként vagy „villanyposta”-ként fordítható le, de használatban van a drótposta és villámposta kifejezés is. Az elnevezés utal az írás és továbbítás módjára, amely teljes egészében elektronikus úton megy végbe. A hagyományos levéltovábbítást úgynevezett csigaposta néven emlegetik internetes körökben. A mai e-mail-rendszerek szinte kivétel nélkül az internetet használják közvetítőnek, és ezáltal az e-mail az internet használatának egyik legkedveltebb formája lett.\nA magyar nyelvben kétféle jelentéssel is bír az e-mail kifejezés:\n⁕az eredeti jelentése a postához hasonló elektronikus üzenetkézbesítési szolgáltatás, valamint ezen túl a gyakorlatban\n⁕az általa továbbított üzenetet, levelet is értjük alatta."
+    },
+    {
+        "id": "01zrkr",
+        "description": "Az ikon a számítástechnikában egy kis képet jelent, melynek mérete általában 16×16 és 128×128 pixel között van, és egy fájlt, könyvtárt, alkalmazást vagy eszközt jelképez egy operációs rendszerben. Az ikonokat először a 1970-es években fejlesztették ki a számítógépes interfészek használatának megkönnyítésére a kezdő felhasználók számára a Xerox Palo Alto Research Center kutató központjában. Az ikonalapú felhasználói felületeket később az Apple Macintosh és a Microsoft Windows operációs rendszerek terjesztették el.\nIkonok a számítógépes alkalmazások eszköztáraiban és a menüiben is megtalálhatók a program különféle funkcióinak jelzésére."
+    },
+    {
+        "id": "02_0t4",
+        "description": "interaktivitás rendezett információk befogadásának aktív folyamata, amelyben a befogadó fél a befogadás során döntéseket hoz, ezt a megjelenítő felé visszajelzi, és a folyamat ennek megfelelően, változásokkal halad tovább. Jellemző példája egy interneten lévő oldal, ahol különböző menüpontok között lehet válogatni, majd továbbhaladni.\nAz interaktivitás a felhasználó részéről mindig cselekvést feltételez. Feltétele továbbá egy olyan számítógépes program, ami a felhasználótól érkező jeleket fogadni, értelmezni tudja, és az annak megfelelő, következő akciót létrehozza.\nJellemző példák:\n⁕rajzolóprogram\n⁕számítógépes játék\n⁕interneten olvasható könyvtár, lexikon, különböző gyűjtemények\n⁕Wikipédia"
+    },
+    {
+        "id": "03rlt",
+        "description": "Az internet olyan globális számítógépes hálózatok hálózata, ami az internet protokoll révén felhasználók milliárdjait kapcsolja össze és lehetővé teszi olyan elosztott rendszerek működtetését, mint például a WWW.\nAz internet kifejezés nemzetközileg elterjedt szó, az angol eredetű internetwork szóból ered, mely magyarul leginkább ’hálózatok hálózata’-ként adható vissza, szó szerint hálózatok közötti-t jelent. Az internet az egész világot körülölelő számítógép-hálózat, hatalmas rendszer, amely kisebb számítógép-hálózatokat fog össze. Ennek eredménye egyfajta kibertér, amely a valódi világ mellett alternatív teret biztosít. Az internet a számítógépek összekötéséből jött létre, hogy az egymástól teljesen különböző hálózatok egymással átlátszó módon tudjanak elektronikus leveleket cserélni, állományokat továbbítani.\nAz internet úgynevezett IP-alapú hálózat. Mivel ez a protokollkészlet több hálózatnak is alapja, ezért a globális hálózatot helyi hálózatok, intranetek, különböző távolsági hálózatok alkotják. Mindeközben az adatok a legkülönfélébb fizikai közegekben utazhatnak telefonvonalak, különböző hálózati kábelek vagy kommunikációs műholdak segítségével. Röviden: az internet nem fizikai hálózat, hanem annak módja, ahogy az egymástól különböző hálózatokat összekötik, hogy egymással kommunikálni tudjanak."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "A felhő alapú számítástechnika a számítástechnika egy ágazata. Többféle felhő alapú szolgáltatást különböztethetünk meg, a közös bennük az, hogy a szolgáltatásokat nem egy dedikált hardvereszközön üzemeltetik, hanem a szolgáltató eszközein elosztva, a szolgáltatás üzemeltetési részleteit a felhasználótól elrejtve. Ezeket a szolgáltatásokat a felhasználók hálózaton keresztül érhetik el, publikus felhő esetében az interneten keresztül, privát felhő esetében a helyi hálózaton vagy az interneten.\nA felhő alapú számítástechnika a 2010-es évek egy fő irányának számít a számítástechnikában."
+    },
+    {
+        "id": "07wcf",
+        "description": "Az Universal Serial Bus manapság nagyon elterjedt számítógépes csatlakozó, melynek kidolgozását a vezető számítástechnikai vállalatok által alapított USB Implementers Forum, Inc. kezdte 1994-ben. Előnyös tulajdonsága, hogy teljeskörűen Plug and Play, az összes modern operációs rendszer támogatja, és azonos felépítésű, akár PC akár Mac számítógép része."
+    },
+    {
+        "id": "0mynm",
+        "description": "A webkamera internetkapcsolattal rendelkező számítógépekhez kapcsolt kis videokamera, melynek képét akár más internetezők is nézhetik. A webkamerákat el lehet helyezni nyilvános helyen és a saját dolgozószobánkban is. Képminősége jóval gyengébb, mint a kézi videokameráké. Manapság leggyakoribbak az 1,3 megapixeles webkamerák. Ezek már elfogadható minőségben tudják megoldani másodpercenként 25 kép megjelenítését, amely szaggatásmentes mozgóképet biztosít.\nFőbb gyártók: Creative Technology, Genius, Labtec, Logitech, Microsoft.\nAz egyszerűbb eszközök ára kb. 2500 forinttól kezdődik, de persze van 20 000 forint feletti árú példány is. Ezekbe többféle extrát szerelhetnek, pl. automata mozgáskövető rendszert.\nA webkamera-fejlesztők törekednek a chat-programokkal való kompatibilitás megoldására."
+    },
+    {
+        "id": "02y1vz",
+        "description": "A Facebook amerikai alapítású ismeretségi hálózat, amely 2004. február 4-én kezdte működését. Eredeti neve a Thefacebook volt. A világ egyik legnagyobb ismeretségi hálózata, amely 2011 februárjára már több mint 637 millió regisztrált felhasználóval működött. A 2009. januári Compete.com rangsorolása alapján a Facebook a világ leggyakrabban használt szociális hálózatává vált, a havi aktív felhasználók száma szerint, megelőzve a My Space nevű közösségi oldalt. 2009. november 25-én Mark Zuckerberg bejelentette, hogy a Skype és a Twitter mintájára tőzsdére viszi a Facebookot. 2011 tavaszán a tőzsdei bevezetést még mindig korainak találták, és az időpontját 2012-re tették, közben azonban a Facebook értékét folyamatosan számítgatták és felbecsülték.A tőzsdei bevezetésre végül 2012. május 18-án délután 17 órakor került sor.A következő mérföldkő 2012. október 4. – ezen a napon a Facebook elérte az 1 milliárd regisztrált felhasználót."
+    },
+    {
+        "id": "0508p",
+        "description": "Az alaplap a központi vagy elsődleges áramköri lapkája egy számítógépes rendszernek vagy más összetett elektronikai rendszernek.\nA számítógép elektronikus elemei az alaplapra vagy alapkártyára vannak építve. Az alaplap egy többrétegű nyomtatott áramköri lap, amelyen az egyes elemek fogadására több különböző méretű és alakú csatlakozó, illetve néhány előre beépített eszköz helyezkedik el. Ezek az elemek, illetve a kialakított csatlakozók eleve meghatározzák, hogy az alaplap milyen processzort tud fogadni, milyen frekvencián dolgozik, mekkora a RAM memória, hány és milyen fajtájú bővítőkártyahely található rajta, milyen a felhasználható memória típusa és maximális mérete stb. Az alaplapon olyan csatlakozók is találhatók, amelyek a „külső” kapcsolatokra szolgálnak: tápfeszültség, billentyűzet, egér csatlakozó, gombakkumulátor helye a CMOS RAM számára. Ugyancsak ide kapcsolódnak a számítógép előlapján található jelzőfények érintkezői, a házon található kapcsolók, stb.\nA legtöbb mai PC-n az alaplapra rögzíthető a mikroprocesszor, a RAM memória, a VGA, és egyéb bővítőeszközök a megfelelő foglalatokon, síneken, csatlakozókon. Az ATX szabványú számítógép-házak elterjedésével, és gyakorlati egyeduralmával összhangban a legtöbb külső csatlakozó egy meghatározott méretű és helyzetű úgynevezett hátlapi csatlakozóra került. Itt a legtöbb esetben a következőket találjuk:"
+    },
+    {
+        "id": "07g0_",
+        "description": "Hága Hollandia harmadik legnagyobb városa Amszterdam és Rotterdam után 475 580 fős lakosságával és 100 km²-es területével. Az ország nyugati részén helyezkedik el, Dél-Holland tartomány székhelye.\nHága jelenleg az ország közigazgatás székhelye, de nem Hollandia fővárosa: ezt a szerepet a holland alkotmány Amszterdam számára szabta ki. Székhelye az Eerste Kamernek vagy Senaatnak és a Tweede Kamernek. E kettő alkotja a „Staten Generaal”-t. Beatrix holland királynő Hágában él és dolgozik, valamint az összes nagykövetség és a minisztériumok is itt találhatóak, a Hoge Raad der Nederlanden-nel, a Raad van State-val és számos érdekvédelmi szervezet központjával egyetemben."
+    },
+    {
+        "id": "02_286",
+        "description": "New York az Amerikai Egyesült Államok legnépesebb városa. Az amerikai kontinens 2. legnagyobb városa. Központja a New York-i agglomerációnak, amely világviszonylatban is a legnépesebbek közé tartozik. A világ vezető globális városa. Az USA és a Föld első számú, üzleti, kereskedelmi, egészségügyi, oktatási, kutatási és fejlesztési, technológiai, média, művészeti és szórakoztatóipari központja. A világ legnagyobb és legjelentősebb pénzügyi központja. Tőzsdéje a legnagyobb a világon. A világgazdaság három nagy centruma közül a legmeghatározóbb szerepet tölti be. Itt található az ENSZ, és a világ legjelentősebb transznacionális vállalatainak és legnagyobb bankjainak a székhelye is. A világ egyik leglátogatottabb városa és a legtöbb GDP-t termelő város is egyben. Igen sokrétű és világhírű kulturális élete miatt a Föld kulturális fővárosaként is szokás emlegetni. Egyike a világ négy nagy divat fővárosának. A globális zeneipar és a nemzetközi diplomáciai élet legfontosabb központja. Repülőtere, a John F. Kennedy nemzetközi repülőtér az egyik legforgalmasabb a világon és az Egyesült Államok vezető légikikötője a nemzetközi légi utasforgalom tekintetében. Több félszigeten és szigeten, illetve részben a szárazföldön fekszik az Atlanti-óceán nyugati partján, a Hudson folyó torkolatában; szárazföldi területe 789 km², lakossága az agglomeráció nélkül, 8 453 558 fő."
+    },
+    {
+        "id": "0430_",
+        "description": "Jeruzsálem Izrael fővárosa, továbbá politikai, jogi és vallási központja, több kultúra találkozópontja, a három ábrahámi világvallás szent helye."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kairó al-Káhira, Egyiptom fővárosa, lakossága mára meghaladja a 16 millió főt, Afrika és a Közel-Kelet legnagyobb városa, a világ 13. legnépesebb városa. Míg a város hivatalos neve al-Káhira, a köznyelvben általában csak az ország nevével illetik, amit a helyi nyelvjárásban Maszrnak ejtenek. Nagy Kairó 3435 négyzetkilométeres helyen fekszik.\nKairó városhatárain belül 7 734 614 fő él az adatok szerint, de az agglomerációt is ideszámítva összesen 16 970 000 lakos él a vonzáskörzetében. A nigériai Lagos régiója mellett ez Afrika legnagyobb agglomerációja. Mindazonáltal Egyiptomban nincs a lakóhelyekre bejelentkezési kötelezettség, nem hivatalos becslések szerint a nagytérségben 25 millióan élnek, ami az ország lakosságának közel harmada.\nKairó a Nílus folyó partján és szigetein fekszik, Egyiptom északi részén, délre attól a ponttól, ahol a folyó kilép a sivatagi völgyéből és három részre ágazik a Nílus-deltát kialakítva.\nA várost egy kormányzó irányítja, akit közvetlenül az elnök nevez ki erre a posztra. Kairó politikai, gazdasági, és kulturális központja Egyiptomnak és a Közel-Keletnek is. Itt ülésezik az egyiptomi kormány, itt található minden állami és vallási központi hivatal és számos diplomáciai képviselet. Ezen kívül egyetemek, főiskolák, színházak, múzeumok és emlékművek sokaságai is hozzátartoznak a sokszínű városképhez. Míg Kairó nyugati részén főleg kormányzati épületek vannak, addig a keleti részen több száz műemlék jellegű mecset helyezkedik el. Az óvárosban található iszlámista építőművészeti remekművek 1979 óta az UNESCO világörökség része."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Szöul a Koreai Köztársaság fővárosa és egyben legnagyobb városa is, tartományi jogú város a Koreai-félszigeten, a Koreai Demilitarizált Övezettől délre. A dél-koreaiak egynegyede lakik itt, elővárosokkal együtt az ország lakosságának csaknem a fele. A városban 2011-ben mintegy 279 000 külföldi élt.\nA Han folyó két partján fekvő város történelme I. e. 18-ra nyúlik vissza, a mai Szöul délkeleti részén ekkor alapította meg a fővárosát Pekcse, a három koreai királyság egyike. Szöul a történelmi Korea fővárosa volt 1394-től 1948-ig, egy rövid időszaktól eltekintve.\n2012-ben a világvárosok listáján a nyolcadik helyet foglalta el, a világ egyik pénzügyi és kereskedelmi központja. Itt található a legnagyobb koreai konglomerátumok, például a Samsung, az LG Group és a Hyundai székhelye. A Forbes magazin 2008-ban a világ hatodik gazdaságilag legerősebb városaként jelölte meg. Szöul az ázsiai országok egyik legkedveltebb turisztikai célpontja, többek között a thaiok, a japánok és a kínaiak körében is, részben a koreai hullám hatásának köszönhetően.\nSzöul rendkívül fejlett informatikai infrastruktúrával rendelkezik. Itt vezették be először a DMB mobiltévét és a vezeték nélküli nagy sebességű mobilinternetet. A városban vezeték nélküli szélessávú internet hotspotok találhatóak és 2015-re a városvezetés tervei szerint minden közterületen ingyenesen elérhető lesz a szolgáltatás, beleértve a tömegközlekedési eszközöket és a taxikat is."
+    },
+    {
+        "id": "031y2",
+        "description": "Firenze, Olaszország egyik nagyvárosa, egyben Toszkána régió székhelye és kulturális központja.\nAz Arno folyó két partján, annak völgyében elterülő város nagyon hosszú múltra tekint vissza. Hosszú ideig a Medici család uralta. 1865-1870 között az Olasz Királyság fővárosa volt. Számtalan történelmi és művészeti látványosságnak ad otthont. A várost a „reneszánsz bölcsőjeként” is emlegetik. Történelmi belvárosát 1982-ban az UNESCO a Világörökség részévé nyilvánította. 1986-ban Európa kulturális fővárosa volt."
+    },
+    {
+        "id": "0156q",
+        "description": "Berlin Németország fővárosa, egyben Németország egyik tartománya és a Berlin\/Brandenburg Régió centruma. 3,5 millió lakosával Németország legnépesebb és kiterjedésében is legnagyobb városa.\nTörténete során Berlin többször volt német államok fővárosa. 1871–1918 között a Német Császárság, 1918–1933 között a Weimari köztársaság, 1933–1945 között a Harmadik Birodalom, 1945–1989 között az NDK, majd 1990-től az egyesült Németország fővárosa.\nBerlin a politika, média, kultúra és tudomány egyik fontos európai központja. A város fontos közlekedési csomópont és egyike Európa leglátogatottabb nagyvárosainak. Mindezekben szerepet játszanak nemzetközileg elismert egyetemei, kutatóintézetei, operái, színházai és múzeumai. Berlin a világ minden tájáról vonzza a művészeket és a kulturális területen dolgozókat."
+    },
+    {
+        "id": "05qtj",
+        "description": "Párizs Franciaország fővárosa. Az ország északi részén a Szajna folyó partján terül el, az Île-de-France régió szívében. Párizs Európa egyik legnépesebb városa. Becsült népessége elővárosait nem számítva 2006 januárjában 2 167 944 fő volt, ám agglomerációival a Párizsi „unité urbaine” populációja 2005-ben több volt mint 9 millió fő, míg a Párizs „aire urbaine” 12 millió lakost számlál.\nA két évezreden keresztül fontos szerepet játszó Párizs ma a világ egyik vezető gazdasági és kulturális központja, befolyása a politikára, az oktatásra, a szórakoztatóiparra, a sajtóra, a divatra, a tudományra és a művészetekre a világ négy legjelentősebb városa közé emelte. A Région Parisienne Franciaország legfejlettebb területe, gazdaságának központja. 2006-ban 500,8 millió euróval a francia bruttó hazai termék egynegyedét adta. A világ 500 legjelentősebb vállalatából 38 székel Párizs számos üzleti negyedének egyikében. Jelentős nemzetközi szervezetek, mint az UNESCO, az OECD, az ESA és az ICC is párizsi központú.\nA világban Párizs a legnépszerűbb úticél a turisták körében több mint 30 millió évi látogatóval."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amszterdam a Holland Királyság fő- de nem székvárosa torkolatánál, az IJ partján fekszik. 1813 óta Hollandia fővárosa. Nevének jelentése: „gát az Amstelen”. A várost a XVII-XVIII. századi iratok Amstelerdam néven említik."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakar Szenegál fővárosa."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Janeiro a neve az államnak, továbbá Brazília egyik legismertebb városának. Sokak szerint egyben Dél-Amerika legszebb városa is. Számos esetben csak Riónak nevezik a várost. A Rio de Janeiróban születetteket szokták cariocas-nak nevezni. A város híres a szambáról, illetve a hotelekkel körbevett Copacabana, Ipanema, és Leblon nevezetű tengerpartjairól. Különösen ismert Rio az évente megrendezett Karneváljáról, a tengerpart melletti jellegzetes morró Cukorsüveg-hegyről, a Maracanã Stadionról és a hatalmas méretű Megváltó Krisztus-szoborról, ami a másik morró, a Corcovado-hegy tetején található. Szintén a városban található a Föld harmadik legnagyobb lakott területen belüli erdeje, a Tijuca-erdő.\nRio de Janeiro város lakossága 6 094 183 fő, területe 1182,3 km². Az elővárosaival együtt 11-12 millióra becsülik a lakosság számát. 1960-ig az ország fővárosa, jelenleg a második legnagyobb brazil város São Paulo mögött. A város polgármestere Eduardo Paes, Rio hivatalos dala 1960 óta a \"Cidade Maravilhosa\", melyet eredetileg indulóként írt André Filho még az 1935-ös karneválra.\nA 2014-ben Brazíliában megrendezendő FIFA Labdarúgó-világbajnokság egyik kijelölt helyszíne. 2016-ban Rio rendezheti meg a nyári olimpiát a Nemzetközi Olimpiai Bizottság döntése szerint."
+    },
+    {
+        "id": "01fdzj",
+        "description": "A torony olyan álló négy- vagy sokszöghasáb-, esetleg henger alakú, alapterületéhez viszonyítva nagy magasságú építmény, melynek funkciója meghatározza építését, berendezését. Állhat önállóan: zikkurat, minaret, harangtorony. Más építményekkel együtt: őrtorony, tűztorony, kilátótororny, hídtorony, kaputorony, lakótorony, a vár részeként donzson. Az egyes épületek tornyai, akár templomé, akár váré vagy más világi építményé, régi rendeltetésüket a modern korig megtartották. A modern építészet tornyai látványelemek vagy infrastrukturális szempontból fontosak."
+    },
+    {
+        "id": "0hpnr",
+        "description": "A kórház komplex egészségügyi-intézmény, amely speciális tudományos berendezések felhasználására és működtetésére szakosodott, erre kiképzett személyzettel a modern orvostudomány problémáinak megoldását valósítja meg. A kórház illetékes hatóság és szakmai felügyelet által elismert, engedélyezett fekvőbeteg-gyógyintézeti keretekkel bíró, fekvőbeteg ellátást nyújtó egészségügyi intézmény, ahol diagnózis-terápiás, rehabilitációs, oktatási és szociális szolgáltatás nyújtanak állandó orvosi irányítás és felügyelet mellett.\nA kórház mindezeket együtt koordinálja egy közös cél, a jó egészség helyreállítása és fenntartása érdekében. Tehát ez egy nagyon összetett szervezet és munkahely, amely azzal a céllal működik, hogy a lakosság széles körének egészségi állapotát javítsa és helyreállítsa, speciális ellátást biztosításával, mint gyógyítás, táplálás, vérellátás, betegtanácsadás és képzett szakemberek terén orvosi és sebészi team segítségével. A kórház a társadalom professzionális alrendszerében az egészségügyi ellátó rendszer része, ahol a gyógyító tevékenység bináris kódja az egészség és betegség viszonya."
+    },
+    {
+        "id": "0k05r",
+        "description": "Magyarország bíróságairól A Magyar Köztársaság Alkotmánya X. fejezete rendelkezik. Eszerint a bíróságok védik és biztosítják az alkotmányos rendet, az állampolgárok jogait, ellenőrzik a közigazgatási határozatok törvényességét és büntetik a bűncselekmények elkövetőit.\nA bíróságok az igazságszolgáltatást gyakorló, más hatalmi ágaktól független, politikailag és világnézetileg semleges, önálló hatóságok.\nA bíróságok feladatait a bírók és egyéb bírósági alkalmazottak látják el. A bírókat a köztársasági elnök nevezi ki határozatlan időre, és adott esetben ő is menti őket fel. A bírák kinevezésének feltétele a büntetlen előélet, egyetemi jogi végzettség, jogi szakvizsga, legalább három év joggyakorlat és legalább egy év bírósági titkárként, ügyészségi titkárként, ügyvédként, közjegyzőként vagy jogtanácsosként teljesített munkaviszony,vagy legalább egy év kormánytisztviselőként, illetve köztisztviselőként központi közigazgatási szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben teljesített munkaviszony, vagy nemzetközi szervezetnél ill. az Európai Unió valamely szervénél az igazságszolgáltatással összefüggő tevékenység.\nA bíróságok igazgatásának központi feladatait az Országos Bírói Tanács látja el. A legmagasabb szintű bíróság Magyarországon a Legfelsőbb Bíróság, amely biztosítja a bíróságok jogalkalmazásának egységességét az ítélőtáblákon, a törvényszékeken, a munkaügyi bíróságokon és a helyi bíróságokon. Jóllehet a bíróságok szintjei hierarchikusak, a bírói függetlenség elve szerint nincs köztük alá- és fölérendeltségi viszony."
+    },
+    {
+        "id": "06zdj",
+        "description": "Az iskola egykorú tanulókat egy helyen nevelő központi jellegű intézmény."
+    },
+    {
+        "id": "019cfy",
+        "description": "Az ókori Róma egyik stadionja volt a palatinusi Stadium, melynek rendeltetése vitatott.\nEgyes magyarázatok szerint nyilvános sportpálya, míg más vélemények szerint nyilvános lovaspálya lehetett. Van ki feltételezi, hogy aréna volt, mások csupán kertnek tartották. Az is kérdéses, melyik dinasztia korában épülhetett ki. Romjai a legnagyobbak a Palatinus egész területén. A Stadium méretei: 165 méter hosszú, 80 méter széles.\nKeleti falának fülkéje rejtette a császár páholyát, ahonnan az uralkodó követhette a verseny történéseit. Információval rendelkeznek arról, hogy Theoderik vizigót király futóversenyeket tartott itt. Ő építtette be a déli oldal ovális területét.\nDélnyugati része elliptikus formájú, a legvalószínűbb, hogy Severus korából származik. Északkeleti része a Via S. Bonaventura felé nyílik és Titus diadalíve felé vezet."
+    },
+    {
+        "id": "0166ls",
+        "description": "A park egy gondozott terület, ami természetes vagy ahhoz hasonló környezetet teremt városokban vagy azokon kívül. Míg a városokban fenntartott parkoknak általában az emberek kikapcsolódásának biztosítása a célja, a városokon kívüliek bizonyos növények és állatok élőhelyének a megőrzésére törekednek.\nPélda nagyvárosokban fenntartott jelentős zöldterületekre a New York-i Central Park, a tokiói Meidzsi-szentélyt övező erdő, a budapesti Margitsziget vagy a miskolci Népkert. A Michigani Egyetem kutatása rávilágít arra, hogy az ilyen parkok mennyire fontosak a városok életében: egy órányi séta a természetben 20%-kal javította a vizsgált személyek rövidtávú memóriáját és koncentrálóképességét. Az urbanizációval járó felfokozott életvitel idegrendszeri veszélyeire Vizi E. Szilveszter is felhívta a figyelmet."
+    },
+    {
+        "id": "06zdj",
+        "description": "Az iskola egykorú tanulókat egy helyen nevelő központi jellegű intézmény."
+    },
+    {
+        "id": "09cmq",
+        "description": "A múzeum az emberiség kultúrfejlődésére vonatkozó tárgyi és egyéb emlékeket gyűjtő, feldolgozó, rendszerező és másoknak bemutató kulturális intézmény. A múzeum ma már nem egyszerűen kiállítást jelent, hanem egyrészről számos kulturális rendezvénynek is otthont ad, másrészről a látogatót nem csupán passzív szemlélődésre, hanem modern technikai eszközök igénybevételével interaktív közreműködésre készteti. A \"ne nyúlj hozzá!\" és a \"mindent a szemnek\" jelszavak számos helyen ma már nem érvényesülnek – a látogató maga is részévé válik a kiállításnak."
+    },
+    {
+        "id": "017ql",
+        "description": "A bank a pénzügyi közvetítő rendszer legjellemzőbb eleme. A bank olyan intézmény, amely pénzügyi szolgáltatásokat nyújt. Legfontosabb tevékenysége hitelek nyújtása és betétek gyűjtése. Vagyis a gazdaság jelenleg felhasználatlan pénzmegtakarításainak begyűjtése, és azok kihelyezése, aktiválása a gazdaság pénzszükségben lévő alanyaihoz. Ekképpen a modern tőkés gazdaság egyfajta motorjai. A bank hagyományosan a pénzügyi szolgáltatások díjából és a hitelekből származó kamatból jut haszonhoz. Újabban mivel a viszonylag alacsony kamatlábak sokszor korlátozzák a bankok bevételi lehetőségeit, némely bank hiteltúllépési díjak és különböző befektetések útján is igyekszik jövedelemhez jutni.\nA bank szó az olasz banca szóból ered, ami a német nyelvből származik és padot jelent, amely a középkori pénzváltó padokra utal.\nBankok működése banki engedélyhez kötött.\nA köznapi életben a pénzügyi intézmények legtöbb típusát bankként emlegetjük. Érdemes ismerni azonban a pontos terminológiát. Magyarországon a jogszabály a pénzügyi intézményeken belül hitelintézetet és pénzügyi vállalkozásokat ért. A bank a hitelintézetek egy fajtája."
+    },
+    {
+        "id": "09y4pm",
+        "description": "A piac fogalmán tágabb, gazdasági értelemben minden olyan – tényleges, vagy akár elvont – helyet értünk, ahol egy vagy több jószág és a pénz cseréje zajlik. A csere lebonyolításához eladókra és vevőkre, pontosabban a javak kínálatára és keresletére van szükség.\nSzűkebb, hagyományos értelemben a piacok vagy piachelyek konkrét helyek, amelyek bizonyos árukkal való rendszeres kereskedést szolgálják. Ha viszont a kereskedés nem kötött helyszínen zajlik vagy időben rendszertelen, azt a népnyelv többnyire vásároknak nevezi.\nAz előbbi kettő mellett létezik egy harmadik értelmezés is, amely a „piac” fogalmát a piaci mechanizmussal, a gazdaságban lévő javak elosztásának piaci koordinációjával azonosítja."
+    },
+    {
+        "id": "09cjl",
+        "description": "A repülőtér olyan sík terület, amely biztosítani tudja a repülőgépek biztonságos üzemeltetéséhez szükséges legalapvetőbb szolgáltatásokat. Legfontosabb eleme a futópálya, amely biztosítja a repülőgépek le- és felszállásához szükséges akadálymentes nekifutási utat. Területén rendszerint találhatóak még egyéb építmények is, mint a raktározási, karbantartási célra épített hangárok, az ezeket a futópályával összekötő gurulóutak, a légiközlekedés biztonságát szolgáló irányítótorony és az utasforgalom zavartalanságát biztosító utasforgalmi épületek, valamint egyéb, mérő és irányító eszközök, műtárgyak.\nKisebb repülőtereken gyakran egyik sincs jelen, csak a döngölt futópálya, irányítótorony helyett pedig a pilóta leszállás előtt kapcsolja be a repülőtér rendszereit. Ez főként kis forgalmú, időszakos repterekre jellemző. A legnagyobb, állandó és folyamatos üzemű repülőtereken azonban igen sok, a repülés biztonságát szavatoló berendezések és építmények vannak. A katonai repülőterek ismertek még légibázisként, illetve légitámaszpontként is."
+    },
+    {
+        "id": "053rd",
+        "description": "A bányászat a Föld tömegéből, illetve annak kérgéből a hasznosítható ásványi nyersanyagok kutatásával, feltárásával, kitermelésével, minőségjavításával, szállításával, esetenként késztermék gyártásával és kereskedelmével foglalkozó tevékenységek összessége. Legtöbbször visszafordíthatatlan és drasztikus beavatkozás a természeti környezetbe, a nem megújuló ásványi nyersanyagok kitermelésére irányulóan. A hasznosítható ásványi nyersanyag lehet: szilárd, folyékony, gáznemű és geotermikus energia. A föld alatt elhelyezkedő ásványi nyersanyag mennyisége és minősége előzetesen csak korlátozottan ismerhető meg, ami a bányászat gazdasági kockázatát növeli.\nA bányászat sajátos helyet foglal el az őstermelés és az ipar között. Mint az ipar alapját tartják számon, de nemcsak az ipart látja el alap-, nyers- és segédanyagokkal."
+    },
+    {
+        "id": "029g_vk",
+        "description": "A távközlés vagy telekommunikáció a kommunikáció lehetőségének kibővítése nagyobb távolságokra, anélkül, hogy az információ eredeti hordozóját kísérelnénk meg áthelyezni. A valóságban persze, egyelőre, nem megoldható a személyes kommunikáció teljes körű utánzása, hiszen ha például telefont használunk, nem láthatjuk a másik fél arcát, gesztusait, nem mutathatunk tárgyakra a könnyebb megértetés érdekében. A távközlés, ill. telekommunikáció olyan, jellemzően elektronikai eszközök segítségével történik, melyekkel kommunikációt, esetleg adatátvitelt lehet megvalósítani: ilyen a távíró, a távbeszélő vagyis telefon, és még sok minden más. Az egyirányú információközlő, műsorszóró rendszerekkel a híradástechnika tárgya foglalkozik.\nEgy távközlő rendszer részei az adó, az átviteli közeg, csatorna, és a vevő. Az adó alakítja át, kódolja az üzenetet egy átvihető fizikai jelenséggé, a jellé. Az átviteli közegnek az a szerepe, hogy továbbítsa a jelet, de ez nem megy veszteségek nélkül: a jel romlani, módosulni fog. A vevő pedig megpróbálja visszaalakítani a vett jelet, több-kevesebb sikerrel, a jel útközbeni romlásától függően. Bizonyos esetekben a végső „vevők” az emberi érzékszervek, elsősorban a fül és a szem és a jel hibajavítása az agy feladata."
+    },
+    {
+        "id": "01mf0",
+        "description": "Szoftver alatt a legszűkebb értelemben elektronikus adatfeldolgozó berendezések memóriájában elhelyezkedő, azokat működtető programokat értünk. Körülbelül ez volt a John W. Tukey által 1958-ban bevezetett angol software kifejezés eredeti értelme is.\nA szoftvert az különbözteti meg a fogalmilag vele szembeállított, és azt kiegészítő hardver-től, hogy egy programvezérelt berendezésnek a hardver az egyedi, fizikai részét, míg a szoftver az általános, szellemi részét jelenti. Egy példával megvilágítva: két egyező típusú, minden szempontból azonosan felszerelt, és egyformán működő számítógép esetében a hardver az, ami miatt két különálló gépről beszélünk, és a szoftver az, ami a két gépben egy és ugyanaz. A hardver fizikai jellegénél fogva egyedi és megismételhetetlen, míg a szoftver éppen az önmagával azonosan ismételhetőt, a tökéletesen másolhatót jelenti. A világon emberek milliói használják egymástól függetlenül, nap mint nap, ugyanazt a szoftvert; ám ha több felhasználó ugyanazt a hardvert használja, akkor szükségképpen osztozniuk kell annak véges, fizikai erőforrásain.\nA szoftver nemcsak elektronikus memóriatartalomként realizálódik, hanem életciklusának megfelelően többféle formában jelenik meg, fogalma ezekre a megvalósulási formákra is kiterjed, így a szoftver fogalmába tágabb értelemben beletartozik:"
+    },
+    {
+        "id": "011s0",
+        "description": "A reklám a kommunikáció egy formája, rendszerint egy bizonyos áru vagy szolgáltatás megvételére, illetve igénybevételére ösztönző, esetleg egy egész márka, cég, terület vagy pusztán csak egy cél javára szóló hirdetés. Bővebb értelemben ezek összes, szűkebben csak a fizetett változatait soroljuk ide. A reklámok elkészítése és sugárzása szolgáltatás, az erre való igény működteti az úgynevezett reklámipart, így többek között lehetővé teszi a kereskedelmi televíziók és rádiók működését. Története az ókorig nyúlik vissza, s a kapitalizmus alatt jelentősége fokozatosan nő; a világ összesített reklámkiadásait 2007-re vonatkozóan 600 milliárd dollár fölé becsüli a The Kelsey Group."
+    },
+    {
+        "id": "01ftz",
+        "description": "A biotechnológia élőlények segítségével végzett technológia. A biotechnológia a tudomány és technológia alkalmazása élő szervezeteken, azok részein, termékein vagy modelljein azzal a céllal, hogy megváltoztassunk élő vagy élettelen anyagokat tudás, termékek vagy szolgáltatások létrehozásáért. Új tulajdonságokkal rendelkező élőlények vagy sejtek előállítását jelenti, főként molekuláris- és sejtbiológián alapuló technológiák alkalmazásával. A biokémiának, a mikrobiológiának és a műszaki tudományoknak az integrált felhasználása annak érdekében, hogy mikroorganizmusoknak, tenyésztett sejteknek vagy ezek egyes alkotórészeinek valamely képességét ipari termelési célokra alkalmazzuk. Tágabb értelemben minden, az alap és alkalmazott biológiai tudományágban használatos technológiát biotechnológiának neveznek. A biotechnológia kifejezés leggyakoribb jelentése szerint a potenciálisan, gyakorlatban alkalmazható eredményeket produkáló technológiák. A szűkebb értelmezés szerint a biotechnológia fogalmán a kifejezetten profitorientált ipari és mezőgazdasági tevékenységet értik. A molekuláris biológia forradalmát tapasztalhatjuk napjainkban a számítástechnika és az elektronika mellett, amely a biotechnológiában csúcsosodik ki. E forradalom fő jellemzője a rohamosan gyarapodó ismeretek a molekuláris szintű biológiai folyamatok megértésében és a biológiai ismeretek alkalmazása az orvoslásban, az iparban és a mezőgazdaságban. A forradalom valójában a molekuláris genetikában zajlik, nem az egész molekuláris biológiában."
+    },
+    {
+        "id": "0h61",
+        "description": "A régészet vagy archeológia tudománya a régi korok kultúráit tanulmányozza különböző tárgyi leletek alapján."
+    },
+    {
+        "id": "034dj",
+        "description": "A szerencsejáték olyan játékforma, amelynek során pénzben vagy más értéktárgyban kifejezett téteket tesznek egy bizonytalan kimenetelű esemény végeredményére. A játék célja az esemény kimenetelének eltalálása és további pénz nyerése. A játékelmélet alapján a szerencsejáték zéró összegű játék, mivel a résztvevők csak egymás kárára növelhetik nyereményeiket.\nA szerencsejátékok napjainkban szoros állami ellenőrzés alatt állnak a világ szinte minden országában: a szerencsejátékok megszervezése általában állami monopólium, amelynek tevékenységét a pénzügyminisztérium vagy az adóhivatal felügyeli. A szerencsejátékokra kivetett adóból az államnak hatalmas bevételei keletkeznek, amit az általános költségvetés céljaira, vagy esetenként jól meghatározott kulturális, társadalmi projektek támogatására fordíthatnak.\nAz online szerencsejátékok megjelenésével a szerencsejátékok hatalmas nemzetközi gazdasági tevékenységgé nőtték ki magukat: 2009-ben a becslések szerint 335 milliárd dollárt költöttek el az online játékosok."
+    },
+    {
+        "id": "034v_",
+        "description": "A kertész eredendően egy olyan szakma, amely a kert gondozási, fenntartási feladatait foglalja magában. A FEOR növénytermesztéssel foglalkozó meghatározásai közül a 6115 számú tartalmazza magát a foglalkozást jelentő kifejezést."
+    },
+    {
+        "id": "05wkw",
+        "description": "A fotográfia vagy fényképészet a fény által közvetített képi információk rögzítése technikai eszközök segítségével. Célja lehet gyakorlati vagy művészi.\nKezdetben a fotó nem akart többnek látszani, mint precíz leképező eszköz. A 19–20. század fordulóján kezdték művészeti felhasználását egyre szélesebb körben művészetként elismerni, ezért csak a 20. század elején vált a hatodik művészeti ággá. Elnevezése a görög φως phos, és γραφις graphis szóból ered, együtt „fénnyel rajzolás” vagy „fényrajz” a jelentése."
+    },
+    {
+        "id": "064rk",
+        "description": "A fazekasság égetett agyagból használati tárgyak, elsősorban edények előállításával foglalkozó ősi mesterség. A fazekas mestert tájnyelven gelencsérnek vagy gerencsérnek vagy gölöncsérnek is nevezik. Az iparművészet egyik, talán a legősibb válfaja. A középső kőkorszak, a mezolitikum vége felé a mezőgazdaság kialakulásának kezdetével egyidejűleg jelenik meg a történelemben. A növénytermesztés és állattenyésztés már biztosít ételfelesleget, amit tárolni kell. A letelepült életforma pedig helyet ad a tároláshoz. Így szükségszerű volt a fazekasság létrejötte i.e. 8000 körül.\nA fazekas mester keze alól kikerülő tálak, korsók, fazekak stb. képlékeny állagú agyagból készülnek, amelynek anyaga a szárítást követő égetés során szilárd, időtálló anyaggá válik. Ebben az állapotában a cserép a folyadékot átengedi magán, ezért az edényeket legtöbb esetben mázzal vonják be. Az így kapott szilárd bevonat lehetővé teszi, hogy az edényben folyadékot is tárolni lehessen.\nA fazekasságból fejlődött ki a kerámia, kerámia művészet. A kerámia készítő művészt egyszerűen keramikusnak vagy keramikusművésznek nevezzük.\nA régészet egyes kultúrákat sok esetben az agyagedények és kerámiák formája és díszítése alapján említi. Például harangedényes kultúra, szalagkerámiás kultúra, zsinórdíszes kerámia kultúrája."
+    },
+    {
+        "id": "09nyy",
+        "description": "A zsonglőrködés a köznyelvben különböző tárgyak, például labda, buzogány, karika, kés dobálását jelenti, de a virágbotozást, diabolozást és jojózást is a zsonglőrködés kategóriába sorolják. A zsonglőrködés Magyarországon még nem elterjedt hobbi, az emberek általában csak cirkuszban látnak zsonglőröket, nem is sejtik, hogy gyakorlással mindenki elsajátíthatja a zsonglőrködés alapjait."
+    },
+    {
+        "id": "012v4j",
+        "description": "A természetjárás során az emberek kiszakadnak városi környezetükből, és a természetes környezetben töltik el idejüket. Ennek leggyakoribb módja a gyalogos kirándulások és gyalogtúrák, de ide tartoznak a vízitúrák, sítúrák és más, fizikai igénybevétellel járó, csoportos, nem egyszer versenyként lebonyolított túrák is.\nA társadalom egyik fontos célja az, hogy természeti környezetünket megóvjuk, ezért a természetjárás fontos része a fiatalok, illetve a természetbe vágyók oktatása: hogyan őrizzék meg a természetes állapotot, hogyan zavarják meg legkevésbé azt; ne szemeteljenek vagy ne gyújtsanak tüzet erre nem alkalmas helyeken. Ennek hiányában a természetjárók okozta károk elhárításának költsége jelentős terhet jelent az adott régiónak, országnak, az el nem hárítható károkat nem is említve. A természetvédelemmel összekapcsolt turizmus újabbkeletű fogalma az ökoturizmus."
+    }
+]

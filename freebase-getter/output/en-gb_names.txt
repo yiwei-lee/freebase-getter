@@ -1,0 +1,222 @@
+[
+    {
+        "id": "05p553",
+        "name": "Comedy"
+    },
+    {
+        "id": "0pg52",
+        "name": "Taxi"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Cheese"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Brewery\/Brand of beer"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Beer"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Tea"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Beverage"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Candy bar"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Dish"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Ingredient"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Restaurant"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Chef"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Cuisine"
+    },
+    {
+        "id": "046cz33",
+        "name": "Distillery"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Appellation"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vineyard"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Wine"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Diet"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Recipe"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Food"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Nutrient"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Quotation"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Adaptation"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Dedicatee"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Dedicator"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Publication"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Review"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Author"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Interview"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Translation"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Interviewee"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Interviewer"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Translator"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Excerpt"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Illustrator"
+    },
+    {
+        "id": "04gc2",
+        "name": "Lawyer"
+    },
+    {
+        "id": "05t4q",
+        "name": "Physician"
+    },
+    {
+        "id": "0mn6",
+        "name": "Architect"
+    },
+    {
+        "id": "09jwl",
+        "name": "Musician"
+    },
+    {
+        "id": "01d30f",
+        "name": "Teacher"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Model"
+    },
+    {
+        "id": "01pxg",
+        "name": "Chemist"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Veterinarian"
+    },
+    {
+        "id": "01c72t",
+        "name": "Composer"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Cook"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Police officer"
+    },
+    {
+        "id": "05xls",
+        "name": "Programmer"
+    },
+    {
+        "id": "02h661t",
+        "name": "Dentist"
+    },
+    {
+        "id": "099md",
+        "name": "Soldier"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Truck driver"
+    },
+    {
+        "id": "023907r",
+        "name": "Real Estate"
+    },
+    {
+        "id": "011s0",
+        "name": "Advertising"
+    },
+    {
+        "id": "0hz28",
+        "name": "Publishing"
+    },
+    {
+        "id": "0191_7",
+        "name": "Retail"
+    },
+    {
+        "id": "05wkw",
+        "name": "Photography"
+    }
+]

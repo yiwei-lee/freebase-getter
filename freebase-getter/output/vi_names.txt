@@ -1,0 +1,1290 @@
+[
+    {
+        "id": "0_k2",
+        "name": "Kiến"
+    },
+    {
+        "id": "01dws",
+        "name": "Gấu"
+    },
+    {
+        "id": "01h3n",
+        "name": "Ong"
+    },
+    {
+        "id": "015p6",
+        "name": "Chim"
+    },
+    {
+        "id": "01x_v",
+        "name": "Lạc đà"
+    },
+    {
+        "id": "01yrx",
+        "name": "Mèo"
+    },
+    {
+        "id": "09b5t",
+        "name": "Gà"
+    },
+    {
+        "id": "01xq0k1",
+        "name": "Bò nhà"
+    },
+    {
+        "id": "09ddx",
+        "name": "Vịt"
+    },
+    {
+        "id": "0bwd_0j",
+        "name": "Voi"
+    },
+    {
+        "id": "03k3r",
+        "name": "Ngựa"
+    },
+    {
+        "id": "08pbxl",
+        "name": "Khỉ"
+    },
+    {
+        "id": "07bgp",
+        "name": "Cừu nhà"
+    },
+    {
+        "id": "0cnyhnx",
+        "name": "Bò mộng"
+    },
+    {
+        "id": "02g2w1",
+        "name": "Cá sấu mõm ngắn Mỹ"
+    },
+    {
+        "id": "0qqk",
+        "name": "Chi Dền"
+    },
+    {
+        "id": "047v4b",
+        "name": "Atisô"
+    },
+    {
+        "id": "0cjs7",
+        "name": "Măng tây"
+    },
+    {
+        "id": "01cbb3",
+        "name": "Củ cải ngọt"
+    },
+    {
+        "id": "0hkxq",
+        "name": "Bông cải xanh"
+    },
+    {
+        "id": "0fbw6",
+        "name": "Cải bắp"
+    },
+    {
+        "id": "0fj52s",
+        "name": "Cà rốt"
+    },
+    {
+        "id": "015w7p",
+        "name": "Súp lơ"
+    },
+    {
+        "id": "01xj_",
+        "name": "Cần tây"
+    },
+    {
+        "id": "053wn",
+        "name": "Ngô"
+    },
+    {
+        "id": "015x4r",
+        "name": "Dưa chuột"
+    },
+    {
+        "id": "0cdk2",
+        "name": "Cà tím"
+    },
+    {
+        "id": "022p79",
+        "name": "Rau cúc đắng"
+    },
+    {
+        "id": "017dqv",
+        "name": "Foeniculum vulgare"
+    },
+    {
+        "id": "0dbrl",
+        "name": "Tỏi"
+    },
+    {
+        "id": "03lp1_",
+        "name": "Bầu"
+    },
+    {
+        "id": "04bk6",
+        "name": "Su hào"
+    },
+    {
+        "id": "013__5",
+        "name": "Tỏi tây"
+    },
+    {
+        "id": "0fqlj",
+        "name": "Xà lách"
+    },
+    {
+        "id": "025s18p",
+        "name": "Đậu bắp"
+    },
+    {
+        "id": "0dj75",
+        "name": "Hành tây"
+    },
+    {
+        "id": "01xfpd",
+        "name": "Pastinaca sativa"
+    },
+    {
+        "id": "0g5s7",
+        "name": "Đậu Hà Lan"
+    },
+    {
+        "id": "0fg0m",
+        "name": "Lạc"
+    },
+    {
+        "id": "05vtc",
+        "name": "Khoai tây"
+    },
+    {
+        "id": "05zsy",
+        "name": "Bí ngô"
+    },
+    {
+        "id": "015x5n",
+        "name": "Cải củ"
+    },
+    {
+        "id": "016rh7",
+        "name": "Rau chân vịt"
+    },
+    {
+        "id": "02d9p2",
+        "name": "Cải xoong"
+    },
+    {
+        "id": "0jtc5",
+        "name": "Achillea millefolium"
+    },
+    {
+        "id": "015fr",
+        "name": "Brasil"
+    },
+    {
+        "id": "0d060g",
+        "name": "Canada"
+    },
+    {
+        "id": "01p1v",
+        "name": "Chile"
+    },
+    {
+        "id": "0d05w3",
+        "name": "Cộng hòa Nhân dân Trung Hoa"
+    },
+    {
+        "id": "0d04z6",
+        "name": "Cuba"
+    },
+    {
+        "id": "03shp",
+        "name": "Iran"
+    },
+    {
+        "id": "01znc_",
+        "name": "Thổ Nhĩ Kỳ"
+    },
+    {
+        "id": "0d0vqn",
+        "name": "Thụy Điển"
+    },
+    {
+        "id": "06mkj",
+        "name": "Tây Ban Nha"
+    },
+    {
+        "id": "0h7x",
+        "name": "Áo"
+    },
+    {
+        "id": "03gj2",
+        "name": "Hungary"
+    },
+    {
+        "id": "0345h",
+        "name": "Đức"
+    },
+    {
+        "id": "05qhw",
+        "name": "Ba Lan"
+    },
+    {
+        "id": "04g5k",
+        "name": "Latvia"
+    },
+    {
+        "id": "012wgb",
+        "name": "Đảo Ireland"
+    },
+    {
+        "id": "03_r3",
+        "name": "Jamaica"
+    },
+    {
+        "id": "01crd5",
+        "name": "Việt Nam"
+    },
+    {
+        "id": "015qh",
+        "name": "Bulgaria"
+    },
+    {
+        "id": "04w8f",
+        "name": "Mông Cổ"
+    },
+    {
+        "id": "06q1r",
+        "name": "Scotland"
+    },
+    {
+        "id": "0chghy",
+        "name": "Úc"
+    },
+    {
+        "id": "035v3",
+        "name": "Greenland"
+    },
+    {
+        "id": "0jgx",
+        "name": "Armenia"
+    },
+    {
+        "id": "03_3d",
+        "name": "Nhật Bản"
+    },
+    {
+        "id": "019rg5",
+        "name": "Kenya"
+    },
+    {
+        "id": "0f6kx",
+        "name": "Thứ Hai"
+    },
+    {
+        "id": "0f7_n",
+        "name": "Thứ Ba"
+    },
+    {
+        "id": "0f7_4",
+        "name": "Thứ Tư"
+    },
+    {
+        "id": "0f7zn",
+        "name": "Thứ Năm"
+    },
+    {
+        "id": "0f7z4",
+        "name": "Thứ Sáu"
+    },
+    {
+        "id": "0f7yn",
+        "name": "Thứ Bảy"
+    },
+    {
+        "id": "0f6ld",
+        "name": "Chủ nhật"
+    },
+    {
+        "id": "06m_p",
+        "name": "Mặt Trời"
+    },
+    {
+        "id": "09cy8",
+        "name": "Sao Thủy"
+    },
+    {
+        "id": "09bcm",
+        "name": "Sao Kim"
+    },
+    {
+        "id": "02j71",
+        "name": "Trái Đất"
+    },
+    {
+        "id": "09cws",
+        "name": "Sao Hỏa"
+    },
+    {
+        "id": "09q84",
+        "name": "Sao Mộc"
+    },
+    {
+        "id": "0c3s8",
+        "name": "Sao Thổ"
+    },
+    {
+        "id": "0c3ss",
+        "name": "Sao Thiên Vương"
+    },
+    {
+        "id": "0c31h",
+        "name": "Sao Hải Vương"
+    },
+    {
+        "id": "0jwy",
+        "name": "Bạch Dương"
+    },
+    {
+        "id": "07cqw",
+        "name": "Kim Ngưu"
+    },
+    {
+        "id": "077r8d",
+        "name": "Song Tử"
+    },
+    {
+        "id": "0qck6",
+        "name": "Cự Giải"
+    },
+    {
+        "id": "04h2q",
+        "name": "Sư Tử"
+    },
+    {
+        "id": "07yt9",
+        "name": "Thất Nữ"
+    },
+    {
+        "id": "04h36",
+        "name": "Thiên Xứng"
+    },
+    {
+        "id": "06pgz",
+        "name": "Thiên Hạt"
+    },
+    {
+        "id": "06pgg",
+        "name": "Nhân Mã"
+    },
+    {
+        "id": "01nk9",
+        "name": "Ma Kết"
+    },
+    {
+        "id": "0jxf",
+        "name": "Bảo Bình"
+    },
+    {
+        "id": "05s7n",
+        "name": "Song Ngư"
+    },
+    {
+        "id": "02vx4",
+        "name": "Bóng đá"
+    },
+    {
+        "id": "0jm_",
+        "name": "Bóng bầu dục Mỹ"
+    },
+    {
+        "id": "018w8",
+        "name": "Bóng rổ"
+    },
+    {
+        "id": "018jz",
+        "name": "Bóng chày"
+    },
+    {
+        "id": "07bs0",
+        "name": "Quần vợt"
+    },
+    {
+        "id": "01cgz",
+        "name": "Quyền Anh"
+    },
+    {
+        "id": "03tmr",
+        "name": "Khúc côn cầu trên băng"
+    },
+    {
+        "id": "07_53",
+        "name": "Bóng chuyền"
+    },
+    {
+        "id": "037hz",
+        "name": "Golf"
+    },
+    {
+        "id": "01sgl",
+        "name": "Đạp xe"
+    },
+    {
+        "id": "03_8r",
+        "name": "Judo"
+    },
+    {
+        "id": "0d38m",
+        "name": "Marathon"
+    },
+    {
+        "id": "0194d",
+        "name": "Cầu lông"
+    },
+    {
+        "id": "07jbh",
+        "name": "Bóng bàn"
+    },
+    {
+        "id": "087zy",
+        "name": "Yoga"
+    },
+    {
+        "id": "0397w",
+        "name": "Thể dục dụng cụ"
+    },
+    {
+        "id": "036vg6",
+        "name": "Đấu vật"
+    },
+    {
+        "id": "04xsv",
+        "name": "Võ thuật"
+    },
+    {
+        "id": "03_ly",
+        "name": "Tháng một"
+    },
+    {
+        "id": "02xx5",
+        "name": "Tháng hai"
+    },
+    {
+        "id": "04wzr",
+        "name": "Tháng ba"
+    },
+    {
+        "id": "0lkm",
+        "name": "Tháng tư"
+    },
+    {
+        "id": "04w_7",
+        "name": "Tháng năm"
+    },
+    {
+        "id": "040fb",
+        "name": "Tháng sáu"
+    },
+    {
+        "id": "040fv",
+        "name": "Tháng bảy"
+    },
+    {
+        "id": "0ll3",
+        "name": "Tháng tám"
+    },
+    {
+        "id": "06vkl",
+        "name": "Tháng chín"
+    },
+    {
+        "id": "05lf_",
+        "name": "Tháng mười"
+    },
+    {
+        "id": "05cw8",
+        "name": "Tháng mười một"
+    },
+    {
+        "id": "028kb",
+        "name": "Tháng mười hai"
+    },
+    {
+        "id": "0fm3w",
+        "name": "Hướng Bắc"
+    },
+    {
+        "id": "0k7ny",
+        "name": "Hướng Nam"
+    },
+    {
+        "id": "0gkh2",
+        "name": "Hướng Tây"
+    },
+    {
+        "id": "0gkhl",
+        "name": "Hướng Đông"
+    },
+    {
+        "id": "0j0k",
+        "name": "Châu Á"
+    },
+    {
+        "id": "059g4",
+        "name": "Bắc Mỹ"
+    },
+    {
+        "id": "06n3y",
+        "name": "Nam Mỹ"
+    },
+    {
+        "id": "02j9z",
+        "name": "Châu Âu"
+    },
+    {
+        "id": "0dg3n1",
+        "name": "Châu Phi"
+    },
+    {
+        "id": "0jfx",
+        "name": "Châu Nam Cực"
+    },
+    {
+        "id": "09pkq0",
+        "name": "Châu Úc"
+    },
+    {
+        "id": "05p553",
+        "name": "Phim hài"
+    },
+    {
+        "id": "03npn",
+        "name": "Phim kinh dị"
+    },
+    {
+        "id": "0jtdp",
+        "name": "Phim tài liệu"
+    },
+    {
+        "id": "07s9rl0",
+        "name": "Phim chính kịch"
+    },
+    {
+        "id": "0hcr",
+        "name": "Phim hoạt họa"
+    },
+    {
+        "id": "06n90",
+        "name": "Khoa học viễn tưởng"
+    },
+    {
+        "id": "02kdv5l",
+        "name": "Phim hành động"
+    },
+    {
+        "id": "02l7c8",
+        "name": "Phim lãng mạn"
+    },
+    {
+        "id": "01hmnh",
+        "name": "Kỳ ảo"
+    },
+    {
+        "id": "04t36",
+        "name": "Phim ca nhạc"
+    },
+    {
+        "id": "06by7",
+        "name": "Rock"
+    },
+    {
+        "id": "064t9",
+        "name": "Pop"
+    },
+    {
+        "id": "03_d0",
+        "name": "Jazz"
+    },
+    {
+        "id": "01lyv",
+        "name": "Nhạc đồng quê"
+    },
+    {
+        "id": "0glt670",
+        "name": "Hip hop"
+    },
+    {
+        "id": "03lty",
+        "name": "Nhạc heavy metal"
+    },
+    {
+        "id": "05r6t",
+        "name": "Punk rock"
+    },
+    {
+        "id": "0ggq0m",
+        "name": "Nhạc cổ điển"
+    },
+    {
+        "id": "02lkt",
+        "name": "Nhạc điện tử"
+    },
+    {
+        "id": "0155w",
+        "name": "Blues"
+    },
+    {
+        "id": "06cqb",
+        "name": "Reggae"
+    },
+    {
+        "id": "02w4v",
+        "name": "Dân ca"
+    },
+    {
+        "id": "0ggx5q",
+        "name": "Nhạc dance"
+    },
+    {
+        "id": "0199g",
+        "name": "Xe đạp"
+    },
+    {
+        "id": "019jd",
+        "name": "Thuyền máy"
+    },
+    {
+        "id": "01bjv",
+        "name": "Xe buýt"
+    },
+    {
+        "id": "0k4j",
+        "name": "Ô tô"
+    },
+    {
+        "id": "09ct_",
+        "name": "Máy bay trực thăng"
+    },
+    {
+        "id": "04_sv",
+        "name": "Mô tô"
+    },
+    {
+        "id": "06q74",
+        "name": "Tàu thủy"
+    },
+    {
+        "id": "01pz3b",
+        "name": "Tàu điện ngầm Thành phố New York"
+    },
+    {
+        "id": "0pg52",
+        "name": "Xe tắc-xi"
+    },
+    {
+        "id": "07jdr",
+        "name": "Tàu hỏa"
+    },
+    {
+        "id": "07r04",
+        "name": "Xe tải"
+    },
+    {
+        "id": "07kfm",
+        "name": "Tàu điện"
+    },
+    {
+        "id": "0ddnl",
+        "name": "Phà"
+    },
+    {
+        "id": "09g5h",
+        "name": "Thiết bị vũ trụ"
+    },
+    {
+        "id": "074d1",
+        "name": "Tàu ngầm"
+    },
+    {
+        "id": "01xs0vd",
+        "name": "Phó mát"
+    },
+    {
+        "id": "01xs0x4",
+        "name": "Nhà máy bia \/ Nhãn hiệu bia"
+    },
+    {
+        "id": "01xs0xq",
+        "name": "Bia"
+    },
+    {
+        "id": "01xs0xx",
+        "name": "Trà"
+    },
+    {
+        "id": "01xs0yn",
+        "name": "Đồ uống"
+    },
+    {
+        "id": "02k9ttj",
+        "name": "Thanh kẹo"
+    },
+    {
+        "id": "03yw5sq",
+        "name": "Đĩa"
+    },
+    {
+        "id": "03yw5hv",
+        "name": "Thành phần"
+    },
+    {
+        "id": "01z11ns",
+        "name": "Nhà hàng"
+    },
+    {
+        "id": "049xqrq",
+        "name": "Bếp trưởng"
+    },
+    {
+        "id": "01z11nz",
+        "name": "Món ăn"
+    },
+    {
+        "id": "046cz33",
+        "name": "Nhà máy rượu"
+    },
+    {
+        "id": "02ws9vy",
+        "name": "Danh hiệu"
+    },
+    {
+        "id": "02ws9wg",
+        "name": "Vườn nho"
+    },
+    {
+        "id": "02ws9s5",
+        "name": "Rượu vang"
+    },
+    {
+        "id": "05v2f35",
+        "name": "Ăn kiêng"
+    },
+    {
+        "id": "05v2c_w",
+        "name": "Công thức"
+    },
+    {
+        "id": "05yxcqj",
+        "name": "Thực phẩm"
+    },
+    {
+        "id": "04xw9hr",
+        "name": "Chất dinh dưỡng"
+    },
+    {
+        "id": "0342h",
+        "name": "Ghi-ta"
+    },
+    {
+        "id": "0319l",
+        "name": "Kèn cor"
+    },
+    {
+        "id": "02hnl",
+        "name": "Drum kit"
+    },
+    {
+        "id": "0l14j_",
+        "name": "Sáo"
+    },
+    {
+        "id": "05r5c",
+        "name": "Dương cầm"
+    },
+    {
+        "id": "0mkg",
+        "name": "Phong cầm"
+    },
+    {
+        "id": "02hyl2s",
+        "name": "Câu trích dẫn"
+    },
+    {
+        "id": "01y2j5m",
+        "name": "Sự thích nghi"
+    },
+    {
+        "id": "04jr8nr",
+        "name": "Người nhận sự hiến dâng"
+    },
+    {
+        "id": "04jr8nz",
+        "name": "Người cống hiến"
+    },
+    {
+        "id": "02k6s0w",
+        "name": "Xuất bản"
+    },
+    {
+        "id": "02k6s3h",
+        "name": "Kiểm tra"
+    },
+    {
+        "id": "01xryvt",
+        "name": "Tác giả"
+    },
+    {
+        "id": "02k6s2y",
+        "name": "Phỏng vấn"
+    },
+    {
+        "id": "02k6s1m",
+        "name": "Dịch thuật"
+    },
+    {
+        "id": "02k6s39",
+        "name": "Người được phỏng vấn"
+    },
+    {
+        "id": "02k6s33",
+        "name": "Người phỏng vấn"
+    },
+    {
+        "id": "02k6s1t",
+        "name": "Công cụ dịch thuật"
+    },
+    {
+        "id": "02k6s1f",
+        "name": "Trích dẫn"
+    },
+    {
+        "id": "03jz7mq",
+        "name": "Họa sĩ vẽ tranh minh họa"
+    },
+    {
+        "id": "04gc2",
+        "name": "Luật sư"
+    },
+    {
+        "id": "05t4q",
+        "name": "Bác sĩ"
+    },
+    {
+        "id": "0mn6",
+        "name": "Kiến trúc sư"
+    },
+    {
+        "id": "09jwl",
+        "name": "Nhạc sĩ"
+    },
+    {
+        "id": "01d30f",
+        "name": "Giáo viên"
+    },
+    {
+        "id": "0d1pc",
+        "name": "Người mẫu"
+    },
+    {
+        "id": "01pxg",
+        "name": "Nhà hóa học"
+    },
+    {
+        "id": "01hbsc",
+        "name": "Bác sĩ thú y"
+    },
+    {
+        "id": "01c72t",
+        "name": "Người soạn nhạc"
+    },
+    {
+        "id": "04y7pl",
+        "name": "Đầu bếp"
+    },
+    {
+        "id": "01t2ln",
+        "name": "Cảnh sát"
+    },
+    {
+        "id": "05xls",
+        "name": "Lập trình viên"
+    },
+    {
+        "id": "02h661t",
+        "name": "Nha sĩ"
+    },
+    {
+        "id": "05wgy",
+        "name": "Nhi khoa"
+    },
+    {
+        "id": "099md",
+        "name": "Người lính"
+    },
+    {
+        "id": "05d2m7",
+        "name": "Tài xế xe tải"
+    },
+    {
+        "id": "01d380",
+        "name": "Máy khoan"
+    },
+    {
+        "id": "03l9g",
+        "name": "Búa"
+    },
+    {
+        "id": "01lsmm",
+        "name": "Kéo"
+    },
+    {
+        "id": "04nmy9",
+        "name": "Séc"
+    },
+    {
+        "id": "06qrr",
+        "name": "Nước ngọt có ga"
+    },
+    {
+        "id": "0dt3t",
+        "name": "Dĩa"
+    },
+    {
+        "id": "0cdn1",
+        "name": "Hamburger"
+    },
+    {
+        "id": "0cmx8",
+        "name": "Muỗng"
+    },
+    {
+        "id": "01c6xf",
+        "name": "Nước uống"
+    },
+    {
+        "id": "02vqfm",
+        "name": "Cà phê"
+    },
+    {
+        "id": "02859d",
+        "name": "Trà đen"
+    },
+    {
+        "id": "09cx8",
+        "name": "Ngón tay"
+    },
+    {
+        "id": "0hz0h",
+        "name": "Răng người"
+    },
+    {
+        "id": "037p5b",
+        "name": "Má"
+    },
+    {
+        "id": "031n1",
+        "name": "Bàn chân"
+    },
+    {
+        "id": "06pj2k",
+        "name": "Môi"
+    },
+    {
+        "id": "025kyy",
+        "name": "Trán"
+    },
+    {
+        "id": "0283dt1",
+        "name": "Miệng"
+    },
+    {
+        "id": "03q69",
+        "name": "Lông"
+    },
+    {
+        "id": "0dzd8",
+        "name": "Cổ"
+    },
+    {
+        "id": "0fjkt",
+        "name": "Lưỡi người"
+    },
+    {
+        "id": "039xj_",
+        "name": "Tai"
+    },
+    {
+        "id": "0k65p",
+        "name": "Bàn tay"
+    },
+    {
+        "id": "0k0pj",
+        "name": "Mũi"
+    },
+    {
+        "id": "027n3_",
+        "name": "Lông mày"
+    },
+    {
+        "id": "04hgtk",
+        "name": "Đầu"
+    },
+    {
+        "id": "014sv8",
+        "name": "Mắt"
+    },
+    {
+        "id": "0176mf",
+        "name": "Dây thắt lưng"
+    },
+    {
+        "id": "06rrc",
+        "name": "Giày"
+    },
+    {
+        "id": "01b638",
+        "name": "Ủng"
+    },
+    {
+        "id": "02wv6h6",
+        "name": "Váy"
+    },
+    {
+        "id": "02d46y",
+        "name": "Mũ lưỡi trai"
+    },
+    {
+        "id": "0142wf",
+        "name": "Pyjama"
+    },
+    {
+        "id": "013s93",
+        "name": "Áo thun"
+    },
+    {
+        "id": "0fly7",
+        "name": "Jeans"
+    },
+    {
+        "id": "01rkbr",
+        "name": "Cà vạt"
+    },
+    {
+        "id": "01nq26",
+        "name": "Bít tất"
+    },
+    {
+        "id": "07mhn",
+        "name": "Quần"
+    },
+    {
+        "id": "01n4qj",
+        "name": "Sơ mi"
+    },
+    {
+        "id": "01m2v",
+        "name": "Bàn phím máy tính"
+    },
+    {
+        "id": "020lf",
+        "name": "Chuột"
+    },
+    {
+        "id": "02bc6",
+        "name": "Cơ sở dữ liệu"
+    },
+    {
+        "id": "029kh",
+        "name": "Kỹ thuật số"
+    },
+    {
+        "id": "020s1",
+        "name": "Tập tin"
+    },
+    {
+        "id": "02nf_",
+        "name": "Thư điện tử"
+    },
+    {
+        "id": "03rlt",
+        "name": "Internet"
+    },
+    {
+        "id": "02y_9m3",
+        "name": "Điện toán đám mây"
+    },
+    {
+        "id": "07wcf",
+        "name": "USB"
+    },
+    {
+        "id": "0mynm",
+        "name": "Webcam"
+    },
+    {
+        "id": "02y1vz",
+        "name": "Facebook"
+    },
+    {
+        "id": "0508p",
+        "name": "Bo mạch chủ"
+    },
+    {
+        "id": "07g0_",
+        "name": "Den Haag"
+    },
+    {
+        "id": "02_286",
+        "name": "Thành phố New York"
+    },
+    {
+        "id": "0430_",
+        "name": "Jerusalem"
+    },
+    {
+        "id": "01w2v",
+        "name": "Cairo"
+    },
+    {
+        "id": "0hsqf",
+        "name": "Seoul"
+    },
+    {
+        "id": "031y2",
+        "name": "Firenze"
+    },
+    {
+        "id": "0156q",
+        "name": "Berlin"
+    },
+    {
+        "id": "05qtj",
+        "name": "Paris"
+    },
+    {
+        "id": "0k3p",
+        "name": "Amsterdam"
+    },
+    {
+        "id": "0c1xm",
+        "name": "Dakar"
+    },
+    {
+        "id": "06gmr",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": "01fdzj",
+        "name": "Tháp"
+    },
+    {
+        "id": "06gfj",
+        "name": "Đường giao thông"
+    },
+    {
+        "id": "0hpnr",
+        "name": "Bệnh viện"
+    },
+    {
+        "id": "0k05r",
+        "name": "Tòa án"
+    },
+    {
+        "id": "06zdj",
+        "name": "Trường học"
+    },
+    {
+        "id": "019cfy",
+        "name": "Sân vận động"
+    },
+    {
+        "id": "0166ls",
+        "name": "Công viên"
+    },
+    {
+        "id": "06zdj",
+        "name": "Trường học"
+    },
+    {
+        "id": "09cmq",
+        "name": "Viện bảo tàng"
+    },
+    {
+        "id": "017ql",
+        "name": "Ngân hàng"
+    },
+    {
+        "id": "09y4pm",
+        "name": "Chợ"
+    },
+    {
+        "id": "09cjl",
+        "name": "Sân bay"
+    },
+    {
+        "id": "053rd",
+        "name": "Khai thác mỏ"
+    },
+    {
+        "id": "023907r",
+        "name": "Bất động sản"
+    },
+    {
+        "id": "029g_vk",
+        "name": "Viễn thông"
+    },
+    {
+        "id": "02h400t",
+        "name": "Khu vực tài chính"
+    },
+    {
+        "id": "01mf0",
+        "name": "Phần mềm"
+    },
+    {
+        "id": "011s0",
+        "name": "Quảng cáo"
+    },
+    {
+        "id": "01ftz",
+        "name": "Công nghệ sinh học"
+    },
+    {
+        "id": "0hz28",
+        "name": "Xuất bản"
+    },
+    {
+        "id": "0191_7",
+        "name": "Bán lẻ"
+    },
+    {
+        "id": "0h61",
+        "name": "Khảo cổ học"
+    },
+    {
+        "id": "01mtb",
+        "name": "Ẩm thực"
+    },
+    {
+        "id": "034dj",
+        "name": "Đánh bạc"
+    },
+    {
+        "id": "05wkw",
+        "name": "Nhiếp ảnh"
+    },
+    {
+        "id": "064rk",
+        "name": "Đồ gốm"
+    },
+    {
+        "id": "09nyy",
+        "name": "Tung hứng"
+    },
+    {
+        "id": "012v4j",
+        "name": "Đi bộ đường dài"
+    }
+]

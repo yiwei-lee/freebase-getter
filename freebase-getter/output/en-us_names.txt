@@ -1,0 +1,10 @@
+[
+    {
+        "id": "02vx4",
+        "name": "Soccer"
+    },
+    {
+        "id": "059g4",
+        "name": "North America"
+    }
+]

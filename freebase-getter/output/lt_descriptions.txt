@@ -1,0 +1,1102 @@
+[
+    {
+        "id": "0_k2",
+        "description": "Skruzdėlės – plėviasparniai vabzdžiai, priklausantys Apocrita pobūriui. Pasižymi ryškiu polimorfizmu ir bendruomeniniu gyvenimo būdu. Tai vieni iš labiausiai paplitusių vabzdžių. Mokslas apie skruzdėles vadinamas mirmekologija."
+    },
+    {
+        "id": "01dws",
+        "description": "Lokiniai, arba meškiniai – plėšriųjų žinduolių būrio šeima. Stambūs žvėrys, ramstosi letenomis, turi labai trumpą uodegą. Minta daugiausia augaliniu maistu. Krūminiai dantys malamieji su žemais gumburais.\nPaplitę daugiausia šiaurės pusrutulyje.\nPošeimis Ailuropodinae\n⁕Gentis Ailuropoda\n⁕Didžioji panda\nPošeimis Ursinae\n⁕Gentis Helarctos\n⁕Malajinis lokys\n⁕Gentis Melursus\n⁕Ilgalūpis lokys\n⁕Gentis Meškos\n⁕Juodasis lokys, arba baribalas\n⁕Rudasis lokys, arba rudoji meška\n⁕Himalajinis lokys, arba himalajinė meška. Paplitęs Tolimuosiuose Rytuose.\n⁕Urvinis lokys. Išnykusi rūšis.\n⁕Baltasis lokys, arba baltoji meška\nPošeimis Tremarctinae\n⁕Gentis Tremarctos\n⁕Akiniuotasis lokys"
+    },
+    {
+        "id": "01h3n",
+        "description": "Bitės – plėviasparnių būrio vabzdžiai, priklausantys nesistematinei sekcijai Anthophila. Bitės yra vapsvoms ir skruzdėlėms giminiški gyvūnai, priklausantys tam pačiam Apocrita pobūriui.\nBitės prisitaikiusios rinkti žiedinių augalų nektarą ir žiedadulkes, ir yra labai svarbios augalų apdulkinimo procese. Bitės paplitusios visame pasaulyje, išskyrus Antarktidą. Dauguma bičių rūšių yra pavieniai gyvūnai, lizdus įsikuriantys urveliuose žemėje, medžiuose ir kt. Tokios bitės į darbininkių, tranų ar motinėlių kastas nesiskirsto. Dauguma pavieninių gyvenančių bičių rūšių geluonies neturi arba jei ir turi, puola retai. Tik mednešių bičių genčiai priklausančios bitės gyvena bendruomenėmis ir gamina medų. Žymiausia šios genties rūšis yra naminė bitė – pagrindinė pasaulyje auginama bičių rūšis."
+    },
+    {
+        "id": "015p6",
+        "description": "Paukščiai – specializuota aukštesniųjų stuburinių klasė. Tai dvikojai, šiltakraujai, kiaušinius dedantys stuburiniai, kuriems būdingos plunksnos, sparnais virtusios priekinės galūnės, bedančiai snapai ir tuščiaviduriai kaulai. Jie kilo iš archozaurų grupės roplių, tačiau įgiję progresyvių požymių, tapo nepanašūs į savo protėvius. Paukščiams būdinga sudėtinga nervų sistema, dėl kurios jie lengviau orientuojasi aplinkoje, pastovi ir aukšta kūno temperatūra, kuri atsirado dėl pagreitėjusios medžiagų apykaitos bei patobulėjus termoreguliacijai. Veisimasis, palyginti su ropliais, taip pat tobulesnis. Daugelis sugeba skraidyti panaudodami labai lengvas ir reguliariai keičiamas plasnojamąsias ir vairuojamąsias plunksnas. Paukščiai gyvena visuose žemynuose, iš viso pasaulyje yra apie 10350 paukščių rūšių. Apie 120–130 paukščių rūšių išnyko per žmonijos istorijos laikotarpį. Paukščių klasė yra labai diferencijuota: vieni paukščiai minta nektaru, kiti sėklomis, vabzdžiais, žuvimis ar kitais paukščiais, smulkiais ar stambesniais žinduoliais. Didžioji dalis paukščių gali skraidyti, tačiau yra ir neskraidančių rūšių. Paukščius tiria zoologijos mokslo šaka ornitologija."
+    },
+    {
+        "id": "01x_v",
+        "description": "Kupranugariai – kupranugarinių šeimos gentis. Dar vadinama tikraisiais kupranugariais, atskiriant nuo Pietų Amerikos nešulinių gyvūnų.\nGentį sudaro dvi rūšys:\n⁕vienkupris kupranugaris, gyvenantis Artimųjų Rytų ir Afrikos dykumose\n⁕dvikupris kupranugaris, gyvenantis Centrinėje Azijoje\nTaip pat žinomos trys išnykusios, šiai genčiai priskiriamos rūšys:\n⁕Camelus gigas\n⁕Camelus hesternus\n⁕Camelus sivalensis\n\nVikiteka"
+    },
+    {
+        "id": "01yrx",
+        "description": "Katė, naminė katė – katinių šeimos plėšrusis žinduolis, laukinės katės porūšis. Dabartinės katės greičiausiai kilusios iš Senovės Egipte apie 3500 m. pr. m. e. prijaukintų laukinių kačių, nors tikslus prijaukinimo laikas nėra nustatytas.\nKatė yra mėsėdis plėšrūnas, galintis medžioti daugiau nei 1000 rūšių gyvūnų, sugebantis išmokti klausyti paprastų komandų ir naudotis paprastais mechanizmais. Katės gali bendrauti daugiau nei 100 kūno kalbos pozų ar garsų.\nSenovės Egipte laikytos šventomis, – jų deivė – Basta, – naminės katės žinomos Senovės Graikijoje ir Romoje. Lietuvoje randamos tik nuo 1390 metų. Naminės katės sulaukėja, sėkmingai išgyvendamos laisvėje, besidaugindamos ir kartais sudarydamos ištisas sulaukėjusių kačių kolonijas.\nKatės laikomos ne tik kaip naminiai gyvūnai, atliekantys graužikų naikinimo funkciją, bet ir kaip augintiniai namuose. Yra daugybė kačių veislių, kurios skiriasi dydžiu, spalva, kailiu, kai kurios veislės yra beveik be kailio arba be uodegos."
+    },
+    {
+        "id": "09b5t",
+        "description": "Višta – vištinių paukščių būrio, dėl mėsos ar kiaušinių laikomas naminis paukštis. Dažniausios vištų veislės – baltieji leghornai ir rudieji rodailendai."
+    },
+    {
+        "id": "01xq0k1",
+        "description": "Naminis jautis, arba jautis, mot. lyties. – karvė – jaučių pošeimio dykaraginis domestikuotas žinduolis. Turi didelę ekonominę reikšmę gyvulininkystei bei pieno, mėsos, odos perdirbimo pramonei. Karvė yra šventasis gyvulys induizme."
+    },
+    {
+        "id": "09ddx",
+        "description": "Antis – bendrinis įvairių žąsinių paukščių būriui antinių šeimai priklausančių paukščių pavadinimas.\nVikicitatos\n\nVikiteka"
+    },
+    {
+        "id": "0bwd_0j",
+        "description": "Drambliai – žinduolių šeima, vienintelė išlikusi straublinių būryje.\nTai stambiausi dabartiniai sausumos žinduoliai. Būdingiausias jų bruožas – ilgas straublys, susidaręs suaugus nosiai su raumeninga viršutine lūpa. Juo laužo šakas, pakelia smulkius daiktus, deda į burną maistą, siurbia ir šlakstosi vandeniu, užuodžia kvapus. Kojos stulpiškos, penkiapirštės, su mažomis kanopėlėmis, o paduose yra stangrus jungiamasis audinys, todėl vaikšto labai tyliai. Oda stora, beveik be plaukų. Dantų sistema labai pakitusi. Viršutiniame žande turi porą labai stambių durklų, kurie be šaknų, nuolat auga ir beveik neturi emalio. Tai labai pakitusi antroji pastoviųjų kandžių pora, kuri išauga vietoj anksti iškrintančių pieninių. Iltinių dantų drambliai visai neturi. Skruostiniai dantys gerai pritaikyti pertrinti šiurkštų augalinį maistą. Skruostiniai dantys niekad neišauga visi kartu: susidėvėjus priekiniam, jį išstumia prasikalantis ir kartu slenkantis į priekį sekantis dantis. Paskutinis krūminis dantis prasikala po 30 metų, o sudilęs jis iškrinta drambliui sulaukus maždaug 65 metų. Tai – apytikrė dramblių gyvenimo trukmė."
+    },
+    {
+        "id": "03k3r",
+        "description": "Arklys – domestikuota tarpano rūšis, priklausanti arklinių šeimai. Nors įvairios naminių arklių veislės labai skiriasi savo dydžiu, jos visos priklauso vienai rūšiai – Equus caballus. Poniu vadinamas arklys, kurio ūgis ne didesnis kaip 147 cm.\nArkliai yra bene vieninteliai gyvūnai, turintys atskirus pavadinimus priklausomai nuo plaukų spalvos.\nPagrindinis straipsnis – Arklių spalvos.\nArklių kailio spalva gali būti labai įvairi. Jai apibūdinti kiekviena tauta turi savo specialius žodžius.\nLietuvoje populiariausi juodos ir rudos spalvos arkliai, vadinami juodžiais, bėriais ar sarčiais. Kitokiems arklių spalvos pavadinimams įtakos turi ne vien tik pagrindinė kailio spalva, tačiau ir karčių bei uodegos spalvos, įvairios dėmės.\nArklių klausa bei uoslė išsivystę labiau negu žmogaus. Tipiškas ilgas arklio snukis reikalingas ne tik dideliems dantims. Dauguma suaugusių arklių turi po 40-42 dantis. Nuo šiurkščios žolės arklių dantys pamažu dyla, keičia spalvą. Specialistai iš arklio dantų skaičiaus, jų nudilimo gali nustatyti jo amžių.\nArkliai vaikšto tarsi pirštų galais. Jie turi tik vieną pirštą, kiti sunykę. Ant kiekvienos kojos yra tvirta kaulinė kanopa. Ant kiekvieno pado yra tamprus raginis darinys, vadinamas varle. Arkliui bėgant, varlė tarsi amortizuoja. Prie arklio kanopų žmonės dažniausiai prikala geležines pasagas.Šiais laikais jau išrastos ir guminės bei plastikinės pasagos . Kai kelias kietas ar žemė grublėta, jos saugo kanopas."
+    },
+    {
+        "id": "08pbxl",
+        "description": "Beždžionės – pažengusios protinės dalies primatai. Priekinės smegenys stambios, raukšlėtu paviršiumi, pridengia smegenėles. Nosies kriauklės ir uodžiamoji priekinių smegenų dalis menkai išsivysčiusios. Akiduobės nuo smilkinio pusės uždaros, nukreiptos į priekį. Galūnės primityvios sandaros, pirštai su plokščiais nagais. Dantys išsidėstę glaudžia eile, iltys stambios. Veidas dažniausiai plikas. Veido raumenys gerai išsivystę, todėl mimika perduodama įvairi informacija. Gimda vienguba, krūtinės srityje yra tik 1 pora spenių. Beveik visos beždžionės dieniniai gyvūnai.\nSkirstoma į dvi sekcijas ir 7 šeimas:\n⁕Sekcija Plačianosės beždžionės. Gyvena Amerikoje.\n⁕Kabiauodegės beždžionės\n⁕Mirikinos\n⁕Sakiai\n⁕Koatos\n⁕Sekcija Siauranosės beždžionės. Gyvena „Senajame pasaulyje“.\n⁕Šunbeždžionės\n⁕Gibonai\n⁕Hominidai\nVikiteka"
+    },
+    {
+        "id": "07bgp",
+        "description": "Avis, arba naminė avis – porakanopių būrio, dykaraginių šeimos naminis gyvūnas. Manoma, kad avys prijaukintos maždaug prieš 10 000-12 000 m.\nAvys yra 55-100 cm aukščio, kūno ilgis iki uodegos pradžios – 60-110 cm. Avys sveria 30-100 kg, avinai – 60-180 kg. Gyvena 8-10, daugiausia 20 metų.\nŠiais laikais avys laikomos visose pasaulio dalyse daugiausiai dėl vilnos, kailio ir mėsos, o kai kurios veislės ir dėl pieno, iš kurio gaminami sūriai, taip pat tradiciniai jogurtai, kefyrai. Avys laikomos vienais seniausių naminių gyvūnų. Europoje žinomos nuo neolito. iš pradžių naudotasi avių mėsa ir krauju, vėliau pienu, galiausiai vilna. Artimuosiuose Rytuose avių vilna buvo kerpama jau II tūkst. pr. m. e. Iš čia per Siciliją avių kirpimas paplito ir Europoje."
+    },
+    {
+        "id": "02g2w1",
+        "description": "Misisipės aligatorius – aligatorinių šeimos gyvūnas.\nGyvena JAV pietryčių upėse ir pelkėse. Ilgis iki 6 m. Tarp priekinių kojų pirštų yra plaukiojamoji plėvė. Minta žuvimi, vandens paukščiais ir šiaip ką pačiupdami. Tankiau apgyventose vietose jie griebia ir neatsargius gyvulius. Veisiamas ir auginamas fermose.\nVikiteka"
+    },
+    {
+        "id": "0qqk",
+        "description": "Burnotis – burnotinių šeimos augalų gentis, kuriai priklauso vienamečiai arba daugiamečiai žoliniai augalai su šakotu stiebu. Lapai pražanginiai, įvairūs – kiaušiniški, lancetiški, elipsiški ir kt. formų. Žiedai smulkūs, susitelkę kamuolėliais tankiose varpose, galvutėse. Vaisius – dėžutė."
+    },
+    {
+        "id": "047v4b",
+        "description": "Tikrasis artišokas – astrinių šeimos artišokų genties augalas.\nDvimetis augalas. Lapai dideli, plunksniški. žiedynas mėlynos spalvos. Žydi paprastai antraisiais metais."
+    },
+    {
+        "id": "0cjs7",
+        "description": "Vaistinis smidras arba šparagas – daugiametis smidrinių šeimos žolinis augalas.\nUžauga iki 150 cm aukščio. Stiebai keli, ploni, šakoti. Lapai maži. Žiedai smulkūs, gelsvi, nusvirę; žydi birželio-liepos mėnesiais. Vaisius – raudona uoga. Šakniastiebis trumpas, mėsingas. Auginamas kaip dekoratyvinis augalas.\nVaistinė žaliava – šakniastiebiai ir šaknys, kasami ankstyvą pavasarį arba rudenį; jauni ūgliai, kurie tinka maistui, kasami anksti pavasarį.\n⁕\nUogos\n⁕\nSmidro ūgliai\n⁕\nPatiekalas iš smidro ūglių"
+    },
+    {
+        "id": "0hkxq",
+        "description": "Brokolis – bastutinių šeimos kultūrinė kopūsto atmaina."
+    },
+    {
+        "id": "0fbw6",
+        "description": "Gūžinis kopūstas – bastutinių šeimai priklausanti daržovė.\nAugalas dvimetis. Stiebas trumpas, lapai trumpakočiai, stambūs, mėsingi, kieti, įgaubti. Jie sudaro kietą, 0,3-16 kg svorio gūžę. Paprastai baltos spalvos, nors būna ir violetinių. Yra įvairaus ankstyvumo veislių.\nAnkstyvųjų kopūstų gūžės užauga per 50-60 d., vidutinio ankstyvumo – per 90-120 d., vėlyvųjų – per 130–140 d. Kopūstas, paliktas dirvoje antriems metams, išaugina stiebą su geltonu žiedynu.\nMaistui naudojamos gūžės. Iš jų ruošiamos salotos, sriubos, naudojamos įvairių patiekalų gamyboje. Žiemai kopūstai rauginami. Maistingosios medžiagos susikaupusios lapuose; čia yra vitaminų A, B1, B2, C, riebalų, angliavandenių ir kt."
+    },
+    {
+        "id": "0fj52s",
+        "description": "Valgomoji morka – laukinės morkos kultūrinė atmaina.\nNuo tipinės formos skiriasi stora, mėsinga, oranžinės ar gelsvos spalvos šaknimi.\nŠakniavaisiuose randama iki 2 proc. cukraus, 6,5 proc. kitų angliavandenių, baltymų, o taip pat mineralinių medžiagų, kuriose yra karotino, virstančio organizme vitaminu A, taip pat yra B grupės vitaminų bei vitamino C."
+    },
+    {
+        "id": "015w7p",
+        "description": "Žiedinis kopūstas arba kalafioras – bastutinių šeimai priklausanti daržovė. Augalas vienmetis. Stiebas trumpas, su žemai susitelkusiais lapais. Žiedynas šakotas. Žiedkočiai, kaip ir viršutiniai lapai, sustorėję, mėsingi, su žiedais sudaro sultingą, kompaktišką galvutę. Paprastai žiedinio kopūsto žiedynas baltas, nors būna ir žalių, purpurinių ar oranžinių.\nMaistui naudojami švieži žiedai su žiedkočiais. Dažniausiai verdami, nors kartais kepami ar vartojami žali.\nŽiediniai kopūstai Vakarų Europoje išplito XVI-XVII a."
+    },
+    {
+        "id": "01xj_",
+        "description": "Salieras – salierinių šeimos augalų gentis, kuriai priklauso apie 20 rūšių. Komerciškai svarbiausia rūšis – valgomasis salieras. Augalas iki 100 cm aukščio, stipriai kvepintis, su mėsinga šaknimi. Stiebas stačias, storas, su ryškiomis briaunomis ir vagomis. Žiedynai - iki 20 cm skersmens skėčiai su 6-12 trumpų stipinų. Žydi liepos – spalio mėn.\nSalieras auginamas kaip daržovė, prieskoninis ir vaistinis augalas. Maistui naudojami lapai, lapkočiai ir šaknys. Visose augalo dalyse gausu vitaminų ir kai kurių gydomųjų medžiagų. Salieruose yra flavonoido apigenino, pasižyminčio antivėžiniu poveikiu.\n⁕\nSaliero lapkočiai\n⁕\nSaliero šaknys"
+    },
+    {
+        "id": "053wn",
+        "description": "Paprastasis kukurūzas – miglinių šeimos kukurūzų genties augalas.\nAugalas vienmetis, užauga iki 1-3, o kartais net iki 5 m aukščio. Lapai platūs. Vyriški kuokeliniai žiedai sukrauti viršūninėje šluotelėje, moteriški piesteliniai – lapų pažastyse burbuolės pavidalo žiedynuose. Burbuolės apsuptos dengiamųjų lapų, pro kuriuos viršūnėje nukąra kuokštas siūliškų purkų. Vaisius – stambus, plikas, apvalus grūdas.\nŽydi liepos- spalio mėn."
+    },
+    {
+        "id": "015x4r",
+        "description": "Paprastasis agurkas moliūginių šeimos žolinis augalas.\nStiebas šliaužiantis iki 2 m ilgio. Lapai širdiški, žiedai geltoni, vaisiai žali, pailgi, vidutinio dydžio, sultingi, mėsiški.\nAuginamos įvairios veislės: „Perenta“, „Radničiok“, „Niežino“."
+    },
+    {
+        "id": "0cdk2",
+        "description": "Baklažanas – vienmetis bulvinių šeimos kiauliauogių genties augalas.\n115-180 cm aukščio, stiebas tvirtas, šakotas. Lapai širdiški, tamsiai žali su violetiniu atspalviu. Žiedai stambūs, violetiniai. Žydi gegužės – rugsėjo mėnesiais.\nVaisiai valgomi, dideli, rutulio, ovalo, cilindro ar kriaušės formų, prinoksta skirtingu laiku, sveria nuo 40 iki 100 g, dažniausiai sodrios violetinės spalvos. Kai kurių veislių vaisiai būna geltonos, rudos, žalios spalvos."
+    },
+    {
+        "id": "017dqv",
+        "description": "Paprastasis pankolis – salierinių šeimos augalų rūšis.\nAugalas 80-150 cm aukščio, stiebas stačias. Lapai 3 ir daugiau kartų plunksniškai suskaldyti, apatiniai su ilgais lapkočiais. Žiedynas – skėtis su 10-25 stipinais. Žydi liepos – rugpjūčio mėn."
+    },
+    {
+        "id": "0dbrl",
+        "description": "Valgomasis česnakas – – česnakinių šeimos česnakų genties augalų rūšis."
+    },
+    {
+        "id": "04bk6",
+        "description": "Kaliaropė arba ropinis kopūstas – kopūsto atmaina, auginama dėl didelių valgomų stiebų, kurių saldžiai karstelėjęs skonis panašus į ropių. Kaliaropė gerina virškinimą ir kraujo apytaką, padeda stabilizuoti kraujo cukraus kiekį, todėl naudinga sergantiems diabetu ir hipoglikemija."
+    },
+    {
+        "id": "013__5",
+        "description": "Daržinis poras – česnakinių šeimos svogūninis augalas, artimas ropinių svogūnų ir česnakų giminaitis. Išauga iki 40 cm aukščio."
+    },
+    {
+        "id": "0fqlj",
+        "description": "Sėjamoji salota – astrinių šeimos žolinis augalas.\nAugalas vienmetis, 30-100 cm aukščio. Stiebas status, plikas. Žydi liepos – rugpjūčio mėnesiais gelsvais žiedeliais. Vaisius – pailga, briaunota, ruda arba balsva sėkla.\nYra išvesta daug veislių, todėl lapai skiriasi: gūžinių salotų – ovalūs, banguoti, šviesiai žali, suformuojantys įvairaus dydžio apvalias gūželes, lapinių salotų – stambūs, atvirkščiai kiaušiniški, žali, kartais skiautėti.\nSalotose gausu antioksidantų, vitamino K, vitamino C, vitamino A, folio rūgšties."
+    },
+    {
+        "id": "0dj75",
+        "description": "Valgomasis svogūnas – česnakinių šeimos augalas. Anksčiau buvo priskiriamas lelijinių šeimai.\nLapai tuščiaviduriai, užauga iki 30-40 cm. Požeminiai augalo gumbai, taip pat vadinami svogūnais, – apvalūs arba pailgi, padengti kelių sluoksnių odele."
+    },
+    {
+        "id": "01xfpd",
+        "description": "Paprastasis pastarnokas – daugiametis žolinis augalas, priklausantis salierinių šeimos pastarnokų genčiai.\nDvimečiai, kartais ir keletą metų išgyvenantys, augalai su stora, verpstės pavidalo šaknimi. Geltoni žiedai sudėtiniuose skėtiškuose žiedynuose. Skėtukų paprastai 8-18, jų kotai nevienodo ilgio, plaukuoti. Nėra nei skraistlapių, nei skraistlapėlių. Taurelės danteliai vos įžiūrimi. Vainiklapiai geltoni, apskriti, viršūnė apvali. Vaisiai – beveik apskriti, gelsvai rusvi skeltavaisiai. Stiebas briaunotas, aukščiau vidurio šakotas, apaugęs trumpais, šiurkščiais plaukeliais. Apatiniai lapai nelabai ilgais kotais, pailgai ovalūs, plunksniški; lapeliai kiaušiniški arba lancetiški, jų kraštai stambiai dantyti arba netaisyklingai skiautėti. Aukščiau esantys stiebo lapai be kotų, plačiomis makštimis. Patrinti lapai kvepia panašiai kaip morkos.\nŽydi nuo liepos mėn. iki rugsėjo pabaigos. Auga pakelėse, pagrioviuose, pylimų šlaituose, pievose, patvoriuose, padaržėse, dykvietėse. Mėgsta priemolio dirvožemius, kuriuose gausu azoto.\nŽiedus apdulkina vabzdžiai, iš dalies ir vėjas. Visose augalo dalyse yra flavonoidų, eterinių aliejų, šaknyse – krakmolo, baltymų, pektinų, vitaminų."
+    },
+    {
+        "id": "0g5s7",
+        "description": "Sėjamasis žirnis – pupinių šeimos žirnių genties augalų rūšis.\nVienmetis žolinis augalas. Lapai poromis priešiškai plunksniški su kiaušiniškais lapeliais ir ūseliais, kuriais kabinasi prie atramos. Vaisius – ankštis, kurioje yra apvalios ar netaisyklingos žalsvai geltonos, rausvai gelsvos ar žalios sėklos."
+    },
+    {
+        "id": "0fg0m",
+        "description": "Valgomasis arachis, dar vadinamas žemės riešutu, arachisu – pupinių šeimos augalas kilęs iš Pietų ir Centrinės Amerikos."
+    },
+    {
+        "id": "05vtc",
+        "description": "Valgomoji bulvė – bulvinių šeimos kiauliauogių genties augalas.\nVienmetis žolinis augalas 50-120 cm aukščio, su kuokštinėmis šaknimis. Apatinė stiebo dalis su požeminėmis palaipomis, ant kurių susidaro įvairaus pavidalo ir spalvos stambūs stiebagumbiai. Antžeminis stiebas žalias, šakotas, su negausiais prigludusiais plaukeliais. Lapai pertrauktinai poromis plunksniški. Žiedai po 10-20 susitelkę į viršūninius žiedynus. Vainikėlis baltas, violetinis, rausvas. Uoga stambi, žalia, su daugeliu sėklų kiekviename lizde. Žydi birželio – rugpjūčio mėn. Mėgsta lengvą žemę."
+    },
+    {
+        "id": "015x5n",
+        "description": "Valgomasis ridikas – bastutinių šeimos kultūrinis augalas, auginamas dėl šaknų, kuriose yra daug vitaminių ir maistingų medžiagų. Išauga iki 20–80 cm, negausiai apaugęs šiurkščiais plaukais. Šaknys storos, mėsingos, juodos, raudonos, melsvos spalvos. Stiebas apatinėje dalyje tuščiaviduris.\nKultūroje auginama:\n⁕ridikėlis – vienmetis, su nedidelėmis baltomis, raudonomis arba melsvomis šaknimis;\n⁕ridikas – dvimetis, gana stambus augalas, išauginantis baltas, violetines arba juodas šaknis.\nVikiteka"
+    },
+    {
+        "id": "016rh7",
+        "description": "Daržinis špinatas – dažnai auginama vienametė daržovė. Nesutariama, kokiai šeimai priskirti šį augalą — balandinių ar burnotinių. Augalas 25-45 cm aukščio. Stiebas stačias, plikas, paprastas arba šakotas. Žydi birželio – rugsėjo mėn. Kartais gali sulaukėti."
+    },
+    {
+        "id": "0jtc5",
+        "description": "Paprastoji kraujažolė – astrinių šeimos augalas. Daugiametis, 10-70 cm aukščio žolinis augalas, šiek tiek apaugęs trumpais plaukeliais. Šakniastiebis plonas, šliaužiantis. Stiebas stačias, viršūnė šakota. Lapai 2-3 kartus plunksniškai suskaldyti, lancetiški, viršutiniai bekočiai, o apatiniai kotuoti. Graižai smulkūs, 4-6 mm skersmens, susitelkę į tankias skėtiškas kekes. Vaisiai plokšti, pailgi, sidabrinės pilkos spalvos.\nAuga dirvonuose, ganyklose, pamiškėse, grioviuose, pakelėse, patvoriuose, sausose pievose, auginama soduose ir daržuose. Žydi liepos – spalio mėn.\nRūšis labai dažna. Visos Lietuvoje augančios formos priklauso tipiniam porūšiui subsp. millefolium. Augalas ir piktžolė, ir vaistinis."
+    },
+    {
+        "id": "015fr",
+        "description": "Brazilijos Federacinė Respublika – valstybė Pietų Amerikos žemyne, didžiausia ir daugiausiai gyventojų turinti šio žemyno valstybė. Brazilija yra didžiausia pagal plotą ir gyventojų skaičių portugališkai kalbanti valstybė pasaulyje. Šalis taip pat yra penkta pagal užimamą plotą ir gyventojų skaičių pasaulio valstybė.\nŠalis užima didelę teritoriją tarp Andų kalnų ir Atlanto vandenyno, bei ribojasi su Urugvajumi, Argentina, Paragvajumi, Bolivija, Peru, Kolumbija, Venesuela, Gajana, Surinamu ir Prancūzijos Gviana.\nBrazilija buvo Portugalijos kolonija nuo Pedro Kabralo išsilaipinimo 1500 m. iki nepriklausomybės paskelbimo 1822 m. Iš pradžių tapusi nepriklausoma kaip Brazilijos imperija, respublika su dvejų rūmų įstatymų leidžiamąja valdžia, įkurta 1824 m. ratifikavus pirmąją konstituciją, egzistavo iki 1889 m. Dabartinė Konstitucija Braziliją apibrėžia kaip federalinę respubliką. Federaciją sudaro federalinės teritorijos sąjunga, 26 valstijos bei 5564 savivaldybės.\nBrazilijos ekonomika yra penkta pasaulyje pagal BVP ir aštunta pasaulyje pagal perkamosios galios paritetą. Šalis laikoma turinti vieną labiausiai augančių ekonomikų pasaulyje."
+    },
+    {
+        "id": "0d060g",
+        "description": "Kanada – valstybė Šiaurės Amerikoje. Ribojasi su JAV pietuose ir vakaruose, taip pat su Atlanto vandenynu rytuose, Ramiuoju vandenynu vakaruose bei Arkties vandenynu šiaurėje."
+    },
+    {
+        "id": "01p1v",
+        "description": "Čilės Respublika yra Pietų Amerikos šalis, kuri šiaurėje ribojasi su Peru, Bolivija, o rytuose – su Argentina."
+    },
+    {
+        "id": "0d05w3",
+        "description": "Kinijos Liaudies Respublika – valstybė rytų Azijoje, ketvirta pagal teritoriją valstybė pasaulyje ir didžiausia pagal gyventojų skaičių. Ribojasi su Afganistanu, Butanu, Mianmaru, Indija, Kazachstanu, Kirgizstanu, Laosu, Mongolija, Nepalu, Šiaurės Korėja, Pakistanu, Rusija, Tadžikistanu ir Vietnamu.\nKLR turi nuolatinę vietą JTO Saugumo Taryboje, taip pat yra APEC, East Asia Summit ir Šanchajaus bendradarbiavimo organizacijos narė. Kinija taip pat yra branduolinė valstybė, turinti didžiausią kariuomenę pasaulyje ir yra antra pagal ginklavimuisi skirtas lėšas."
+    },
+    {
+        "id": "0d04z6",
+        "description": "Kubos Respublika – salų valstybė tarp Karibų jūros, Meksikos įlankos ir Atlanto vandenyno. Kubos valstybę sudaro pagrindinė sala Kuba, Chuventudo sala ir kelios mažų salų grupės. Havana yra didžiausias miestas ir valstybės sostinė. Kubos Santjagas yra antras pagal dydį miestas. Kubos šiaurėje yra JAV ir Bahamos, Meksika į vakarus, Kaimanų salos ir Jamaika į pietus, ir Haitis ir Dominikos Respublika į pietryčius.\n1492 m. Kristupas Kolumbas išsilaipino Kubos saloje ir paskelbė ją Ispanijos karalystės dalimi. Kuba liko ispanų valdžioje iki ispanų-amerikiečių 1898 m. karo galo. 1902 m. gavo JAV pripažinimą. Nuo 1953 iki 1959 m. Kuboje įvyko Kubos revoliucija ir pašalino Fulgensijaus Batistos diktatūrą. Kiek veliau, Fidelis Kastro sukūrė naują valdžią. Dabartinė Kubos valdžia laikoma autoritarine.\nKuboje gyvena virš 10 milijonų žmonių, ir sala yra pati didžiausia pagal gyventojų skaičių ir plotą Karibuose. Jos kultūrą remiasi aborigenų, ispanų, afrikos vergų ir JAV kultūra.\nKuba turi 99,8 % raštingumo lygį, naujagimių mirtingumą žemesnį už kai kurias išsivysčiusias šalis ir vidutinę 77 metų gyvenimo trukmę."
+    },
+    {
+        "id": "03shp",
+        "description": "Irano Islamo Respublika – valstybė Artimuosiuose Rytuose, Azijos pietvakarinėje dalyje. Ribojasi su Armėnija, Azerbaidžanu, Turkmėnija bei Kaspijos jūra šiaurėje, Afganistanu ir Pakistanu rytuose, Iraku ir Turkija vakaruose, Persijos įlanka bei Omano įlanka pietuose."
+    },
+    {
+        "id": "01znc_",
+        "description": "Turkija – valstybė pietvakarių Azijoje, kurios nedidelė dalis teritorijos yra Europoje, o likusi dalis Azijoje. Ribojasi su Gruzija, Armėnija, Azerbaidžanu ir Iranu rytuose, Iraku ir Sirija pietuose, Graikija ir Bulgarija vakaruose. Iki 1922 m. Turkija buvo vadinama Osmanų imperija. Nuo Europos ją skiria du siauri sąsiauriai. Šiandien ji yra respublika, kurioje susipynusios islamo ir Vakarų tradicijos. Gyventojų daugumą sudaro turkai musulmonai, nors šalyje nėra patvirtinta oficialios religijos. Klimato ir gamtovaizdžio įvairovė patraukli turistams. Auginama įvairios žemės ūkio kultūros, šalis visiškai apsirūpina maisto produktais."
+    },
+    {
+        "id": "0d0vqn",
+        "description": "Švedija, oficialiai vadinama Švedijos karalyste yra valstybė Skandinavijos pusiasalyje, Šiaurės Europoje. Švedija ribojasi su Suomija rytuose ir Norvegija vakaruose, o pietuose Oresundo tiltu jungiasi su Danija.\nŠvedijos plotas – 450,295 km². Ji yra trečia pagal dydį šalis Europos Sajungoje pagal plotą. Čia gyvena apie 9,2 milijonų gyventojų. Švedijoje labai mažas gyventojų tankis – 21 gyventojas 1 kvadratiniame kilometre. Šalies pietuose gyvena žymiai daugiau žmonių negu šiaurėje. Apie 85 % gyventojų gyvena miestuose, prognozuojama, kad šis skaičius didės. Švedijos sostinė yra Stokholmas, kuris taip pat yra ir didžiausias miestas šalyje su 1,3 milijono gyventojų. Antras pagal dydį miestas yra Geteborgas su 0,5 milijonų gyventojų, trečias – Malmė.\nŠvedija yra konstitucinė monarchija, turinti parlamentą bei aukštai išvystytą ekonomiką. Ji užima pirmą vietą pasaulyje pagal demokratinį indeksą bei septintą pagal žmogaus socialinės raidos indeksą. Nuo 1995 m. sausio 1 d. Švedija yra Europos Sąjungos bei TEBIPO narė.\nŠvedijos valstybė susikūrė viduramžiais. XVII a. ji išplėtė savo teritorijas ir tapo viena iš didžiųjų pasaulio valstybių. Didžvalstybės laikotarpis tęsėsi nuo 1611 m. iki 1721 m. Vėliau karuose su Rusija Švedija prarado savo Baltijos valdas ir Suomiją Po Napoleono karų, kuriuose dalyvavo ir Švedija, 1814 m. ji prisijungė iš Danijos atimtą Norvegiją. 1905 m. Norvegija išsireikalavo nepriklausomybę. Nuo to laiko Švedija nebedalyvauja karuose ir laikosi neutralumo politikos."
+    },
+    {
+        "id": "06mkj",
+        "description": "Ispanijos Karalystė – valstybė Europos pietvakariuose, Pirėnų pusiasalyje. Ribojasi su Portugalija vakaruose, Prancūzija bei Andora šiaurėje, su Gibraltaru – pietuose. Ispanija yra supama Viduržemio jūros ir Atlanto vandenyno, jai taip pat priklauso turi du autonominiai miestai Afrikoje."
+    },
+    {
+        "id": "0h7x",
+        "description": "Austrija, oficialiai - Austrijos Respublika – valstybė Centrinėje Europoje, sudaryta iš 9 federacinių vienetų - žemių. Austrija šiaurėje ribojasi su Vokietija ir Čekija, rytuose su Slovakija ir Vengrija, pietuose su Slovėnija ir Italija, vakaruose su Šveicarija bei Lichtenšteinu. Tai žemyninė valstybė, neturinti priėjimo prie jūros. Apie 60 % šalies teritorijos užima Rytinės Alpės."
+    },
+    {
+        "id": "03gj2",
+        "description": "Vengrija – valstybė vidurio Europoje, besiribojanti su Austrija, Slovakija, Ukraina, Rumunija, Serbija, Kroatija ir Slovėnija."
+    },
+    {
+        "id": "0345h",
+        "description": "Vokietija, oficialiai – Vokietijos Federacinė Respublika – valstybė Vakarų Europoje, sudaryta iš 16 federacinių vienetų. Šiaurėje ribojasi su Danija, Šiaurės ir Baltijos jūra, rytuose – su Lenkija ir Čekija, pietuose – su Austrija bei Šveicarija, vakaruose – su Prancūzija, Liuksemburgu, Belgija ir Nyderlandais.\nVokietija – didžiausia pagal gyventojų skaičių Europos šalis. Pagal BVP dydį – ketvirta pasaulyje ir yra laikoma viena turtingiausių ir ekonomiškai pajėgiausių šalių pasaulyje. Viena iš Europos Sąjungos steigėjų. Be to, JTO, OECD, NATO, ESBO bei G8, kitų tarptautinių organizacijų narė ir svarbi paramos teikėja.\nAnksčiau Vokietijos vardu buvo vadinama ne valstybė, bet daugybė savarankiškų kunigaikštysčių ir karalysčių Europos viduryje. Valstybingumo pradžią žymi 962 m. buvusio Karolingų paveldo pagrindu susikūrusi Šventąja Romos imperija. 1871 m. suvienijus vokiškas žemes, buvo įkurta Vokietijos imperija. 1949 m. Vokietija buvo padalinta į Rytų Vokietiją ir Vakarų Vokietiją. Vėl suvienyta buvo 1990 m. spalio 3 d."
+    },
+    {
+        "id": "05qhw",
+        "description": "Lenkijos Respublika yra vidurio Europos valstybė. Vakaruose ji ribojasi su Vokietija, pietuose – su Čekija ir Slovakija, rytuose – su Ukraina, Baltarusija ir Lietuva, šiaurėje – su Rusijos Federacijai priklausančia Kaliningrado sritimi ir Baltijos jūra."
+    },
+    {
+        "id": "04g5k",
+        "description": "Latvijos Respublika – valstybė Europos šiaurės rytuose, Baltijos jūros rytinėje pakrantėje. Latvija yra viena iš Baltijos šalių kartu su Estija ir Lietuva, kurios yra jos kaimynės iš šiaurės ir pietų. Rytuose Latvija ribojasi su Rusija, o pietryčiuose su Baltarusija. Jūros siena Latvija ribojasi su Švedija. Latvija priskiriama vidutinių platumų klimato zonai.\nLatvija yra unitarinė parlamentinė respublika, kuri administraciniu atžvilgiu skirstoma į 118 savivaldybes. Sostinė ir didžiausias šalies miestas yra Ryga. Latvija nuo 1991 m. rugsėjo 17 d. yra Jungtinių Tautų, nuo 2004 m. balandžio 2 d. NATO, o nuo tų pačių metų gegužės 1-osios, kartu su Lietuva ir Estija, Europos Sąjungos narė. Latvijos nacionaliniai simboliai – baltoji kielė, dvitaškė boružė, baltoji ramunė, liepa ir ąžuolas."
+    },
+    {
+        "id": "012wgb",
+        "description": "Airija yra trečia pagal dydį Europos sala, priklausanti Britų salų salynui. Sala politiškai padalinta į Airijos Respubliką, užimančią 5\/6 salos ploto ir Šiaurės Airiją, priklausančią Jungtinei Karalystei salos šiaurės rytuose.\nSaloje gyvena apie 5,7 mln. žmonių, 4 milijonai Airijos Respublikoje ir 1,7 mln. Šiaurės Airijoje."
+    },
+    {
+        "id": "03_r3",
+        "description": "Jamaika – sala ir valstybė Karibų jūroje, Didžiųjų Antilų salyne, į pietus nuo Kubos ir į vakarus nuo Haičio. Pavadinimas kilo iš indėnų Taino kalbos pavadinimo Xaymaca."
+    },
+    {
+        "id": "01crd5",
+        "description": "Vietnamo Socialistinė Respublika – valstybė pietryčių Azijoje. Ribojasi su Kinija, Laosu, Kambodža. 2011 m. Vietname gyveno apytiksliai 90,5 milijono žmonių. Tai 13-ta didžiausia valstybė pagal gyventojų skaičių pasaulyje ir 8-ta Azijoje.\nVietnamiečiai išsikovojo nepriklausomybę nuo Kinijos Imperijos 938 m. Sėkmingos Vietnamo karališkosios šeimos atvedė Vietnamą į aukso amžių iki Indokinijos pusiasalio kolonizavimo. Pastangos išvaryti Prancūzus iš Vietnamo davė vaisių: XX a. vid. jie pasitraukė iš šalies ir paliko ją politiškai suskaldytą į dvi grupes. Įsikišus užsienio šalims, kova peraugo į Vietnamo karą, kuris baigėsi 1975 m. Šiaurės Vietnamo pergale.\nIlgo karo nualinta komunistinė šalis tapo politiškai izoliuota. 1986 m. valdžia pradėjo vykdyti ekonomines ir politines reformas, kad vėl galėtų bendradarbiauti su kitomis šalimis. Iki 2000 m. šalis užmezgė diplomatinius santykius su dauguma pasaulio valstybių. 2000 m. šalies ekonominis augimas buvo vienas didžiausių pasaulyje ir, pasak „Citigroup“, augimas nesustos. Sėkmingai įvykdžiusi ekonomines reformas, 2007 m. šalis buvo pakviesta į PPO. Tačiau Vietnamas vis dar kenčia nuo pajamų nelygybės, sveikatos apsaugos nebuvimo ir lyčių nelygybės."
+    },
+    {
+        "id": "015qh",
+        "description": "Bulgarijos respublika – valstybė pietryčių Europoje. Ribojasi su Juodąja jūra rytuose, Graikija ir Turkija pietuose, Serbija bei Makedonija vakaruose ir Rumunija šiaurėje. Su Rumunija ribojasi Dunojaus upe."
+    },
+    {
+        "id": "04w8f",
+        "description": "Mongolija – valstybė Azijoje, tarp Rusijos ir Kinijos. Didžiąją dalį Mongolijos teritorijos užima stepės, šiaurėje ir vakaruose – kalnai, o pietuose – dykuma, taigi nors šalis yra 18 pagal dydį pasaulyje, gyventojų ji turi mažiau nei Lietuva - 2 832 224.\nMongolija yra antroji pagal plotą pasaulio valstybė po Kazachstano, neturinti priėjimo prie atviros jūros."
+    },
+    {
+        "id": "06q1r",
+        "description": "Škotija – buvusi nepriklausoma karalystė šiaurės vakarų Europoje. Dabar tai viena iš keturių šalių, sudarančių Jungtinę Karalystę. Škotija užima šiaurinį Didžiosios Britanijos salos trečdalį bei Hebridų, Orknio ir Šetlando salas. Pietuose ribojasi su Anglija. Rytuose Škotijos krantus skalauja Šiaurės jūra, šiaurėje ir vakaruose Atlanto vandenynas, pietvakariuose – Airijos jūra.\nŠkotijos sostinė ir antras pagal dydį miestas – Edinburgas, kuris yra ir vienas didžiausių Europos finansų centrų. Didžiausias Škotijos miestas yra Glazgas, kuris yra ir Didžiojo Glazgo konglomeracijos centras.\nDabartinės Škotijos sienos beveik atitinka 1237 m. Jorko sutartimi tarp Škotijos ir Anglijos ir 1266 m. Perto sutartimi tarp Škotijos ir Norvegijos nustatytoms sienoms. Išimtis sudaro Meno sala, kuri dabar yra tiesiogiai pavaldi Jungtinei Karalystei, Orknio ir Šetlando salos, kurios dabar priklauso Škotijai, o ne Norvegijai ir Bervikui prie Tvido, kuris priskirtas Anglijai pagal 1746 m. Berviko Aktą."
+    },
+    {
+        "id": "0chghy",
+        "description": "Australijos Sandrauga yra šešta pagal dydį pasaulio šalis, užimanti Australijos žemyną ir aplinkines salas, iš kurių didžiausia Tasmanija. Pietryčiuose yra Naujoji Zelandija, šiaurėje – Indonezija, Papua Naujoji Gvinėja ir Rytų Timoras, šiaurės rytuose Saliamono salos ir Vanuatu. „Australijos“ pavadinimas kilęs iš lot. terra australis incognita."
+    },
+    {
+        "id": "035v3",
+        "description": "Grenlandija – didžiausia pasaulio sala, taip pat Danijai priklausanti salų grupė Šiaurės Amerikoje. Apie 81 % salos padengta ledu. Ledynai suformavo raižytą krantą su daugybe fiordų ir pakrantės salų ."
+    },
+    {
+        "id": "0jgx",
+        "description": "Armėnija, oficialiai Armėnijos Respublika – valstybė pietinėje Užkaukazėje, tarp Juodosios ir Kaspijos jūrų. Ribojasi su Turkija vakaruose, Gruzija šiaurėje, Azerbaidžanu rytuose, Iranu pietuose."
+    },
+    {
+        "id": "03_3d",
+        "description": "Japonija yra Rytų Azijos šalis, esanti salyne tarp Ramiojo vandenyno ir Japonijos jūros, Korėjos pusiasalio rytų. Į vakarus nuo šalies įsikūrusios Kinija, Korėja ir Rusija.\nJaponijos archipelagą sudaro 6852 salos. Didžiausios salos, Hokaidas, Honšiū, Šikoku, Kiūšiū ir sudaro 97 % visos žemyninės Japonijos teritorijos. Daugumos salų paviršius kalnuotas, nemaža dalis turi ugnikalnių. Aukščiausia Japonijos viršūnė, Fudzijamos kalnas, yra ugnikalnis. Pagal gyventojų skaičių Japonija dešimta – joje gyvena apie 128 mln. gyventojų. Didysis Tokijas, kuriame yra ir pati de facto Japonijos sostinė, bei kelios ją supančios prefektūros, yra didžiausia metropolinė zona pasaulyje, turinti virš 30 mln. gyventojų.\nArcheologiniais tyrinėjimais nustatyta, kad žmonės Japonijos salyne gyveno dar vėlyvajame paleolito laikotarpyje. Pirmąkart apie Japoniją trumpai užsimenama I a. Kinijos istorijos tekstuose.\nJaponija yra antra pagal nominalųjį BVP ir septinta pagal ginklavimosi biudžetą. Tai taip pat ketvirta didžiausia eksportuotoja ir šešta didžiausia importuotoja pasaulyje, pirmaujanti moderniomis technologijomis ir automobilių detalėmis. Yra JTO, OECD, G8, G4 ir APEC narė. JT ir PSO duomenimis, Japonijoje vidutinė gyvenimo trukmė ilgiausia pasaulyje, o kūdikių mirtingumas – vienas mažiausių. Japonijoje itin aukštas gyvenimo lygis – pagal ŽSRI indeksą Japonija yra 10-a pasaulyje."
+    },
+    {
+        "id": "019rg5",
+        "description": "Kenijos Respublika – valstybė Rytų Afrikoje. Ribojasi su Etiopija, Somaliu, Pietų Sudanu, Tanzanija, Uganda ir Indijos vandenynu.\nKenijos šalies pavadinimas kilo nuo kalno „Kenija“ reiškiančio „baltas“. Kenijos kalno viršukalnė nuolat skendi baltuojančiuose debesyse."
+    },
+    {
+        "id": "0f6kx",
+        "description": "Pirmãdienis yra savaitės diena tarp sekmadienio ir antradienio.\nPirmadienis būna pirmoji arba antroji savaitės diena. Antruoju jį laikė senovės žydai, šiuo metu toks savaitės skaičiavimas yra priimtas JAV, Filipinuose, Kanadoje. Dėl šios priežasties arabų, graikų, hebrajų ir portugalų kalbose žodžio „pirmadienis“ reikšmė yra „antroji diena“.\nPirmąja savaitės diena pirmadienis yra laikomas šiuolaikinėje Europoje, tai yra standartizuota ISO 8601 standartu.\nVakarų bei daugumoje kitų kultūrų pirmadienį prasideda darbo savaitė. Kadangi tai pirmoji darbo ar mokslo diena po atsipalaidavimo savaitgalį, kartais ši diena yra siejama su prasta savijauta. Aiškinant galimas blogos savijautos priežastis, kai kurie žmonės teigia, jog žmogaus natūralus ritmas nėra suderinamas su įprastine 40 valandų darbo savaite."
+    },
+    {
+        "id": "0f7_n",
+        "description": "Antradienis yra savaitės diena tarp pirmadienio ir trečiadienio.\nAntradienis nuo 1845 metų – oficiali JAV federalinių rinkimų diena, kur rinkimai rengiami antradienį po pirmo lapkričio pirmadienio.\nGraikų ir ispanų kultūrose antradienis yra nesėkmę nešanti diena, ispanakalbiuose kraštuose 13 mėnesio diena antradienis laikoma labai bloga diena.\nUžgavėnių šventė visada švenčiama antradienį."
+    },
+    {
+        "id": "0f7_4",
+        "description": "Trečiadienis yra savaitės diena tarp antradienio ir ketvirtadienio.\nTai darbo savaitės vidurinė diena.\nTrečiadienis taip pat yra savaitės vidurys kraštuose, kuriose savaitė prasideda sekmadieniu. Todėl vokiečių kalboje „trečiadienis“ vadinasi „Mittwoch“.\nIspaniškai „trečiadienis“ vadinasi „miércoles“ – šis žodis taip pat yra grubokas posakis, reiškiantis „niekada“."
+    },
+    {
+        "id": "0f7zn",
+        "description": "Ketvirtadienis yra savaitės diena tarp trečiadienio ir penktadienio.\nŠi diena yra savaitės vidurys šalyse, kuriose savaitė prasideda pirmadienį.\nPagal kai kurias konvencijas, savaitės numeruojamos pagal ketvirtadienius: pirmoji metų savaitė yra ta, kuri turi pirmąjį metų ketvirtadienį."
+    },
+    {
+        "id": "0f7z4",
+        "description": "Penktadienis yra savaitės diena tarp ketvirtadienio ir šeštadienio.\nDaugumoje šalių, kuriose darbo savaitė turi penkias dienas, penktadienis yra paskutinė darbo diena ir savaitgalio atsipalaidavimo pradžia."
+    },
+    {
+        "id": "0f7yn",
+        "description": "Šeštadienis yra savaitės diena tarp penktadienio ir sekmadienio.\nŠeštadienis yra pirmoji savaitgalio diena. Šeštadienio vakaras neretai švenčiamas iki nakties, kadangi kita diena – sekmadienis – irgi yra nedarbo diena. Todėl dauguma klubų, barų, kavinių penktadieniais ir šeštadieniais dirba ilgiau, nei kitomis dienomis.\nIš senovės žydų kildinamoje tradicijoje šeštadienis yra paskutinė savaitės diena. Ši koncepcija yra pripažįstama JAV, tačiau šiuolaikinėje Europoje šeštadienis yra priešpaskutinė savaitės diena. Pastaroji konvencija yra apibrėžta ISO 8601 standarte.\nŽydams šeštadienis yra šventa diena.\nSkandinavų šalyse šeštadienis vadinamas „Lördag“, „Löverdag“ ir pan. – pavadinimas yra kilęs iš žodžio „laugr“, t. y. tą dieną senovės skandinavai prausėsi. Anglų kalboje šeštadienis yra Saturno diena, vokiečių – Saulės vakaras."
+    },
+    {
+        "id": "0f6ld",
+        "description": "Sekmadienis yra savaitės diena tarp šeštadienio ir pirmadienio. Tai yra antroji ir paskutinė savaitgalio diena.\nKai kuriose šalyse sekmadienis yra pirmoji savaitės diena, ši tradicija kilo iš senovės žydų bei senovės Egipto kultūrų. Kitose šalyse tai yra paskutinė savaitės diena.\n⁕Katalikų šalys sekmadienį laiko šventa diena, laikoma, kad šią dieną nereikėtų dirbti.\n⁕Pirmasis gegužės sekmadienis – Motinos diena\n⁕Pirmasis birželio sekmadienis – Tėvo diena\n⁕Pirmasis sekmadienis po pavasario lygiadienio per mėnulio pilnatį – Šv. Velykos"
+    },
+    {
+        "id": "06m_p",
+        "description": "Saulė – žvaigždė, kurios sistemoje yra ir Žemė, ryškiausias mūsų dangaus objektas. Žemė ir kitos Saulės sistemos planetos, tiek sudarytos iš kietos medžiagos, tiek dujų milžinai, skrieja aplink Saulę. Kiti kūnai, skriejantys aplink Saulę dėl jos gravitacinės traukos, yra asteroidai, kometos ir kometoidai, transneptūniniai objektai ir dulkės.\nIšskyrus nedideles išimtis, Saulė yra vienintelis energijos šaltinis Žemei, ir beveik visos gyvybės rūšys priklauso nuo fotosintezės, kuri galima tik dėl Saulės energijos. Žemę pasiekia tik 47 proc. saulės energijos, 19 proc. sulaiko atmosfera, likę 34 proc. grįžta atgal į kosmosą."
+    },
+    {
+        "id": "09cy8",
+        "description": "Merkurijus – artimiausia Saulei planeta, už kurios kita, toliau nuo Saulės esanti planeta, yra Venera.\nMerkurijus aplink Saulę skrieja ištęsta elipsine orbita, dėl to Saulės apšviestas paviršius įkaista iki 700 K perihelyje ir iki 560 K afelyje. Per ilgą Merkurijaus naktį temperatūra nukrinta iki 110 K. Merkurijaus skersmuo 2,6 karto, o masė 18 kartų mažesnė negu Žemės.\nMerkurijus apskrieja Saulę per 87,97 dienas, o apie ašį apsisuka per 58,647 dienos, todėl saulinė para jame trunka 175,942 Žemės dienas."
+    },
+    {
+        "id": "09bcm",
+        "description": "Venera – antroji pagal atstumą nuo Saulės planeta. Po Mėnulio, tai antrasis pagal šviesumą objektas naktiniame danguje, maksimumą pasiekiantis tuoj pat po saulėlydžio arba prieš pat saulėtekį.\nPlanetos vardas siejamas su romėnų grožio ir meilės deive, tapačia senovės graikų Afroditei. Lietuviai ją laikė Saulės dukromis Vakarine ir Aušrine.\nVenera – vidinė Saulės sistemos planeta ir, žiūrint iš Žemės, nuo Saulės niekad nenutolsta toliau nei 47,8°. Ši planeta, turinti kietą dangą, kartais dar vadinama Žemės seserimi dėl dydžio ir sudėties panašumo. Venerą nuolat dengia storas nepermatomas, gerai šviesą atspindintis debesų sluoksnis, todėl įprastomis sąlygomis negalima pamatyti jos paviršiaus. Veneros atmosfera yra tankiausia iš Žemės tipo planetų, ją sudaro daugiausia anglies dioksidas, o atmosferos slėgis planetos paviršiuje yra 90 kartų didesnis nei Žemėje.\nVeneros paviršiaus žemėlapiai pradėti sudarinėti tik prieš 20 metų. Paviršiuje aptinkami vulkaninio aktyvumo požymiai ir gali būti, kad Veneros ugnikalniai iki šiol yra aktyvūs."
+    },
+    {
+        "id": "02j71",
+        "description": "Žemė – Saulės sistemos planeta, pagal atstumą Žemė yra trečia nuo Saulės ir penkta pagal masę. Žemės amžius yra apie 4,57 mlrd. metų."
+    },
+    {
+        "id": "09cws",
+        "description": "Marsas – ketvirtoji pagal atstumą nuo Saulės ir septinta pagal dydį Saulės sistemos planeta.\nIš Žemės matomas plika akimi kaip ryški rausvos spalvos žvaigždė. Dėl rausvo atspalvio žvelgiant iš Žemės kartais vadinama „raudonąja planeta“. Planetos pavadinimas kilęs nuo romėnų karo dievo Marso. Atitinkamai pavadinti ir Marso palydovai Fobas ir Deimas, kurie graikų mitologijoje yra Arėjo sūnūs, lydintys jį mūšyje.\nPanašiai kaip priešdėlis geo- kalbant apie dalykus, susijusius su Žeme, Marso atžvilgiu naudojamas priešdėlis areo-, pvz., areologija kaip geologijos atitikmuo."
+    },
+    {
+        "id": "09q84",
+        "description": "Jupiteris yra penktoji pagal nuotolį nuo Saulės sistemos planeta, dujinė milžinė. Turi žiedų sistemą.\nKaip ir kitos planetos, Jupiteris aplink Saulę skrieja ištęsta elipsine orbita, kurios viename židinyje yra Saulė. Nuotolis tarp Saulės ir Jupiterio kinta nuo 740 mln. iki 816 mln. km, Saulę apskrieja per 11,86 Žemės metų. Tai – didžiausia Saulės sistemos planeta, kurios skersmuo už Žemės didesnis 11 kartų, tūris – 1331 kartą, o masė – 317 kartų.\nPer opozicijas, kurios kartojasi kas 1,1 metų, Jupiteris danguje spindi kaip -2 ryškio gelsva žvaigždė. Pro teleskopą tuo metu jis atrodo kaip 45-50\" dydžio skritulys, kurio paviršiuje nusidriekusios kelios lygiagrečios pusiaujui tamsesnės juostos."
+    },
+    {
+        "id": "0c3s8",
+        "description": "Saturnas – antra pagal dydį ir šešta pagal atstumą nuo Saulės planeta. Saturnas matomas plika akimi, dėl to žinomas nuo senovės. Ženklas: ♄\nSaturnas nuo Saulės vidutiniškai nutolęs per 1429 milijonų km. Aplink Saulę apsisuka per 29,64 metus.\nTuri žiedų sistemą."
+    },
+    {
+        "id": "0c3ss",
+        "description": "Uranas – pirmoji Saulės sistemos planeta, atrasta pro teleskopą. 1781 m. kovo 13 d. planetą atrado anglas Viljamas Heršelis. Planeta pavadinta seniausiojo graikų dievo Urano vardu. Uranas – planeta milžinė – jos skersmenyje būtų galima išrikiuoti 4 Žemės dydžio planetas, o iš planetos masės padaryti 14 Žemės dydžio planetų. Uranas skrieja 6,8 km\/s greičiu ir Saulę apskrieja per 84 mūsų metus. Orbita labai ištęsta – perihelyje Uranas būna 270 mln. km arčiau Saulės negu afelyje. Planetos pusiaujo posvyris į orbitą beveik 90° laipsnių, todėl Uranas rieda tartum kamuolys, atsukdama į Saulę tai vieną, tai kitą šoną. Vienoje pusėje būna ilga diena, kitoje ilga naktis.\nUrano atmosfera susideda iš 82 % vandenilio, 15 % helio, 2 % metano, taip pat amoniako. Paviršių pastoviai dengia debesys. Jie sudaryti iš amoniako ledo, vandens ledo, metano ledo ir amonio hidrosulfido kristalėlių. Kadangi planeta skrieja 19 kartų toliau nuo Saulės negu Žemė, gauna 360 kartų mažiau šviesos ir šilumos. Išorinių debesų temperatūra siekia vos −218 °C Temperatūra planetos paviršiuje kur kas didesnė – 58 °C, tačiau beveik visame paviršiuje ji išsilaiko vienoda.\nViršutiniai Urano debesys sudaryti daugiausia iš metano kristalėlių. Metanas sugeria geltonuosius ir raudonuosius Saulės spindulius, todėl atspindėta šviesa atrodo melsvai žalia."
+    },
+    {
+        "id": "0c31h",
+        "description": "Neptūnas – Saulės sistemos išorinė planeta, aštunta pagal nuotolį nuo Saulės. Aplink Saulę skrieja elipsine orbita vidutiniu 5,4 km\/s greičiu. Plika akimi yra nematomas, kadangi opozicijoje jo ryškis siekia tik 7,6 ryškio. Pro teleskopą opozicijos metu Neptūno skritulys matomas 2,5\" kampu. Neptūno atmosfera susideda iš vandenilio, helio, metano, amoniako. Paviršių nuolatos dengia debesys. Atmosferos geometrinis albedas 50 %. Neptūno temperatūra 38 K. Paviršių veikiausiai dengia plonas amoniako ir metano vandenynas. Po juo yra ~3500 km storio vandens, amoniako ir metano ledų sluoksnis, centre ~20 500 km spindulio tų pat ledų ir silikatų branduolys. Medžiagos tankis centre 4,8 g\/cm³, temperatūra 12 000 K. Neptūną Vandenio žvaigždyne 1846 m. atrado J. G. Gale ~1 laipsnio nuotoliu nuo tos vietos, kurią iš Urano judėjimo trikdymų nepriklausomai vienas nuo kito apskaičiavo prancūzas U. Leverjė ir anglas Dž. Adamsas. 1989 m. pro Neptūną praskriejo JAV kosminė stotis Voyager 2.\nNeptūno vidutinis atstumas nuo Saulės – 4497 milijonai kilometrų. Apskaičiuota, kad jo atmosferos temperatūra lygi -210 °C. Neptūnas – labiausiai atitolusi nuo saulės planeta.\nNeptūno skersmuo – 49 500 km. Jo paros ilgumas – 16 valandų 7 minutės, o metai trunka 165 Žemės metus. Iš kosmoso Neptūnas atrodo mėlynas, nes jo atmosferos metanas sugeria raudoną šviesą. Didžioji Juodoji Dėmė Neptūno vandenilio, helio ir metano atmosferoje yra milžiniška – joje tilptų Žemė."
+    },
+    {
+        "id": "0jwy",
+        "description": "Avinas – 39-as pagal dydį šiaurės pusrutulio žvaigždynas. Lietuvoje geriausiai matomas gruodžio – sausio vakarais. Žvaigždynas nėra itin ryškus. Jame yra nemažai meteoritų srautų kvadrantų, dvinarių žvaigždžių.\nDangaus plotas, apimantis Avino, Andromedos, Žuvų žvaigždynus ir Plejades simbolizuoja Hipolitės juostą."
+    },
+    {
+        "id": "07cqw",
+        "description": "Tauras – 17-as pagal dydį šiaurinio pusrutulio ryškus žvaigždynas. Lietuvoje matomas žiemos mėnesiais. Galimas lietuviškas Tauro ir Vežėjo pavadinimas – Grėbėjos.\nTauro žvaigždyne yra didžiausias regimu plotu padrikasis spiečius Hiados bei vienas gražiausių spiečių – Plejadės, arba Sietynas."
+    },
+    {
+        "id": "077r8d",
+        "description": "Dvyniai – 30-as pagal dydį ryškus šiaurės pusrutulio žvaigždynas. Lietuvoje geriausiai matomas žiemą. Senovinis lietuviškas žvaigždyno pavadinimas – Du Jaučiai.\nŽvaigždynas sudaro įsimintiną figūrą, kurios dvi ryškiausios žvaigždės simbolizuoja graikų mitologijos didvyrius dvynius Dioskūrus – Kastorą ir Poluksą. Arabai čia matė du povus, egiptiečiai – Horą vyresnįjį ir jaunesnijį. Eskimams simbolizavo du akmenis, dedamus prie įėjimo į būstą.\nDvynių žvaigždyne rastos dvi naujos Saulės sistemos planetos:\n⁕1781 m. Viljamas Heršelis atrado Uraną,\n⁕1930 m. K. Tombo atrado Plutoną."
+    },
+    {
+        "id": "0qck6",
+        "description": "Vėžys – 31-as pagal dydį šiaurinio pusrutulio Zodiako juostos žvaigždynas. Lietuvoje matomas sausio – vasario mėnesiais. Žvaigždynas žinomas nuo seniausių laikų. Pagal V. Straižio identifikaciją lietuviškas pavadinimas – Žagrė."
+    },
+    {
+        "id": "04h2q",
+        "description": "Liūtas – 12-as pagal dydį šiaurinio pusrutulio Zodiako juostos žvaigždynas. Lietuvoje matomas vasario – kovo vakarais. Žvaigždynas žinomas nuo seniausių laikų. Pagal V. Straižio identifikaciją lietuviškas pavadinimas – Artojas."
+    },
+    {
+        "id": "07yt9",
+        "description": "Mergelė – 2-as pagal dydį šiaurės pusrutulio žvaigždynas. Lietuvoje geriausiai matomas pavasarį. Mergelės žvaigždynas tapatinamas su graikų deive Astraja. Mergelėje dabar yra rudens lygiadienio taškas. Šiaurinėje dalyje, netoli Almuredino yra didelė galaktikų sankaupa. Mergelės žvaigždyne yra artimiausias iki šiol rastas kvazaras 3C273.\nKartais minimas senovinis lietuviškas pavadinimas Valgio nešėja.\n⁕Spika – α Vir 02m,85\n⁕M104 – Sombrero galaktika\n⁕M87 – – galingus rentgeno spindulių pliūpsnius į erdvę metanti elipsinė galaktika.\n⁕Elipsinės galaktikos M60, M84."
+    },
+    {
+        "id": "04h36",
+        "description": "Svarstyklės – 29-as pagal dydį pietų pusrutulio žvaigždynas, esantis arti dangaus pusiaujo. Lietuvoje geriausiai matomas birželio – liepos vakarais.\nSenovės graikai įžiūrėjo teisingumo deivės Astrajos atributą – svarstykles."
+    },
+    {
+        "id": "06pgz",
+        "description": "Skorpionas – 33-as pagal dydį pietinio pusrutulio ryškus žvaigždynas Paukščių Take, liepos mėnesį neaukštai pakylantis virš horizonto. 134 m. pr. m. e. žvaigždyne sužibo supernova, tai paskatino Hiparchą sudaryti žvaigždžių katalogą."
+    },
+    {
+        "id": "06pgg",
+        "description": "Šaulys – 15-as pagal dydį pietinio pusrutulio ryškus žvaigždynas Paukščių Take, vasaros mėnesiais neaukštai pakylantis virš horizonto. Žvaigždyne yra mūsų Galaktikos centras, taip pat žiemos saulėgrįžos taškas.\nŠumerai su šiuo žvaigždynu siejo karo dievą Nergalą. Babiloniečiams tai buvo dievas Pabilsagas, turėjęs liūto galvą ir sparnus. Arabai įžiūrėjo pulkelį stručių, atėjusių atsigerti iš dangiškos upės Paukščių Tako, egiptiečiai – liūtą, kinai – tigrą, indai – arklį."
+    },
+    {
+        "id": "01nk9",
+        "description": "Ožiaragis – 40-as pagal dydį pietinio pusrutulio žvaigždynas. Lietuvoje matomas rudenį. Žvaigždynas žinomas nuo seniausių laikų."
+    },
+    {
+        "id": "0jxf",
+        "description": "Vandenis – 10-as pagal dydį abipus dangaus pusiaujo esantis žvaigždynas, kurio didesnė dalis yra pietinėje dalyje. Nors tai didelis, bet neryškus žvaigždynas, Lietuvoje matomas neaukštai virš horizonto spalio-lapkričio mėnesiais. 1846 m. Vokiečių astronomas J. G. Galė Vandenio žvaigždyne atrado Neptūną."
+    },
+    {
+        "id": "05s7n",
+        "description": "Žuvys – 14-as pagal dydį abipus dangaus pusiaujo esantis žvaigždynas. Tai neryškus žvaigždynas, Lietuvoje matomas neaukštai viš horizonto vėlyvos vasaros mėnesiais. Šiuo metu žuvų žvaigždyne yra pavasario lygiadienio taškas."
+    },
+    {
+        "id": "02vx4",
+        "description": "Futbolas – žaidimas kamuoliu tarp dviejų komandų. Kartais skiriant nuo amerikietiško futbolo vadinamas asociacijos futbolu, pagal Anglijos Futbolo Asociaciją, 1863 metais sukūrusią dabartinių taisyklių futbolo pagrindus."
+    },
+    {
+        "id": "0jm_",
+        "description": "Amerikietiškasis futbolas – komandinis sportas, XIX a. pabaigoje sukurtas regbio pagrindu. Stačiakampėje aikštėje žaidžia po 11 dviejų komandų žaidėjų, žaidimo tikslas – pelnyti kuo daugiau taškų. Rungtynėse yra žaidžiami keturi kėliniai po 15 minučių. Po pirmų dviejų kėlinių būna 12 minučių pertrauka. Esant lygiam rezultatui yra žaidžiamas pratęsimas, per kurį pirmoji pelniusi taškus komanda laimi. Jei ir per pratęsimą neišaiškinamas nugalėtojas, skelbiamos lygiosios.\nTaip pelnomi 6 taškai. Priklausomai nuo situacijos, komanda po pelnyto touchdown pasirenka arba smūgį į vartus nuo 2 jardų atstumo, arba nuo 2 jardų atžymos stengiasi surengti ataką ir dar kartą įsiveržti į varžovų galinę liniją. Dažniausiai komanda renkasi pirmą variantą, tačiau esant būtinybei, pvz., kai atsiliekama dviem taškais baigiantis rungtynių laikui, dažniausiai rizikuojama stengiantis išlyginti rezultatą."
+    },
+    {
+        "id": "018w8",
+        "description": "Krepšinis – komandinė sporto šaka, kurioje žaidžiama kamuoliu. Krepšinis žaidžiamas aikštelėje, kurioje 2 komandų žaidėjai stengiasi surinkti kuo daugiau taškų, mėtydami kamuolį į specialų krepšį. Tai pati populiariausia sporto šaka Lietuvoje ir viena populiariausių sporto šakų JAV, pietų ir pietryčių Europoje, buvusiose Tarybų Sąjungos ir Jugoslavijos šalyse, Argentinoje, Filipinuose, Libane, Kinijoje, Angoloje, Senegale."
+    },
+    {
+        "id": "018jz",
+        "description": "Beisbolas – komandinis lauko žaidimas, kurio tikslas – kuo daugiau savo komandos žaidėjų padėti apibėgti kvadratą numušus medine arba aliuminine lazda kamuoliuką, o taip pat leisti kuo mažiau priešininkų apibėgti kvadratą. Žaidžia dvi komandos po 9 žaidėjus 125 m ilgio ir 75 m pločio aikštėje. Rungtynėse žaidžiami 9 kėliniai, kurių kiekviename komanda vieną kartą puola ir vieną kartą ginasi.\nŠalys, kuriose beisbolas yra populiariausia ar viena populiariausių sporto šakų – JAV, Kuba, Japonija, Dominikos Respublika, Venesuela, Meksika, Pietų Korėja ir kt."
+    },
+    {
+        "id": "07bs0",
+        "description": "Tenisas, lauko tenisas – labai seniai egzistuojantis rakečių sportas. Jį žaidžia 2 arba 4 žaidėjai. Tikslas yra rakečių pagalba pasiųsti kamuoliuką į priešininko pusę taip, kad tas negalėtų jo atmušti. Pagrindiniai tenise yra Didžiojo kirčio turnyrai."
+    },
+    {
+        "id": "01cgz",
+        "description": "Boksas – kovinio sporto šaka, kurioje du vienodos svorio kategorijos asmenys kovoja tik kumščiais."
+    },
+    {
+        "id": "03tmr",
+        "description": "Ledo ritulys – komandinis žaidimas, žaidžiamas ant ledu padengtos aikštelės. Žaidimo esmė: čiuožykloje dvi komandos stengiasi ritmušomis įmušti ritulį į viena kitos vartus."
+    },
+    {
+        "id": "07_53",
+        "description": "Tinklinis yra olimpinė komandinė sporto šaka, kurioje žaidžia dvi komandos sudarytos iš šešių žaidėjų. Abejas komandas skiria tinklas, o žaidėjų tikslas – permušti kamuolį per tinklą į priešininkų teritoriją ir uždirbti taškus pagal tam tikras taisykles.\nVisos tinklinio taisyklės yra plačios, tačiau dažniausiai žaidžiama taip: taškai uždirbami, kai kamuolys paliečia priešininkų komandos aikštelės grindis arba priešininkai padaro klaidą. Pirma komanda pasiekusi 25 taškus laimi setą, o pirmoji laimėjusi tris setus, laimi rungtynes. Viena komanda negali liesti kamuolio daugiau nei tris kartus, ir tai turi daryti skirtingi žaidėjai. Dažniausiai žaidžiama rankomis, tačiau taisyklės leidžia kamuolį liesti bet kuria kūno vieta.\nKadangi žaidėjai dažnai šokinėja mušdami kamuolį per tinklą, svarbiausias fizinis veiksmas yra vertikalus šuolis. Tinklinis turi daug įvairių atšakų, iš kurių populiari yra kita Olimpinė sporto šaka paplūdimio tinklinis."
+    },
+    {
+        "id": "037hz",
+        "description": "Golfas – sportinis lauko žaidimas, laisvalaikio leidimo būdas. Golfas žaidžiamas nuo 30 iki 80 ha su gamtinėmis kliūtimis lauke, kuriame būna įrengta 9 arba 18 duobučių kamuoliukams įridenti. Žaidžiama naudojant nedidelius kamuoliukus bei įvairių dydžių bei formų lazdas."
+    },
+    {
+        "id": "03_8r",
+        "description": "Dziudo – šiuolaikinė japonų kovos meno ir kovinio sporto rūšis, atsiradusi Japonijoje XIX a. pabaigoje."
+    },
+    {
+        "id": "0d38m",
+        "description": "Maratono bėgimas – šiuolaikinėje lengvojoje atletikoje ilgiausia bėgimo distancija, siekianti 42 km 195 m. Pavadinimas kilo nuo Maratono mūšio, vykusio. Pasakojama, kad graikų karys Filipidas atbėgo iš Maratono miestelio į Atėnus pranešti apie graikų pergalę prieš persus ir vos pasakęs tai, numirė."
+    },
+    {
+        "id": "0194d",
+        "description": "Badmintonas – sportinis žaidimas, kurį žaidžia 2 arba 4 žaidėjai rakete per tinklą smūgiuodami plunksninuką – kamuoliuką, padarytą iš plunksnų arba plastiko ir kamščio galvutės. Žaidimo tikslas – permušti kamuoliuką per tinklą į varžovo aikštelės pusę taip, kad varžovas negalėtų atmušti atgal, ir neleisti jam nukristi savo aikštelės pusėje."
+    },
+    {
+        "id": "07jbh",
+        "description": "Stalo tenisas – judri rakečių sporto šaka, žaidžiama su lengvais kamuoliukais ant specialaus stalo teniso stalo."
+    },
+    {
+        "id": "087zy",
+        "description": "Joga yra indų filosofijos mokymas, apimantis įvairius fizinius ir mentalinius pratimus kaip asanas, pranajama, meditaciją arba askezę. Joga praktikuojama jau apie 5000 metų. Jogos teorinis pagrindas - Samkhja, kai tuo tarpu joga - praktinis išsivadavimo metodas. Kitaip nei samkhja, joga išpažįsta asmenišką aukščiausiąjį Dievą. Joga grindžiama idėja, kad koncentracija, meditacija bei askeze žmogus gali nuraminti dvasią, pasiekti gilesnę įžvalgą ir išsivaduoti iš materialiosios prakriti. Pavadinimas kilęs iš"
+    },
+    {
+        "id": "0397w",
+        "description": "Gimnastika – sporto šaka, kurioje sportininkas turi atlikti įvairius pratimus, reikalaujančius jėgos, grakštumo, lankstumo ir koordinacijos. Žodis gimnastika kilęs iš graikų kalbos. Gimnastikos elementai plačiai naudojami cirke, taip pat įvairių pasirodymų, masinių renginių metu kaip pramoginė dalis."
+    },
+    {
+        "id": "036vg6",
+        "description": "Imtynės – fizinis susirėmimas tarp dviejų neginkluotų žmonių, siekiant įgyti pranašumą prieš priešininką, sukaustyti jo judesius, priversti pasiduoti. Imtynėse nenaudojami smūgiai, o naudojami metimai, užlaužimai, skausmingi veiksmai, smaugimas. Konkrečiose imtynių rūšyse gali būti draudžiami tam tikri veiksmai.\nImtynės priskiriamos kovos menams, kadangi jos nesunkiai pritaikomos kovinėms situacijoms priešininkui įveikti. Sportinėse imtynėse stengiamasi kiek įmanoma išvengti priešininko sužalojimo, tuo tarpu kovinėse atvirkščiai – siekiama kuo efektyviau sužaloti ar užmušti priešininką. Kovinėse imtynėse yra veiksmų grupės, kurios skirtos apsiginti nuo priešininkų, ginkluotų peiliais, pistoletais ir pan. ginklais, ir juos atakuoti.\nDaugelis tautų turi savo nacionalines imtynių formas. Imtynės nuo pat pradžių įėjo į olimpines sporto šakas."
+    },
+    {
+        "id": "04xsv",
+        "description": "Kovos menai – sporto šakos, pasižyminčios tarpusavio kova, grumtynėmis be šaunamųjų ginklų dažniausiai tarp dviejų asmenų. Šių menų studijavimo tikslai įvairūs, tačiau bendriausi yra fizinės pergalės prieš kitus asmenis užsitarnavimas, savigynos bei kitų gynybos nuo potencialios grėsmės tobulinimas. Tolimuosiuose Rytuose koviniai menai turi tiesioginį ryšį su induizmo, budizmo, daoizmo, konfucianizmo, šintoizmo religijomis bei šiuo regiono tautų tradicijomis.\nKovos menų arba kempo terminas Europoje atsirado tik XV a., nors Rytuose jis vyravo jau gilioje senovėje.\nKiekvienas kovinis menas turi savitą stilių, unikalius bruožus, darančius jį išskirtiniu, tačiau visų bendra savybė yra sistemingas technikos panaudojimas kovoje. Skiriasi mokymo metodai, į kurių gretas įtraukiami sparingai, koviniai technikos rinkiniai, šaltųjų ginklų panaudojimas, fizinės galios išbandymai bei psichologijos studijavimai."
+    },
+    {
+        "id": "03_ly",
+        "description": "Sausis – pirmasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena. Normaliais metais sausis prasideda ta pačia savaitės diena kaip ir spalis. Keliamaisiais metais sausis prasideda ta pačia savaitės diena, kaip balandis ir liepa. Sausis ir vasaris į kalendorių buvo įtraukti paskutiniai, nes romėnai žiemos į mėnesius neskirstė. Pirmojo metų mėnesio titulą sausis perėmė iš kovo todėl, kad sausį romėnai paprastai rinkdavo konsulus."
+    },
+    {
+        "id": "02xx5",
+        "description": "Vasaris yra antrasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 28 dienos įprastiniais metais ir 29 dienos – keliamaisiais metais. Tris kartus istorijoje vasaris turėjo 30 dienų. Normaliais metais vasaris prasideda ta pačia savaitės diena, kaip kovas ir lapkritis. Keliamaisiais metais vasaris prasideda ta pačia savaitės diena, kaip rugpjūtis.\nSausis ir vasaris į kalendorių buvo įtraukti paskutiniai, nes romėnai žiemos į mėnesius neskirstė. Lotyniškas mėnesio pavadinimas Februārius kildinamas iš romėnų apvalymo dievo Februso vardo. Lietuviškai dar vadintas ragučiu, kovu, koviniu, pridėtiniu, pūsiu, pusiniu, pustiniu, pusčiumi, mažuoju ragučiu.\nLietuviai mėnesį vadindavo barsukiniu, taip pat veršiniu, ešeriniu. Dar kiti vardai buvo zuikiakojis, ragutis, pridėtinis."
+    },
+    {
+        "id": "04wzr",
+        "description": "Kovas – trečiasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena.\nRomėnų kalendoriuje kovas ilgą laiką buvo pirmasis mėnuo. Tik po Julijaus Cezario kalendoriaus reformos 45 m. pr. m. e. metai prasidėjo sausio 1 d. Tradicija kovą laikyti pirmuoju metų mėnesiu daugelyje šalių išliko ilgą laiką. Prancūzijoje Naujieji Metai perkelti į sausio 1 d. 1564 m. Didžioji Britanija ir jos kolonijos naujais metais laikė kovo 25 d. iki 1752 m., t. y. metų, kai galutinai priėmė Grigaliaus kalendorių.\nLotyniškas mėnesio pavadinimas Martius kildinamas iš romėnų karo dievo Marso vardo. Šis mėnuo buvo laikomas sėkmingu karui pradėti.\nSenovės graikų civilizacijoje kovas buvo vadinamas Anthesterion.\n⁕Kovas prasideda ta pačia savaitės diena, kaip lapkritis, o ne keliamaisiais metais – ir kaip vasaris."
+    },
+    {
+        "id": "0lkm",
+        "description": "Balandis yra ketvirtas metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 30 dienų.\nLotyniškas mėnesio pavadinimas Aprīlis kildinamas arba iš žodžio aperire, arba iš etruskų žodžio Apru, reiškiančio 'Afroditė'.\nLietuviški pavadinimai – Žiedų, Karvelio, Sultekis, Mildvinis.\n⁕Normaliais metais balandis prasideda ta pačia savaitės diena, kaip liepa.\n⁕Keliamaisiais metais – kaip sausis."
+    },
+    {
+        "id": "04w_7",
+        "description": "Gegužė yra penktasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena.\nLotyniškas mėnesio pavadinimas Māius kildinamas iš romėnų deivės Majos vardo, arba nuo vaisingumo deivės Bona Dea vardo. Pastarosios šventė buvo švenčiama gegužę.\nLietuviški pavadinimai – Sėmenis, Sėtinis, Militis.\n⁕Gegužė prasideda savaitės diena, nesutampančia su jokiu kitu mėnesiu."
+    },
+    {
+        "id": "040fb",
+        "description": "Birželis yra šeštasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 30 dienų.\nLotyniškas mėnesio pavadinimas Iūnius kildinamas iš romėnų deivės Junonos vardo.\nLietuviški pavadinimai – Beržė, Jaunis, Mėšlinis, Sėtinis, Visjavis.\n⁕Birželis prasideda savaitės diena, nesutampančia su jokiu kitu mėnesiu."
+    },
+    {
+        "id": "040fv",
+        "description": "Liepa yra septintasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena.\nLotyniškas mėnesio pavadinimas Iūlius buvo suteiktas Romos imperatoriaus Julijaus Cezario garbei. Iki tol mėnuo vadinosi Quintilis, t. y. penktasis mėnuo.\nLietuviški pavadinimai – Šienapjūtis, Griežlinis, Putpelinis, Medunešis, Ungurinis, Šaminis.\n⁕Normaliais metais liepa prasideda ta pačia savaitės diena, kaip balandis.\n⁕Keliamaisiais metais – ir kaip sausis."
+    },
+    {
+        "id": "0ll3",
+        "description": "Rugpjūtis yra aštuntasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena.\nLotyniškas mėnesio pavadinimas Augustus buvo suteiktas Romos imperatoriaus Augustino garbei. Šis mėnuo turi 31 dieną todėl, kad Augustinas norėjo savo mėnesyje turėti tiek pat dienų, kiek Julijus Cezaris jo vardu pavadintoje liepoje. Šis mėnuo pasirinktas todėl, kad jį mirė Egipto karalienė Kleopatra VII. Iki tol mėnuo vadinosi Sextilis, t. y. šeštasis mėnuo.\nLietuviški pavadinimai – Pjūtė, Šilinis, Grikinis, Drevinis, Degėsis, Paukštlėkis.\n⁕Rugpjūtis prasideda ta pačia savaitės diena, kaip vasaris keliamaisiais metais."
+    },
+    {
+        "id": "06vkl",
+        "description": "Rugsėjis yra devintasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 30 dienų.\nLotyniškas mėnesio pavadinimas September reiškia 'septintasis mėnuo'.\nLietuviški pavadinimai – Rugis, Rudugys, Rujos, Paukštlėkys, Šilinis, Grybaulia, Želmeninis, Vėsulis, Varninis.\n⁕Rugsėjis prasideda ta pačia savaitės diena, kaip gruodis."
+    },
+    {
+        "id": "05lf_",
+        "description": "Spalis yra dešimtasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena.\nLotyniškas mėnesio pavadinimas Octōber reiškia aštuntasis mėnuo.\nLietuviški pavadinimai – Pagrūzdis, Pažaliuokis, Varninis, Bobvarnis.\n⁕Normaliais metais spalis prasideda tą pačia savaitės diena kaip ir sausis."
+    },
+    {
+        "id": "05cw8",
+        "description": "Lapkritis yra vienuoliktasis metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 30 dienų.\nLotyniškas mėnesio pavadinimas November reiškia 'devintasis mėnuo'.\nLietuviški pavadinimai – Balaninis, Linabrukis, Jaujinis, Vėlių mėnuo.\n⁕Lapkritis prasideda ta pačia savaitės diena, kaip kovas, o ne keliamaisiais metais – ir kaip vasaris."
+    },
+    {
+        "id": "028kb",
+        "description": "Gruodis yra pirmasis kalendorinis prasidedančios žiemos ir dvyliktas metų mėnuo pagal Grigaliaus kalendorių, jį sudaro 31 diena. Lotyniškas mėnesio pavadinimas December reiškia dešimtasis mėnuo. Kiti gruodžio mėnesio pavadinimai lietuvių kalba – Pustis, Ragas, Didysis Ragutis ir kt. Pažymėtina, kad gruodis prasideda ta pačia savaitės diena, kaip rugsėjis."
+    },
+    {
+        "id": "0fm3w",
+        "description": "Šiaurė - viena keturių pasaulio šalių, esanti prieš pietus. Vakarų kultūroje laikoma pačia svarbiausia pasaulio šalimi, nes žinant ją, galima sužinoti ir kitas pasaulio šalis.\n\nVikiteka"
+    },
+    {
+        "id": "0k7ny",
+        "description": "Pietūs - viena keturių pasaulio šalių, esanti prieš šiaurę. Vakarų kultūroje, pietūs žemėlapyje paprastai žymimi apačioje."
+    },
+    {
+        "id": "0gkh2",
+        "description": "Vakarai yra pasaulio kryptis į priešingą pusę nei sukasi Žemė arba, kitaip tariant link Saulės nusileidimo vietos.\nVakarai yra viena iš keturių pagrindinių pasaulio krypčių. Vakarai naudojami nurodant koordinates ir navigacijai. Navigacijoje Vakarai reiškia lanko tarp Pietų ir Šiaurės vidurį. Pavasario lygiadienio ir rudens lygiadienio taškuose Saulė leidžiasi tiksliai vakarų pusėje.\nKitos pagrindinės pasaulio kryptys yra Šiaurė, Rytai ir Pietūs."
+    },
+    {
+        "id": "0gkhl",
+        "description": "Rytai yra pasaulio šalis ir geopolitinis terminas. Žemėlapiuose paprastai jie yra dešinėje.\nĮ rytus sukasi žemė, iš tenai, mums atrodo, kyla saulė.\nPolitine prasme, terminas rytai gali būti vartojamas kaip apibrėžimas Rytų Azijos kultūroms arba kaip apibrėžimas anksčiau komunistinėms valstybėms."
+    },
+    {
+        "id": "0j0k",
+        "description": "Azija, didžiausia pasaulio dalis, čia gyvena apie 60 % pasaulio gyventojų. Su Europa sudaro Eurazijos žemyną. Riba tarp Azijos ir Europos žemynų nėra vienareikšmiai apibrėžta. Nuo Amerikos Aziją skiria Beringo sąsiauris. Nuo Afrikos - Sueco kanalas."
+    },
+    {
+        "id": "059g4",
+        "description": "Šiaurės Amerika – trečias pagal plotą žemynas, esantis šiaurės pusrutulyje, supamas Ramiojo, Atlanto ir Arkties vandenynų. Plotas 24 709 000 km². Žemynas šiaurėje driekiasi iki Šiaurės poliaračio, pietuose Panamos sąsmauka jungiasi su Pietų Amerika. Riba tarp Šiaurės ir Pietų Amerikos laikoma Panamos ir Kolumbijos siena, rečiau – Panamos kanalas.\nGyventojų – 528 720 588."
+    },
+    {
+        "id": "06n3y",
+        "description": "Pietų Amerikos žemynas didžiąja dalimi yra pietiniame Žemės pusrutulyje, kertamas pusiaujo, tarp Ramiojo ir Atlanto vandenynų. Palei vakarinį žemyno pakraštį driekiasi santykinai jauna ir seismiškai aktyvi Andų kalnų grandinė. Rytinėje žemyno dalyje vyrauja lygumos ir plokščiakalniai, didelius plotus užima Amazonės baseinas, kuriame vyrauja visžaliai pusiaujo miškai.\nPietų Amerika užima 17 818 mln km², joje gyvena apie 351 mln. žmonių. Pagal plotą tai ketvirtas pagal dydį žemynas po Azijos, Afrikos ir Šiaurės Amerikos, pagal gyventojų skaičių – penktas po Azijos, Afrikos, Europos ir Šiaurės Amerikos.\nApie 85 % Pietų Amerikos priklauso Atlanto vandenyno baseinui. Didžiausios upės: Amazonė, Parana, San Franciskas, Orinokas. Tarp nedaugelio ežerų didžiausi yra Marakaibo, Patos ir Titikakos ežerai. Prie Pietų Amerikos priskiriama ir daugybė salų, kurių dauguma priklauso žemyno šalims.\nDidžiausia Pietų Amerikos šalis pagal plotą ir gyventojų skaičių yra Brazilija."
+    },
+    {
+        "id": "02j9z",
+        "description": "Europa – vienas iš mažiausių Pasaulio žemynų, jos plotas, užima tik 1\/15-ąją visos pasaulio teritorijos. Kartu su Azija sudaro Eurazijos žemyną. Europoje gyvena apie 727 milijonai žmonių. Europa taip pat dažnai vadinama „Senuoju kontinentu“ priešpriešinant „Naujajam kontinentui“.\n„Europa“ yra vienas iš labiausiai ginčytinų geografinių terminų. Paties pavadinimo kilmė neaiški, taip pat ginčytinos ir Europos ribos."
+    },
+    {
+        "id": "0dg3n1",
+        "description": "Afrika – antrasis pagal dydį žemynas, esantis tarp Atlanto ir Indijos vandenynų, bei Viduržemio ir Raudonosios jūrų. Užima 29,2 mln. km², su salomis – 30 244 050 km², Afrikos žemynas sudaro 20,3 % pasaulio sausumos ir jame gyvena septintadalis Žemės gyventojų. Žemyno ilgis – apie 8000 km iš šiaurės į pietus, apie 7500 km iš vakarų į rytus."
+    },
+    {
+        "id": "0jfx",
+        "description": "Antarktida – penktasis pagal plotą žemynas. Plyti aplink Pietų ašigalį. Žodis Antarktida arba Antarktika reiškia „priešingas Arktikai“, šiauriausiai Žemės rutulio sričiai. Tai šalčiausias, labiausiai vėjuotas, nuošaliausias ir mažiausiai ištyrinėtas žemynas.\nŽemyną skalauja Antarkties vandenynas, kurį sudaro pietinės Atlanto, Ramiojo ir Indijos vandenynų dalys, tačiau Antarkties vandenynas dažnai laikomas atskiru vandenynu dėl žemesnės jo vandens temperatūros ir mažesnio druskingumo.\nAntarktidą 1820 m. atrado keletas keliautojų ir tyrinėtojų."
+    },
+    {
+        "id": "09pkq0",
+        "description": "Australija – Pietų pusrutulyje esantis mažiausias pasaulio žemynas.\nAustralijos žemynu geologiškai dažnai laikoma ne tik Australija, bet ir gretimos salos, esančios ant to paties kontinentinio šelfo. Per pleistoceno ledynmetį jūros lygis buvo žemesnis nei dabar, todėl šios sausumos dalys sudarė vientisą sausumos plotą. Per paskutiniuosius 10 tūkst. metų, kylant jūros lygiui ir žemumas užliejus vandeniui, sausuma pasidalijo į kelias dalis. Šis darinys neretai vadinamas Sahulu, Australinėja, Meganezija. Naujoji Zelandija nėra ant to paties šelfo, tad nepriklauso Australijos žemynui.\nAustraliją iš šiaurės supa Timoro ir Arafuros jūros, iš rytų – Koralų ir Tasmano jūros, iš pietų ir vakarų – Indijos vandenynas. Palei šiaurės rytinę pakrantę driekiasi Didysis barjerinis rifas. Žemyno rytinėje dalyje iškilęs Didysis Vandenskyros kalnagūbris, kurio aukščiausia vieta yra Kosciuškos kalnas. Net 2\/3 Australijos užima pusdykumės ir dykumos.\nAustralijos žemyne įsikūrusi vienintelė valstybė – Australijos Sandrauga.\nŽemyno plotas apie 7,7 mln km²; driekiasi apie 3700 km iš šiaurės į pietus ir apie 4000 km iš rytų į vakarus."
+    },
+    {
+        "id": "05p553",
+        "description": "Komedija yra dramaturgijos ir kino žanras, kuriam būdingas humoristinis stilius."
+    },
+    {
+        "id": "03npn",
+        "description": "Siaubo filmas yra filmo žanras, siekiantis sukelti negatyvią emocinę žiūrovų reakciją, žaisdamas su auditorijos pirmykštėmis baimėmis. Šio žanro filmuose dažnai rodomos scenos, gąsdinančios žiūrovą, dažnos temos yra žiaurumas ir antgamtiniai reiškiniai. Taigi, siaubo žanras gali persidengti su fantastikos, mokslinės fantastikos ir trilerio žanrais, kaip ir daugeliu kitų.\nSiaubo filmai dažnai nukreipti į žiūrovo košmarus, paslėptas baimes, pasibjaurėjimus ir nežinomybės baimę. Siaubo filmo siužetas dažnai sukasi apie įvykį ar personažą, paprastai antgamtinės kilmės, blogio jėgų įsiveržimą į kasdienį pasaulį. Vyraujantys elementai apima vaiduoklius, ateivius, vampyrus, vilkolakius, prakeiksmus, satanizmą, demonus, skerdynes, kankinimus, plėšrius gyvūnus, pabaisas, zombius, kanibalus ir serijinius žudikus. Kita vertus, filmai apie antgamtines jėgas nebūtinai yra šiurpūs."
+    },
+    {
+        "id": "03npn",
+        "description": "Siaubo literatūra – literatūros žanras, kurio tikslas skaitytojui sukelti baimės, siaubo jausmą. Dažniausiai joje neapsieinama be antgamtinių personažų, gyvuojančių įvairių tautų mitologijoje: vampyrų, zombių, vilkolakių, vaiduoklių, demonų, trolių ir kt. Tokiame literatūros kūrinyje daugybė šiurpą keliančių vaizdų, antgamtinių reiškinių, paslaptingumo ir įvairiausių netikėtumų, susijusių su neįprastais gyviais, žmogaus mirtimi, baime, mokslo neišaiškintais reiškiniais: mumijos, reinkarnacija ir pan. Kūrinio autoriui svarbiausia žūtbūt sukelti adresatui nerimą, baimę, šleikštulį ir drebulį."
+    },
+    {
+        "id": "0jtdp",
+        "description": "Dokumentinis kinas – kino meno rūšis, vaizduojanti tikrus faktus, įvykius, žmones. Pagrindiniai žanrai: kino kronika, kino apybraiža, etiudas, feljetonas, esė."
+    },
+    {
+        "id": "0hcr",
+        "description": "Animacija yra spartus kintančių dvimačių ar trimačių iliustracijos ar modelių vaizdo epizodų rodymas, sukuriant judėjimo iliuziją. Tai optinė judėjimo iliuzija, sukuriama dėl vaizdo užsitęsimo, ir gali būti kuriama ir vaizduojama daugybe metodų."
+    },
+    {
+        "id": "06n90",
+        "description": "Mokslinė fantastika – fantastinio meno šaka, vienijanti literatūrą, kiną, dailę ir kitas meno sritis, pavyzdžiui, kompiuterinius, vaidmenų, figūrėlių ar net kortų žaidimus, kuriose pramanyti dalykai yra sietini su mokslu, ateities vizijomis, technika, visuomeniniais reiškiniais. Mokslinė fantastika yra priešingybė kitai fantastinio meno sričiai – maginei fantastikai, kuriai būdinga magija, stebuklai ir kiti bruožai, kurie yra artimi literatūrinei pasakai. Tačiau, nepaisant anksčiau išvardytų skiriamųjų bruožų, mokslinė fantastika neretai vadinama šių laikų pasaka.\nAnkstyviausi mokslinės fantastikos atstovai yra Žiulis Vernas, Herbertas Velsas, E. Barouzas, Artūras Konan Doilis ir daugelis kitų sukūrė šios fantastikos pagrindus. Mokslinė fantastika pradėjo formuotis XIX amžiaus viduryje.\nPo Antrojo pasaulinio karo savo kūriniais plačiai išgarsėjo Rėjus Bredberis, Aizekas Azimovas, Robertas Heinleinas, K. D. Saimekas, Fransisas Karsakas, Artūras Klarkas, Stanislavas Lemas, broliai Arkadijus ir Borisas Strugackiai bei daugelis kitų mokslinės fantastikos kūrėjų, kurie formavo šiuolaikinę mokslinę fantastiką.\nŠiuolaikinė mokslinė fantastika nėra vientisa. Ją sudėtinga trumpai apibūdinti, kadangi ji susiskaidžiusi į atskiras rūšis, porūšius, sroves. Egzistuoja utopija, antiutopija, socialinė fantastika, alternatyvioji istorija, grynoji mokslinė, nuotykinė, psichologinė, satyrinė, politinė, pažintinė, erotinė, kiberpankas su papildomais porūšiais."
+    },
+    {
+        "id": "02kdv5l",
+        "description": "Veiksmo filmas – filmas, kurio siužete svarbiausią dalį užima veiksmo scenos. Priešingai nei kariniuose filmuose, veiksmo filmuose iniciatyvos paprastai imasi vienas pagrindinis herojus. Šis žanras susijęs su trilerio ir nuotykių filmo žanrais."
+    },
+    {
+        "id": "01jfsb",
+        "description": "Trileris – literatūros, televizijos ir kino žanras, kuriame įtampa, nerimas, laukimas bei jaudulys laikomi pagrindiniais elementais. Trileriai veikia žiūrovo nuotaiką: verčia jį nerimastingai tikėtis ir laukti atomazgos, stimuliuoja netikrumo jausmą, nuostabą, susierzinimą ir\/arba siaubą. Trileriai skatina adrenalino išsiskyrimą ir sužadina emocijas. Kuriant filmą, priskiriamą trilerio žanrui, dažnai įpinami netikėti siužeto vingiai bei pasirenkamos žiūrovą klaidinančios situacijos. Trilerio siužete antagonistas įvairiais būdais kliudo protagonistui pasiekti savo tikslo.\nTrilerio tikslas yra išlaikyti žiūrovą budrų ir įsitempusį. Tokiuose filmuose protagonisto užduotis yra išspręsti tam tikrą problemą – pabėgimą, misiją ar paslaptį. Kad ir kuriam subžanrui trileris priskiriamas, jame bet kokiu atveju bus pabrėžtas pavojus, gresiantis protagonistui. Nerimas dėl pagrindinės filme sprendžiamos problemos yra išlaikomas viso filmo metu ir veda prie įtemptos kulminacijos. Filmo istorijai svarbios informacijos slėpimas nuo žiūrovo ir kovų bei veiksmo scenos yra dažnai naudojamos priemonės visuose trilerių subžanruose, tačiau kiekvienas jų taip pat pasižymi ir savo unikaliomis siužeto formavimo priemonėmis bei charakteristikomis."
+    },
+    {
+        "id": "02l7c8",
+        "description": "Romantiniai filmai – meilės istorijos, kur daugiausiai dėmesys skiriamas “širdies reikalams“ – koncentruojamasi į aistrą, emocijas. Į veiksmą įtraukiami du pagrindiniai romantiški, vienas kitam prieraišūs personažai, dažniausiai viso veiksmo priešakyje esantys vyras ir moteris; yra rodoma istorija, tam tikra kelionė, kurios metu galima išvysti pasipiršimą bei vestuves."
+    },
+    {
+        "id": "01hmnh",
+        "description": "Mãginė fantãstika, fentezi – viena iš fantastikos atmainų. Magine fantastika siekiama sukurti savitą kūrinio erdvę, vidinę sistemą, kurioje vyksta veiksmas, – neretai itin detalų „pasaulį“. Tam dažnai naudojami įvairių mitologijų elementai, iš jų lipdoma atskira mitologija. Būdingas žanro bruožas – magijos, antgamtinių reiškinių vaizdavimas, priešingai nei mokslinėje fantastikoje – modernių technologijų nebuvimas. Veiksmas paprastai vyksta pasauliuose, artimuose viduramžiams, kur technologijos vietą užima magija ar panašūs elementai.\nMaginė fantastika – tarsi šiais laikais kuriamos pasakos, tik daugeliu atvejų skirtos ne vaikams.\nŽymiausi kūriniai – Džono Ronaldo Ruelo Tolkieno „Žiedų valdovas“, „Hobitas“, Ursulos K. Le Guin „Žemjūrės burtininkas“, Rodžerio Želazny „Ambero kronikų“ ciklas, Gleno Kuko „Juodosios Gvardijos“ ciklas, Andžejaus Sapkovskio „Raganiaus“ ciklas, Roberto Hovardo „Konano barbaro“ ciklas."
+    },
+    {
+        "id": "0g65_",
+        "description": "Nuotykių žaidimai yra kompiuterinių žaidimų žanras, kuriame svarbiausia yra siužetas, istorija. Šia prasme jis atitinka kitus istorijos perteikimo būdus – grožinę literatūrą, filmus, spektaklius.\nNepaisant žanro pavadinimo, nuotykių žaidimų siužetai toli gražu ne visada būna nuotykiniai – daug yra detektyvinių, siaubo žaidimų, taip pat dramų, psichologinių trilerių ir kitų.\nGeru nuotykių žaidimu paprastai laikomas toks, kurio siužetas yra įdomus, herojai tikroviški. Kaip ir su kitais istorijų perteikimo būdais, kai kurių žaidėjų tarpe populiarūs sunkūs, liūdni, verčiantys pamąstyti siužetai, o kitų – linksmesni ir paprastesni.\nGryno žanro nuotykių žaidime paprastai nereikia šaudyti, valdyti transporto priemonės ar atlikti kitų kitų žanrų žaidimams įprastų veiksmų; žaidėjas paprastai tik valdo herojų įprastinėse situacijose – kur šiam eiti, su kuo kalbėti, ką sakyti, ką daryti. Šitaip siužetas vystosi toliau; paprastai visa istorija būna sugalvota iš anksto, tačiau konkrečios aplinkybės priklauso nuo žaidėjo veiksmų. Šių žaidimų veiksmas trunka ilgai, ilgiau, nei filmas – peržaidimas žinant, kaip ką daryti, gali užtrukti kelias paras."
+    },
+    {
+        "id": "04t36",
+        "description": "Miuziklas – muzikos žanras, beveik niekuo nesiskiriantis nuo šiuolaikinių muzikinių filmų ar roko operų, atsiradęs Amerikoje. Miuziklo siužetas ir muzika yra pramoginio, estradinio pobūdžio, daug šokama.\nPirmasis miuziklas Lietuvoje buvo A. Žebriūno „Velnio nuotaka“, 1974 m."
+    },
+    {
+        "id": "06by7",
+        "description": "Roko muzika arba rokas – bendras muzikos krypčių, atsiradusių XX a. penkto dešimtmečio gale JAV, pradedant rokenrolu, pavadinimas. Roko kaip muzikos krypties ribos labai plačios, juo nusakomi tokie vienas nuo kito nutolę muzikos stiliai kaip šokių muzika rokenrolas, bliuzas ar sunkiojo metalo muzika.\nKartais rokas lyginamas su pop muzika kaip jos priešingybė, tačiau aiškios skiriamosios ribos tarp jų nėra ir daugybės muzikinių grupių stilius balansuoja tarp šių dviejų krypčių."
+    },
+    {
+        "id": "064t9",
+        "description": "Pop muzika yra viena iš didžiausių populiariosios muzikos dalių, susidariusi XX amžiuje iš liaudies dainų ir šokių įtakotų „pop kultūros“ judėjimo. Ji neretai yra maišoma su populiariąja muzika, nekreipiant dėmesio į jos specifinį stilių, turintį savo požymius ir muzikos skambesį, tolygiai su kitais tokiais kaip dance, rokas, ritmenbliuzas ir kt.\nPop muzika paprastos, lengvos ritmikos. Pop muzikos kūrinių eilės banalios, dažnai kartojami tie patys žodžiai, priedainis kartais smarkiai kontrastuoja savo melodija su likusiu tekstu. Dainų tematika ir naudojami žodžiai kartojasi iš dainos į dainą. Popmuzika orientuota į mases, nederinama prie specifinių muzikinių skonių ar profesionalumo. Popmuzikos ribos nėra griežtai apibrėžtos. Dažnai po „pop“ terminu patenka ir poproko, roko, šokių, disko, elektroninės muzikos kūriniai.\nPop muzika paprastai yra suprantama kaip komerciniai muzikos įrašai, dažnai orientuoti į jaunimo rinką, paprastai sudaryti iš santykinai trumpų, paprastų dainų naudojant technologines naujoves gaminti naujus variantus esamoms temoms. Pop muzika labiausiai buvo įtakota kitų formų populiariosios muzikos, bet kaip žanras yra ypač susijusi su rokenrolo, vėliau ir roko stiliais."
+    },
+    {
+        "id": "03_d0",
+        "description": "Džiazas – profesionali improvizacinės muzikos rūšis, susiformavusi XIX a. pabaigoje – XX a. pradžioje kaip Vakarų Afrikos ir Europos muzikinių tradicijų jungties rezultatas."
+    },
+    {
+        "id": "01lyv",
+        "description": "Country muzika išsivystė pietinėse JAV valstijose. Jos šaknys – tradicinė liaudies muzika, airiška muzika, keltų muzika, gospel, bliuzas. Country muziką sudaro daugybė skirtingų žanrų, kaip bluegrass, nashville sound, western, honky tonk, gospel, outlaw country ar rockabilly.\nCountry muzikos pradininkais laikomi Jimmie Rodgers ir Carter Family."
+    },
+    {
+        "id": "0glt670",
+        "description": "Hiphopas − kultūros judėjimas, kuris prasidėjo Niujorko rajone Bronkse 1970 m. Nuo to laiko išpopuliarėjo visame pasaulyje. Pagrindiniai hiphopo elementai: MC, graffiti, beatbox, b – boys, DJ.\nBreak beat + repas + breiko šokejai + graffiti – visa tai sudaro Hip Hop kultūrą. Jos atsiradimas siejamas su didžėjų Afrika Bambaataa ir Grandmaster Flash ritminiais eksperimentais Dub ir Funk muzikos pagrindu 1970 m. viduryje. Hip Hop muzika atliekama taip: vienas atlikėjas atkakliai bando repuoti, kitas preciziškai suka plokšteles akomponuodamas. Kaip tik Hip Hop didžėjai pirmieji panaudojo „scratching“ techniką – plokštelės „braižymą“, kuris smarkiai paįvairina ritminę struktūrą."
+    },
+    {
+        "id": "03lty",
+        "description": "Heavy Metal – XX a. 8-ajame dešimtmetyje išsivysčiusi muzikos kryptis, pasižyminti skambesio šiurkštumu bei itin dideliu atlikimo meistriškumu. Plačiąja prasme „Heavy metal“ vadinami visi metalo muzikos stiliai, siaurąja prasme – tik klasikinis heavy metal muzikos variantas, dažniausiai vadinamas tradiciniu metalu. Naudojami instrumentai – elektrinės gitaros, mušamieji, kai kada – klavišiniai instrumentai, pastaruoju metu atsiranda Heavy Metal grupių, naudojančių vien kamerinius instrumentus ar vokalą.\nHeavy metal populiarumo pikas buvo XX a. devintas dešimtmetis, tuo metu susiformavo dauguma dabar esančių subžanrų."
+    },
+    {
+        "id": "05r6t",
+        "description": "Pank rokas – roko muzikos atmaina, susiformavusi JAV XX a. aštuntojo dešimtmečio pradžioje iš garage rock, pasižyminti paprastumu, energingumu, greitumu.\nJungtinę Karalystę pank roko banga užplūdo 1976-aisiais. Esminis postūmis buvo minėtais metais įvykęs niujorkiečių „The Ramones“ turas Didžiojoje Britanijoje, nors nemažai įtakos turėjo ir ankstesnė britų glam roko banga.\nNors iš esmės takoskyra tarp garage rock ir pank roko nėra griežta. Kaip pirmąsias JAV punk grupės būtų galima įvardinti The Stooges ir MC5 iš Detroito bei New York Dolls, The Ramones ir The Dictators iš Niujorko. Tarp pirmųjų grupių Jungtinėje Karalystėje – Sex Pistols, The Clash, The Damned . Tokios pank roko grupės kaip Rancid, The Offspring, Bad Religion, Screeching Weasel, Green Day pank roką iškėlė iš pogrindžio ir pristatė platesnėms masėms.\nPank roko muzikai būdinga paprasta muzikinė struktūra, didžioji dalis pank roko dainų neviršija dviejų minučių. Pank roko muzika yra neatsiejama pankų judėjimo dalis."
+    },
+    {
+        "id": "0ggq0m",
+        "description": "Vakarų klasikinė muzika – meninės muzikos žanras, kilęs iš Vakarų liturginės ir sekuliariosios muzikos maždaug XI a. ir populiarus iki šių dienų. Klasikinės muzikos standartai susiformavo tarp 1550–1900 m."
+    },
+    {
+        "id": "02lkt",
+        "description": "Elektroninė muzika – muzika, kuri kuriama ir atliekama naudojant elektroniką, elektroninius muzikos instrumentus.\nElektroninės muzikos pradininkai buvo jauni vokiečių kompozitoriai, 1950 m. susibūrę į studiją Kelne. Jie kritiškai vertino prancūzų konkrečiąją muziką ir kūrė muziką vien su elektronikos pagalba, be jokių realaus pasaulio garsų. Elektroninė muzika yra kuriama specialiose studijose elektroninėmis priemonėmis. Ji, kaip ir konkrečioji muzika, gimė išradus magnetofono juostą, nes šios muzikos kūriniai egzistuoja tik įrašuose."
+    },
+    {
+        "id": "0155w",
+        "description": "Bliuzas – JAV vokalinis, vokalinis–instrumentinis, o vėliau ir instrumentinis žanras, kurio formavimuisi didžiausios įtakos turėjo vergų, gyvenusių pietinėse valstijose, ypač prie Misisipės deltos, dažniausiai liūdnos darbo dainos ir religinės giesmės.\nBliuzas išsiskiria savo muzikine forma: posmelį sudaro 3 eilučių posmas, kurio antra eilutė tiksliai atkartoja pirmąją, kiekvienai eilutei skirti 4 muzikos taktai, taigi iš viso susidaro 12 taktų muzikinė–harmoninė struktūra. Kiekvienoje eilutėje vokalisto partija užima šiek tiek daugiau nei du taktus, o likusi dalis paliekama instrumento „atsakymui“, todėl bliuzas – tai nuolatinis dialogas tarp vokalinės bei instrumentinės partijų.\nBliuzo improvizaciškumas turėjo lemiamos įtakos improvizacijų džiazo muzikoje atsiradimui. Bliuzui būdinga ir specifinė dermė, kurioje ypač intonuojami III ir VII- tas laipsniai bei sinkopinis ritmas ir ryškiai pabrėžiamos silpnosios takto dalys."
+    },
+    {
+        "id": "06cqb",
+        "description": "Regis – muzikos žanras, išsivystęs XX a. šeštojo dešimtmečio pabaigoje Jamaikoje.\nTerminas „regis“ kartais vartojamas plačiąja prasme, turint galvoje didžiąją dalį Jamaikos muzikos, įskaitant ska, rokstedį ir dabą. Siauresne prasme tai konkretus stilius, išsivystęs iš rokstedžio. Regis skirstomas į dvi rūšis: roots, arba „šaknų“ regį ir dancehall, arba „šokių salės“ regį, atsiradusį 7 deš. pabaigoje. Regio ritmas lėtesnis nei jo pirmtakų – ska ir rokstedžio. Regis dažnai siejamas su Rastafari judėjimu, padariusiu įtaką daugeliui žymių regio atlikėjų 7-8 dešimtmetyje. Tačiau regio dainų žodžiuose galima rasti ne tik šią, bet ir meilės, seksualumo bei bendro visuomenės komentavimo temas."
+    },
+    {
+        "id": "02w4v",
+        "description": "Liaudies muzika arba liaudies muzikinis folkloras – liaudies meno šaka: liaudies kuriami ir atliekami vokaliniai, instrumentiniai ir vokaliniai instrumentiniai kūriniai. Dažnai būna susijusi su liaudies choreografija, kai kada su teatru ar kitomis liaudies meno šakomis. Liaudies muzika yra sudėtinė kiekvienos tautos folkloro dalis. Tai menas, perduodamas iš kartos į kartą."
+    },
+    {
+        "id": "02x8m",
+        "description": "Fank yra Jungtinėse Valstijose sukurtas muzikos žanras, kurį XX amžiaus 7-ajame dešimtmetyje išvystė afroamerikiečiai muzikantai ir dainininkai, tokie kaip Džeimsas Braunas, Sly and the Family Stone, Džordžas Klintonas ir The Meters. fank muzikoje pabrėžiamas muzikos ritmas. Fank muzika yra R&B ir soul muzikos mišinys.\nFank muzikai naudojama daug ritminių instrumentų, tokių kaip elektrinės gitaros, bosinė gitara, būgnai ir elektriniai vargonai. Fank muzikos stilius turi ir pučiamųjų instrumentų dalį, kurioje yra keletas saksofonu grojančių muzikantų, trimitininkas ir, kai kuriose grupėse, trombonistas."
+    },
+    {
+        "id": "0199g",
+        "description": "Dviratis – dviratė bemotorė transporto priemonė. Naudojama pramogai, susisiekimui, laisvalaikio praleidimui, turizmui, sportavimui, varžyboms.\nDviračių sportas – olimpinė sporto šaka. Kai kuriose šalyse tai labai populiari transporto priemonė dėl savo pigumo, praktiškumo, tinkamumo perpildytoms miesto gatvėms, valdžios skatinimo. Jei nėra įkalnės ir kelio danga pakankamai kieta, šiuolaikiniu dviračiu nesunku kelias valandas važiuoti apie 17-23 km\/val greičiu. Nuo kalno neretai įsibėgėjama ir daugiau. Šie greičiai pakankamai dideli, todėl šiuo metu neretai dėvimas specialus dviratininko šalmas.\nPagrindinė dviračio sandara: du ratai, rėmas, balnelis, vairas ir perdavimo mechanizmas, raumenų jėga verčianti suktis ratus. Paprastesniuose dviračiuose šio mechanizmo perdavimo santykis fiksuotas, tačiau tokiu dviračiu nepatogu įveikti įkalnę, ar prireikus važiuoti didesniu greičiu. Daugumoje dabartinių dviračių perdavimo santykį galima keisti važiuojant. Dažniausiai santykis keičiamas naudojant keletą skirtingo skersmens žvaigždučių arba stebulės pavarą.\nDviračių įvairovė didelė, jie būna skirti įvairiom trasom, skirtingiems važinėjimo stiliams."
+    },
+    {
+        "id": "019jd",
+        "description": "Valtis – mažas laivas. Būna irklinės, motorinės, kartais ir burinės valtys.\nGaminama iš medžio, metalo, plastiko. Gaminamos ir pripučiamos. Jūrinės valtis skirstomos į verslines, gelbėjimo. Vidaus vandenų būna verslinės, transportinės, gelbėjimo, sportinės.\nLentinės valtys paprastai daromos iš 4–5 m ilgio lentų, prikalamų prie karkaso. Tarpai užkamšomi pakulomis. Lietuvoje atsirado apie 1900 m. pakeisdama luotą.\nPaprastai iriama dviem vienmenčiais irklais, įtaisytais valties bortuose.\nNaudojamos žvejybai, transportavimui, laisvalaikiui. Vikiteka"
+    },
+    {
+        "id": "01bjv",
+        "description": "Autobusas – daugiavietis automobilis keleivių vežimui, turintis 9 ir daugiau sėdimų vietų. 9-12 vietų autobusai vadinami mikroautobusais, jie naudojami maršrutiniame transporte, kaip žinybiniai automobiliai. Didesniuose autobusuose būna 20-45 sėdimų ir 9-25 stovimų vietų, tarptautiniais ir tarpmiestiniais maršrutais važinėjančiuose autobusuose – tik sėdimos vietos."
+    },
+    {
+        "id": "0k4j",
+        "description": "Automobilis – nebėginė mašina, turinti 4 ar daugiau ratų, varoma vidaus degimo ar elektros variklio, naudojama kroviniams bei keleiviams vežti."
+    },
+    {
+        "id": "09ct_",
+        "description": "Sraigtasparnis − sunkesnis už orą orlaivis. Sraigtasparnio keliamąją ir į priekį varančiąją jėgą sukuria vieno ar kelių variklių sukamu vienu ar keliais sraigtais. Sraigtas susideda iš kelių menčių.\nSraigtasparnius dažnai painioja su malūnsparniu, tačiau pastarojo keliamąją jėgą sudaro pasyviai besisukantis sraigtas, kurį įsuka aptekantis oras, kai malūnsparnis juda pirmyn dėl priekin varančių variklių darbo."
+    },
+    {
+        "id": "04_sv",
+        "description": "Motociklas – dviratė motorinė transporto priemonė, kurios vidaus degimo variklio cilindro darbinis tūris didesnis kaip 50 cm³ ir maksimalus konstrukcinis greitis didesnis kaip 45 km\/h. Ši sąvoka apima ir trirates motorines transporto priemones, kurių masė be krovinio ne didesnė kaip 400 kg.\nPagal vieną skirstymų, skiriamos kelios kategorijos:\n⁕Chopper – tai motociklas nuo kurio nuimta viskas, kas suteikia papildomo svorio. Būdavo pervirinamas rėmas, ir iš šalies jie atrodydavo kaip kapoti. Nereikėtų jų maišyti su kruizeriais.\n⁕Enduro – tai krosinis motociklas, skirtas važiuoti ne plentu. Enduro dar skirstomas į hard enduro ir soft enduro.\n⁕Street – tai miesto motociklas, dabartiniai kiek panašesni į sportbike, tačiau ne tokie galingi. Geras manevringumas ir patogus valdymas miesto sąlygomis.\n⁕Sportbike – tai sportinis motociklas, galingas, neypatingai patogi sėdėsena, prie jų dar priskiriami supersport klasės motociklai.\n⁕Cruiser – klasės motociklai yra artimi chopper, tik su visais privalomais atributais. Būdinga daug chromo kaip ir chopper klasės motociklams."
+    },
+    {
+        "id": "06q74",
+        "description": "Laivas – savaeigė arba nesavieigė priemonė, skirta judėti vandeniu ir po juo. Laivą, kaip architektūrinį statinį tiria mokslo šaka – laivo teorija. Laivas juda varomas sraigto, irklų, ratų arba burių, kartais tempiamas kito laivo."
+    },
+    {
+        "id": "01pz3b",
+        "description": "Niujorko metropolitenas yra greitojo susisiekimo sistema, juosianti Niujorką ir jo priemiesčius. Tai yra viena iš didžiausių viešojo transporto sistemų pasaulyje, kurią sudaro 468 keleivių stotelės bei 1355 kilometrai bendro trasos ilgio. Niujorko metropolitenas taip pat išsiskiria tuo, kad yra vienas iš nedaugelio pasaulio metropolitenų dirbančių 24 valandas per parą, 365 dienas per metus. Sistema užima trečią vietą pasaulyje pagal metinį keleivių skaičių ir kasdien perveža beveik dvigubai daugiau keleivių, nei kitos JAV metropolitenų sistemos sudėjus.\nNors sistema yra žinoma kaip \"Metro\", reiškiančia požemines operacijas, apie 40 % sistemos veikia virš žemės lygio. Manhatane bei kai kuriose kitų rajonų vietose sistema yra beveik pilnai po žeme, tačiau ir tose vietose, kur sistema eina virš žemės lygio, ji visiškai atskirta nuo kelių ir pėsčiųjų takų."
+    },
+    {
+        "id": "0pg52",
+        "description": "Taksi – transporto priemonė, kuri pagal asmens pageidavimą ar iškvietimą nuveža į reikiamą vietą už tam tikrą mokestį. Lietuvoje, kaip ir daugelyje kitų pasaulio vietų, taksi įprasta kviesti telefonu, tačiau keleiviams siūlomi ir nauji iškvietimo būdai: SMS žinute, internetu bei mobiliosiomis taksi iškvietimo aplikacijomis."
+    },
+    {
+        "id": "07jdr",
+        "description": "Bėginiame transporte traukinys yra serija bėginių transporto priemonių, kurios juda bėgiais, kad vežtų krovinius ar keleivius iš vienos vietos kitą. Kelias paprastai susideda iš tradicinių dviejų bėgių, bet gali taip pat būti vienbėgis geležinkelis ar magnetinis pakėlimas. Traukinį traukia atskiras garvežys, ar individualūs varikliai. Dauguma traukinių yra varomi dyzeliniais varikliais ar elektra, tiekiama geležinkelio elektros sistema. Istoriškai garo variklis buvo dominuojanti garvežio forma 20-ojo šimtmečio viduryje, bet kiti šaltiniai taip pat buvo galimi."
+    },
+    {
+        "id": "07r04",
+        "description": "Sunkvežimis – savaeigė transporto priemonė, skirta kroviniams gabenti. Sunkvežimiu laikomas krovininis automobilis, kurio masė viršija 3,5 t. Visi krovininiai autmobiliai iki šios masės laikomi krovininiais furgonais. Kadangi sunkvežimiai perveža įvairius krovinius, jų specializacija skiriasi. Skiriami benzinvežiai, savivarčiai, vilkikai, traleriai, miškovežiai, gaisrinės, autotraukiniai.\n\nVikiteka"
+    },
+    {
+        "id": "07kfm",
+        "description": "Tramvajus – miesto bėginė transporto priemonė, dažniausiai esanti gatvių lygyje ir važiuojanti pagal kelių eismo taisykles bei pritaikyta vežti keleivius. Tramvajaus bėgiai tiesiami gatvės viduryje arba jos pakraščiuose, bet yra ir išimčių: pvz., Volgograde kelios tramvajaus stotys pastatytos po žeme."
+    },
+    {
+        "id": "0ddnl",
+        "description": "Keltas yra transporto forma, paprastai laivas, sąlyginai nedideliais atstumais perkeliantis keleivius, automobilius ir net traukinius. Keltai paprastai kursuoja reguliariai ir naudojami sąsiauriuose, ežeruose, jūrose. Pėsčiuosius vežantys keltai su daug sustojimų vadinami vandens taksi.\nPirmasis variklio varomas keltas buvo paleistas 1811 metų spalio 11 dieną. Tai buvo išradėjo John Stevens garlaivis Juliana, kursavęs tarp Niujorko ir Naujojo Džersio. Literatūroje kelto koncepcija minima dar senovės graikų mituose – Charonas kilnodavo mirusius žmones per Stikso upę."
+    },
+    {
+        "id": "0f6pl",
+        "description": "Troleibusas yra viešojo transporto priemonė, pagrindiniais konstrukcijos ypatumais niekuo nesiskirianti nuo įprasto autobuso, tačiau turinti elektrinį variklį bei maitinama iš kontaktinio tinklo, nutiesiamo virš gatvių, kuriomis turi važiuoti. Kontaktinį tinklą, skirtingai nuo tramvajaus, sudaro du lygiagretūs laidai. Antrasis laidas yra reikalingas todėl, kad troleibusams dažniausiai naudojamos guminės padangos, todėl grįžtamoji srovė negali būti nukreipiama į žemę ar bėgius, kaip tramvajuje."
+    },
+    {
+        "id": "09g5h",
+        "description": "Erdvėlaivis – kosminė transporto priemonė, skirta skrydžiams į Žemės orbitą, Mėnulį ir į kitas planetas. Erdvėlaiviai skirstomi į vienkartinio ir daugkartinio naudojimo, pilotuojamus ir bepiločius."
+    },
+    {
+        "id": "074d1",
+        "description": "Povandeninis laivas – laivas, skirtas plaukti po vandeniu. Povandeniniai laivai dažniausiai naudojami kariniais tikslais."
+    },
+    {
+        "id": "057gn",
+        "description": "Vienatūris, minivenas – automobilio kėbulo tipo pavadinimas. Šiaurės Amerikoje paprastai vadinamas minivan.\nTai talpus keleivinis lengvasis automobilis, dažnai su trimis sėdynių eilėmis."
+    },
+    {
+        "id": "0342h",
+        "description": "Gitara yra styginis muzikos instrumentas, kuriuo grojama pirštais arba mediatoriumi. Instrumentas sudarytas iš korpuso, grifo, stygų ir galvutės."
+    },
+    {
+        "id": "0319l",
+        "description": "Valtorna — varinis pučiamasis instrumentas. Dar vadinama prancūzų ragu."
+    },
+    {
+        "id": "0l14j_",
+        "description": "Fleita – medinis pučiamasis muzikos instrumentas, kuriuo garsas išgaunamas pučiant orą į skylutę, be mundštuko. Fleita grojantis asmuo vadinamas fleitininku."
+    },
+    {
+        "id": "05r5c",
+        "description": "Fortepijonas – klavišinis muzikos instrumentas, dažniausiai naudojamas koncertams. Jo vibratorius – stygos. Kad stygos pasidarytų tamprios, reikia jas iš anksto viena kryptimi įtempti. Fortepijonas išsiskiria dideliu diapazonu, turtingu tembru ir judria skambesio dinamika.\nSvarbiausios fortepijono dalys: stygos, rezonansinė plokštė, klavišinis mechanizmas ir medinis korpusas su jame įtvirtinu metaliniu rėmu ir medine lenta – virbelbanku stygoms įtempti.\nFortepijonas turi nuo 214 iki 245 plieninių stygų. Pačių stygų skleidžiamas garsas nežymus, todėl jį sustiprina ir praturtina naujais obertonais mechaninis garso stiprintuvas – rezonansinė plokštė. Ji gana stora, dažniausiai pagaminta iš eglės medienos. Geriausios dekos suklijuojamos iš apytiksliai vienodo tankio ir tamprumo medžio lentelių. Juo mažesnis dekos medžiagos tankis, tuo mažiau slopsta joje plintantys virpesiai – garsas trunka ilgiau. Visada siekiama, kad garsas dekoje pasiskirstytų kiek galima tolygiau, todėl prie jos, statmenai dekos medžio sluoksniams priklijuojami mediniai strypai, vadinami spyruoklėmis. Jie deką truputį išgaubia stygų kryptimi, todėl korpuse įklijuota deka tampa tampresnė, geriau atlaiko įtemptų stygų slėgį, daugiau stiprina garsą. Įtemptos stygos savo antruoju galu remiasi į deką medinėmis atramomis – štegais. Per štegus stygų virpesiai pasiekia deką, kuri rezonuodama juos sustiprina ir išspinduliuoja į aplinką, kartu praturtina tembrą savo rezonansiniais dažniais – formantėmis. Labai svarbu, kad fortepijono deka, vienu metu stiprindama daugybę garsų, neišryškintų klausai nemalonių, neharmoninių obertonų."
+    },
+    {
+        "id": "0mkg",
+        "description": "Akordeonas yra muzikos instrumentas, priklausantis liežuvėlinių aerofonų klasei. Akordeonu grojama spaudant klavišus ir mygtukus, taip atidarant kelią orui tekėti pro liežuvėlius ir sukelti garsą. Akordeonas labai populiarus Šiaurės Amerikoje, Kolumbijoje, Brazilijoje ir Prancūzijoje.\nGroti akordeonu reikia turėti tam tikros fizinės jėgos, nes instrumentas yra gana sunkus. Akordeonas gali sverti nuo 1 iki 9-10 kilogramų. Tai priklauso nuo to, iš ko ir kaip jis pagamintas. Taip pat akordeonai pasižymi savo gabaritais, todėl ne visais akordeonais gali groti vaikai ir mažesnio ūgio žmonės."
+    },
+    {
+        "id": "04gc2",
+        "description": "Teisininkas – teisės specialistas, teisės normų žinovas. Teisininkas – nebūtinai teisės „taikytojas“, bet gali būti ir, pvz., teisės pedagogas, tyrėjas, teoretikas, specifinės teisinės srities publikacijų autorius moksliniuose ar kitokiuose leidiniuose.\nPagal veiklos sritis gali būti viešojo administravimo, verslo teisininkas, korporacijos teisininkas."
+    },
+    {
+        "id": "05t4q",
+        "description": "Gydytojas – asmuo, besiverčiantis gydymo praktika. Dar kitaip vadinamas terapeutas – tam tikra terapija užsiimantis asmuo; medikas.\nPagal kvalifikaciją gali būti profesionalus gydytojas, liaudies medicinos žinovas.\nGydytojo profesija – viena atsakingiausių, kur sprendžiami gyvybės ar mirties klausimai. Todėl daugumoje valstybių ši profesija ir jos atlikimas yra reglamentuojamas.\nVikicitatos\nVikiteka"
+    },
+    {
+        "id": "09jwl",
+        "description": "Muzikantas yra žmogus, atliekantis arba kuriantis muziką. Muzikantai skirstomi pagal savo vaidmenį atliekant arba kuriant muziką:\n⁕Muzikantas arba instrumentalistas groja muzikiniu instrumentu.\nKartais šis terminas vartojamas pavadinti žmonėms, kitaip atliekantiems muziką:\n⁕Dainininkai naudoja savo balsą kaip instrumentą.\n⁕Kompozitoriai arba dainų tekstų autoriai rašo muziką.\n⁕Dirigentas diriguoja muzikiniam ansambliui.\nIr dainininkai, ir instrumentininkai gali būti improvizuotojai, tai yra, kuriantys muziką „realiuoju laiku“.\nMuzikantai skirstomi į profesionalus ir mėgėjus. Profesionalai gauna atlygį už savo muziką ir iš to gyvena. Jie gali dirbti kaip nepriklausomi atlikėjai, būti pasirašę sutartį su įrašų kompanija, būti pasamdyti profesionalaus ansamblio ar dirbti kokiam nors bare. Muzikantams mėgėjams muzika yra tik laiko praleidimas, o ne pagrindinis jų užsiėmimas. Beveik visi muzikantai stengiasi kuo labiau ištobulinti savo grojimo įgūdžius, kad pasiektų aukštą lygį savo pasirinktame muzikiniame žanre.\nDažniausiai muzikantai yra vadinami pagal instrumentą, kuriuo groja. Pavyzdžiui, gitara grojantis muzikantas yra vadinamas gitaristu, grojantis būgnais - būgnininku."
+    },
+    {
+        "id": "01d30f",
+        "description": "Pedagogas – kvalifikuotas asmuo, kuris ugdo kitą žmogų."
+    },
+    {
+        "id": "01c72t",
+        "description": "Kompozitorius – žmogus, kuriantis muziką. Kompozitoriumi gali vadintis žmogus, kuriantis bet kokio žanro muziką. Sąvoka 'kompozitorius' dažniausiai naudojama kalbant apie kompozitorius, kuriančius muziką instrumentais. Tačiau nuo 20-ojo amžiaus ši sąvoka buvo pritaikyta ir elektroniniais instrumentais kuriantiems asmenims. Žymiausi kompozitoriai buvo linkę burtis į grupeles pagrindiniuose miestuose. Vienas tokių miestų buvo Paryžius. Tai buvo reikšmingiausias miestas XV amžiuje dėl klasikinės muzikos kuriamos reikšmės."
+    },
+    {
+        "id": "01t2ln",
+        "description": "Policijos tarnautojas - asmuo, dirbantis, einantis pareigas policijoje."
+    },
+    {
+        "id": "05wgy",
+        "description": "Pediatrija – medicinos mokslo šaka, mokslas apie vaikų ligas.\nVikiteka"
+    },
+    {
+        "id": "099md",
+        "description": "Karys – pilietis, atliekantis tikrąją karo tarnybą. Kareivis - ginkluotas šalies kariuomenės arba ginkluotųjų pajėgų, vadovaujamų vyriausiojo ginkluotųjų pajėgų vado, narys."
+    },
+    {
+        "id": "03l9g",
+        "description": "Plaktukas - įrankis skirtas smūgiuoti į tam tikrą objektą. Dažniausiai naudojami kalti vinims, sujungti atskiroms dalims, skaldymui. Priklausomai nuo to kam skirti, plaktukai gali būti įvairių dydžių ir formos bei pagaminti iš skirtingų medžiagų. Pagrindinės dalys yra vientisos masės galva ir kotas, svorio centras - galvutėje.\nVienas seniausių žmonijos instrumentų. Naudojamas įvairiausiose srityse - buityje, statyboje, juvelyrikoje, medicinoje, geologijoje.\nPlaktukas laikomas plaštaka už koto.\nPlaktuko galva, priklausomai nuo paskirties, būna įvairios formos, gaminama iš metalo, medžio, plastiko, gumos. Galva gali turėti vieną arba dvi vienodo arba skirtingo dydžio smūgiavimo plokštumas. Vietoje vienos smūgiavimo plokštumos gali būti speciali įpjova skirta ištraukti vinis. Kotas - įprastai medinis, bet būna ir iš metalo, plastiko. Vikiteka"
+    },
+    {
+        "id": "02bbbj",
+        "description": "Oblius - įrankis, naudojamas mediniams paviršiams lyginti. Juo nuo seno naudojosi dailidės ir staliai. Yra žinoma kad juo naudotasi jau geležies amžiuje.\nObliai dažniausiai būna mediniai su metaline geležte, nors yra ir visai metalinių. Be rankinių oblių taip pat naudojami ir mechaniniai obliai, kurie medieną lygina sukant specialų volą su jame įtvirtintais peiliais. Vikiteka"
+    },
+    {
+        "id": "01lsmm",
+        "description": "Žirklės – įrankis, skirtas kirpimui. Veikia sverto principu. Labiausiai paplitusios žirklės, sudarytos iš dviejų vienodų dalių, sujungtų bendra ašimi, užsibaigiančių geležtėmis.\nBūna įvairių dydžių ir rūšių, įvairių paskirčių. Palyginus su kitais įrankiais plokščioms medžiagoms dalinti yra saugios, todėl naudojamos biuruose, mokymo įstaigose. Gaminami variantai ir kairiarankiams.\nSiuvinėjant jų reikia trijų rūšių: dviejų mažų ir vienų didelių. Mažosios žirklutės naudojamos smulkiems darbeliams: skylutėms, pakraščiams apdirbti. Didelėmis žirklėmis sukarpomas audinys. Siuvėjai taip pat turi žirkles, skirtas siūlėms ardyti. Tokios žirklės turi atvirkščią svertų sistemą, kai ašis nėra tarp jėgos ir darbinio taško."
+    },
+    {
+        "id": "02qhwc4",
+        "description": "Angliški pusryčiai - tipinis tradicinis maisto kompleksas, paprastai patiekiamas per pusryčius, paplitęs britų virtuvėje ir kai kuriose kitose Vakarietiškose virtuvėse. Jis sudaro dabartinės tarptautinės virtuvės dalį, neretai patiekiamas viešbučiuose kaip pusryčių meniu.\nSkirtingose šalyse jis gali būti vadinamas skirtingai: britiški pusryčiai škotiški pusryčiai, airiški pusryčiai, velsietiški pusryčiai, Ulsterio kepsnys, šoninė su kiaušiniais ir pan."
+    },
+    {
+        "id": "04nmy9",
+        "description": "Čekis – nustatyta tvarka išrašytas mokėjimo dokumentas, kuriuo jį išrašęs asmuo įsako bankui be sąlygų išmokėti čekyje įrašytą pinigų sumą čekyje nurodytam arba jį pateikusiam asmeniui. Kaip ir vekselis šis vertybinis popierius yra mokėjimo priemonė ir yra įprasta civilinėje apyvartoje. Jo galiojimui yra nustatyti minimalūs reikalavimai. Čekis išrašomas tik bankui ir negali būti akceptuojamas. Čekį gali išrašyti fizinis ar juridinis asmuo, turintis sąskaitą banke. Kiekvienas čekis sujungia trijų asmenų sandėrį: banko, mokėtojo, gavėjo."
+    },
+    {
+        "id": "06qrr",
+        "description": "Nealkoholinis gėrimas – bet koks gėrimas, kuriame alkoholio yra ne daugiau kaip 0,5 tūrio procento.\nRealiai sąvoka 'nealkoholinis gėrimas' Lietuvoje apibūdinama nevienodai:\n⁕Oficialiai nealkoholiniu gėrimu laikomas negazuotas ar gazuotas gėrimas, gaminamas iš geriamojo, šaltinio ar natūralaus mineralinio vandens, pridedant ar nepridedant įvairių maisto medžiagų ir\/ar maisto priedų, kurio alkoholio koncentracija neviršija 0,5 tūrio proc. Nealkoholiniams gėrimams priskiriamos įvairios stalo vandens formos. Šis apibūdinimas atitinka sąvoką angl. soft drinks.\n⁕Praktiškai nealkoholiniais gėrimais Lietuvoje laikomi ir tokie karšti gėrimai kaip arbatos, kava, kakava ir pan., taip pat pienas, sultys, nealkoholiniai kokteiliai ir kt.\nGira oficialiai priskiriama nealkoholiniams gėrimams, nors ji turi 0,7-2,2% etanolio."
+    },
+    {
+        "id": "0dt3t",
+        "description": "Šakutė - stalo įrankis, skirtas įsmeigti, prilaikyti ne skystą maistą. Šakutę sudaro rankenėlė ir kitame gale esantys sujungti 2-4 smailūs dantys. Labiausiai paplitusios Vakarų pasaulyje ir jo kultūrinės įtakos sferoje esančiose šalyse, Rytų Azijoje vietoje šakučių dažnai naudojamos valgymo lazdelės. Maistas šakute gali būti persmeigiamas arba kabinamas plokštuma. Tam, kad būtų patogiau šakute kabinti maistą panašiai kaip šaukštu, smaigaliai šiek tiek palenkiami į viršų.\nGaminama iš metalo, plastiko."
+    },
+    {
+        "id": "0cdn1",
+        "description": "Hamburgeris – sumuštinis, susidedantis iš kapoto kepto kotleto ir perpjautos bandelės. Be mėsos sumuštinyje gali būti įvairūs priedai, pvz., pomidorų padažas ir majonezas, gabalėlis cukinijos, salotos lapas, marinuotas agurkas, šviežias arba keptas svogūnas, pomidoras."
+    },
+    {
+        "id": "0cmx8",
+        "description": "Šaukštas – stalo įrankis, skirtas skystų ar pusiau skystų patiekalų valgymui, taip pat kartais naudojamas ir biriems patiekalams bei visiems kitiems, kuriuos būtų sunku valgyti šakute ar lazdelėmis. Šaukštai ir šaukšteliai taip pat naudojami ir maisto ruošimo procese ingredientų kiekio matavimui, verdamo maisto maišymui ir panašiai.\nŠaukštas yra vienas seniausių stalo įrankių ir tiksliai nėra žinoma, kada jis atsirado. Greičiausiai tai yra ir vienas pirmųjų žmogaus naudotų įrankių apskritai. Nuo atsiradimo laikų įvairiose kultūrose jie buvo gaminti iš labai įvairių medžiagų: medžio, kaulo, įvairių metalų ir jų lydinių, kriauklių, gyvūnų ragų ir kitų."
+    },
+    {
+        "id": "02vqfm",
+        "description": "Kava – iš kavamedžio sėklų pagamintas, kofeino turintis gėrimas.\nKava auginama atogrąžų rajonuose: Afrikoje, Azijoje, Centrinėje ir Pietų Amerikoje. Šiuo metu – 76 pasaulio šalyse."
+    },
+    {
+        "id": "02859d",
+        "description": "Juodoji arbata yra arbatos rūšis, kurią gaminant oksidacijos procesas yra ilgesnis už kitas rūšis – žaliąją, baltąją ir Ulongą. Visos šios rūšys gaminamos iš kininio arbatmedžio krūmo lapų. Laikoma, kad juodoji arbata yra stipresnė ir joje yra daugiau kofeino nei kitų rūšių arbatoje. Tradiciškai naudojami du juodosios arbatos gamybos principai – iš smulkių ir iš stambių lapų.\nKinų kalbose juodosios arbatos pavadinimas reiškia „raudonąją arbatą“, pagal jau padarytos arbatos spalvą. Terminu juodoji arbata vadinami arbatos lapeliai.\nŽalioji arbata savo skonį išlaiko iki metų, o juodoji gali neprarasti savo skonio kelerius metus. Būtent dėl šios savybės juodoji arbata dažnai būdavo naudojama mainuose. O XIX a. buvo naudojama kaip de facto valiuta Mongolijoje, Tibete ir Sibire. Skaičiuojama, kad apie 90 % visos parduodamos arbatos vakarų pasaulyje sudaro juodosios arbatos pardavimas.\nGrynoje juodojoje arbatoje yra nedidelis kiekis kalorijų, riebalų, natrio ir baltymų. Kai kurių rūšių juodojoje arbatoje yra mažiau nei 1 gramas angliavandenių. Visose kininio arbatmedžio arbatose yra daug fenolio, kuris yra antioksidantas."
+    },
+    {
+        "id": "09cx8",
+        "description": "Pirštai – sausumos stuburinių galūnių galinės ataugos. Jomis remiamasi stovint ir varomasi judant, imami ir liečiami objektai. Pirštų galuose esantys nagai gali būti naudojami kaip ginklai. Pakitę paukščių pirštai sudaro dalį sparnų, o šikšnosparnių – pagrindinį sparnų skeletą."
+    },
+    {
+        "id": "09w5r",
+        "description": "Apatinės galūnės – žmogaus ir kitų dvikojų stuburinių gyvūnų galūnės, kuriomis remiamasi į žemę. Viršutinės galūnės būna griebiamosios ar virtusios sparnais. Žmogaus koją sudaro 3 dalys: šlaunis, blauzda ir pėda. Jas jungia sąnariai"
+    },
+    {
+        "id": "0hz0h",
+        "description": "Dantys – burnos ertmės organas. Sudarytas iš burnos ertmėje išsikišusios matomos dalies – danties vainiko, trumputės tarpinės dalies – danties kaklelio ir šaknies, kuri yra įsiterpusi viršutinio bei apatinio žandikaulio dantų alveolėse. Dantys sudaryti iš dentino, danties vainikas padengtas emaliu, kaklelis ir šaknis – plonu cemento sluoksniu. Žandikaulio duobutėse dantis tvirtai laiko jungiamojo audinio skaidulos, vadinamos periodontu, arba periodontiniais raiščiais. Danties ertmėje yra pulpa, kurioje gausu nervinių skaidulų ir kraujagyslių.\nZoologijoje dantų formulė naudojama kaip diagnostinis žinduolių rūšies požymis."
+    },
+    {
+        "id": "031n1",
+        "description": "Pėda – atraminės galūnės dalis, liečianti žemę. Pėdą nuo likusios galūnės dalies skiria sąnarys, kuris kai kurių gyvūnų atveju yra nepaslankiai suaugęs su kitais kaulais."
+    },
+    {
+        "id": "06pj2k",
+        "description": "Lūpa – galvos dalis, ribojanti burną iš viršaus ir apačios.\nTerminas lūpa naudojamas stuburinių bei nariuotakojų galvos sandarai aprašyti. Nariuotakojų ir stuburinių lūpų sandara ir kilmė labai skiriasi."
+    },
+    {
+        "id": "0mhy4",
+        "description": "Žiotys - anga pro kurią burnos ertmė susisiekia su burnine ryklės dalimi. Jas riboja iš viršaus - minkštojo gomurio laisvojo galo užpakalinis kraštas su liežuvėliu, apačioje - liežuvio šaknis, šonuose - gomurinis ryklės ir gomurinis liežuvio lankai, bei tarp jų esanti migdolinė duobė, kurioje yra gomurio migdolas. Žiotys gali visiškai uždaryti burnos ertmės perėjimą į ryklę."
+    },
+    {
+        "id": "0dzdr",
+        "description": "Krūtinė - viršutinė žmogaus ir daugumos stuburinių gyvūnų liemens dalis.\nKrūtinę iš viršaus riboja kaklas ir raktikauliai, o iš apačios - diafragma, apatiniai šonkauliai, pilvas. Krūtinės ląsta ir krūtinės raumenys dalyvauja kvėpavime, o galūniniai krūtinės raumenys judina žastą, mentę, raktikaulį, kelia šonkaulius."
+    },
+    {
+        "id": "0283dt1",
+        "description": "Burna – virškinimo sistemos pradinė dalis. Ją sudaro burnos ertmė ir burnos organai. Burnos priekinėje dalyje yra burnos prieangis, kurį supa lūpos, dantų lankai ir žandai. Burnos organų konfigūracija svarbi tariant kalbos garsus. Be to, pro ją galimą kvėpuoti esant kvėpavimo sutrikimui. Tačiau toks kvėpavimas nėra pilnavertis. Burnos sieneles sudaro gleivinė bei raumenys. Čia taip pat atsiveria mažosios seilių liaukos."
+    },
+    {
+        "id": "03q69",
+        "description": "Plaukas – odos darinys, sudarytas iš sukietėjusių epidermio ląstelių."
+    },
+    {
+        "id": "0dzd8",
+        "description": "Kaklas - kūno dalis tarp galvos ir krūtinės. Kaklo buvimas - vienas iš sausumos stuburinių prisitaikymų - einant jis suteikia amortizaciją galvai, be to, leidžia ją sukinėti. Kuo kaklas ilgesnis, tuo judresnė galva.\nVarliagyvių kaklas sudarytas iš vieno slankstelio, paukščių - 11 - 25 slankstelių, visų žinduolių kaklą sudaro 7 slanksteliai - jų kaklo ilgis priklauso tik nuo slankstelių matmenų.\nVikiteka"
+    },
+    {
+        "id": "0fjkt",
+        "description": "Liežuvis – judrus, iš skersaruožių raumenų sudarytas ir gleivinės dengiamas stuburinių gyvūnų virškinimo sistemos organas, esantis burnos ertmėje."
+    },
+    {
+        "id": "039xj_",
+        "description": "Ausis – klausos ir pusiausvyros organas, susidedantis iš 3 dalių: išorinės, vidurinės ir vidinės ausies. Per išorinę ir vidurinę ausis garso virpesiai, sukeldami specialios transmisijos virpėjimą, mechaniškai dirgina vidinėje ausyje esančius klausos receptorius. Vidinėje ausyje yra ir pusiausvyros receptoriai, kuriuos dirgina kūno ir jo dalių padėties erdvėje kitimo dirgikliai, priklausantys nuo svorio."
+    },
+    {
+        "id": "0k0pj",
+        "description": "Nosis – stuburinių gyvūnų pradinė kvėpavimo takų dalis ir uoslės organas. Skiriama išorinė nosis ir nosies ertmė.\nNosies gleivinėje esantys plaukeliai sulaiko įkvepiamame ore esančias dulkes, o kraujagyslės sušildo orą. Dulkės pašalinamos lauk čiaudant."
+    },
+    {
+        "id": "04hgtk",
+        "description": "Galva – žmogaus ar gyvūno kūno dalis, kurioje yra smegenys, burna, regėjimo, klausos, skonio, kvapo organai. Galvą turi visi stuburiniai gyvūnai ir vabzdžiai, jos nėra tik pas primityvius gyvūnus. Paprastai galvą su likusiu kūnu jungia kaklas.\nŽmogaus galvos priekinė dalis vadinama veidu. Pagal žmogaus galvos formą ir bruožus nustatoma jo rasė, antropologiniai bruožai, lytis."
+    },
+    {
+        "id": "031974",
+        "description": "Juosmuo – žmogaus kūno vieta, esanti tarp šonkaulių lanko apačios ir šlaunikaulio viršutinio galo. Tai dažniausiai yra ta žmogaus liemens vieta, kurioje jis siauriausias. Aprangos vieta, pabrėžianti juosmenį, vadinama talija.\nMoterų juosmuo yra šiek tiek platesnis nei vyrų, visų pirma dėl platesnio dubens. Po krūtinės ir gaktos plaukų skirtumų tarp lyčių, tai yra labiausiai į akis krintantis antrinis lytinis požymis."
+    },
+    {
+        "id": "014sv8",
+        "description": "Akis – gyvūnų jutimo organas. Akis reaguoja į fizinį dirginimą, kurį sukelia tam tikro diapazono elektromagnetinės bangos."
+    },
+    {
+        "id": "0176mf",
+        "description": "Diržas - lanksti juosta, dažniausiai iš odos ar storo audinio, turinti sagtį, naudojama kaip aprangos dalis. Diržas paprastai dėvimas susijuosus per juosmenį, įvėrus į kelnių, sijono, palto, milinės ar kito drabužio kilpas."
+    },
+    {
+        "id": "019b80",
+        "description": "Megztinis - megztas viršutinis drabužis, dengiantis liemenį. Megztiniai būna moteriški, vyriški ir vaikiški. Mezgami virbalais ar mezgimo mašinomis. Pramoninės gamybos megztiniai gali būti siūti iš karpyto trikotažinio audeklo.\nMegztiniai gali būti vienos spalvos ir lygaus rašto, bet dažnai būna margaspalviai, megzti reljefiniais raštais. Pirmieji megztiniai būdavo vilnoniai, vėliau imta megzti ir medvilninius, sintetinio pluošto megztinius."
+    },
+    {
+        "id": "02wv6h6",
+        "description": "Sijonas – viršutinis drabužis, kurį dažniausiai dėvi moterys: jo viršus yra ties bamba ar žemiau, o apačia gali būti įvairiame lygyje. Sijono pagrindinė paskirtis yra pridengti ir šildyti dubenį bei kojas. Lyginant su kelnėmis, sijonas užtikrina geresnę oro cirkuliaciją tarp kojų, tačiau paprastai labiau varžo judesius nei kelnės, tiek dėl sijono pasiuvimo ypatumų, tiek ir dėl visuomenėje priimtinų normų."
+    },
+    {
+        "id": "02d46y",
+        "description": "Kepurė – galvos apdangalas, užmaunamas ant galvos, dengiantis viršugalvį ir paprastai pakaušį, galvos šonus. Ne visi galvos apdangalai yra kepurės – ne kepurės yra skaros, nuometai, kykai ir kt. Dalis šalmų irgi nėra kepurės."
+    },
+    {
+        "id": "0142wf",
+        "description": "Pižama - lengvas miegamasis drabužis, paprastai susidedantis iš 2 dalių; plačios lengvos medžiagos kelnės; dėvimos Artimųjų Rytų šalyse."
+    },
+    {
+        "id": "01xygc",
+        "description": "„Šešiasdešimt šeši“ – kortų žaidimas."
+    },
+    {
+        "id": "0fly7",
+        "description": "Džinsai – sportinės kelnės iš storoko, tankaus medvilninio audinio."
+    },
+    {
+        "id": "01d40f",
+        "description": "Suknelė – moteriškas drabužis, kurį sudaro išvien sujungta liemenį dengianti dalis ir sijonas.\nPriklausomai nuo mados ir moters kuklumo:\n⁕viršutinė suknelės dalis visiškai uždengia pečius ar juos šiek tiek atidengia, ar visiškai apnuogina;\n⁕apatinė suknelės riba gali būti įvairiame aukštyje – prie pat kulniukų, ties blauzdomis ar aukščiau kelių.\n⁕Iš priekinės ir ypač iš nugaros pusės suknelėje gali būti iškirptė, visiškai apnuoginanti atitinkamą kūno dalį.\n⁕suknelė gali būti iš aptempiančio ar pusskaidrio audinio."
+    },
+    {
+        "id": "01nq26",
+        "description": "Kojinės – megztas, austas, pintas arba regztas tekstilinis gaminys, drabužis, kuriuo apaunamos žmogaus kojos.\nKojinės\n⁕laisvai jaučiamos tarp kojų ir batų\n⁕padeda kojoms nesušalti, leidžia joms išlikti švarioms\n⁕patogios, madingos"
+    },
+    {
+        "id": "07mhn",
+        "description": "Kelnės – ant juosmens ir kojų dėvimas drabužis.\nBūna trumpos ir ilgos, viršutinės ir apatinės, vyriškos ir moteriškos, jaunuoliškos ir vaikiškos."
+    },
+    {
+        "id": "01xyhv",
+        "description": "Kostiumas - vyriškas viršutinis drabužis, susidedantis iš kelių aprangos dalių. Moteriškas kostiumas dažniau vadinamas kostiumėliu.\nKlasikinį vyrišką kostiumą sudaro trys dalys: švarkas, liemenė, kelnės, tačiau gali būti ir dviejų dalių - be liemenės. Būtina, kad visos dalys būtų pasiūtos iš to paties audinio, išeiginiai, verslo kostiumai paprastai siuvami iš vilnos.\nPrie išeiginio kostiumo derinami balti marškiniai, gali būti ryškus kaklaraištis."
+    },
+    {
+        "id": "01767_",
+        "description": "Pėdkelnės – aptemptas, iš dalies ar visai permatomas apatinis trikotažas, maunamas ant nuogų kojų. Dažnai dėvimos kartu su suknele ar sijonu, šortais, vyriškos pėdkelnės gaminamos nešioti po kelnėmis ir šortais. Būna įvairių spalvų, rašto, blizgumo, tamprumo, medžiagos, storio. Vėsiu metų laiku pėdkelnės šildo kojas.\nYpatingai išpuoštos pėdkelnės gali būti kaip erotinis trikotažas."
+    },
+    {
+        "id": "01m2v",
+        "description": "Klaviatūra – įrenginys, skirtas įvesti duomenims į kompiuterį ar kitą įrenginį. Sudaryta iš mygtukų ir kontrolerio."
+    },
+    {
+        "id": "020lf",
+        "description": "Pelė – vienas patogiausių darbo su kompiuteriu įtaisų. Galima dirbti ir be pelės, tačiau naudojantis ja kur kas patogiau atlikti daugelį veiksmų. Pelė naudojama grafinės aplinkos valdymui – programų paleidimui, lango matmenų ir padėties keitimui, bylų kopijavimui, meniu punktų išrinkimui. Stumiant pelę specialaus padėklo paviršiumi ekrane juda pelės žymeklis."
+    },
+    {
+        "id": "02bc6",
+        "description": "Duomenų bazė yra organizuotas duomenų rinkinys, kuriuo galima individualiai naudotis elektroniniu ar kitu būdu.\nNors terminas kilo kompiuterių pramonėje, dabartinės vartojimo prasmės ribos praplėstos ir EU Database Directive apima ir neelektronines rūšis."
+    },
+    {
+        "id": "020s1",
+        "description": "Rinkmena, failas, byla, tvarkmena – bitų seka, saugoma kompiuteryje kaip vienas vienetas. Viena svarbiausių operacinės sistemos užduočių yra tvarkyti rinkmenas pagal naudojamas rinkmenų sistemas. Senesnėse sistemose rinkmena užima vientisą atminties sritį, tačiau daugumoje naujesnių jos turinys gali būti paskirstytas po įrašymo metu laisvas atminties nešiklio vietas ar net po skirtingus informacijos nešiklius.\nDuomenų struktūra rinkmenos viduje gali būti įvairi ir priklauso nuo ją sukūrusios programos. Ši struktūra vadinama rinkmenos formatu. Rinkmena beveik visada turi vardą, pagal kurį ją galima surasti sistemoje. Neretai ji turi ir sutartinę priesagą, pagal kurią galima spėti apie jos turinį. Su byla neretai būna susieta ir daugiau informacijos. Rinkmenos paprastai telkiamos į aplankus, kuriuose gali būti ne tik rinkmenos, bet ir kiti aplankai.\nKai kuriose sistemose panaudojant nuorodų sistemą galima suteikti tam pačiam rinkmenai keletą vardų ir prireikus patalpinti jį skirtingose direktorijose. Yra operacinių sistemų, saugančių ankstesnes rinkmenos versijas."
+    },
+    {
+        "id": "02nf_",
+        "description": "Elektroninis paštas yra būdas kurti, siųsti ir gauti žinutes per elektronines komunikavimo sistemas.\nElektroninis paštas sukurtas naudojant tradicinio pašto metaforą – žinutės vadinamos laiškais, laiškai siunčiami į pašto dėžutes, iš kurių juos galima bet kada išsiimti skaitymui. Pašto dėžutes palaiko pašto serveriai, aptarnaujantis tam tikros vardų erdvės pašto adresus. Paprastai priėjimas prie pašto serverio yra apsaugotas slaptažodžiu.\nInformacija gavėjui dažniausiai siunčiama ne tiesiogiai, bet per tarpines grandis – SMTP serverį, kuris laiškus nugabena į serverį, atsakingą už pašto dėžutes. Tarp šių serverių gali būti dar keletas kitų pašto serverių.\nPrie kai kurių pašto dėžučių serverių galima prisijungti, naudojant apibrėžtus protokolus, kuriuos palaiko vienos ar kitos pašto programos arba web - sąsają – internetinį puslapį, naudojantis naršykle. Dažnai pašto serveriai palaiko daugiau nei vieną protokolą.\nElektroninio pašto siuntimas paprastai yra nemokamas, vykdomas per Interneto tiekėjo SMTP serverį. Elektroninio pašto dėžučių išlaikymas daugeliu atvejų būna mokamas, vykdomas nepriklausomai nuo naudojamo Interneto tiekėjo."
+    },
+    {
+        "id": "03rlt",
+        "description": "Internetas – pasaulinis kompiuterių tinklas, jungiantis visuotinius ir vietinius kompiuterių tinklus.\nKompiuterių tinklai jungiami įvairiomis ryšio linijomis ir maršrutizatoriais, kurie iš vieno tinklo gautus duomenų paketus modifikuoja ir nukreipia į kitą tinklą.\nInterneto protokolai turi kelis lygius. Žemiausiame lygyje naudojami IPv4 ar IPv6 protokolai, kiekvienam kompiuteriui suteikiant tuo metu unikalų IP adresą. Kitame lygyje, ryšiui tarp kompiuterių palaikyti naudojami TCP\/IP ir UDP protokolai. Jie sukuria kanalą duomenims perduoti. Dar aukštesniame lygyje naudojami konkrečiam tikslui skirti protokolai.\nNaudotojo kompiuteris prie interneto gali būti jungiamas per modemą, ISDN įrangą, DSL įrangą arba skirtinę liniją, kabelinį modemą, radijo ryšį. Interneto vartotojo kompiuteryje turi būti įtaisyta tinklo plokštė, įdiegta speciali programinė įranga.\nPrie interneto prisijungęs vartotojas gali naudotis elektroniniu paštu, pasaulinio informacijos tinklo duomenų masyvais, iš tinklo kompiuterių atsisiųsti failų, juos naujinti, kopijuoti, šalinti, dalyvauti diskusijų grupėse, kreiptis į interneto žiniasklaidą, interaktyviai bendrauti pokalbių kambariuose, pirkti ir parduoti įvairias prekes, kurti tinklalapius ir kita."
+    },
+    {
+        "id": "02y_9m3",
+        "description": "Debesų kompiuterija - paslaugos, kurioms pateikti reikalingas tik interneto ryšys. Debesį sudaro programos, kurių nereikia įdiegti į kompiuterį, Web 2.0, asmeninių bylų bei katalogų talpinimas ir kitos technologinės tendencijos. Google Apps dažnai pateikiamas kaip pavyzdys, nes ji suteikia galimybę paleisti verslui skirtas programas naudojant tik interneto naršyklę, kol visa programinė įranga ir informacija yra saugoma Google serveriuose."
+    },
+    {
+        "id": "07wcf",
+        "description": "USB tai universalioji jungtis, kuri naudojama kompiuteriuose. Per šią jungtį galima prijungti įvairius išorinius įrenginius."
+    },
+    {
+        "id": "0mynm",
+        "description": "Internetinė vaizdo kamera – vaizdo ar fotokamera, dažniausiai jungiama prie kompiuterio per USB jungtį ir interneto pagalba leidžianti realiu laiku perteikti vaizdą. Paprasčiausios tokios kameros naudoja CMOS tipo matricą. Dėl mažos rezoliucijos tokios kameros išpopuliarėjo tarp mažą interneto greitį turinčių vartotojų. Didėjant interneto spartai, paskutiniaisiais metais vis dažniau gaminamos didesnės rezoliucijų kameros.\nKameros plačiai naudojamos ICQ, Skype, MSN bei kitose pokalbių programose."
+    },
+    {
+        "id": "02y1vz",
+        "description": "Facebook – interneto platforma, interneto bendruomenė. Facebook užsiregistravę nariai gali patalpinti savo profilį, įkelti nuotraukų, paveikslėlių, video failų bei nurodyti ryšius su draugais, pažįstamais asmenimis ir kt. Bendruomenėje gali būti kuriami fotoalbumai, vidinės grupės, keičiamasi žiniomis tarp grupės narių ir bendraujama kitomis formomis."
+    },
+    {
+        "id": "0508p",
+        "description": "Pagrindinė plokštė, motininė plokštė, sisteminė plokštė – spausdinta schema, naudojama, kaip montažo pagrindas kompiuteryje. Pagrindinė plokštė yra viena iš pagrindinių asmeninio kompiuterio techninės įrangos dalių. Superkompiuteriuose vietoje pagrindinių plokščių dažniau naudojamos kitos konstrukcijos, pvz., montažinės šynos.\nSvarbiausia pagrindinės plokštės funkcija – duomenų magistralių, apjungiančių procesorių, atmintį ir įvairius prietaisus, realizacija. Be šios, pagrindinė plokštė atlieka ir kitas būtinas funkcijas:\n⁕Į šiuolaikines pagrindines plokštes gamykloje įmontuojami labiausiai reikalingi montažo elementai:\n⁕procesoriaus lizdas\n⁕atminties jungtys\n⁕PCI jungtys, skirtos įvairiems papildomiems įrenginiams\n⁕AGP jungtis, dažniausiai skirta vaizdo plokštei\n⁕Kitų kortų jungtys\n⁕Į motininę plokštę integruotų įrenginių išvadai\n⁕Taip pat – dažniausiai naudojami įrenginiai:\n⁕PCI kontroleriai\n⁕IDE kontroleriai\n⁕USB kontroleriai\n⁕paralelinių ir nuosekliųjų portų kontroleriai\n⁕Įvairūs kiti įrenginiai\nKai kada į pagrindines plokštes būna įlituojamos ir pagrindinės kompiuterio techninės įrangos dalys: procesorius ir atmintis, kai kuriais atvejais – ir periferinė įranga, pvz., klaviatūra. Vikiteka"
+    },
+    {
+        "id": "07g0_",
+        "description": "Haga – Nyderlandų vykdomosios valdžios sostinė. Miestas įsikūręs šalies vakaruose, Pietų Olandijos provincijos centras. Haga yra trečias pagal dydį, po Amsterdamo ir Roterdamo, Nyderlandų miestas, su priemiesčiais gyvena 700 000 žmonių.\nHagoje posėdžiauja Pirmieji ir Antrieji rūmai, kurie sudaro Nyderlandų parlamentą. Nyderlandų karalienė Beatričė taip pat gyvena ir dirba Hagoje. Mieste įsikūrusios ir užsienio valstybių ambasasos, taip pat Aukščiausiasis teismas ir daug lobistinių organizacijų. Vis dėlto oficiali Nyderlandų sostinė yra Amsterdamas, kaip teigiama Nyderlandų konstitucijoje.\nMieste yra Europolas bei Hagos tarptautinės teisės akademija. Hagoje įsikūrusios kelių JTO institucijų būstinės, taip pat Cheminio ginklo draudimo organizacija."
+    },
+    {
+        "id": "02_286",
+        "description": "Niujorkas – didžiausias JAV miestas, antrasis pagal dydį Šiaurės Amerikos miestas po Meksiko. Vienas pagrindinių pasaulio finansų ir komunikacijų centrų. Niujorke gyvena 8,11 mln. gyventojų, o su priemiesčiais – virš 22 milijonų žmonių, ir tai vienas didžiausių pasaulio miestų. Čia yra įsikūrusi Jungtinių Tautų Organizacijos būstinė. Slenge dažnai vadinamas „didžiuoju obuoliu“.\nMiestas yra JAV šiaurės rytinėje dalyje, Niujorko valstijoje, prie Hadsono upės žiočių. Tai didžiausias JAV uostas. Dž. Kenedžio tarptautinis oro uostas. Tai pagrindinis JAV ekonominis, politinis, prekybos, finansų, mokslo ir kultūros centras. Pagrindinės pramonės šakos: metalo apdirbimas, mašinų gamyba, poligrafija, chemija, naftos apdirbimas, maisto, lengvoji. Yra metropolitenas, jo muziejus. Universitetai, viešoji biblioteka. Muziejai: šiuolaikinio meno, Amerikos istorijos, indėnų, pirmykščio meno, žydų. Apie 80 teatrų. Žymiausia gatvė – Brodvėjus. Bažnyčios: Šv. Jono katedra, Šv. Patriko katedra ir kt. Kitame Hadsono upės krante, priešais Niujorką yra garsioji „Laisvės statula“, kurią amerikiečiams XIX a. pabaigoje dedikavo prancūzai."
+    },
+    {
+        "id": "0430_",
+        "description": "Jerùzalė – senas Artimųjų Rytų miestas, labai svarbus krikščionims, žydams ir musulmonams. Miesto statusas ginčytinas. Izraelis kontroliuoja visą miestą ir yra paskelbęs Jeruzalę savo sostine, tačiau nemažai musulmonų valstybių to nepripažįsta.\nIki 1967 m. rytinė miesto dalis priklausė Jordanijai kaip ir visas Vakarų Krantas, per Šešių dienų karą 1967 m. Izraelis ją užėmė. Skirtingai nei likęs Vakarų Krantas, Jeruzalė buvo tiesiogiai prijungta prie Izraelio. Vis dėlto, Palestina laiko tą rytinę miesto dalį sava ir planuoja, kad ta jo dalis bus Palestinos valstybės sostinė. Palestiniečių procentas Jeruzalėje ilgainiui mažėja, nes čia atsikelia vis daugiau žydų, o palestiniečiams iš kitur į visą Jeruzalę atvykti neįmanoma dėl apribojimų. Jeruzalės ribos buvo kartą vienašališkai išplėstos, prijungiant prie miesto, taigi ir Izraelio, dar daugiau Vakarų Kranto žemių.\nJeruzalė yra šventas miestas net trims religijoms: žydams, krikščionims ir musulmonams. Tradiciškai Jeruzalės senamiestis skirstomas į keturis kvartalus: žydų, krikščionių, musulmonų ir armėnų.\nPrie Jeruzalės stūkso Siono kalva."
+    },
+    {
+        "id": "01w2v",
+        "description": "Kairas – miestas šiaurės Egipte, prie Viduržemio jūros, didžiausias šalies ir visos šiaurės Afrikos miestas. Tai ilgametė Egipto sostinė, kurioje gyvena 7,73 mln. gyventojų. Svarbus transporto mazgas, tarptautinis oro uostas. Metalurgijos, mašinų, tekstilės, chemijos pramonė. Metalo ir odos dirbiniai. Yra metropolitenas, 4 universitetai, akademija, Egipto institutas, 10 muziejų. Architektūra: ibn Tuluno mečetės, Azharo mečetė, miesto vartai, Kairo citadelė, sultono Hasano mečetė, mameliukų mauzoliejai.\nMiestas išsidėstęs abipus Nilo, prie šios upės žiočių. Šioje vietoje gyventa jau daugiau kaip 6000 metų, ir tai buvo svarbi vieta daugeliui Egipto civilizacijų. Kartais Kairas vadinamas Misr – arabišku paties Egipto pavadinimu, pabrėžiant miesto svarbą visam Egiptui. Šiame mieste yra daug tiek vakarietiškos, tiek ir rytietiškos kultūros bruožų, čia susilieja sena ir nauja. Tačiau Kaire yra daug socialinių-ekonominių problemų, dideli skurstančiųjų kvartalai, nevisiškai išvystyta infrastruktūra."
+    },
+    {
+        "id": "0hsqf",
+        "description": "Seulas arba oficialiai Seulo ypatingasis miestas – Pietų Korėjos didžiausias miestas ir šalies sostinė nuo 1948 m. Nuo 1394 m. iki šalies padalinimo 1948 m. bei trumpą laiką Korėjos karo metu buvo visos Korėjos sostinė. Tai sparčiai augantis miestas, turintis apie 10,5 mln. gyventojų.\nSeulas yra išsidėstęs šalies šiaurės vakaruose, į pietus nuo demilitarizuotos zonos, prie Han upės. Miestas yra politinis, kultūrinis, socialinis ir ekonominis Pietų Korėjos ir Rytų Azijos centras, jame gyvena apie ketvirtadalį šalies gyventojų. Miestas taip pat yra tarptautinis verslo, finansų, tarptautinių korporacijų ir pasaulinių organizacijų centras.\nSeulas laikomas vienu iš didžiausių pasaulio miestų. Metropolinė Seulo teritorija apima Inčono uostą, „miegamąjį“ miestą Songnamą ir kitus priemiesčius. Puiki transporto infrastruktūra: geležinkeliai, automagistralės, oro uostai, metropolitenas. Išvystyta geležies ir plieno, spaudos, tekstilės pramonė, gaminami automobiliai, elektronika, chemikalai, plati paslaugų sfera.\nMieste yra daug istorinių karališkų rūmų, muziejų, krikščionių bažnyčių, budistinių šventyklų, teatrų, bibliotekų, zoologijos ir botanikos sodų, universitetų."
+    },
+    {
+        "id": "031y2",
+        "description": "Florencija – miestas vidurio Italijoje, Toskanos regiono sostinė, prie Arno upės į rytus nuo Pizos. Verslo, pramonės, turizmo centras, geležinkelio mazgas. Pagrindinis miesto pajamų šaltinis – turizmas, taip pat stiklo gaminių, brangiųjų metalų, odos, keramikos pramonė, aprangos ir avalynės gamyba, meno kūrinių reprodukcija. Florencijos universitetas yra tarptautinis kultūros centras. Yra nacionalinė biblioteka. Per Antrąjį pasaulinį karą išliko tik vienas tiltas – Ponte Vecchio, todėl po karo pastatyta keletas naujų modernių tiltų. Florencijos senamiestis įtrauktas Pasaulio paveldo sąrašą"
+    },
+    {
+        "id": "0156q",
+        "description": "Berlynas – Vokietijos sostinė ir didžiausias šalies miestas. Berlynas taip pat yra viena iš Vokietijos žemių. Tai antrasis pagal dydį miestas Europos Sąjungoje.\nIstoriškai Berlynas buvo vokiečių valstybių, Prūsijos, Vokietijos imperijos ir Rytų Vokietijos sostinė. Po Rytų Vokietijos ir Vakarų Vokietijos suvienijimo Berlynas tapo suvienytosios Vokietijos sostine.\nBerlynas yra svarbus politikos, žiniasklaidos, kultūros ir mokslo centras net tik Europoje, bet ir pasaulyje. Miestas yra svarbus transporto mazgas ir vienas lankomiausiu miestų Europoje. Įžymūs universitetai, teatrai, muziejai yra žinomi visame pasaulyje. Mieste gyvena ir dirba menininkai ir kultūros darbuotojai iš viso pasaulio. Berlyno istorija, naktinis gyvenimas, įvairi architektūra yra miesto įžymybės."
+    },
+    {
+        "id": "05qtj",
+        "description": "Paryžius – Prancūzijos sostinė, didžiausias miestas ir departamentas. 2,2 mln. gyventojų, aire urbaine – apie 11 mln. ir yra didžiausia Eurozonos metropolinė zona.\nMiestas pastatytas Senos upės vingyje, abiejuose upės krantuose. Miestas visame pasaulyje gerai žinomas dėl gausybės istorinių paminklų bei savo unikalios kultūros. Paryžius yra Il de Franso regiono pagrindinis miestas.\nPramonė: mašinų gamyba, elektrotechnika, poligrafija, maisto perdirbimo, chemijos, lengvoji, madų prekės ir galanterija.\nParyžiuje reziduoja daug tarptautinių organizacijų. Labai išvystytas turizmo sektorius. Daug aukštųjų mokyklų: universitetų, kolegijų, institutų, akademijų. Nacionalinė biblioteka įkurta dar 1480 metais."
+    },
+    {
+        "id": "0k3p",
+        "description": "Amsterdamas – uostamiestis prie Šiaurės jūros, Nyderlandų sostinė."
+    },
+    {
+        "id": "0c1xm",
+        "description": "Dakaras – miestas vakarų Senegale, sostinė ir didžiausias šalies miestas. Išsidėstęs ant Žaliojo Kyšulio pusiasalio, prie Atlanto vandenyno. 2,35 mln. gyventojų.\nDakare yra vienas geriausių uostų Vakarų Afrikoje, su šiuolaikine laivų pakrovimo įranga. Miestas yra labai svarbioje strateginėje vietoje, pusiaukelėje tarp Europos ir Pietų Afrikos bei Europos ir Pietų Amerikos, todėl tai svarbus oro ir jūrų uostas. Dakaras taip pat gerai sujungtas oro ir geležinkelio linijomis su kitais Afrikos miestais. Pastaraisiais dešimtmečiais ypač vystoma žvejybos pramonė. Taip pat išvystyta žemės riešutų, cukraus apdirbimas, alaus varymas, muilo gamyba, tekstilės pramonė. Itin modernūs yra meno muziejus ir didelis medicinos centras. Katalikų arkivyskupijos centras. Universitetas įkurtas 1949 m."
+    },
+    {
+        "id": "06gmr",
+        "description": "Rio de Žaneiras – antrasis pagal dydį Brazilijos miestas. Iki 1960 m. balandžio 21 d. jis buvo Brazilijos sostinė. Šiuo metu tai Rio de Žaneiro valstijos sostinė. Miestas žinomas savo pliažais Kopakabana ir Ipanema. Rio de Žaneiro mieste yra ir vienas seniausių Brazilijos nacionalinių parkų – Tižukos nacionalinis parkas. Jis laikomas didžiausiu urbanizuotoje teritorijoje esančiu pasaulio mišku – užima 33 km² plotą ir yra išsidėstęs tarp šiaurinės ir pietinės miesto dalies.\nMiestas garsėja sambos festivaliu kiekvieną pavasarį, į kurį susirenka ne tik daug brazilų, bet ir turistų iš užsienio.\nAnt Corcovado kalvos stovi 1931 m. pastatyta 38 metrų aukščio Kristaus skulptūra.\nMieste yra trys pagrindiniai oro uostai – Rio de Žaneiro Galeano, Santos Dumont ir Žakarepagvos oro uostai."
+    },
+    {
+        "id": "01fdzj",
+        "description": "Bokštas – aukštas vertikalus inžinierinis statinys ar kito statinio dalis, dažniausiai cilindro, kūgio, prizmės ar piramidės pavidalo. Pagrindinis skirtumas nuo kitų aukštų statinių – suskirstymo į aukštus nebuvimas ir gan nedidelis vidinis tūris, kartais visą bokšto tūrį užima vien tik laiptinė. Gali būti kaip atskiras statinys, taip ir didesnio statinio dalis."
+    },
+    {
+        "id": "06gfj",
+        "description": "Kelias – inžinerinis statinys, skirtas transporto priemonių ir pėsčiųjų eismui. Kelio konstrukciją sudaro žemės sankasa, pagrindas, kelio danga ir papildomi kelio statiniai. Keliai, atsižvelgiant į transporto priemonių eismo laidumą, socialinę ir ekonominę jų reikšmę, skirstomi į valstybinės reikšmės ir vietinės reikšmės kelius. Valstybinės reikšmės keliai išimtine nuosavybės teise priklauso valstybei, o vietinės reikšmės viešieji keliai ir gatvės – savivaldybėms, o vidaus keliai – valstybei, savivaldybėms, kitiems juridiniams ir fiziniams asmenims.\nBendras Lietuvos automobilių kelių tinklas siekia apie 70 tūkst. km. Valstybinės reikšmės keliai, už kuriuos atsako Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos, sudaro apie 21,3 tūkst. km. Vietiniai keliai sudaro 59,7 tūkst. km, beveik 3 kartus daugiau negu valstybinės reikšmės kelių ilgis."
+    },
+    {
+        "id": "0hpnr",
+        "description": "Ligoninė – sveikatos apsaugos įstaiga.\nEgzistuoja pelno siekiančios ir ne pelno, privačios ir valstybinės ligoninės. Lietuvos ligoninių pirmtakės buvo špitolės - žmonių globos įstaigos XVI-XVII a., kuriose buvo plėtojamas ne tik kasdieninis meldimasis ir religijos aukštinimas, bet ir minimaliai pritaikomos naujai atsirandančios medicinos žinios.\nSužeistųjų ir sergančiųjų globa Europos ligoninėse ypač pagerėjo 1930–1950 m. 1948 m. Didžiojoje Britanijoje buvo sukurta nauja valstybinė sveikatos apsaugos sistema, iš esmės pakeitusi senųjų ligoninių tvarką. Įstaigas ir sveikatos apsaugos personalą finansavo vyriausybė. Šios sistemos tikslas buvo užtikrinti, kad medicinos pagalba būtų teikiama kiekvienam, nepaisant jo socialinės padėties. Iš pradžių sistemos įgyvendinimui priešinosi Didžiosios Britanijos gydytojų asociacija, tačiau vėliau buvo sutarta, tokia sistema reikalinga ir ligoniams, ir gydytojams. Su laiku sistema prigijo ir kitose Europos bei kitų žemynų šalyse.\nVikicitatos\nVikiteka"
+    },
+    {
+        "id": "0k05r",
+        "description": "Teismas – institucija, kuriai pavedama spręsti ginčą, vykdyti teisingumą. Viešųjų organizacijų teismai įgyvendina teisminę valdžią. Teismas pagal savo veiklos mastus, priskirtų ginčų pobūdį, kompetenciją gali nacionalinis, tarptautinis. Nevalstybinis teismas gali būti garbės teismas, draugiškasis teismas ir kiti. Teismai gali būti skirstomi į valstybinius, privačius, religinius. Nacionalinių teismų veiklą reglamentuoja pagrindinis šalies įstatymas – Konstitucija ir kiti specialieji įstatymai. Kiekvienoje šalyje nustatoma sava teismų sistema."
+    },
+    {
+        "id": "06zdj",
+        "description": "Mokyklà yra švietimo įstaiga, kurios pagrindinė veikla – formalusis arba neformalusis švietimas. Tai pagrindinė dabartinės Lietuvos Švietimo sistemos dalis."
+    },
+    {
+        "id": "019cfy",
+        "description": "Stadionas yra sporto tikslams skirtas statinys, paprastai susidedantis iš didelio lauko ir vietų žiūrovams, išdėstytų laiptuotai aplink lauką. Taip pat paprastai yra įrengiamos papildomos aikštelės treniruotėms ir persirengimo kambariai sportininkams. Žiūrovų vietos gali būti ne tik sėdimos, bet ir stovimos. Stadionuose vyksta lauko sporto varžybos, koncertai arba kiti renginiai."
+    },
+    {
+        "id": "0166ls",
+        "description": "Parkas – prižiūrimas natūralus arba ugdomas medžių ir krūmų želdynas poilsiui, pramogai ar gamtos apsaugai. Tai gali būti miško parkas, nacionalinis parkas, kraštovaizdžio parkas, kultūros ir poilsio parkas, miesto parkas ir pan.\nPaprastai parkai priklauso valstybei ir yra skirti visų gyventojų rekreacijai. Jų yra daugelyje miestų ir gyvenviečių, dažnai šalia vandens telkinių.\nParkuose įrengiama infrastruktūra: alėjos, aikštės, takai, suoliukai, žibintai, vaikų poilsio aikštelės, fontanai.\nVikiteka"
+    },
+    {
+        "id": "06zdj",
+        "description": "Mokyklà yra švietimo įstaiga, kurios pagrindinė veikla – formalusis arba neformalusis švietimas. Tai pagrindinė dabartinės Lietuvos Švietimo sistemos dalis."
+    },
+    {
+        "id": "09cmq",
+        "description": "Muziejus – institucija, visuomenės, mokslo, edukacijos ir laisvalaikio organizavimo tikslais įgyjanti, konservuojanti, tyrinėjanti, populiarinanti ir eksponuojanti žmonijos ir jos aplinkos materialųjį ir nematerialųjį paveldą.\nTai dažniausiai nesiekianti pelno viešoji įstaiga, tarnaujanti visuomenės tobulėjimui. Muziejams prilygintos įstaigos kartais vadinamos paramuziejais. Vienas pagrindinių muziejaus tikslų – šviesti visuomenę, muziejų sieja su kitomis edukacinėmis įstaigomis.\nLabiausiai lankomais pasaulio muziejais yra Luvras, Pompidu centras, Britų muziejus, Teit galerija, Metropoliteno muziejus, Ermitažas, Kremliaus muziejus."
+    },
+    {
+        "id": "017ql",
+        "description": "Bankas – finansų įstaiga, teikianti finansines paslaugas pagal valstybės suteiktą licenciją. Paprastai bankai uždirba iš mokesčių už paslaugas bei palūkanų maržos."
+    },
+    {
+        "id": "09y4pm",
+        "description": "Rinka - visuma santykių tarp realių ir potencialių pirkėjų ir pardavėjų, laisvai, be išorinės prievartos, perkančių prekes bei paslaugas. Pagrindiniai rinkos dalyviai yra vartotojai ir gamintojai.\nRinkos sąvoka reiškia, kad prekės bei paslaugos yra tokios, kad gali vykti mainai tarp prekiaujančiųjų, be reikalo neribojant jų veiklos. Prekiaujantieji reaguoja į pasiūlos-paklausos santykį bei kitus kainas reguliuojančius veiksnius, šalių galimybes ir žinias, jų išmanymą apie reliatyvų prekių ir\/ar paslaugų naudingumą, taip pat savo individualius poreikius bei norus."
+    },
+    {
+        "id": "016yx7",
+        "description": "Sporto salė, treniruočių salė – tam tikrų matmenų uždara patalpa, turinti reikiamą įrangą, inventorių kūno kultūros pamokoms, treniruotėms, sporto šakų pratyboms ir varžyboms saugiai rengti, o taip pat patalpa, kurioje sportuojant leidžiamas laisvalaikis.\nSporto salė gali būti skirta įvairioms sporto šakoms – krepšiniui, tinkliniui, lėkščiasvydžiui, tenisui ir pan. Pagal tai, kokia sporto šaka užsiimama sporto salėje, joje gali būti įvairi sportinė įranga, pvz., krepšinio lentos, stovai, švieslentės, treniruokliai ir kt. Sporto salės grindys paprastai yra padengiamos specialia universalia apsaugine danga, užtikrinančia higieną ir mažinančia traumų tikimybę. Sporto salėje taip pat gali būti dirbtinė žolė arba sintetinis ledas. Didesnėje sporto salėje yra montuojamos tribūnos.\nDidelės specializuotos sporto salės dar vadinamos halėmis arba arenomis."
+    },
+    {
+        "id": "09cjl",
+        "description": "Oro uostas yra transporto įmonė, esanti oro linijos trasoje ir skirta reguliariems keleivių ir krovinių pervežimams, pasireiškianti kaip infrastruktūra, kurioje toks orlaivis, kaip kad lėktuvas ar malūnsparnis, gali pakilti ir nusileisti.\nVienas pirmųjų pasaulio oro uostų tapo Kenigsbergo aerouostas Devau, atsidaręs 1919 metais.\nMinimali sudėtis yra vienas aerodromas ar helipadas, bet kiti įprastiniai komponentai tokie pastatai kaip:\n⁕Keleivių kompleksas – aerostotis, terminalas, keleivių aptarnavimui laukiamuosius, restoranus ir poilsio kambarius, bei greitąją pagalbą.\n⁕Krovinių kompleksas – krovinių terminalas\n⁕Orlaivių kompleksas – techninės tarnybos, saugumo tarnybos, angarai\n⁕Papildomai oro uostas gali turėti įvairius įrengimus ir infrastruktūrą: fiksuotos bazės operatorius, oro transporto kontrolė ir kt.\nKarinis oro uostas dar vadinamas oro bazė ar oro stotis. Terminai oro laukas, oro juosta ir aerodromas gali būti naudojami apibūdinant įvairaus dydžio oro uostus. Tam tikrose jurisdikcijose terminas oro uostas naudojamas tuomet, kai įrenginiai yra licencijuoti atitinkamos valstybinės institucijos."
+    },
+    {
+        "id": "053rd",
+        "description": "Kalnakasyba arba Kasyba – vertingų mineralinių medžiagų ar kitokių medžiagų išgavimas iš žemės, paprastai iš rūdos kūno, gyslos ar sluoksnio. Kalnakasybos metodais išgaunami netaurieji metalai, brangieji metalai, metalų rūdos, akmens anglis, deimantai, klintys, naftos skalūnai, akmens druska ir kalis. Bet kuri medžiaga, kuri negali būti auginama taikant žemės ūkio procesus, arba būti dirbtinai sukurta laboratorijoje ar gamykloje, paprastai yra kasama. Kalnakasyba apima visų neatsinaujinančių išteklių eksploatavimą, o taip pat kai kurių atsinaujinančių gamtos išteklių eksploatavimą.\nUolienų ir metalų kasyba prasidėjo dar priešistorės laikotarpiu. Į šiuolaikinę kalnakasybą įeina išteklių žvalgyba, paklausos ir pelno analizė, išgavimo būdo parinkimas, pats išgavimo procesas ir žemės rekultivacija, kad po išteklių išgavimo būtų tinkama panaudoti kitiems tikslams."
+    },
+    {
+        "id": "023907r",
+        "description": "Nekilnojamasis turtas – žemė, žemės dalis, įskaitant orą virš jos ir žemę po ja, ir statiniai, esantys ant jos.\nNekilnojamajam turtui taip pat priskiriami objektai, nesantys tiesiogiai ant žemės ir neturintys žemės nuosavybės – pavyzdžiui, butai. Namas, stovintis ant žemės, priklausančios trečiajai šaliai, taip pat laikomas nekilnojamuoju turtu.\nPagal funkcinę paskirtį nekilnojamasis turtas gali būti išskiriamas į dvi stambias kategorijas: gyvenamąjį ir komercinį."
+    },
+    {
+        "id": "029g_vk",
+        "description": "Telekomunikacijos – informacijos perdavimas tolimais atstumais. Nuotoliniu būdu siunčiamai informacijai priimti naudojami tokie prietaisai kaip telefonas, radijo imtuvas, televizorius, kompiuteris. Informacija gali būti perduodama įvairių dažnių radijo bangomis arba laidais sklindančiais elektromagnetiniais impulsais. Telekomunikacijų plėtrai savo išradimais didelę įtaką padarė Alexander Graham Bell, Guglielmo Marconi ir John Logie Baird."
+    },
+    {
+        "id": "02h400t",
+        "description": "Finansinės paslaugos - paslaugos, kurios apima:\n⁕indėlių ir kitų grąžintinų lėšų priėmimas;\n⁕skolinimas;\n⁕finansinė nuoma;\n⁕pinigų pervedimas;\n⁕mokėjimo kortelių ir kitų mokėjimo priemonių išleidimas ir operacijų su jomis atlikimas;\n⁕finansinių laidavimų ir finansinių garantijų teikimas;\n⁕sandorių sudarymas savo ar kliento sąskaita dėl pinigų rinkos priemonių, užsienio valiutos, finansinių būsimųjų ir pasirinkimo sandorių, valiutos keitimo kurso nustatymo ir palūkanų normos nustatymo priemonių, viešosios apyvartos vertybinių popierių, tauriųjų metalų;\n⁕investicinės paslaugos;\n⁕finansinis tarpininkavimas;\n⁕pinigų tvarkymas;\n⁕informacijos bei konsultacijų kredito teikimo ir mokėjimo klausimais teikimas;\n⁕seifo kamerų nuoma;\n⁕valiutos keitimas;\n⁕atsiskaitymų tarp kredito įstaigų įskaitymas;\n⁕piniginių lėšų saugojimas ir administravimas;\n⁕įmonių konsultavimas dėl kapitalo struktūros, gamybos strategijos ir su tuo susijusių klausimų, taip pat konsultacijos ir paslaugos, susijusios su įmonių reorganizavimu, pertvarkymu ir pirkimu;\n⁕su vertybinių popierių emisijomis susijusių paslaugų teikimas;"
+    },
+    {
+        "id": "01mf0",
+        "description": "Programinė įranga – informacijos apdorojimo sistemos programų, procedūrų, taisyklių visuma arba tos visumos dalis kartu su atitinkama dokumentacija. Programinė įranga yra intelektualus produktas ir tai nepriklauso nuo to, į kokią duomenų laikmeną ji yra įrašyta.\nDažniausiai tai kompiuterio vykdomų instrukcijų seka, skirta tam tikriems veiksmams atlikti. Tokia įranga rašoma naudojant programavimo kalbas, o vėliau kompiliuojant ar interpretuojant parašytą kodą.\nPrograminę įrangą galima skirstyti pagal įvairius požymius :"
+    },
+    {
+        "id": "011s0",
+        "description": "Reklama – kaip objektas yra informacija, skirta paveikti potencialius pirkėjus atlikti įvairius veiksmus, susijusius su prekės ar paslaugos pirkimu ir vartojimu.\nKaip procesas reklama yra žinių, duomenų apie ką nors skleidimas, norint išpopuliarinti, išgarsinti ką nors, padidinti paklausą.\nReklamai būdingi bent du požymiai:\n1 specialus jos tikslas – skatinti vartoti reklamuojamą dalyką arba vykdyti kitus reklamuotojo užsakymus,\n2 atlygintinumas.\nReklama dažniausiai būna susijusi su materialine nauda: ja siekiama arba tiesiogiai didinti pelną, arba tai užsitikrinti ateityje; be to, užsakovas atsilygina ir už reklamos perdavimą."
+    },
+    {
+        "id": "01ftz",
+        "description": "Biotechnologija – bet kuri technologija, susijusi su natūralių biosistemų, gyvų organizmų ar darinių iš jų panaudojimu, pagrįsta manipuliacijomis su DNR už ląstelės ribų, siekiant pagaminti naują produktą arba jį perdirbti, panaudoti konkrečiam tikslui.\nTerminas paplito XX a. antroje pusėje, nors biotechnologiniais procesais, kaip duonos kepimas, raugintų pieno produktų gamyba, fermentinių sūrių ir vyno darymas, naudojamasi labai seniai.\nIšskiriamos keturios biotechnologijų šakos:\n⁕Žalioji biotechnologija;\n⁕Mėlynoji biotechnologija;\n⁕Raudonoji biotechnologija;\n⁕Baltoji biotechnologija."
+    },
+    {
+        "id": "0191_7",
+        "description": "Mažmeninė prekyba – prekyba asmeninio arba namų ūkio vartojimo prekėmis mažais kiekiais.\nMažmenine prekyba užsiimančios įmonės ar asmenys perka prekes dideliais kiekiais tiesiai iš gamintojo arba didmenine prekyba užsiimančių įmonių, ir parduoda jas mažais kiekiais bei didesnėmis kainomis galutiniam vartotojui. Galutinis vartotojas prekes panaudoja savo reikmėms, vartojimui. Kartais mažmenine prekyba besiverčianti įmonė visą ar dalį savo parduodamos produkcijos pagamina pati.\nMažmeninė prekyba taip pat gali vykti internetu."
+    },
+    {
+        "id": "0h61",
+        "description": "Archeologija – savarankiška specialioji humanitarinių mokslų istorijos mokslo šaka, tirianti archeologinį paveldą – seniausiąją visuomenės istoriją, ir jos raidos dėsningumus nuo priešistorinių laikų iki maždaug XVII a. pabaigos. Archeologijos terminą pirmą kartą pavartojo Platonas. Iš pradžių archeologija tyrė visas senovės sritis – istoriją, papročius, mitus. XIX a. archeologija susiformavo kaip savarankiška istorijos mokslo šaka. Archeologija glaudžiai susijusi su istorija, tačiau ne visose šalyse laikoma istorijos mokslo dalimi, pvz., anglosaksų šalyse archeologija labiau siejama su antropologija ir etnologija."
+    },
+    {
+        "id": "01mtb",
+        "description": "Kulinarija – patrauklios išvaizdos, gero skonio ir maistingų savybių valgio gaminimo technologija; tie valgiai.\nKulinar||as,~ė\nBendra prasme – maisto paruošimo įpročiai. Įvairiose šalyse išsivystė skirtingi kulinariniai papročiai, skirtumus labiausiai lėmė pagrindiniai pragyvenimo šaltiniai, klimatas ir pan."
+    },
+    {
+        "id": "034dj",
+        "description": "Azartinis lošimas yra žaidimas, kurio rezultatas yra atsitiktinis ir beveik nepriklauso nuo dalyvių sugebėjimų žaisti. Paprastai lošiama iš pinigų. Nors daugeliui lošimas tik pramoga ar būdas uždirbti, tai gali tapti priklausomybe.\nAzartinio lošimo rezultatas yra visiškai atsitiktinis įvykis, skirtingai nuo kitų žaidimų, kurių rezultatai priklauso nuo žaidėjų meno, sugebėjimų žaisti ir žaidimą laimėti. Atsitiktiniu įvykiu suprantame tokį įvykį, kurio priežasčių iš dalies arba visiškai negalime ar nemokame ištirti, nes tikrovėje pastebėtų faktų priežastys susidaro iš sąlygų, tarp kurių veikia labai tolimas ir mums neaiškus sąryšis. Azartiniai lošimai yra tiriami matematikos šakos – tikimybių teorijos – kaip speciali problema.\nAtsitiktinumo įtaka skirtinguose azartiniuose lošimuose turi skirtingą poveikį. Vadinamuosiuose grynuosiuose azartiniuose lošimuose rezultatas priklauso išskirtinai tik nuo atsitiktinumo ir niekaip nesusijęs su lošėjo sugebėjimais, pvz., žaidimas kauliukais, ruletė. Kituose lošimuose lošėjas turi tam tikrą pasirinkimo galimybę, o lošėjo įgūdžiai turi įtakos rezultatui, tačiau juose asmens pasirinkimas lemia tik dalį rezultato, o kita dalis priklauso nuo atsitiktinumo."
+    },
+    {
+        "id": "034v_",
+        "description": "Sodininkystė - mokslas apie sodus; augalininkystės šaka. Sodas gali būti kolektyvinis sodas, žemės ūkio, Botanikos sodas, Miško botanikos sodas ir pan."
+    },
+    {
+        "id": "05wkw",
+        "description": "Fotografija – vaizdų išsaugojimo technologija, naudojant mechaninius, cheminius ar skaitmeninius metodus. Žodis kilęs iš graikų kalbos žodžių φως phos bei γραφις graphis, kurie kartu reiškia piešimas šviesa. Šis terminas anglų ir vokiečių kalboje pradėtas vartoti 1839 m. vasarį."
+    },
+    {
+        "id": "064rk",
+        "description": "Puodininkystė – vienas iš seniausių pasaulio amatų. Tai daiktų, dažniausiai puodų ir indų lipdymas iš molio. Dažniausiai molinius daiktus lipdydavo moterys."
+    },
+    {
+        "id": "09nyy",
+        "description": "Žongliravimas – kelių daiktų mėtymas ir gaudymas tuo pačiu metu. Tai vienas iš pagrindinių cirko žanrų, kartais - varjetė teatrų, masinių renginių, gatvės vaidinimų programos dalis. Yra rengiamos sportinės žongliravimo varžybos. Dažniausiai žongliruojama kamuoliukais, tačiau žongliruoti galima ir kuokelėmis arba žiedais. Yra ir žonglierių, kurie žongliruoja pavojingais daiktais, pavyzdžiui: peiliai, degantys deglai, kardai ir kt."
+    }
+]
